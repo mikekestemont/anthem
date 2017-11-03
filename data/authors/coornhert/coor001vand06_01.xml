@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "http://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Van den onderscheyt tusschen die ware ende valsche leere</title>
+                <author>D.V. Coornhert</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Van den onderscheyt tusschen die ware ende valsche leere</hi> van D.V. Coornhert in de eerste druk van een uitgave uit 1631, getiteld <hi rend="i">Wercken. Deel I</hi>. De eerste druk van het oorspronkelijke werk dateert uit 1589.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr></corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page>70v</empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">coor001vand06_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2011 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="clarin-edite">yes</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Universiteitsbibliotheek Amsterdam, signatuur: Cat. Ned. Lett. UBA 195</idno>
+                </bibl>
+                <p>D.V. Coornhert, ‘Van den onderscheyt tusschen die ware ende valsche leere’, uit: D.V. Coornhert, <hi rend="i">Wercken. Deel I</hi>, Jacob Aertsz. Colom, Amsterdam 1631</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Van den onderscheyt tusschen die ware ende valsche leere</title>
+                <author>D.V. Coornhert</author>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Van den onderscheyt tusschen die ware ende valsche leere</title>
+                <author>D.V. Coornhert</author>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2011-12-01</date>
+                <respStmt>
+                    <name type="person">JV</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+<div type="chapter">
+<pb ed="fol." n="70r"/>
+<head rend="h3">Van den Onderscheyt tusschen die ware ende valsche Leere.</head>
+<p>&nbsp;</p>
+<p>Tot waarschouwinghe, soo van die noch niet, als van die nu al bestrickt syn in een valsche Leere, op datse sich daar voor hoeden of daar uyt scheyden moghen, voor Ooghen ghestelt in t stuck alleen vande Onderdanigheydt Godes, door</p>
+<p>&nbsp;</p>
+<p><hi rend="i">D.V. Coornhert</hi>.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">I, Ioan, 4. 1.</hi></p>
+<p>En wilt, alderliefste, allen gheesten niet ghelooven, maer beproeft die gheesten, of sy uyt Gode zijn: want daar syn veele valsche Propheten inde werelt uyt ghegaen.</p>
+<p>&nbsp;</p>
+    <figure>
+        <p><xptr to="coor001vand06ill001.gif"/></p>
+    </figure>
+<p>&nbsp;</p>
+<cf><p><hi rend="i">Te <hi rend="sc">Amsterdam</hi>,</hi></p>
+<p>By Iacob Aertsz. Colom. 1631.</p></cf>
+</div>
+<div type="chapter">
+    <interpGrp>
+        <interp type="primair" value="15890121"/>
+    </interpGrp>
+<pb ed="fol." n="71r"/>
+<head rend="h3">Voor-reden.</head>
+<p>Soo eenig Coopman kennisse van Hagemunte ende eenen gewissen Toetzsteen ende Goltwagen, om die valsche van de ware Munt te onderscheyden hebbende, eenen anderen Coopman saghe Ghelt ontfangen van een Bedriegere die hy wist met Hagemunte omme te gaan: of so yemant kennisse van Venijnen hebbende, oock een punt van een Eenhoorn, Besarsteen, of anders wat, daar by men seeckerlijck het doodtlijck Venijn uyt de geneselijcke Medecijnen mochte kennen, bemerckt dat een Krancke innemen soude Recepten van Medecijn-meesteren die hy wist doodtlijck Venijn, oock die Medecijn-meesteren soo vermetel te wesen, dat sy uyt haar onversochtheyt stoutelijck veelen Krancken inne gaven sulcke heure Recepten, ende de selve daar door het Leven ghelijckelijck met die Sieckte deden eynden: Ick en twijfel niet, of alle redelijck Mensche en soude oordelen, dat sulck Koopman of kender van Venijnen schuldigh ware na den alghemeynen wet der Naturen, <hi rend="i">Doet anderen soo ghy vvilt dat u gheschiede</hi>, soodanighen onkundighen Coopman voor den Bedriegher ende soodanigen Krancken voor die onversochte Medecijn-meesteren te waar-schouwen: Ia oock den Coopman sijnen Toetzsteen ende Goldtwage, ende den Krancken sijnen Eenhooren te leenen, met Onderwijs van elck der selver ghebruyck om sich te konnen hoeden, d'een voor valsche Munte, ende d'ander voor Venijnen, ghemerckt elck in sulcken ghevaarlijckheydt staande, gaarne soude hebben dat anderen hem daar voor waarschouweden. Is dit sulcx in saecken t'ghelt ende lijflijcke leven betreffende: het sal oock soo moeten zijn in saecken die Ziele ende eeuwighe Saligheydt of Verdoemenisse beroerende: alsoo de schade in de Ziele soo veele grooter ende verderflijcker is, als die Ziele in waardigheydt ongemeten grooter is dan t'lichaam, ick swijghe dan t'ghelt, maar tot des lichaams onderhoudt dienende. Soo acht ick wederomme, dat sulck Coopman ende Krancke, wetende d'een sijn onkunde van Haghemunt, ende d'anderen sijn onverstandt in't kennen van Venijnen, ende dat by beyde heur groote ghevaarlijkheydt daar inne sy staan, d'een om in sijn Have, d'ander in sijn Leven schade te lijden ende verdorven te worden: met hooghster vlijt omme speuren souden voor t'ontfanghen van t'ghelt oft innemen van de Recepten, na yemandt die verstandt hadde van Haghemunte, of kennisse van Venijnen, om door henluyden raadt voor schade in goedt of bloedt te werden voorhoedt. Immers soo henluyden, sulck heur ghevaarlijckheydt wetende, by yemandt aangheboden ware seeckere middelen om sich veylighlijck voor Haghemunt of Verghift te moghen hoeden: ick moet ghelooven dat gheen van beyden sulck aanbieden ondanckelijck nemen of weygheren, maar danckelijck ende begheerlijck aannemen soude. Daaromme moet het een groote verwonderinghe baren in den ghenen die verstaan hoe weynigh Menschen grondtlijck bekent is in wat menighvuldigher ghevaarlijckheyden heure Zielen ghestelt zijn in dese aldersorghelijckste tijden, om door valsche Leere (Venijn der Zielen) te gheraken in de eeuwighe Doot: datter nu soo veele Menschen zijn die grootelijck klaghen over die quaatheyt deser tijden ende menighvuldigheydt der valscher Leeringhen, ende daar by soo seer luttel Menschen werden ghevonden die heuren sorghlijcken state aanmercken, begheerlijck speuren na de middelen om die valsche Leeringhen te kennen om die te vlieden, Ia die de aangheboden ende voor Oogen ghestelde middelen aannemen ende ghebruycken, Ia dat argher is, die sulcke heure ghetrouwe ende vriendelijcke waarschouwers verachten, bespotten, oock als onrustighe gheesten schelden, lasteren ende vervolghen, Ist niet mette macht des Swaarts dat henluyden somtijts ghebreeckt, t'is ten minsten metten Angel ende scherpte <pb ed="fol." n="71v"/>van heure lasterlijcke Swaardttonghen, daar mede sy als met Venijnige ende ghevleughelde Pijlen uyten donckere op sulcke getrouwe ende heur liefhebben de Herten hateliicken schieten. Of ick nu door des Heeren ghenade middel hebbe, om mijnen Naasten niet alleen te waarschouwen voor de valsche Leere, maar oock middel weet aan te wijsen, daar door men die valsche Ruste, ware Leere seeckerlijck mach leeren kennen, sal de verstandighe lichtelijck verstaan, ende d'onwijse buyten schade versoecken moghen in't ghene hier werdt ghehandelt. Maar ick weet seecker, dat ick vast gheloovende beneven de groote menighte van roeckeloose ende ondanckbare Menschen, oock al eenighe te wesen die in ernstigher voornemen zijn om heurder zielen Saligheyt te benaarstighen, die de sorghlijckheydt deser tijden ende Leeringhen, grondelijck aanmercken, ende die daarom soo begheerlijck als danckelijck dese mijnen Arbeydt, tot henluyden verseeckertheyt, ende tot mijnen pericule uytghegheven, sullen aannemen, proeven ende nut baarlijck ghebruycken, die selve moeyten uyt den voorgemelden drang van de wet der Natuyren heb moeten bestaan. De Almoghende ende Barmhertighe Godt wercke door sijne milde Segheninghe het wel ghedyen van dese mijne Arbeydt, door sijnen heyligen Geest, in't ontdecken vander periculen grootheydt, in't vermeeren van sijn heylige Vreese ende sorghvuldige Omsichtigheyt, ende in't bekent-maecken so van de valsche Menschelijcke, als van sijne ware Godtlijcke Leere, om die te mijden ende dese te aankleven, door Iesum Christum onsen Heere, die daar selve is die Waarheydt, die Wegh, ende het Leven. Amen.</p>
+<p>&nbsp;</p>
+<p>Gheschreven den xxj. Ianuarij, Anno 1589. by u alder Dienstschuldighe</p>
+<p><hi rend="i">D.V. Coornherdt</hi>.</p>
+</div>
+<div type="chapter">
+    <interpGrp><interp type="primair" value="coor001vand01"/></interpGrp>
+<pb ed="fol." n="72r"/>
+<head rend="h3">Onderscheydt tusschen die ware ende valsche Leere.</head>
+<div type="section">
+<head rend="h4"><hi rend="i">j.</hi></head>
+<p>ALle Leere is vanden dingen die men moet gelooven ende hier na, maar niet hier inder tijdt mogen ondervonden ende gheweten worden: als daar zijn Verrijsenisse, Hemel, Helle, &amp;c. Of van den dingen die men hier onder de Sonne mach inder daadt ondervinden, ende mitsdien inder Waarheydt weten: als namentlijcken Sieckte, eyghenschap ende ghequel der Zielen, met elck sijn teghendeel.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">ij.</hi></head>
+<p>Niet vande Leere der eerst, maar der laatstghemelde dingen wil ick hier handelen. Want die dese volghen, worden daar door <note n="a" place="margin">Ioan.15.14.15.</note> vrienden Christi ende kleyn in heuren ooghen. Desen openbaart Christus al dat hy van den Vader hoort, ende de <note n="b" place="margin">Mat.11.25.</note> Vader selve sijne verborgen Oordeelen, die hy berberght voor den hoovaardighen waanweters ende ondersoeckers<note place="margin">Pro.25.27.</note> des Majesteydts, de welcke meer staan na d' opblasende wetenschap die veelen verargert, dan na de hanteringe der ootmoedigher deughden, die elck verbetert daarse inne komt.</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">iij.</hi></head>
+<p>Also werden dese ootmoedighe belevers des Woorts, als in 't kleyn ghetrou zijnde, rijckelijck vervult met overvloedighe kennisse der dinghen, die sy als hen selve des onwaardigh achtende, niet en begheeren: daar die hooghmoedighe bespeurders der verborghentheyden Godes, die sy uyt een Gheestelijcke ghierigheyt begheeren, die selve nemmermeer en verkrijghen.</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">iiij.</hi></head>
+<p>Want dese niet achtende op 't hanteren der Deughden, overmits haar stadighe onlede in haar onnoodighe Weetgierigheyt, blijven onophoudelijck by haar selve, dats by haar waanweten in den Nacht der dolinghen: daar ter contrarien die vlijtighe navolgers van de ootmoedighe voetstappen Christi haar selve verlatende, in 't Licht ende opten Wegh dats in ende tot Christum komen, uyt de Duysternissen haarder waanwetenschappen scheyden, ende by klaren Daghe inde Waarheydt wandelen.</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">v.</hi></head>
+<p>Daar oeffenen syluyden sich in ware, niet in waandeughden. Daar toe streckt die ware Leere, ende niet tot een dadeloose betrachtinge van hooge ende meest onnoodighe wetenschappen: want dese maackt maar Schijndeughden des werelts, maar d'ander maackt<note place="margin">2. Tim.3.17</note> Menschen Godes, oock die volkomen zijn, ende gheschickt tot alle goede wercken.</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">vj.</hi></head>
+<p>Want dat ist eynde daar toe alle Schrifture van Gode is inghegheven, ende daar toe hare Leere, hare Straffe, hare Beteringhe, ende hare Onderwijsinghe inder Rechtvaardigheyt, is streckende, soo d'Apostel Paulus met uytghedruckte woorden naacktelijcken verklaart.</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">vij.</hi></head>
+<p>Dat selve is oock het eynde daar tot ons de Heere sijne Gheboden heeft ghegheven: te weten, niet op dat wy die ledighlijck hooren, <note place="margin">Deut.4.1.6.13,10.12.13,6.1.3,8.1 Ios.1.7.8. Mat.28.20</note>lesen, ende vernuftelijck in speculeren souden: maar op dat wy die getrouwelijck souden volbrenghen ende dadelijck doen, op dat ons wel soude zijn.</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">viij.</hi></head>
+<p>Dat selve is oock t' eynde daar toe die wenschelijcke Belofte Godes zijn streckende, namentlijck dat Godt ons d' quade Hert benemen, <note place="margin">Ezech.11.19.20 Deut.30.6</note>een goet Hert gheven, van onse zonden ghenesen, van onse vyanden verlossen soude, ende maken dat wy in alle sijne Gheboden wandelen, ende hem dienen souden in Heyligheydt <note place="margin"> Luc.1.14.15</note>ende Gherechtigheydt die hem aanghenaam is alle die daghen onses levens.</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">ix.</hi></head>
+<p>Ende dat is het eynde daar toe Christus Mensch gheworden, den smadelijcken Doodt ghestorven, ende Heerlijck verresen is: op dat wy door sijne dadelijcke Ghehoorsaamheyt in ons, in hem Godtlijck souden worden, ghestorven <note place="margin">1.Petr.4.1,2.24,3.18. Rom.6.2.3.6.11,8.29.1. Ioan.3.3.5.8. Tit.2.11.14.</note>zijnde na de Vleesche, ende levendigh ghemaackt na den Gheeste, in een nieu heerlijck leven dat heyligh is, ende volmaackt inder Liefden voor sijnen Ooghen.</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">x.</hi></head>
+<p>Somma, ghelijck Iesus Christus is die eenighe ende ware Medecijn-meester der Zielen: soo is sijn Woordt, die ware Leere, oock die eenighe ende ware Medecijn der Zielen: <note place="margin">Mat.9.12.</note>Daaromme dan oock sijn heylsame Leere te recht wert genaemt een ghesonde Leere: want <note place="margin">2.Tim.4.5.1.Tim.6.3.Tit.2.1.</note>sy maackt die Ziele ghesondt.</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">xj.</hi></head>
+<p>Ghelijck nu niemant voor warachtigh soude moghen, maar voor valsch soude moeten oordeelen, die Const eens Medecijn-meesters, die elcken, sijnen Raadt volghende, ware ghene singhe toe seyde, maar niemant van alle de selve inder Waarheyt ghesondt en maackte: also en mach niemant voor waarachtigh ende ghesont, maar moet voor valsch ende onghesondt houden alle Leere die hare gheloovers ware ghenesinghe der Zielen toeseydt, maar niemant van alle de selve ware ghenesinghe en doet hebben.</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">xij.</hi></head>
+<p>Wederom moet elck voor gesondt en waarachtigh houden die Leere die niet alleen yeghelijcken ware ghenesinghe belooft, maar oock diese inder Waarheydt doet worden, in allen den ghenen die hare beloften ghelooft, hare Recepten inne neemt, bewaart, ende dadelijck hare werckinghe in henluyden laten hebben.</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">xiij.</hi></head>
+<p>Want dat Woort is warachtigh, t'welck gheschiet ende wort soo 't gheseyt was. Ende dit stelt oock Godt selve tot die proeve eens waren Propheten met dese woorden: Een Propheet die daar heeft voorseyt vrede: ist dat <note place="margin">Iere.28.9.</note>het ghene hy gheseyt heeft gheschiet, soo wert gheweten, dat de Heere inder Waarheyt heeft ghesonden. Ende noch: <hi rend="i">Ist dat het ghene voorseyt is wordt, dan sullen sy weten datter een</hi> <note place="margin">Ezech.33.33</note><hi rend="i">Propheet onder henluyden is gheweest</hi>.</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">xiiij.</hi></head>
+<p>Dit was 't dat de Heere wilde met dese sijne woorden: Ick segghet u<hi rend="i">lieden</hi> nu, op dat ghy, alst sal <pb ed="fol." n="72v"/>gheschiet zijn, soudt ghelooven dat ick 't ben Ende dit was 'tdat Iosue sprack totten Volcke. <note place="margin">Josue 23.14</note>En ghy sult met gantschen ghemoede weten, datter niet een woort vergheefs en is geweest van alle die Woorden die de Heere u belooft heeft te volbrenghen. Ghelijck hy nu metter daadt heeft volbracht t' ghene hy belooft hadde, &amp;c.</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">xv.</hi></head>
+<p>So wert <note n="a" place="margin">Gen. 41.11.12.13.</note> Ioseph van Koning Pharaonis Schencker voor een recht Droomduyder, <note n="b" place="margin">Iudic. 13.17</note> d'Enghel van Samsons vader voor sulcx, <note n="c" place="margin">1. Reg. 9.6.</note> Samuel voor een Man Godes, insghelijcks <note n="d" place="margin">3. Reg. 17.24</note> Elias, ende Christus Iesus voor den Heere bekent van <note n="e" place="margin">Luc. 5.4.8.9</note> Petro ende <note n="f" place="margin">Ioan. 21.6.7</note> Ioanne.</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">xvj.</hi></head>
+<p>In 't teghendeel wert wederom een valsch <note place="margin">Deut. 18.22.</note>Propheet voor sulcx bekent, als daar niet en wort t'ghene by hem voorseyt is. Ende hier uyt sprack Micheas de Prophete totten Koning <note place="margin">3. Reg. 22.28</note>Achab: <hi rend="i">Ist dat ghy in vreden wederomme keert, so en heeft de Heere niet in my ghesproken</hi>. Ende hier aan zijn doorgaans ten laatsten alle valsche Propheten ghekent.</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">xvij.</hi></head>
+<p>Het is dan het Woort, daar aan die Propheten bekent worden. Wert dat onwaarachtigh bevonden, door dien het niet en wort datter gheseydt was, so kentmen dien Propheet voor valsch: maar komt dat in 't werck soo 't by den Propheet voorseydt was, so kentmen oock aan 't Woordt dat warachtigh is, den Propheet selve voor warachtigh.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xviij.</hi></head>
+<p>Soo gaat het mede met die Leere of beduydinghe der Godtlijcker Schriftuyren, die wat anders is dan die heylighe Schrift, te weten Menschen uyt legginge der selver. Want komt die Leere in 't werck, sulcx datmen bevindt te gheschieden t'ghene die Leere belooft: men salse voor warachtigh, maar geschiet dat niet, voor valsch moeten houden.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xix.</hi></head>
+<p>Daar is noch een ander kenteecken van de ware ende valsche Leere, dat niet min seecker ende ghereet is dan dit voorgaande. Want nadien wy alle die Godtlijcke Schrift voor die ware Leere houden: wie sal twijfelen aan die valscheydt eender Leere die anders dan die Godtlijcke Schrift of daar teghen leert?</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xx.</hi></head>
+<p>Men vindt eenighe Leeraren so schalck, dat sy bemerckende hare Leere geen kracht te hebben om yemants Ziele inder Waarheydt gantschelijck te ghenesen: oock wel verstaan dat hare Leere voor valsch, dat is voor geen ghesonde of ghesondtmakende Leere ghehouden en soude worden: so t'volck verstondt, dat alleen die ghesonde Leere te wesen, die waarlijck ende gantschelijck ghesondt maakt door verdrijvinghe der Sieckten, ende invoeringe van krachte ende ware ghenesinghe.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xxj.</hi></head>
+<p>Nadien sy nu wel bemercken dat de heylighe Schrift overvloedelijck sulcx doorgaans metbrengt: soo arbeyden sy met hooghster vlijt, om t'volck te doen ghelooven dat sulcx onmoghelijck is, ende dat sulcx oock niet en werdt betuyght in de Godtlijcke Schrift.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xxij.</hi></head>
+<p>Om alsoo te doen schijnen dat haar Leere niet en strijdet teghen die Godtlijcke Leere der heyliger Schriftuyren: ende om niet te beloven van haer Leere, t' gheen sy niet en vermach te doen worden: ende mitsdien in haar valsche Leere niet beschaamt, maar vastelijck ghelooft te worden.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xxiij.</hi></head>
+<p>Seecker nadien Godt in de heylige Schrift die gheheele ende ware ghesondtheydt der Zielen ende Onderdanigheydt Godes soo naacktelijck als menighvuldelijck belooft: ende wy al t' samen eendrachtelijck ghelooven die heylige Schrift van Gode inghegheven, ende in alles warachtigh te wesen: wie mach noch twijfelen aan de openbare valscheydt van sulcken Leere, die teghen de H. Schrift opentlijck loochent sulcke ware gesondtheydt ende onderdanigheyt Godes hier mogelijck om verkrijghen? Want daar twee strijdighe saken spreken, moet een van beyden lieghen. Die heylige Schrift lieght niet. So moet dan die Leere lieghen die teghen de H. Schrift strijdigh is.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xxiiij.</hi></head>
+<p>Die tuyght opentlijck dat Godt alle onse <note n="a" place="margin">Ios. 102.3,</note> Kranckheyden geneest, dat Godt die afkeeringhen der gheenre die sich <note n="b" place="margin">Iere. 3.22.</note> bekeeren, gheneest, ende dat hy ons door den beloofden Messiam gheneest. Wat is nu recht genesen? Dat verklaart Godt selve te wesen, als die VVonden <note place="margin">Iere. 30.17. 33.6.</note>gheheelt worden, ende die ghesondtheyt weder wort. Dit ist oock dat Godt selve belooft te doene, ende dat door den Messiam, van den welcken Godt seyt: Want die Boete onser straf <note place="margin">Isai. 53.5</note>is op hem geleydt, ende door sijne bloedt-strepen zijn wy ghenesen. Daarom seydt oock Christus selve van hem selve, dat hy ghekomen <note place="margin">Luc. 4.18</note>is om den ghemorterden van Herten te ghenesen.</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">xxv.</hi></head>
+<p>Dat alle sulcx is ghesproken van de ghenesinge der Zielen en mach niemant ontkennen. Die dan die Waarheydt ghelooven, ende die Waarheydt, metter Schriftuyre over een stemmende, leeren, dat Christus Iesus sulcx in eenighen gheloovigher Zielen waarachtelijck heeft volbracht: die ghelooven dat Iesus Marien Sone warachtelijck is die beloofde Christus ende Salighmaker des werelts, als die daar heeft volbracht alle t' ghene door den Propheten van den toekomenden Messia of Christo is voorseyt, ende zijn sulcke Gheloovighen <note place="margin">1.Ioan. 4.2. ende 5.1.</note>uyt Gode gheboren.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xxvj.</hi></head>
+<p>Maar die niet en leeren, immers die loochenen dat Christus Iesus, oyt yemandt na der Zielen, soo gantschelijck ende warachtelijck heeft ghenesen: als hy Ghebenedijt, den Blinden, Kreupelen, Stommen, Dooven, Melaatschen ende Besetenen volkomelijck ende warachtelijck na den lichame heeft ghenesen: wat doen dese anders, dan dat sy loochenen Iesum te wesen den beloofden Messias of Christus, dat hy sich self betoont te wesen een Wederschrift: ende dat hy metten Ioden heeft te <note place="margin">1. Ioan 4.3.</note>verwachten een ander Christum of Messiam dan Iesus, die de voorts ghenesinge tot sijnre toekomste, volgens het voorsegghen der Propheten, volkomelijck ende warachtelijck sal wercken?</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xxvij</hi></head>
+<p>Dat dit yemant, oock maar een ghenaamt Christen, met weten ende opset soude doen en gheloove ick niet. Maar des niet te min sie ick eenige opentlijck leeren, dinghen, daar alle sulcx nootlijck uyt volght. Want als sy seggen dat geen Gheloovighe op Aarden door Christum volmaacktelijck ende warachtelijck na der Zielen genesen is geweest, noch en sal worden: moeten sy dan oock niet bekennen nootlijck <pb ed="fol." n="73r"/>daar uyt te volghen, dat Iesus niet en is die beloofde Christus, die komende waarachtelijck ende gantschelijck soude ghenesen, so die Propheten dat van hem voorsegghen? Ick achte ghewisselijck ja. Wat machmen merckelijcker teecken bedencken van een valsche Leere? Of doen die versteende Ioden oock niet dat selve?</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xxviij</hi></head>
+<p>Maar willen sy daar niet aan: wat sullen sy anders moeten doen dan die Propheten logen-straffen ende wederspreken? Is dit oock niet een klaar merckteecken van een valsche Leere? Of sy sullen moeten die Schrifture buyghende na hunluyder opinie, daar op bestaan te glozeren, dat Christus niet en heeft gewilt der Ghelooviger Zielen hier inder tijt volkomelijck ende waarachtelijck ghelesen.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xxix</hi></head>
+<p>Dat streckt oock weynigh tot d'eere Christi, want het sijn Goetheyt of sijn Almogentheyt lasterlijck verkleint. Segghen sy dat hy niet en heeft willen heel gheneesen:, salmen sijn Goedtheyt niet veele kleynder maken dan eenigh vroom Medecijn-meesters goedigheyt, die (een Mensche zijnde ende geen God) niet hooghers en benaarstight noch en wenscht, dan sijne Krancken soo volkomelijck te genesen datter gheen overblijfsel altoos meer in den ghenesenen en is, ende dat hy sijne ghesondtheyts krachten gantschelijck weder hebben ende gebruycke? Maar willen sy Christo die oneere niet doen aan sijne Goedtheyt, maar bekennen dat hy volkomelijck wil genesen: so moeten sy sijne Godtlijcke Almoghentheydt loochenen, ende seggen dat hy't wel wil, maar niet en vermach. Ist oock swaarlijck om verstaan dat die Leere valsch zy, die sulcke Lasteringhe onses Heeren Iesu Christi soo opent lijck als noodtsaeckelijck met haar brengt?</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xxx</hi></head>
+<p>Nadien sulck loochenen van de volkomen ende ware ghenesinghe der Zielen door Christum, wederspreken wort by eenighe, alleenlijck om dat Adam (so sy oock leeren) de Menschelijcke natuyre niet ten halven of in't deel, maar gheheel dootlijck gewondt ende verdorven soude hebben: hoewel Adam gheen opset noch wil en hadde om sich self, veel minder al't Menschelijcke gheslacht te wonden ende verderven: Hoe machmen voor een waare Lere houden, die daar bekent dat Christus Iesus Godt ende Mensch ghekomen is in den Vleesche om onse wonden te ghenesen, ende t'verderven te beteren, ende daar beneven hartneckelijck ontkent dat oyt eenigh Mensch hier door Christi wonden waarlijck ende volkomelijck is ghenesen ende ghebetert, ofte sal ghenesen ende beteren? Of volght daar uyt niet opentlijck dat Christus Iesus onmachtigher is om een Ziele waarachtelijck te genesen ende te beteren, dan Adam is gheweest om alle t'gantsche menschelijcke gheslacht gantschelijck te wonden ende te verderven?</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">xxxi.</hi></head>
+<p>Dat sulcke Leere Adams macht groter int wonden ende verderven, dan Christi macht in't ghenesen ende beteren maaket, blijckt oock boven t'ghene voorseyt is, onlochbaarlijck hier aan. Die Leere houdt dat Adam sich selve ende alle sijn af komste door sijn eenighe zonde so gantsch gewondt, verdorven, ende quaadt heeft ghemaeckt, dat gheen Mensche bequaam is tot eenighen goede, maar gheneyght tot allen quade. Houdt die Leere nu mede dat Christus door sijn stadighe Rechtvaerdicheyt ende voldoeninghe voor onse zonden, een eenigh Mensche so ghenesen, so ghebetert, ende soo goedt ghemaackt heeft, dat hy gantsch onbequaem is tot allen quade, ende geneyght tot allen goede? Neen, gheen ding minder, maer het platte teghendeel. Mach't dan oock anders zijn dan een ontwijfelijck kenteecken eender valscher Leere, dat sy die hoogverdiende Eere Christi so gantschelijck lastert ende met voeten treedt, dat hy niet en soude hebben willen of moghen volkomelijck in een Mensche genesen ende beteren, t'geen een Mensch, sulcx nochtans niet willende, heeft mogen (so die Leere houdt) in allen Menschen volkomelijck verderven.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xxxij</hi></head>
+<p>Die ware Leere Godes houdt (so hier voor xxiiij. ghesien is) dat Godt door Christum waarlijck gheneest in't heelen onser wonden, ende ons die verloren gesondtheyt weder geeft Dit is ware genesinge. Hier teghen houdt die valsche Leere dat Godt door Christum gheneest waanlijck, so dat hy onse wonden ons niet toe en rekent, achtende als of wy die niet en hadden, hoe wel wy die hebben ende behouden, ende ons die gesondtheyt niet waarlijck en geeft, maar ons die toerekent als of wy die hadden, hoe wel wy die niet en hebben, maar blijven ontberende. Is dit oock wat anders dan een tooverije? Ende een schadelijcke wijsmaeckinghe om den Menschen in zonden te doen verstijven ende blijven?</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xxxiij</hi></head>
+<p>Die ware Leere houdt dat die Waarheydt <note place="margin">Ioan. 8.38.</note>vrymaackt den Iongheren Christi die haar <note place="margin">Ioan. 8.30.</note>kennen, ende dat sy waarlijck vry zijn die van den Sone vry ghemaackt zijn: sulcx dat sy die <note place="margin">Rom. 6</note>voortijts hare leden begeven hadden ten dienste van de ongherechtigheyt, dienaren der zonden waren, ende vreemt vande Gherechticheyt: dan voorts meer hare leden begheven ten dienste der Gherechtigheyt, Dienaren zijn der Gherechtigheyt, ende vreemt van de ongerechtigheyt. Daar tegen houdt die valsche Leere, dat oock d'alderheylighste kinderen Godes niet waarlijck door Christum, die de Waarheydt selve is, en zijn vry gemaackt van de zonde, als die noch haars ondancks t'quade, dat sy niet en willen, al t'leven deur moeten doen, ende dat sy voormaals in den dienste der zonden staande, wel gantsch vreemt ende vry waren van de Gerechtigheyt, maar dat sy sich nu al schoon met hare leden begheven hebbende in Christo onder den dienst der Gherechticheyt, des niet teghenstaande niet gantschelijck vreemt ende vry en zijn vande ongherechtigheyt, also sy die noch totter doot toe bywijlen moeten doen, maar en wort henluyden niet toegerekent. Is alle Leere die so opentlijcken strijdet tegen de H. Schrifture, niet licht te kennen voor een valsche Leere?</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xxxiiij</hi></head>
+<p>Maar hoe maact die Waarheyt waarlijck vry? Door't verdrijven vande Loghen, van de valsche Wane, ende van de Onwetenheyt. Alle dingen worden lief gehadt door Waan of Wetenschap dat sulcx ons goet is: Soo mede alle dingen gehaat worden door Wanen of weeten, dat ons sulcx quaadt is. Ende is onmoghelijk dat yemant soude liefhebben t'gheen hy waant oft weet hen quaat te zijn: soo mede is, dat yemant haten soude t'geen hy waant of weet hem goet te zijn. Siet so is des Menschen liefde sodanigh als sijn kennisse is. Is dese warachtigh, soo lieft hy goede, ende haat quade dinghen: maar is <note place="margin">Isa.5.10.<lb/>Mat. 6.29</note>sy valsch, soo dat hy t'quaade seyt goedt, ende <pb ed="fol." n="73v"/>t'goede quaat te wesen, so en mach hy, so lange die kennisse blijft in hem, niet laten t'quade lief te hebben, ende t'goede te haten.</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">xxxv.</hi></head>
+<p>Het was de valsche Loghen, een bedrieghlijcke Wane, ende een moetwillige Onwetenheyt in den Pharizeen, die hunluyden t'goede, dats Christum Iesum, quaadt, ende t'quade, dats moordt des onnooselen, verkeerdelijck goedt dede oordeelen, daar door sy den quaaden Moorder t'leven gonden, ende den goeden Autoor des Levens, die oock hunluyden selfs t'Leven aanboodt, soo hatelijck deden dooden. Want sy merckten wel dat hare onwaardighe Eere by den Volcke, ende volghens dien haar tyrannelijke macht ende profijtelijcke inkomsten door Christi Waarheydt, heur vuyl ontdeckende, minderde ende in sorghen werdt ghestelt. Dit docht henluyden quaadt voor hen te wesen. Welcke Wane ende Loghen nootsakelijcke oorsaecke was van henluyder hate tot Christum, als oorsake van henluyden schade ende schande.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xxxvj</hi></head>
+<p>Maar soo sy inder Waarheydt gheweten hadden, dat Christus quam om henluyden voor haar valsche Eere waarachtighe, voor haar tyrannijcke gheweldt een Vaderlijcke Eerbiedinghe, ende voor haar verganckelijcke ende Aertsche Rijckdommen, Eeuwighe ende Hemelsche Schatten te gheven: Sy souden hem lief ghehadt ende gheeert hebben, Dats verde van haten ende schandelijck te dooden.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xxxvij.</hi></head>
+<p>Sy en kenden dan Christum niet: dese onkunde was oorsaecke van dese heure groote zonde. Dat betuyght oock Petrus, segghende: <note place="margin">Acto.3.17.</note>Ick weet, Broeders, dat gh't uyt onwetenheydt hebt ghedaan, als oock mede uwe Oversten. Ende Paulus, daar hy seydt van <note place="margin">1.Cor.2.8</note>de Wijsheydt Godes, dat haar niemant van de Princen deser werelt gekent en heeft. Want so sy die gekent hadden, nimmermeer en souden sy den Koning der glorien gecruyst hebben.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xxxviij</hi></head>
+<p>Het Onverstandt, Waan, ende Loghen zijn dan oorsaecke van't zondighen, als t'quade goedt, ende t'goede quaadt qualijck oordeelende. De Loghen met sijn gheselschappe heeft haar heerschappije ende werckinghe in den Mensche, so langhe die daar inne is, maar oock niet langher. Want daar de Loghen niet en is, daar en ghebiedt, noch doet sy niet altoos meer.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xxxix</hi></head>
+<p>Nu en mach niemant loochenen, dat die Almoghende Waarheyt machtigher is, dan die nietighe ende ydele Loghen. De Waarheydt mach dan de Loghen verdrijven: ja sy verdrijft die ghewisselijck waar sy komt. Niet anders dan de Duysternissen verdreven worden alsoo waar de Sonne met haar doorluchtighe Stralen inne schijnt. Mach daar oock donckerheydt blijven? Soo mach oock gheen duystere Loghen blijven daar die blinckende Waarheydt inne komt. Dat is, in wat saecken wy die Waarheydt te recht verstaan, in die saecken mach de Loghen niet meer bestaan: maar moet gantschelijck ruymen, verdwijnen ende vergaan.</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">xl.</hi></head>
+<p>Waar dan die Loghen is verdwenen, daar verdwijnt ooc terstont die valsche Wane ende t'verkeerde oordeel, die t'quaadt goedt, ende t'goedt quaadt seyden te wesen, ende t'goedt als oft quaadt ware, deden vlieden, oock t'quaadt als oft goedt ware, deden begeeren. In plaatse van welcke Loghen die eenvuldige Waarheydt komt: oordeelende uyt seecker Weten elck ding soo't is, het quade voor quaadt, daar door men dat dan niet meer en mach begeeren, maar vlieden moet: ende t'goede voor goedt, daar door men't dan niet meer mach vlieden, maar begheeren moet. Want alle watmen begheert of vliedet, komt uyt waan of weten dat het goedt is of quaadt.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xlj.</hi></head>
+<p>Begeert yemandt eens anders vrientschappe, om dat hy waant dat des Mans vriendtschap hem voordelijck sal zijn tot gheldtwinninghe, tot lust, tot eere, of tot staten: die begheerte sal moeten gheduyren soo langhe hy waant dat vele ghelts lustigheydt, eere of staten te hebben hem goedt zy: ende des Mans vrientschappe hem daar toe vorderlijck is. Maar quame hy met Biante of met Francisco te waanen, dat het ghelt die eere des volcx ende Ampteren hem hinderlijck waren om te komen ter Saligheydt die hy boven al begeerde: die begeerte van de vrientschappe voorseide sal lichtelijck van selfs verdwijnen, ende dat volkomelijck. Maar quame hy inder Waarheyt te weten, dat die ghewaande vriendt en't heymelijck arbeyde tot verlies van sijn Have, tot sijn leedt, tot schendinghe sijnre namen, ende tot schandelijcke weygeringe van de begeerde Ampteren: lieve segt doch, sal't oock noodigh zijn desen Man te vermanen, dat hy des valschen vriendts vriendtschappe niet meer en begheere noch onderhoude? Dat feylt soo veele dat hy terstont van selfs, alleen door verandering van sijn kennisse, den valschen vriendt sulcx sal haten ende vlieden: dat hy oock door niemandts aanraden, of ghebieden, met sijn Herte dien bekenden vyandt, eerst vriendt gewaant, sal moghen lief hebben, of sijn gheselschap begheeren.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xlij.</hi></head>
+<p>Een kindt, des vuyrs kracht niet kennende, maar sijn glantse wat schoons wanende, sal moghen begheerte hebben om metten vuyre te spelen, ende dat te handelen, soo dat het sich quetset, ende brandet: maar machmen oock ghelooven dat een Man, des vuyrs brandende hitten uyt versochtheydt kennende, ende door d'ondervindelijcke Waarheydt vande voorseide kindtlijcke Waan ende Loghen ghevrijdt zijnde, bekoort mach werden met lust, om 'tvuyr in sijne bloote handen te grijpen, ende daar mede te spelen.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xliij</hi></head>
+<p>Nu is kennelijck, dat alle zonde sijn eyghen straffe medebrenght, ende den Zondaar quelt ende pijnight, het zy dan inden ghemoede met wroeghen, of inden lichame met pijnen. Immers gheen gulsighe vraten, gheen dronckene suypuyten, gheen geyle Hoereerders, Item gheen ongenoeghlijcke gierigerts, gheen dolle toornighen, noch gheen knaghende nijdigherts en sullen die ghereede ende seeckere straff der zonden, d'eerste inde lichaame, de laatste inder Zielen, moghen loochenen, of ontkennen.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xliiij.</hi></head>
+<p>Nochtans meynt elck der voorseide (als oock alle andere Zondaaren) dat henluyden sulck haar werck goet is, ende wat lustighs of nuts toebrengt. Laat ons nu nemen dat elck, of een der selver door opmerckinghe van 't gheene hy in sulck zijn zondich werck soeckt, oock <pb ed="fol." n="74r"/>van t'ghene hy daar door verwerft, komt tot Waarheyts kennisse van dien, so dat hy inder Waarheyt ontwijselijck bevindt, dat hem die korte lust altijt seeckerlijck een geduyrigh ghequel in Ziel of in Lijf toe brengt: sal hy die bedrieghlijcke ende quellijcke Zonde niet noodtsaeckelijck moeten haten, vlieden, ende niet min begheerelijck verlaten, dan hyse te vooren hanteerde?</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">xlv.</hi></head>
+<p>Soo maackt dan die Waarheydt Christus Iesus, inder Waarheydt vry van de Loghen ende Zonde, sulcx dat hy waarlijck, niet waanlijck vry is, die van den Sone Godts vry is ghemaackt. Een kindt wanende een Poppe wat menschelijcks ende goets te wesen, speelt gaarne daar mede: maar mach dat kindt te Man ende tot verstandt (dat die Pop een ydelheydt is) ghekomen zijnde, oock meer lusts hebben om metter Poppen te spelen? Dat sal wel een kindt moghen wanen, om dat het hem lustigh is, maar gheen Man. Verlost nu die Waarheydts kennisse, dat het spelen met Poppen een kintsche ydelheydt is, hoe wel t'selve in sich selve gheen zonde, gheen quaat, ja niet schadelijck, maar nut is voor den kinderen, om te voorhoeden dat sy met geen messen, glasen, vuyr, of andere quetselijcke dinghen en souden spelen, so gantsch volkomentlijck den selven kinderen allencxkens, dat sy nu te Man ghekomen zijnde, oock gheensins met lust moghen bekoort worden, om metten Poppen meer te spelen: Wie niet gantsch partijdich of ongheloovigh wesende, sal niet moeten toe stemmen ende bekennen, dat die ondervonden Waarheyts kennise vande verderflijcke ende schadelijcke quaatheyt der zonden, den Zondaar oock daar af soo volkomelijck mach bevryen, dat hem de quade, oock <note place="margin">1. Ioan. 5.18.</note> met gheen lust of begheerten tot sulck bekent, verderffelijck ende hatelijck quaadt, eenighsins sal moghen aanroeren, om hem daar toe lustigh of begheerlijck te maken?</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xlvj</hi></head>
+<p>Nadien dan Christus de Waarheydt selve is, die niet en mach lieghen, na dien de Waarheyt <note place="margin">Ioan. 8.32.</note>dan selve seyt: Dat sy den genen die haar kennen, vry maackt, ende dat waarlijck: ende <note place="margin">Ioan. 8.36</note>nadien eenighe Leeringhen nu inne houden dat onmoghelijck is, dat eenigh Mensche soo waarlijck van't quade bevryet soude werden, welcke Leere opentlijck strijdet teghen die Leere der Waarheydt of Christi: soo machmen soodanighe Leere lichtelijck daar aan voor valsch bekennen, oordeelen ende vlieden</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xlvij.</hi></head>
+<p>Om sulck waarachtigh oordeel te ontsluypen, bedeckt sich die Leere ten laasten (als sy niet en mach ontkennen sulcx tot lasteringhe van Christi Waarheydt, Goedtheydt ende Almoghentheydt te stercken) met een spinneweb van toestemminghe, dat het mach, ja oock sal gheschieden, dat de herboren Mensche volkomelijck die Gheboden Godes sal onderhouden, maar dat eerst na desen leven, ende niet hier inder tijdt, meynende heur Doling daar onder veylighlijck ende onsichtbaarlijck te bedecken.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xlviij</hi></head>
+<p>Maar neen, dit Web is te dunne ende open om wel te decken, ende te onsterck om niet lichtelijck afgheruckt te worden. Want salmen dat dichten ghelooven, so moetmen ons eerst vroedt maecken, dat hier na in de eeuwighe Saligheydt die kinderen Godes noch sullen staan onder Gheboden, ende datmen daar niet Sabbatteren, maar noch wercken van Ghehoorsaamheyt hanteren sal: datmen inder Nacht (soo't de Heere noemt) noch wercken sal, datmen inder Nacht noch Olie koopen sal, ende datmen daar noch quaadt of goedt doen sal Ioan. 9.4. Ecclesi. 9.10, 11.3. Matth. 25.8.9. Galat. 6.9 10 ende niet verrijsen souden, te weten die dan al goedt ghedaan sullen hebben, ten Leven, ende die dan al quaadt ghedaen sullen hebben, ter Verdoemenisse. Ioan. 5.29. Maar want dese glose mede opentlijcken strijdet tegen de voorseide met grote menighte meer anderen klare tuyghenissen der Godtlijcker Schryfturen, want men dan na desen Leven niet alleen t'goede, maar oock t'quade noch soude doen: soo blijckt hier al mede ontwijfelijck die Onwaarheydt van soodanighe Leere: ende sulcke uytvlucht, een valsche ende oock schadelijcke toeverlaat te wesen.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">xlix.</hi></head>
+<p>Daar mach voorwaar gheen ware kennisse van de Waarheyt wesen en sodanighen Leere, die niet en verstaat dat waarachtighe kennisse van des quaadts of der zonden leelijckheydt ende verderflijckheyt; noodtsaeckelijck in allen den ghenen die sulcx inder Waarheyt voor sulcx kennen, moet baren eenen vyandtlijcken hate teghen die Loghen, d'oude Slanghe ende des selfs zade. Want sulcx is oock wel uytdruckelijck begrepen in de alder eerste Belofte by Gode, den Menschelijcken gheslachte in 't straffen van den Serpente ghegheven: Ick sal Vyandtschap setten tusschen dy <note place="margin">Genes 3.15.</note>ende de Vrouwe, ende tusschen dijnen ende haren Zade.</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">L.</hi></head>
+<p>Dit en verstaat de Leere niet die daar houdt, dat oock in den Herboornen al't leven door blijft een lust ten quaden, ja oock noch stedes tot alle boosheyt gheneyght, Godt ende den Naasten te haten, als wesende het letsel, dat sy in desen leven Gode niet volkomelijck moghen ghehoorsamen, dats gheen Vyandtschap teghen t'Serpent, de Zonde ofte Loghen, maar vriendtschap ende luste: ende ter contrarie, hate ende vyandtschap teghen Gode ende t'goede. Welcke Leere, soo sy hier inne Waarheydt heeft, soo is die Belofte Godes onwaarheydt, ende noyt in yemanden vervult gheweest. Maar Godt is ende blijft oock Euwelijck waarachtigh, ende aller Menschen Leeringhen daar teghen strijdigh zijnde; soo des is; onwaarachtigh.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">Lj.</hi></head>
+<p>Of is in hare gheloovers die voorseide ware hate ten quaden, waarom en bestrijden sy dat niet vyandelijck? Waarom en dooden ja vernielen sy den ouden zondighen Mensch niet gantschelijck? Of ghebreket henluyden aan macht? Of is de Almoghende Godt niet met <note place="margin">Rom. 8.31.</note>henluyden? Of is Godt met henluyden, hoe mach yemant teghen henluyden wesen? Of is die verwonnnen zonde, Duyvel, werelt ende Loghen noch soo machtigh, dat sy den heerlijcken Strijdtvorst Emanuel heuren verwinner, die Almachtigh is, wederstaan, ende teghen hem t'Velt ja het Huys inhouden moghen)</p>
+<pb ed="fol." n="74v"/>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">Lij.</hi></head>
+<p>Alsulcks volght wel uyt dese Leere, rechts of die zonde so sterck ware, dat de Herboorne met Christi hulpe in sijn Kracht ende Waarheyt, die selve niet waarachtelijck dooden, vernielen, ende uyt hen drijven konde. Maar hoe stemt dit over een met het tuyghnisse van den gantschen Bybele?</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">Liij.</hi></head>
+<p>Ghedooght dan Godt, die soo Almachtigh als jalours is, dat in sijnen Heyligen die zonde <note place="margin">2. Cor. 6.14.</note>al haar leven deur noch neven sijnen Christ, die selve de Gherechtigheydt is, sal blijven woonen ende Huys houden? Dat sijn Herboornen stadelijck twee Heeren dienen sullen? Dat sijne kinderen tot des lichaams doot toe over beyden zijden hincken, ende niet heet of kout, maar stadelijck in die uytspouwelijcke laeuheyt blijven sullen? Dat leert de heylighe Schrift nerghens, maar doorgaans het teghendeel: ende dit volght onloghbaarlijck uyt dese Leere: moet sy dan niet valsch zijn, ende den Menschen hinderlijck tot haare verbeteringhe?</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">Liiij.</hi></head>
+<p>Somma, die ware Gheloovers van de ware Leere betrouwende waarlijck in de krachte, niet van haar self, maar van Emanuel, bestrijden vyandtlijcken, verwinnen Manlijcken, ende dooden grondtlijck het lichame der zonden met alle sijne leden. Ende mitsdien die doorstredene inder Waarheyt, wetende dat <note place="margin">Rom. 6.2.</note>sy de zonde ghestorven zijn, houdens voor onmoghelijck, dat sy die ghestorven zijn de zonde, de selve noch souden leven, immers sy en <note place="margin">Gala. 2.20.2 Cor. 5.25.</note>leven selve niet meer, maar Christus leeft in henluyden, als in sijne levende ende toegheeyghende Tempelen.</p>
+    </div>
+<div type="section">
+<head rend="h4"><hi rend="i">Lv.</hi></head>
+<p>Maar die gheloovers van de valsche Leere, achtende die kracht der zonden onverwinnelijck in desen vleesche, ende weynigh, ja niet altoos betrouwende op Emanuels ghetrouwe Almoghentheydt, (als die sy niet inder Waarheydt en kennen) en strijden met gheen ernst teghen de zonde, die sy noch lief hebben ende vriendt mede zijn, verwinnen noch en dooden die oock niet, maar achten hen selve die zonde ghestorven te zijn, d'welck niet soo en is, doen noch t' quaade, t'welck sy segghen niet te willen, leven haar self ende niet Gode, maar wanen dat Godt henluyden niet toe en rekent sulcke haar quaatdoen dat in henluyden gheschiet, ende henluyden toerekent die Gherechtigheyt Christi, die niet in henluyden gheschiet.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">Lvj.</hi></head>
+<p>Want Christus en woondt in henluyden niet, daaromme en verandert oock haar luste, haar wille ende haar Herte niet. Maar blijven onlustigh ten goeden als vooren, ende lustigh ende genegen ten quaden, want sy ontberen die Waarheydt, die alleen vry maackt van de Loghen. Van de Loghen segghe ick, daar door sy noch stadelijck het goede quaadt oordeelen, ende mitsdien t' goede haten ende vlieden moeten, ende wederom het quade voor goedt aansien, ende mitsdien t' quade lieven ende najaeghen moeten, sulcks dat henluyden oock in sulck valsch oordeel ende inde Loghen staande, onmoghelijck is inder Waarheydt van t' quade af te laten ende t' goede te doen. Ende mitsdien oock inder Waarheydt niet en willen Godt van gantscher Herten lief hebben, ghemerckt sy gheneyght zijn ende ter doot toe blijven (min oft meer) om Godt te haten, ende en willen Gode niet gantschelijck ghehoorsaam wesen, veele minder dat sy 't werden, ende noch veel minder dat sy 't wesen souden. Ick swijghe noch dat sy alijt siende op haar eyghen swackhyt, die 't niet, maar niet op des beloovers Almoghentheydt, die 't lichtelijck vermach, Roma. 4.20. sulcks houden voor onmoghelijck, soo dat sy Godes beloften hier inne niet en ghelooven, dat henluyden na haar ongheloove gheschiet ende in hare zonden blijven. Want het alles zonde is wat niet en gheschiedt uyt der Gheloove, Roma. 14.23.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">Lvij</hi></head>
+<p>Gheheel anders ist metten Leerlinghen van de ware Leere. Want in henluyden wort Christus geboren. Die verandert haar Lust, Willle ende Herte, ghevoelen in sich meerder afkeer ten quaden dan sy te vooren hadden ten goeden, ende hebben nu eenen veel begeerlijcker lust ten goeden dan sy te vooren hadden ten quaden. Want sy door 't blijven, in Christi woorden in Christo blijven, ende Christus, dat is die Waarheydt in henluyden, die maacktse oock vry vande Loghen, kennen t' quade voor leelijck, grouwelijck ende verderflijck, haten ende vlieden dat uyter Herten, ende kennen wederom t' goede voor schoon, lieflijck, Heylsaam, lieven ende begheeren dat met <note place="margin">Rom. 4.19.</note>gantscher Herten, siende niet op haar eyghen onvermoghen, maar op des Belovers trouheydt ende Almoghentheyt, ghelooven sy ontwijfelijck dat Godt het quade in henluyden gantschelijck ende waarachtelijck dooden ende vernielen, ende t' goede in hen levendigh maecken, ende tot sijn volkomen opwassinghe brenghen sal, soo dat sy niet meer, maar Christus in henluyden sal leven in volkomen onderdanigheyt Godes. Dit willen sy in de kintsheyt ernstlijck, dit worden sy in de Manheydt krachtelijck, ende dit zijn sy in de bejaartheyt waarachtelijck. Ende zijn mitsdien sulcke Gheloovighe, hoe wel noch swacke Kinderen, sulcke verwinnende Ionghelinghen, ende sulcke doorghestreden Mannen, al t' samen ware Kinderen Godes, ende in Christo Iesu al saligh elck in sijnen state.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">Lviij.</hi></head>
+<p>Alsoo zijn die kinderen der Duysternissen van de valsche Leere ongheloovigh, hebbende gheen ernstighe Wille om te worden, worden daarom oock niet, noch en zijn nemmermeer in die valsche Leere blijvende, Gode inder Waarheydt onderdanigh. Maar recht anders gaat het met de kinderen des Lichts, ende van de ware Leere, alsoo hier nu gheseyt is.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">Lix.</hi></head>
+<p>Nadien nu die ware Leere, namentlijck die Godtlijcke Schrift, naacktelijck inhoudt <note place="margin">Ioan. 3.</note>dat niemant en mach gaan in 't Rijck der Hemelen, dan die herboren is, dan die uyt sijn oude schalckheydt verandert in kinderlijcke onnooselheyt, dan diens steenen Hert verandert is in een vleeschen Herte, <note place="margin">1Ioan. 3.7</note>die Rechtvaardigh zijnde Rechtvaardigheyt doet, dat is de zonde waarlijck ende dadelijck in hem doodet, Christo leeft, Gode boven al, ende den <note place="margin">Mat. 5.45.</note>Naasten als hem selve, ja die sijne vyanden lief hebbende, een waarachtigh kindt Godes ende van Godtlijcker aart wordt of is: ende daar teghen de valsche Leere haar Leerlinghen soo niet en verandert uyt quade in goede <pb ed="fol." n="75r"/>Menschen, t'welck een noodtlijck ghevolgh is van de Wedergheboorte, altijdt noch ten quaden gheneghen zijn ende blijven, om Gode ende den Naasten te haten, onrechtvaerdigh blijven ende zondighen, als nimmermeer de zonden in haar doodende, daar door oock Christus nimmermeer in henluyden en leeft noch en woont, Gode niet boven al, noch haar Naasten, veel min haar vyanden als haar selve lief en hebben, ende mitsdien onherboren, ende van quader, ja Duyvelscher aart blijvende, ende des niet teghenstaende noch vastelijck betrouwende op het bedrieghlijck toesegghen van dese valsche Leere, wanen dat sy Saligh zijn ende eeuwigh wesen sullen: rechs of Saligheyt mochte zijn daar gheen goedtheyt en is, ende of yemant quaadt blijvende goet worden, swijghe wesen soude moghen, t'welck niet anders en is dan of yemant mochte teffens sieck ende ghesondt wesen: soo en meyn ick niet dat yemant alle sulcx met duysent andere derghelijcke so wichtighe als naackte redenen, te recht met ernstigher aandacht aanmerckende, eenige swarigheyt meer sal vinden in't onderscheyden welcke van beyden die valsche of ware Leere zy, ende dat hy volghens dien niet sich self met Herte ende sinne vande valsche totte ware, dats van de Menschelijcke ende bedrieghlijcke glosen ende uytlegginghen totte Godtlijcke ende onbedrieghlijcke Schriftuyre en sal begheven. Want die is waarachtigh, ende d'Inghever van dien Almachtigh: so dat in allen die haar ghelooven, altijdt waarachtelijck wordt ende gheschiet t'ghene sy seyt. Sulcx dat ghelijck de Reghen ende Sneeu van den Hemel dalende, <note place="margin">Isai. 55.11.</note>niet weder daarwerts keeren, maar d'Aerde bevochtight, doet groeyen, ende den zaeyenden zaadt, ende den etenden Broodt gheeft: Also oock is des Heeren Woort, dat uyt sijnen monde gaat, ende niet weder vergheefs tot hem en keert, maar volbrengt het ghene dat hy wil.</p>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">Lx.</hi></head>
+<p>Soo niet, maar gantsch anders ist met de valsche Leere ende met het Waangheloof van desselfs Leerlinghen. Want in henluyden niet en wert, soo langhe sy daar inne volharden, t'ghene die valsche Leere belooft, sy hebbent goede nimmermeer, maar sy wanent te hebben, niet anders dan die vechters teghen den Berch Syon, die daar hongherigh ende dorstigh <note place="margin">Isai.29.8,8.21.</note>zijnde, wel wanen dat sy eten, drincken ende sadt worden: maar als sy ontwaken, <note place="margin">Luc. 15.17.18</note>hen selve sullen bevinden ydel, hongherigh ende <note place="margin">Apoc. 3.17.</note>dorstigh. Och of sy wilden wacker worden <note place="margin">Isai. 65.13.</note>uyt sulcke hare bedrieghlijcke Droomerijen, ende eens in den Heere op staan uyt haren slape der zonden; hoe wel soude henluyden zijn. Dat gheeft O Heere, dat gheeft allen die't begheren, door uwen Sone onsen Heere Iesum Christum. Amen.</p>
+    <p>Eynde.</p><interpGrp><interp type="end" value="coor001vand01"/></interpGrp>
+</div>
+</div>
+</body>
+</text>
+</TEI.2>

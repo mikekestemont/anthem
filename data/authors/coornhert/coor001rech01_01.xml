@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "http://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Recht ghebruyck ende misbruyck van tydlycke have</title>
+                
+                <author>D.V. Coornhert</author>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Recht ghebruyck ende misbruyck van tydlycke have</hi> van D.V. Coornhert uit 1585.
+                </edition>
+                <respStmt>
+                    <resp>
+                        
+                        <corr>De emblemata zijn steeds per twee op ongenummerde, ingeschoten pagina's toegevoegd. Ertussen bevinden zich in het origineel twee blanco pagina's, deze zijn hier weggelaten.</corr>
+                        <corr>p. 13: doorbrenghər → doorbrengher: ‘T'eerst doet den doorbrengher’.</corr>
+                        <corr>p. *1: deze ingeschoten pagina is door een onbekend persoon beschreven. De kop is door de redactie tussen vierkante haken toegevoegd.</corr>
+                        <corr>p. 22: an → dan: ‘veel meer dan hond, valck óf paerd’.</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <publicationStmt>
+                <idno type="titelcode">coor001rech01_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2015 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note></note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar The Getty Research Institute Library, signatuur: 332091</idno>
+                </bibl>
+                <p>D.V. Coornhert, <hi rend="i">Recht ghebruyck ende misbruyck van tydlycke have</hi>. Christoffel Plantyn, Leiden 1585</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Recht ghebruyck ende misbruyck van tydlycke have</title>
+                <title type="subordinate"></title>
+                <author>D.V. Coornhert</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Recht ghebruyck ende misbruyck van tydlycke have</title>
+                <title type="subordinate"></title>
+                <author>D.V. Coornhert</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2015-05-06</date>
+                <respStmt>
+                    <name type="person">RK</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+    <div type="chapter">
+<pb ed="fol." n="1r"/>
+<p>DE RERVM VSV ET ABVSV.</p>
+        <pb ed="fol." n="1v"/>
+        <figure>
+            <p><xptr to="coor001rech01ill0002.gif"/></p>
+            <figDesc><hi rend="i">Qvis sit opv</hi>m<hi rend="i"> finis vel earvm qvis sit abvsvs ostendo, rervm qvis bene vivat inops.</hi></figDesc>
+        </figure>
+
+        <cf><pb ed="fol." n="2r"/>
+<p>Recht Ghebruyck Ende Misbruyck, van tydlycke Have.</p>
+<p>&nbsp;</p>
+<p>Van Rijckdom, Nódruft en ghebreck ick beluyck </p>
+<p>T'onzaligh misbruyck, mettet zaligh ghebruyck.</p>
+        <figure>
+            <p><xptr to="coor001rech01ill0001.gif"/></p>
+            <figDesc><hi rend="i">LABORE ET CONSTANTIA</hi></figDesc>
+        </figure>
+
+<p><hi rend="i"><hi rend="sc">Tot Leyden</hi>, </hi>By Christoffel Plantyn. M. D. L X X X V.</p></cf>
+    </div>
+        <div type="chapter">
+            <interpGrp><interp type="primair" value="spie001"/></interpGrp>
+            <pb ed="fol." n="2v"/>
+<head rend="h3"><hi rend="i">Aan den Lezer, <lb/></hi>Op des Dichters naam.</head>
+            <lg type="poem"><l><hi rend="b">Die ryck</hi> <hi rend="i">en mild is, laat zich hier mercken,</hi></l>
+                <l><hi rend="b">Vol kaersen</hi><hi rend="i"> der kennes die opentlyck lichten,</hi></l>
+                <l><hi rend="b">Kóórn</hi><hi rend="i"> wijn en voedsel tót sgheests verstercken,</hi></l>
+                <l><hi rend="b">Hert</hi><hi rend="i"> elyck uyt delende om elck een te stichten.</hi></l>
+</lg><p><hi rend="i">Dueghd verhueght.</hi></p>
+            <pb rend="blank" ed="fol." n="t.o. 2v"/>
+            <pb rend="blank" n="t.o. 1"/>
+            <pb rend="blank" n="1"/>
+</div>
+<div type="chapter">
+    <pb n="2"/>
+<head rend="h3">I. <lb/><hi rend="i">Opvlentia non exhilarat, nec paupertas contristat.</hi> </head>
+<p><hi rend="i">Melior est buccella panis cum gaudio, quàm domus plena victimis cum iurgio. </hi></p>
+<p><hi rend="i">Prouerb. </hi>17, 1.</p>
+    <figure>
+        <p><xptr to="coor001rech01ill0003.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Mens hominis variè rerum simulachra figurat:</hi></l>
+<l rend="; 1tab"><hi rend="i">Hinc non luxuriae ducit Adamus Eden:</hi></l>
+<l><hi rend="i">Et pius aerumnas tolerat nec sentit amaras,</hi></l>
+<l rend="; 1tab"><hi rend="i">Sed cotem fidei deputat esse suae.</hi></l>
+</lg></div>
+<div type="chapter">
+<pb n="3"/>
+<head rend="h2">Recht Ghebruyck ende Misbruyck, van tydlycke Haue.</head>
+<head rend="h3">I. <lb/><hi rend="i">Rijckdom ende armoe zyn ghoed nóch quaad.</hi></head>
+<lg type="poem"><l><hi rend="i">Na des menschen ghemoed neemt alle ding zyn beelde:</hi></l>
+<l><hi rend="i">T'weeldigh paradijs en was Adam gheen weelde.</hi></l>
+<l><hi rend="i">Zó en is den armen, die in Gód kan verblyden,</hi></l>
+<l><hi rend="i">Zyn ghebreck gheen ghebreck, maar oeffening van stryden.</hi></l>
+</lg>
+
+<lg type="poem"><l>IN tydlyck goed vintmer Arm, Middelbaar, en Ryck:</l>
+<l>T'leuen der Armen, waant elck mensch ellendigh;</l>
+<l>T'ghêmene pynlyck, omme d'arbeyd bestendigh,</l>
+<l>Maar t'rycke zaligh, door weeldes valsche blyck:</l>
+<l>Dus jaaght elck na ryckdom met gheweld óff pracktyck,</l>
+<l>Door t'verkeerde óórdeel verleyt zynde schendigh.</l>
+<l>Want t'is niet buyten, maar in elck inwendigh,</l>
+<l>Zó wat verblyt óf bedroeft ons leven al ghelyck.</l>
+<l>Men vint zó wel rycken als armen die trueren:</l>
+<l>Immers de gróótste druck, druckt den gróótsten dueren;</l>
+<l>Alsmen gróte vrueghde in kleine huttekens ziet.</l>
+<l>Dit moght niet zyn, zó d'uyterlycke dinghen</l>
+<l><hi rend="i">U</hi>yt haren aart vrueghd óf druck nóódlyck vóórtbringen:</l>
+<l>Dus baart ryckdom gheen lust, nóch armoe gheen verdriet. </l>
+</lg></div>
+<div type="chapter">
+<pb n="4"/>
+<head rend="h3">I I. <lb/><hi rend="i">Zó de mensch is, zó is hem alle ding.</hi></head>
+<lg type="poem"><l><hi rend="i">Rijck verghat Jób Gód niet, maar deylde overvloedigh;</hi></l>
+<l><hi rend="i">Arm lasterde hy niet, maar prees Gód ghelyckmoedigh.</hi></l>
+<l><hi rend="i">Gódsvruchticheyd is nut tót allen dinghen ghemeyn:</hi></l>
+<l><hi rend="i">Den reynen ist al reyn, den onreynen ist al onreyn.</hi></l>
+</lg>
+
+<lg type="poem"><l>DEr dinghe<hi rend="i">n</hi> recht gebruyck bre<hi rend="i">n</hi>gt vrólickheyd en baat;</l>
+<l>Maar t'misbruyck gheeft schade met schuldige pyne.</l>
+<l>De dronckaart zuyckt zieckte uyt ghezonden wyne:</l>
+<l>Want zijn zótheyd en kent haar kracht, eynde, nóch maat.</l>
+<l>Daar teghen bruyckt wysheyd, die des dings aard verstaat,</l>
+<l>Tot ghezontheyts lust óóck dóódelycke venyne.</l>
+<l>Ghezond terdtmen veyligh dóór dóórnen inde woestyne,</l>
+<l>Als een dóórnighe voet pynlyck op pluymen staat.</l>
+<l>Gryptme<hi rend="i">n</hi> t'zwaerd byder snee, t'quetst den dwaas int gevecht;</l>
+<l>Maar hy quetst zyn viand diet wyselyck grypt byt hecht:</l>
+<l>Den vroeden ist al nut, den narren ist al teghen:</l>
+<l>Ryckdom en Armoe zyn van zelfs ghóed, nóch bóós:</l>
+<l>T'hindert al d'onwysen, t'helpt al den vroeden lóós.</l>
+<l>Zó veel is aan t'ghebruyck óf misbruyck gheleghen.</l>
+</lg>
+<div type="section">
+<pb n="t.o. 4"/>
+<head rend="h3"><hi rend="i">Abvsvs tristitiam, vsvs volvptatem parit.</hi></head>
+<p><hi rend="i">Si oculus tuus fuerit simplex, totum corpus tuum lucidum erit: si autem oculus tuus fuerit nequam, totum corpus tuum tenebrosum erit.</hi></p>
+<p><hi rend="i">Matth. 6, 22.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0004.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Diuitiis locuples Dominum collandat Iobus,</hi></l>
+<l rend="; 1tab"><hi rend="i">Oppressus pleno laudat &amp; ore Deum.</hi></l>
+<l><hi rend="i">Vtilis in cunctis pietas est: omnia puris</hi></l>
+<l rend="; 1tab"><hi rend="i">Pura, sed impuris sunt malè pura nimis.</hi></l>
+</lg></div></div>
+<div type="chapter">
+<pb n="t.o. 5"/>
+<head rend="h3"><hi rend="i">Qvid sit egestas et opvlentia.</hi></head>
+<p><hi rend="i">Initium vitae hominis aqua &amp; panis &amp; vestimentum, &amp; domus tegens turpitudinem.</hi></p>
+<p><hi rend="i">Eccl. 29, 28.</hi></p>
+    <figure rend="zoom">
+        <p><xptr to="coor001rech01ill0005.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Pauperie cruciatur Achab in diuite regno,</hi></l>
+<l rend="; 1tab"><hi rend="i">Nabothi vites cùm cupit esse suas.</hi></l>
+<l><hi rend="i">At Paulus diues sub paupertate videtur:</hi></l>
+<l rend="; 1tab"><hi rend="i">Omnia diues enim qui facit apta sibi.</hi></l>
+</lg>
+<div type="section">
+<pb n="5"/>
+<head rend="h3">I I I. <lb/><hi rend="i">Wat overvloed, nódruft, en ghebreck is.</hi></head>
+<lg type="poem"><l><hi rend="i">By een ghants Koningrijck d'armoe Achab bedroefde,</hi></l>
+<l><hi rend="i">Als hy door waanghebreck Nabóths wijnghaard behoefde.</hi></l>
+<l><hi rend="i">Daar teghens konste Paulus arm schynende ryck // zyn:</hi></l>
+<l><hi rend="i">Hy is waarlyck ryck diet hem al laat ghelyck // zyn.</hi></l>
+</lg>
+<lg type="poem"><l>DE nódruft ghenoeghzaam voor een welvarend lyf,</l>
+<l>Is kóst tót voetsele, ende kleed om te decken;</l>
+<l>De kóst kóst zeer lettel, daar ho<hi rend="i">n</hi>ger kóek magh strecke<hi rend="i">n</hi>;</l>
+<l>T'kleed deckt zonder purper, t'warmt sonder steecksel styf.</l>
+<l>Daar aan kleed, bróód, óff bórn ontbreeckt nódrufts gheryf,</l>
+<l>Dats ghebreck: heeftmens óóck om nau uyt te trecken</l>
+<l>Kóst en kleed, dats nódruft; maer kanmens breed recken</l>
+<l>Boven nódruft, tót lust, dats overvloeds bedryf.</l>
+<l>Een hoos sluytende omt been, werd nódruft gheleecken,</l>
+<l>Neemtmer af, al ist klein, daar moet an ghebreecken:</l>
+<l>Een wyde box hout veel, al verliest zy een darm.</l>
+<l>Zulck heeft ghenoegh, ia veel, die zich arm waant met smert;</l>
+<l>Een ander heeft lettel, en is ryck in zyn hert.</l>
+<l>Waan heerschapt de werld, waan maackt ryck en arm.</l>
+</lg></div></div>
+<div type="chapter">
+<pb n="6"/>
+<head rend="h3">I I I I. <lb/><hi rend="i">Onschuldighe armoe.</hi></head>
+<lg type="poem"><l><hi rend="i">Was Jóbs gróte ryckdom niet vanden Heer ghekomen?</hi></l>
+<l><hi rend="i">Wie anders dan de Heer heeft die weder ghenomen?</hi></l>
+<l><hi rend="i">Kómet dien bey van Gód, zó moetet óóck bey ghoed // zyn:</hi></l>
+<l><hi rend="i">Die dit recht verstaat zal in bey ghelyck van moed // zyn.</hi></l>
+</lg>
+<lg type="poem"><l>DE mensch komt in ghebreck buyte<hi rend="i">n</hi> óf met zyn schuld:</l>
+<l>Onschuldigh werter veel ghebreckigh gheboren;</l>
+<l>Onschuldigh hebben veel hun have verloren</l>
+<l>Wel hem die zulx ghedóóght met Jóbs lóflyck gheduld.</l>
+<l>Gód gheeft elck dat best is, want hy met haaf vervult,</l>
+<l>Den weecken dien t'ghebreck tót wanhoop zou bekoren,</l>
+<l>En maackt arm den stouten, die na lust zou sporen,</l>
+<l>En zyn Gód verachten als kemel hóóch ghebult.</l>
+<l>Zó wel als de ryckdom komt armoe van Góde,</l>
+<l>Die zend dat hy voorziet elck te zyn van nóde:</l>
+<l>Zaligh zyn die armen die hen des niet en belghen,</l>
+<l>Die t'onschuldigh ghebreck van Góds hand ontfanghen,</l>
+<l>En als bitter dranck met zeker verlanghen,</l>
+<l>Na t'ghemoeds ghenezing blydelyck in zwelghen.</l>
+</lg>
+<div type="section">
+<pb n="t.o. 6"/>
+<head rend="h3">I I I I. <lb/><hi rend="i">Pavpertas immerita.</hi></head>
+<p><hi rend="i">Dominus pauperem facit &amp; ditat.</hi></p>
+<p><hi rend="i">I. Regum 2, 7.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0006.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Vt Deus auctor opum quas olim Iobus habebat,</hi></l>
+<l rend="; 1tab"><hi rend="i">Sic paupertatis tum Deus auctor erat.</hi></l>
+<l><hi rend="i">Qui bonum vtrumq</hi>ue<hi rend="i"> putat, Dominus quia donat vtrumque,</hi></l>
+<l rend="; 1tab"><hi rend="i">Ille animo forti semper vtrumque feret.</hi></l>
+</lg></div></div>
+<div type="chapter">
+<pb n="t.o. 7"/>
+<head rend="h3">V. <lb/><hi rend="i">Pavpertas commerita.</hi></head>
+<p><hi rend="i">Vacantes potibus consumentur.</hi></p>
+<p><hi rend="i">Prouerb. 23, 21.</hi></p>
+<p><hi rend="i">Anima dissoluta esuriet.</hi></p>
+<p><hi rend="i">Prouerb. 19, 15.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0007.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Prodigus à luxu vitam traducit egenam:</hi></l>
+<l rend="; 1tab"><hi rend="i">Crescit socordi farris auena loco.</hi></l>
+<l><hi rend="i">Ostia virginibus praecludit inertia somni:</hi></l>
+<l rend="; 1tab"><hi rend="i">Haec tria pauperies semina digna capit.</hi></l>
+</lg>
+<div type="section">
+<pb n="7"/>
+<head rend="h3">V. <lb/><hi rend="i">Schuldighe armoed.</hi></head>
+<lg type="poem"><l><hi rend="i">Overdaad verarmde den zoone verloren,</hi></l>
+<l><hi rend="i">Onachtsaamheyd bracht kaf onder t'ghoede koren,</hi></l>
+<l><hi rend="i">En slapen traagh sloot buyten de maaghden gheck:</hi></l>
+<l><hi rend="i">Dees drie zyn meest óórzaeck van alle schuldigh ghebreck.</hi></l>
+</lg>
+<lg type="poem"><l>TSchuldighe ghebreck vol wroeghens oneerlyck,</l>
+<l>Komt van Gód, nóch van mensch, maar van eyghen gheckheyd:</l>
+<l>Die verdoet óf verzuymt, dat der ouders vreckheyd</l>
+<l>Dick tzamen heeft ghespaart doort sparen vermeerlyck:</l>
+<l>De quist-ghoed brast en pronckt boven zyn staat heerlyck,</l>
+<l>En ydelt zyn bórze door stróyende leckheyd,</l>
+<l><hi rend="i">U</hi>yt zótte mildicheyd, die haast tót ghebreck leydt,</l>
+<l>En maackt den ghever een arm bidder deerlyck,</l>
+<l>Die t'ghoed óóck verwaarlóóst en onachtzaam verzuymt;</l>
+<l>Smaackt benaude kommer na een weeldighe ruymt,</l>
+<l>Niet zonder verachting en smartelyck wroeghen:</l>
+<l>Maar die d'arbeyd vreest, den traghen slaap bemint,</l>
+<l>En van t'hoopken af teert, werd arm eer hyt verzint,</l>
+<l>T'werd kleyn daarmen afneemt zonder by te voeghen.</l>
+</lg></div></div>
+<div type="chapter">
+<pb n="8"/>
+<head rend="h3">V I. <lb/><hi rend="i">Vande ghierighe bedelaar.</hi></head>
+<lg type="poem"><l><hi rend="i">D'onschamel bedelaar gheen aalmoes en betaamt;</hi></l>
+<l><hi rend="i">Zoeckt na eerlyck gebreck, die houdt in eeren de schaamt.</hi></l>
+<l><hi rend="i">Want d'onschamele werdt van d'eersuchtighe ghevoet,</hi></l>
+<l><hi rend="i">Als de schamel verderft door zyn schandvluchtigh gemoet.</hi></l>
+</lg>
+<lg type="poem"><l>T'Ghemeenste ghebreck byden ghemeenen armen,</l>
+<l>Is luyheyd vet ghevoedt door svolx mild ontfarmen.</l>
+<l>De traghe is onschamel, óf gróóthertigh int quaad;</l>
+<l>D'onschamele is ghierigh óf een lecker vraat,</l>
+<l>En veracht verachting, vlied arbeyd, zoeckt ghemack,</l>
+<l>Ende volght stadelyck den rycken troggelzack,</l>
+<l>Die hem zoude hazaard zeecker magh gheneren;</l>
+<l>Want men gheeft hem veel meer dan hy magh verteeren:</l>
+<l>Ende dat byzonder inden dieren tyden,</l>
+<l>Als elck mildelyck deylt om Góds straf te myden.</l>
+<l>Want dan een stuck dróógh bróóds, dat zy meest verkópen,</l>
+<l>Meer gheldt, dan vier stucken in ghoey tyd kan belópen.</l>
+<l>Zó valt de ghemeen scha, des bedelaars meeste baat,</l>
+<l>Zó komt t'gheld int strick daart langzaam uyt ghaat.</l>
+<l>Zy kryghen veel meer bróóds dan zy moghen eten,</l>
+<l>En haar vruchtbaarste kleed is ghelapt en versleten:</l>
+<l>Dus werdt dick by dees bedelaars gheltghierigh</l>
+<l>T'klein bedel penninxken van d'aelmoesen vierigh,</l>
+<l>Tót zeer gróóte schatten en ridderlycke sommen:</l>
+<l>Want toe, zonder affdoen tót gróticheyd moet komen.</l>
+<l>Óch óf de overheyd zó wacker hier op paste,</l>
+<l>Datmen t'land van dees last, door lastigh werck ontlaste.</l>
+</lg>
+<div type="section">
+    <pb n="t.o. 8"/>
+<head rend="h3">V I. <lb/><hi rend="i">Mendici avari.</hi></head>
+<p><hi rend="i">Propter frigus piger arare noluit: mendicabit ergo aestate, &amp; non dabitur illi.</hi></p>
+<p><hi rend="i">Prouerb. 20, 4.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0008.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Ne des mendico perfrictae munera frontis:</hi></l>
+<l rend="; 1tab"><hi rend="i">Des inopi in vicos quem vetat ire pudor.</hi></l>
+<l><hi rend="i">Illos ambitio solita est saturare potentum.</hi></l>
+<l rend="; 1tab"><hi rend="i">Hic iacet, &amp; tandem, dum pudet vsque perit.</hi></l>
+</lg></div></div>
+<div type="chapter">
+<pb n="t.o. 9"/>
+<head rend="h3">V I I. <lb/><hi rend="i">Mendici Epicvrei.</hi></head>
+<p><hi rend="i">Seruo maleuolo tortura &amp; compedes: mitto illum in operationem, ne vacet.</hi></p>
+<p><hi rend="i">Eccl. 33, 28.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0009.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Qui semel innocuum detersit fronte pudorem,</hi></l>
+<l rend="; 1tab"><hi rend="i">Mollicie vincit saepe datoris opes.</hi></l>
+<l><hi rend="i">Ille solet populi consumere dona benigni,</hi></l>
+<l rend="; 1tab"><hi rend="i">Indulgens genio nocte dieq</hi>ue<hi rend="i"> suo.</hi></l>
+</lg>
+<div type="section">
+<pb n="9"/>
+<head rend="h3">V I I. <lb/><hi rend="i">Smetsende Bedelaars.</hi></head>
+<lg type="poem"><l><hi rend="i">Die eens schaamt en eer ter kercken heeft ghebracht,</hi></l>
+<l><hi rend="i">Leeft boven zyn ghevers in luyer weelden zacht:</hi></l>
+<l><hi rend="i">Svolx mildheyd versmetst hy auond en mórghen,</hi></l>
+<l><hi rend="i">En laat zórghelóós den voghelkens zórghen.</hi></l>
+</lg>
+<lg type="poem"><l>D'Onschamele bidder zó ghulzigh en traghe,</l>
+<l>Ziende des bedels vrucht, van daghe tót daghe,</l>
+<l>Schadelóós en zeker óóck boven behoefte;</l>
+<l>Verlaat zich daerop: zó dat dit gheboeffte</l>
+<l>Vaster betrouwen heeft op svolx mildigheyd zót;</l>
+<l>Dan de naam-Christenen op den ghaafrycken Gód.</l>
+<l>Dit zyn sacrilegers die smetsen en stelen</l>
+<l>D'aalmoessen, die elck meynt Christo in d'armen te delen.</l>
+<l>Dit zyn wespen onnut, die overdadelyck</l>
+<l>Ghoede arbeyds winst verdoen met arbeyd schadelyck.</l>
+<l>En dit zyn dieven, bouen al bast waardigh</l>
+<l>Vertraghende d'aalmis die voormaals was vaardigh.</l>
+<l>Want als de ghevers zien, dat veel traaghlyck verzuymen</l>
+<l>Hun zelfs eelick ghewin, ende eens anders versluymen,</l>
+<l>Verbrassen, versmetsen, avondt en mórghen;</l>
+<l>Beghinnen zy te recht twyfelyck te zórghen,</l>
+<l>Dat hun ghifte mocht vallen in die lóóze vuycken:</l>
+<l>Dan gheeftmen traaghlycker, des veel ydel buycken</l>
+<l>Den waardighen aalmis diefflick werdt ghestolen</l>
+<l>Van dees traghe wespen: Vindtmen dan gheen molen,</l>
+<l>Gheen dyken, gheen ghaley, gheen ander nutte dinghen,</l>
+<l>Om die stercke luyaards tót arbeyd te bedwinghen.</l>
+</lg></div></div>
+<div type="chapter">
+<pb n="10"/>
+<head rend="h3">V I I I. <lb/><hi rend="i">Quaad doenders.</hi></head>
+<lg type="poem"><l><hi rend="i">Mildelycker voedtmen den leedighen stercken,</hi></l>
+<l><hi rend="i">Danmenze wyslick dwingt, tót land nutte wercken,</hi></l>
+<l><hi rend="i">Zo maackt zótte mildheyd den landen vol gheboeft,</hi></l>
+<l><hi rend="i">Dat den vromen met dieft, róóf, en móórd bedroeft.</hi></l>
+</lg>
+<lg type="poem"><l>D'Ander traghen zyn tót bedelen te hóóghmoedigh,</l>
+<l>Des zy tót dieft, gheweld óf wanhoop kome<hi rend="i">n</hi> spoedigh</l>
+<l>Die niet ghoeds wille<hi rend="i">n </hi>doen, en hen t'quaad doe<hi rend="i">n</hi> schame<hi rend="i">n</hi></l>
+<l>Stelen eens anders haaf tót spys haarder lichamen;</l>
+<l>Op hoop van bedecktheyd stil en behendelick.</l>
+<l>Andere achten t'stelen als t'bedelen schendelick;</l>
+<l>Dees róven zetten af, en móórden met smerten</l>
+<l>Maar die zó eerlyck zyn, dat zy uyter herten</l>
+<l>T'quaad doen zó wel vrezen als den arbeyd moeyelick,</l>
+<l>Werden dul, óf eynden haar leven verfoeyelick</l>
+<l>Met zwaerd, put óf strick der wanhoopen spinsele.</l>
+<l>Dits van d'eewighe dóód t'tytlyck beghinsele:</l>
+<l>Waar hongher óf schande hier niet liever te wenschen,</l>
+<l>Beschermt hier voor (ó Heer) alle de traghe menschen,</l>
+<l>Óóck voor dieft gheweld, en voor alle quaden;</l>
+<l>Maar immers voor wanhoop vyand uwer ghenaden.</l>
+</lg>
+<div type="section">
+<pb n="t.o. 10"/>
+<head rend="h3">V I I I. <lb/><hi rend="i">Pavperes malefici.</hi></head>
+    <figure>
+        <p><xptr to="coor001rech01ill0010.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Ignauum placidè nimium tractare solemus,</hi></l>
+<l rend="; 1tab"><hi rend="i">Corpore qui valido scindere posset humum.</hi></l>
+<l><hi rend="i">Hinc nimia exundat nebulonum copia paßim,</hi></l>
+<l rend="; 1tab"><hi rend="i">Qui furtis vexant, caede bonósque necant.</hi></l>
+</lg></div></div>
+<div type="chapter">
+<pb n="t.o. 11"/>
+<head rend="h3">I X. <lb/><hi rend="i">Veri pavperes.</hi></head>
+<p><hi rend="i">Quatenus fecisti vni de his fratribus meis minimis, mihi fecisti.</hi></p>
+<p><hi rend="i">Matth. 25, 40.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0011.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Barraban absoluunt, Christum sine crimine damnant.</hi></l>
+<l rend="; 1tab"><hi rend="i">Donatur sceleri, vita negata Deo.</hi></l>
+<l><hi rend="i">Pascimus ignauos, iustis alimenta negamus:</hi></l>
+<l rend="; 1tab"><hi rend="i">Quomodo ritè locet munera, nemo videt.</hi></l>
+</lg>
+<div type="section">
+<pb n="11"/>
+<head rend="h3">I X. <lb/><hi rend="i">Rechte Armen.</hi></head>
+<lg type="poem"><l><hi rend="i">Christus bleeff inden nóód, Barrabas kreegh t'leven</hi></l>
+<l><hi rend="i">Góds armen verzuymtmen den schelmen werdt ghegheven</hi></l>
+<l><hi rend="i">De vrome lydt hongher, de traghe is zat en vet:</hi></l>
+<l><hi rend="i">Elck werpt zyn aalmis wech, niemant op t'wel gheven let.</hi></l>
+</lg>
+<lg type="poem"><l>BEhalven den luyen vindtmen nóch rechte armen</l>
+<l>Jong, oud, kranck, winnelóós, waardigh des vólx ontfarmen.</l>
+<l>Kinderen gryzen, ziecken werden hier te land ghevoed,</l>
+<l>Langs straat óf in stichten vander rycken overvloed:</l>
+<l>Maar de winnelóze, die gheen rechte winst verzuymt,</l>
+<l>Nóch boven de nódruft niet en teert in zyn ruymt,</l>
+<l>Ziende zyn naasticheyd niet ghenoegh te vermoghen</l>
+<l>Tót bróód voor wyff en kind die hongher ghedoghen,</l>
+<l>En niet willende dieft óf róóf, wyckt den herden nóód,</l>
+<l>Verkóópt truerigh zyn schaamt om een stuxken dróógh bróód.</l>
+<l>Zó dees niet verleckert aan s'biddens luy ghemack,</l>
+<l>Maar werck bekomende scheydt vanden troggelzack,</l>
+<l>Zyn bróód met zweet verdient na arbeyd spoort begheerlyck,</l>
+<l>Kleyn teert, en Gód danckt, bruyckt hy zyn armoe eerlyck;</l>
+<l>Ghave Gód datmen hier met gheven wil vaardigh,</l>
+<l>Voorquaam t'nóótlyck bidde<hi rend="i">n</hi> van zulck ontfangher waardigh</l>
+<l>Waar ons mildheyd snelder dan zyn traagh begheeren,</l>
+<l>Zyn eerlycke schaamt bleef eerlick in eeren:</l>
+<l>Dit zou by veel vromen t'bedelen hinderen,</l>
+<l>Dit zou huysghezinnen van bedelaars minderen,</l>
+<l>En dit zou uytwieden t'onkruyd van bedelens zaad:</l>
+<l>Zalich is die mensch die hem op den armen verstaad.</l>
+</lg></div></div>
+<div type="chapter">
+<pb n="12"/>
+<head rend="h3">X. <lb/><hi rend="i">Nódruft.</hi></head>
+<lg type="poem"><l><hi rend="i">Als een schoe te kleyn is, óf te gróót, quetst hy den voet,</hi></l>
+<l><hi rend="i">Door wringhen, óf sloppen, de maat dats te pas, is ghoed.</hi></l>
+<l><hi rend="i">Nimmermeer' ghenoeght hem, die na pracht zy nódruft voeght;</hi></l>
+<l><hi rend="i">Maar die heeft ghenoeghlyck, dien slechte nódruft ghenoeght.</hi></l>
+</lg>
+<lg type="poem"><l>WAt ter nóód bederf is, werdt by nódruft ghemeynt.</l>
+<l>Van nódruft natuyrlyck is t'enighe eynd,</l>
+<l>Honghers, dorsts en koudheyds verjaghing ghereed:</l>
+<l>Dit doet (by ghezonden) bróód, water en kleed.</l>
+<l>Watmen meer neemt is ter nódruft niet beradelick;</l>
+<l>Maar t'dient tót wellust en waan onverzadelick.</l>
+<l>Dit leeren óóck Heydens uyt de wet der naturen,</l>
+<l>Die wy Christenen (Gód wouts) al ter hellen sturen.</l>
+<l>Maar Christ, wiens arme hóófd niet hadde op te rusten,</l>
+<l>Vólghen wy weeldigh na in bróód-droncken lusten:</l>
+<l>Treedt dan ons Heer door dóórn met ons kruys beladen,</l>
+<l>En zullen wy knechten inden róóskens baden?</l>
+<l>Ick acht dat de Heydens by ons veracht, in dezen</l>
+<l>Inden dagh des óórdeels ons rechters zullen wezen.</l>
+<l>De waan nódruft kóst veel, de natuyrlycke weinigh.</l>
+<l>Ist niet een snóód mensche traagh, ghulzigh en vyleinigh,</l>
+<l>Die zyn bróód niet waard is? heeftmen t'water niet om niet?</l>
+<l>Duyrt óóck en kleed niet lang, alsment raadlyck verziet?</l>
+<l>Zy hebben al nódruft die in ambacht óf nering</l>
+<l>Ghenoegh, dóch magherlyck ghenieten haar tering:</l>
+<l>Óóck niet zonder arbeyd, maar zonder zórghlycke moeyt</l>
+<l>Als die vayligh byt land, onder t'klein zeylken roeyt.</l>
+</lg>
+<div type="section">
+<pb n="t.o. 12"/>
+<head rend="h3">X. <lb/><hi rend="i">Qvae res sint necessariae.</hi></head>
+<p><hi rend="i">Nihil intulimus in mundum: haud dubium quòd nec auferre quid possumus. Habentes autem alimenta &amp; quibus tegamur, his contenti simus.</hi></p>
+<p><hi rend="i">1. Timoth. 6, 7.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0012.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Si pede sit maior, subuertit; si minor, vrit</hi></l>
+<l rend="; 1tab"><hi rend="i">Calceus: aequalis conuenit vsque pedi.</hi></l>
+<l><hi rend="i">Qui sequitur fastum, nunquam contentus abibit:</hi></l>
+<l rend="; 1tab"><hi rend="i">Sed cui conueniet res sua, tutus erit.</hi></l>
+</lg></div></div>
+<div type="chapter">
+<pb n="t.o. 13"/>
+<head rend="h3">X I. <lb/><hi rend="i">Abvsvs Fortvnarvm.</hi></head>
+<p><hi rend="i">Qui diligit epulas, in egestate erit: qui amat vina &amp; pinguia, non ditabitur.</hi></p>
+<p><hi rend="i">Prouerb. 21, 17.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0013.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Qui supra citráve modum conuiuia tractant,</hi></l>
+<l rend="; 1tab"><hi rend="i">Vel temerè arripiunt omnia, egere solent.</hi></l>
+<l><hi rend="i">Prodigus &amp; stultè temerarius omnia perdunt:</hi></l>
+<l rend="; 1tab"><hi rend="i">Sponte sua, condens plurima, auarus eget.</hi></l>
+</lg>
+<div type="section">
+<pb n="13"/>
+<head rend="h3">X I. <lb/><hi rend="i">Nódrufts Misbruyck.</hi></head>
+<lg type="poem"><l><hi rend="i">Die Nódruft heeft, en daar boven, óf onder teert;</hi></l>
+<l><hi rend="i">Óf die zyn nódruft waaght, werdt recht in ghebreck verneert.</hi></l>
+<l><hi rend="i">Want braszaart en hazaart maken t'klein ghoedken haast quyt;</hi></l>
+<l><hi rend="i">En gheldzucht int hebbe</hi>n<hi rend="i"> vrywilligh kommerlydt.</hi></l>
+</lg>
+<lg type="poem"><l>DE nódruft werdt misbruyckt doort teren onwyselyck,</l>
+<l>Boven óf beneden nódrufts mate pryselyck,</l>
+<l>Óf duert stoute waaghen van des nódrufts behoeft.</l>
+<l>T'eerst doet den doorbrengher, die hem zelfs haast bedroeft,</l>
+<l>Als hy nódruft eerlyck door smets oneerlyck uytjaaght;</l>
+<l>Des hem t'schandlyck ghebreck in zynen huyze plaaght.</l>
+<l>Het tweede wert ghedaan by den ghieryghen zót,</l>
+<l>Die t'ontrou gheld betrout boven den trouwen Gód:</l>
+<l>Dees vast zijn gheldgód onghenoeght is zyn quellen,</l>
+<l>En maghert zyn lichaam om den buers te doen zwellen.</l>
+<l>Zó veel t'doorbrenghen zondight boven de maat,</l>
+<l>Zó veel daalt de gheldzucht onder den Koninglycken staat.</l>
+<l>Deen komt uyt ghenoegheyd in waarachtigh ghebreck,</l>
+<l>D'ander heeft ghenoegh, is arm uyt waan; bey zynze gheck.</l>
+<l>T'derde doen dwazen, die met Esopus hond</l>
+<l>Dwaaselyck hazardeeren den nódruft uyt hun mond:</l>
+<l>T'zeecker dat ghenoegh is, komt in anxt van bederven,</l>
+<l>Om d'onzeekere ryckdom zórghlyck te verwerven.</l>
+<l>Zó doet des overvloeds hazar dues verkiezen,</l>
+<l>Dick den rechten nódruft truerighlyck verliezen,</l>
+<l>Zó komt veel tyds t'ghebreck dezen zótten verasschen,</l>
+<l>En zó zitmen tuschen twee stoelen inder asschen.</l>
+</lg></div></div>
+<div type="chapter">
+<pb n="14"/>
+<head rend="h3">X I I. <lb/><hi rend="i">Nódrufts ghebruyck.</hi></head>
+<lg type="poem"><l><hi rend="i">Maar die zyn nódruft heeft, na den eysch van nódruft leeft</hi></l>
+<l><hi rend="i">Eerlyck windt, Gódlick spaart, t'ghespaarde den armen gheeft:</hi></l>
+<l><hi rend="i">Gód betrout, meer na duechd, dan na gheld is begheerlick</hi></l>
+<l><hi rend="i">Des leeft hy Gódlick, ghezond, natuyrlick en eerlick.</hi></l>
+</lg>
+<lg type="poem"><l>MAar de vroede treft hier t'middel lichtelick</l>
+<l>Leeft naarstich, natuyrlyck en voorzichtelick,</l>
+<l>Want na eerlyck ghewin arbeyd hy vlytelyck</l>
+<l>Daar af neemt hy nódruft, na maat profytelyck,</l>
+<l>Sparende t'overschót teghens den tyd winnelóós</l>
+<l>Al is nu de nódruft door lands zede zinneloos.</l>
+<l>Zó hóógh opghesteghen datmen meer heeft van doen</l>
+<l>Dan bróód, water, woning, klederen en schoen</l>
+<l>Zó teert dees ghoede man nóchtans met ghoede reden</l>
+<l>Waynich boven nódruft veel onder de qua zeden,</l>
+<l>Hy kleint te met zyn staat schickt lettel te behoeven</l>
+<l>Tróóst met zyn overschot der armen zwaar bedroeven</l>
+<l>Is altyd op voordeel en magh zyn rycker lenen</l>
+<l>Zulck raatlyck huysvader zoud ick ter werld menen</l>
+<l>Gheluckigh, hóógh boven andren ryck van ghoede</l>
+<l>Want hy leeft hier vayligh vry en bly van moede</l>
+<l>Onbelaaght, onbenydt, onbekommert en ghezond</l>
+<l>Door slechte spys en dranck voor zyn sobere mond</l>
+<l>Door een ghoede ghewissen uyt een ghoe wandeling</l>
+<l>Door rechtvaardigh te zyn in al zyn handeling</l>
+<l>En door t'vast betrouwen op Gód zynen vader</l>
+<l>Die hem trouwelyck bezorght uyt zyn mildheyds ader.</l>
+</lg>
+<div type="section">
+<pb n="t.o. 14"/>
+<head rend="h3">X I I. <lb/><hi rend="i">Fortvnarvm rectvs vsvs.</hi></head>
+<p><hi rend="i">Vita sibi sufficientis operarij condulcabitur, &amp; in ea inuenies thesaurum.</hi></p>
+<p><hi rend="i">Eccles. 40, 18.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0014.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Qui iustè partis moderatè viuit, &amp; apta</hi></l>
+<l rend="; 1tab"><hi rend="i">Quaesitum cura dat quoque pauperibus;</hi></l>
+<l><hi rend="i">Ille Deo fidit, virtutem plus facit auro,</hi></l>
+<l rend="; 1tab"><hi rend="i">Nature vitam conuenienter agit.</hi></l>
+</lg></div></div>
+<div type="chapter">
+<pb n="*1"/>
+<head rend="h3">[<hi rend="i">soo wie slaep als hij leeren sal</hi>]</head>
+<lg type="poem"><l><hi rend="i">soo wie slaep als hij leeren sal</hi></l>
+<l><hi rend="i">ten is gheen wonder dat hij niet en ca</hi></l>
+<l><hi rend="i">soo wie slaept als hij saeijen sal</hi></l>
+<l><hi rend="i">heeft geen vreuch als hij maijen sal</hi></l>
+<l><hi rend="i">die slaep als hij bidden sal</hi></l>
+<l><hi rend="i">die woort gheweyghert alsmen gheven sal</hi></l>
+<l><hi rend="i">die slaept alsmen wercken sal</hi></l>
+<l><hi rend="i">behort te vasten s alsmen eten sal</hi></l>
+<l><hi rend="i">die slaept als hij hem gheneren sal</hi></l>
+<l><hi rend="i">die miest dickmaes als hij leeren sal</hi></l>
+</lg>
+    <figure>
+        <p><xptr to="coor001rech01ill0028.gif"/></p>
+    </figure>
+</div>
+<div type="chapter">
+<pb n="t.o. 15"/>
+<head rend="h3">X I I I. <lb/><hi rend="i">Qvid opvlentia.</hi></head>
+<p><hi rend="i">Sint mores sine auaritia, contenti praesentibus: ipse enim dixit, non te deseram neque derelinquam.</hi></p>
+<p><hi rend="i">Hebr. 13. 5.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0015.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Vulgari dicto populi bene diues habetur,</hi></l>
+<l rend="; 1tab"><hi rend="i">Contentus viuit qui bene sorte sua.</hi></l>
+<l><hi rend="i">Sit tua sors Christus, ditaberis atque repentè;</hi></l>
+<l rend="; 1tab"><hi rend="i">Et propter Christum cuncta putabis acus.</hi></l>
+</lg>
+<div type="section">
+<pb n="15"/>
+<head rend="h3">X I I I. <lb/><hi rend="i">Wat Ryckdom is.</hi></head>
+<lg type="poem"><l><hi rend="i">Die is (zó t'spreeckwóórd leert) de ryckste die hier leeft</hi></l>
+<l><hi rend="i">Die ghenoegh hebbende ghenoeght met dat hy heeft.</hi></l>
+<l><hi rend="i">Dit ghenoegh is Christus; die hem heeft, is waarlyck ryck</hi></l>
+<l><hi rend="i">Dees perl vind elck diet al om Christum veracht als slyck.</hi></l>
+</lg>
+<lg type="poem"><l>RYckdom en is gheen schat dieme<hi rend="i">n</hi> niet magh vermeren:</l>
+<l>Neen? t'is ghenoegh hebben zonder meer te begheren,</l>
+<l>Arm zyn van begheren maackt recht rycke menschen</l>
+<l>Vol ryckdom zynze arm, die veel hebbende meer wenschen,</l>
+<l>Zó leyt waare ryckdom niet in kisten vól ghoed</l>
+<l>Maar in een vól hert, int ghenoeghent ghemoed,</l>
+<l>T'ghoed ghenoeghen maackt ryck, veel beghere<hi rend="i">n</hi> maackt arm</l>
+<l>Byt ghenoeghen woont vrueghd, byt begheeren ghekarm,</l>
+<l>Wie doet veel begheeren? waan, die baart onghenueght</l>
+<l>Wie vernoegt haast? wysheyd, die ghebruyckt t'klein met vrueght</l>
+<l>Alles te verkryghen dat elck begheert en hóógh acht</l>
+<l>En heeft Gód niet ghestelt inde menschelycker macht</l>
+<l>Maar van t'ghunt niet en staat in ons macht om verwerven</l>
+<l>Moghen wy t'begheren myden, derven en sterven</l>
+<l>Dit maackt recht arm van gheest en erfghenaam van Góds ryck</l>
+<l>Dezen Jóbs zóóne is hebben en derven ghelyck</l>
+<l>Want hy verkryght Christum die zyn begheert kan matten</l>
+<l>Die Christum heeft, die heeft in hem al Godes schatten,</l>
+<l>Hoe lang zuldy ó mensch in valsche ryckdom sluymen</l>
+<l>En dit hemelsche kóórn om t'helsche kaf verzuymen.</l>
+<l>Hoe lang zult ghy zótten dus onberadelyck</l>
+<l>Dinghen beminnen die u zyn zó schadelyck.</l>
+</lg></div></div>
+<div type="chapter">
+<pb n="16"/>
+<head rend="h3">X I I I I. <lb/><hi rend="i">Doorbrenghers.</hi></head>
+<lg type="poem"><l><hi rend="i">Ist vreemd dat des smetsers al verslinnende kaken,</hi></l>
+<l><hi rend="i">Ten lesten huys en hóf schandelyck uyt braken.</hi></l>
+<l><hi rend="i">Ist onrecht dat ghebreck pynlyck hun lyf doet quelen,</hi></l>
+<l><hi rend="i">Die uyt hun overvloed der armen nódruft stelen.</hi></l>
+</lg>
+<lg type="poem"><l>ZÓ wie boven nódruft, ghewin óf renthen heeft,</l>
+<l>En boven t'behoeven de inkoomsten uyt gheeft</l>
+<l>Aan kócks, an roffiaans, an hoeren, en an boeven</l>
+<l>Misbruyckt zyn ryckdom, t'ghebreck zal hem bedroeven.</l>
+<l>Te recht quelt hem t'ghebreck die met overvloed versluymt,</l>
+<l>Tghunt zyns naaste<hi rend="i">n</hi>s ghebreck moght stóppe<hi rend="i">n</hi> en houde<hi rend="i">n</hi> ruymt.</l>
+<l>Dit zyn gódlóze dieven stelende hun zelfs ghoed,</l>
+<l>Int alleen verdoen daar zes by mochten zyn ghevoedt.</l>
+<l>Dees onbarmhertighe zal God niet ontfarmen,</l>
+<l>Want haar zótte weelde verhonghert Góóds armen,</l>
+<l>Zó liet des rycken pracht den Lazarum in nóód;</l>
+<l>Die dief voer ter hellen d'arme in Abrams schóót:</l>
+<l>Wat zal Gód dóch eyschen door zyn rechte rechters mond</l>
+<l>Dan der lieffden woecker van onze ontfanghen pond?</l>
+<l>Verdoe<hi rend="i">m</hi>t Gód die t'po<hi rend="i">n</hi>d bre<hi rend="i">n</hi>gt zonder weldaads vóórdeel,</l>
+<l>Die t'pond schentlick verdoet, wat verwacht hy daar voor óórdeel?</l>
+<l>Voor een vluchtighe lust, eewich durende smerten.</l>
+<l>Bedenckt u ghy quistghoed, neemt dit doch ter herten.</l>
+<l>Zydy gódlóós? vreest ghy Gód, duyvel nóch helle?</l>
+<l>Vreest dan ten minsten hier t'behoeftigh ghequelle.</l>
+<l>Want die hier duer verliest t'ghoed van zyn ouders gheërft,</l>
+<l>Erft zyn eyghen armoe, die hem met schanden bederft.</l>
+</lg>
+<div type="section">
+<pb n="t.o. 16"/>
+<head rend="h3">X I I I I. <lb/><hi rend="i">Prodigi.</hi></head>
+<p><hi rend="i">Vacantes potibus &amp; dantes symbola, consumentur.</hi></p>
+<p><hi rend="i">Prouerb. 23, 2.</hi></p>
+<p><hi rend="i">Qui nutrit scortum, perdet substantiam.</hi></p>
+<p><hi rend="i">Prouerb. 29, 3.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0016.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Quid mirum, fundos si prodigus euomat haustos:</hi></l>
+<l rend="; 1tab"><hi rend="i">Illos comminuit faucibus antè suis.</hi></l>
+<l><hi rend="i">Graecari solitum tandem diuexat egestas;</hi></l>
+<l rend="; 1tab"><hi rend="i">Qui vel pauperibus danda alimenta vorat.</hi></l>
+</lg></div></div>
+<div type="chapter">
+<pb n="t.o. 17"/>
+<head rend="h3">X V. <lb/><hi rend="i">Avari.</hi></head>
+<p><hi rend="i">Vir cui dedit Deus diuitias, &amp;c. nec tribuit ei potestatem Deus vt comedat ex eo, sed homo extraneus vorabit illud. Eccles. 6, 2.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0017.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Semper auaritiae studium insatiabile macrae:</hi></l>
+<l rend="; 1tab"><hi rend="i">Crudelis miseris est famulisque suis.</hi></l>
+<l><hi rend="i">Quaerit opes, quarum locuples &amp; pauper abundat:</hi></l>
+<l rend="; 1tab"><hi rend="i">Eius diuitias tinea saepe vorat.</hi></l>
+</lg>
+<div type="section">
+<pb n="17"/>
+<head rend="h3">X V. <lb/><hi rend="i">Ghierighe.</hi></head>
+<lg type="poem"><l><hi rend="i">De wrede ghiericheyd magher en onverzadigh</hi></l>
+<l><hi rend="i">Is niet min haar dienaar van d'armen onghenadigh.</hi></l>
+<l><hi rend="i">Hy jaaght na rycke haaf die hy armoedigh // heeft</hi></l>
+<l><hi rend="i">En weet niet dat niemant vant overvloedigh // leeft</hi></l>
+</lg>
+<lg type="poem"><l>DIe meer heeft dan ghenoegh, en min dan ghenoegh gheniet,</l>
+<l>Jont zyn kist t'gheld wel, maar zynen buyck niet:</l>
+<l>Eer zou hyt in d'aerde dan in zyn maagh beghraven</l>
+<l>Hy derff niet zat eeten, nóch zyn dorst recht laven:</l>
+<l>Hier blyck de ghiericheyt int straffen rechtvaardigh,</l>
+<l>Want zy acht haar slave zyn voetsel niet waardigh,</l>
+<l>Dees tóónt niemand weldaad dan aan woeckers ghewin,</l>
+<l>Hy ontfangt gheern, hout vast, is ondanckbaar van zin,</l>
+<l>En verhoopt ghenoegheyd doort kryghen van veel ghoud</l>
+<l>Maar dit blust ghiericheyd, als t'vier t'inwerpen van houd</l>
+<l>Zó had die zót een werld (was daar ghebreck óf behoeft?)</l>
+<l>Hy droomder meer, tersto<hi rend="i">n</hi>d heeft waanghebreck hem bedroeft.</l>
+<l>Recht als de kaeswerpers verachten d'ontfanghen kaes</l>
+<l>En flux na andere zien: zó doet de ghierighe dwaes</l>
+<l>Wiens gheldzucht, ghelds ghewin zó wainigh magh verzaden</l>
+<l>Alsmen des hels afgrond met zielen magh verladen.</l>
+<l>T'overspel walcht van zyn, en zoeckt eens anders wyff</l>
+<l>Zó brandt na t'vreemde gheld de gheldminnende katyff,</l>
+<l>Die raapt, die schraapt, die spaart bewaart, bezórght, en dient</l>
+<l>T'snode gheld, en is zyn zelfs, noch niemands vriend.</l>
+</lg></div></div>
+<div type="chapter">
+<pb n="18"/>
+<head rend="h3">X V I. <lb/><hi rend="i">Werld wyze.</hi></head>
+<lg type="poem"><l><hi rend="i">O dóód hoe bitter u dencken met smerte // quelt,</hi></l>
+<l><hi rend="i">Den rycken die op t'ghoud zyn tróóst en herte // stelt,</hi></l>
+<l><hi rend="i">Eer hy vande róde aard kryght t'verhoopte misbruyck,</hi></l>
+<l><hi rend="i">Zwelght hem de zwarte aard diep in haar helsche buyck. </hi></l>
+</lg>
+<lg type="poem"><l>DE ghierige en quistghoed zyn zót óóck in svólx óóghen</l>
+<l>Maar die boven nódruft en beneeden vermoghen</l>
+<l>Ryckelycken huyshoudt, zó dat zyn gheld noch vermeëert,</l>
+<l>Wert van al de werld voor een wys mensche gheëert:</l>
+<l>Want hy niet onnuttelyck (zóment heet) zyn haaff verdoet,</l>
+<l>Nóch niet zórchvuldelyck na gróte winst en wroet:</l>
+<l>Maar schynende verzaad vant onverzadelyck ghoed,</l>
+<l>Zeyt met Epicuro tót zyn bedroghen ghemoed,</l>
+<l>Vergróót nu u schuren, rust, eet, drinck, en brast:</l>
+<l>Nóchtans noe<hi rend="i">m</hi>t Gód hem dwaas, want hy bout opt zand onvast,</l>
+<l>Hy bemindt tyds wellust boven den eewighen Gód,</l>
+<l>Ghaart schatten op aardryck voor den schalcken dief óf mot,</l>
+<l>Vult vlytigher met gheld zyn boomlóze kist óf pot,</l>
+<l>Dan met dueghden zyn ziel, is dat niet een oprecht zót.</l>
+<l>Ist gheen zót? die zóttelyck der zótten waanghoed verkiest?</l>
+<l>Daar door hy t'ewighe en ware ghoed verliest.</l>
+<l>Ist gheen zót? die t'snóde lyf boven d'edel ziele pryst.</l>
+<l>Ist gheen zót? die zyn gheld boven zyn Gód eer bewyst:</l>
+<l>Elck eert meest, t'ghunt hy meest bezórght dient en bemint,</l>
+<l>Dits den werld wyzen, t'gheld, om datmen wellust door wint.</l>
+<l>Wie bout voor t'hemelsche kóórn ruyme en niewe schuren,</l>
+<l>Om t'gheld dencktmen daghen: wie denckt om Gód uren.</l>
+</lg>
+<div type="section">
+<pb n="t.o. 18"/>
+<head rend="h3">X V I. <lb/><hi rend="i">Sapientes mvndi.</hi></head>
+<p><hi rend="i">Vbi thesaurus vester est, ibi &amp; cor vestrum erit.</hi></p>
+<p><hi rend="i">Luc. 12, 39.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0018.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Horrescit mortem venientem diues, in auro</hi></l>
+<l rend="; 1tab"><hi rend="i">Qui fuluo miseram spemq</hi>ue<hi rend="i"> fidemq</hi>ue<hi rend="i"> locas.</hi></l>
+<l><hi rend="i">Ille priùs terrae nigro condetur in orco,</hi></l>
+<l rend="; 1tab"><hi rend="i">Auri quàm terra gnauiter vsus erit.</hi></l>
+</lg></div></div>
+<div type="chapter">
+<pb n="t.o.19"/>
+<head rend="h3">X V I I. <lb/><hi rend="i">Rervm iniqva dispensatio et conservatio.</hi></head>
+<p><hi rend="i">In praesenti tempore vestra abundantia illorum inopiam suppleat. 2. Corinth. 8, 14.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0019.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Quisque sonat Christum, factis quem denegat: omnis</hi></l>
+<l rend="; 1tab"><hi rend="i">Lingua Deo fidit, quem cor adesse negat.</hi></l>
+<l><hi rend="i">Vita placet cumulantis opes, si splendida, vulgo:</hi></l>
+<l rend="; 1tab"><hi rend="i">At stolidum sapiens hunc ait esse Deus.</hi></l>
+</lg>
+<div type="section">
+<pb n="19"/>
+<head rend="h3">X V I I. <lb/><hi rend="i">Onbehoorlyck wtgheef en bewaren.</hi></head>
+<lg type="poem"><l><hi rend="i">Elx wóórden zyn Christelick, elx daad met Christo spót,</hi></l>
+<l><hi rend="i">De tong betrout Góde, t'hert zeyt daer en is gheen Gód.</hi></l>
+<l><hi rend="i">In hóógh teeren, en veel opleggen, swerelds prijs // leyd;</hi></l>
+<l><hi rend="i">Maar Gódes wysheyd vervloeckt deze dwaze werlds wysheyd.</hi></l>
+</lg>
+<lg type="poem"><l>DEes werld wyze door misbruyckt zyn ryckdo<hi rend="i">m</hi> doorlyck</l>
+<l>Int uytgeven ende int bewaren onbehoorlyck.</l>
+<l>S'vleesch wellust met landzede doe<hi rend="i">n</hi> hem te veel behoeven,</l>
+<l>En te veel verteren tót veel armens bedroeven:</l>
+<l>Wederom doet hem zyn Heydens Gód mistrouwen,</l>
+<l>Den naasten verzuymen, en t'gheld te veel behouwen,</l>
+<l>Maar zegdy, t'gheld is myn, magh ick t'myn niet verteeren,</l>
+<l>Ick ben vraat nóch dronckaart, ick leef van t'myn met eeren,</l>
+<l>En bewaar t'overschót tót nut van myn kinderen,</l>
+<l>Wien magh myn bewaren oft uytghift dan hinderen?</l>
+<l>T'gheld hoort u niet maar Gód, ghy bewaart des Heere<hi rend="i">n</hi> pond,</l>
+<l>Teert na nódruft, niet na dyn wellustighe mond:</l>
+<l>Zó mooghdy vanden kóst nóch ryckelyck deelen,</l>
+<l>Góóds inmaanders, d'armen, dit is Góóds bevelen.</l>
+<l>Ziedy deze in nóód, voerse met u sparen,</l>
+<l>Mooghdy u overschót óóck nóch beter bewaren.</l>
+<l>Wat ghy den minsten gheeft aan kleet, spys ofte dranck,</l>
+<l>Des danckt u Christus zelfs als van zyn eyghen ontfanck.</l>
+<l>Als ghy Góóds pond verdoet in u aardsche wellust,</l>
+<l>Óf zórghvuldigh opsluyt tót u mistrouwens rust:</l>
+<l><hi rend="i">U</hi> maagh en kist vult, maar leegh laatst u naastens buyck,</l>
+<l>Is t'uytgheef en opleg dan gheen Gódlóós misbruyck.</l>
+</lg></div></div>
+<div type="chapter">
+<pb n="20"/>
+<head rend="h3">X V I I I. <lb/><hi rend="i">Weeldich leven.</hi></head>
+<lg type="poem"><l><hi rend="i">Die den armen onthoudt, zyn buyck gheeft zyn overvloed,</hi></l>
+<l><hi rend="i">Komt hier in kranckheden, hier na inder hellen gloed.</hi></l>
+<l><hi rend="i">Noyt was hy anderen mild diet voor hem zelfs te veel // is</hi></l>
+<l><hi rend="i">Hy doet Christum vasten, diens Gód lust vande keel // is.</hi></l>
+</lg>
+<lg type="poem"><l>N<hi rend="i">U </hi>bestaat t'misbruyck van te veel uytgheven</l>
+<l>In een weeldigh, cierlyck, en heerlyck leven:</l>
+<l>Deze drie Goddinnen zyn meest by elck gheacht</l>
+<l>Lust des vleeschs, der óóghen met hómoedicheyds pracht,</l>
+<l>T'weeldighe leven teert kóstelyck en lecker,</l>
+<l>Dit maackt voor den armen den milden te vrecker</l>
+<l>Die lucht, aarde, en water moeyelyck doet duerwroeten,</l>
+<l>Om d'ydelheyd des buycks met wellust zat te boeten.</l>
+<l>Vraaghdy wat kóst dees waan met gróte kósten zoeckt</l>
+<l>Kóst die waan hongher maackt van Socrate vervloeckt:</l>
+<l>Want die zónder hongher gróten lust maackt tót eeten,</l>
+<l>Door verbeelding des smaacks vande leckere beeten.</l>
+<l>Hier werdt d'aalmis magher door vetheyd der mórselen,</l>
+<l>Want t'veel behoeven en magh niet veel uytdelen.</l>
+<l>Wie zó mildelick gheeft tót vulsel zynder darmen</l>
+<l>Biet Christo den rugge, en onthouwet den armen.</l>
+<l>Al dunckt hem nu dwaselyck dat Góóds óórdeel vertraaght,</l>
+<l>Zó zyn zy inder daat nu al jammerlyck gheplaaght.</l>
+<l>Haar zótheydt houdt ghee<hi rend="i">n</hi> maat, maar vergrypt zich ble<hi rend="i">n</hi>delick</l>
+<l>Dan quelt onlust, walghing met zieckten ellendelick,</l>
+<l>En dan moet de Doctoor der lecker verladen rompen,</l>
+<l>Met dure juleppen den overvloed uytpompen.</l>
+</lg>
+<div type="section">
+<pb n="t.o. 20"/>
+<head rend="h3">X V I I I. <lb/><hi rend="i">Vita lvxvriosa.</hi></head>
+<p><hi rend="i">In multis escis erit infirmitas, &amp;c. propter crapulam multi obierunt: qui autem abstinens est, adiiciet vitam. Eccles. 37, 33.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0020.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Qui sua dat ventri miseris quae tollit egenis,</hi></l>
+<l rend="; 1tab"><hi rend="i">Sublatus morbis in Phlegethonte iacet.</hi></l>
+<l><hi rend="i">Qui pellem curat, nunquam solet esse benignus,</hi></l>
+<l rend="; 1tab"><hi rend="i">Christo procurans esuriente gulam.</hi></l>
+</lg></div></div>
+<div type="chapter">
+<pb n="t.o. 21"/>
+<head rend="h3">X I X. <lb/><hi rend="i">Vita elegans.</hi></head>
+<p><hi rend="i">In die illo auferet Dominus ornamentum calceamentorum &amp; lunulas, &amp;c. &amp; erit pro suaui odore foetor, &amp;c. Esa. 3, 18.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0021.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Omnes ostentant, quo seruant corpus, amictum:</hi></l>
+<l rend="; 1tab"><hi rend="i">Antea quem pardus vel pia geßit ouis.</hi></l>
+<l><hi rend="i">Et nisi sic faciant, nullo videantur honore</hi></l>
+<l rend="; 1tab"><hi rend="i">Digni. Sic nudant Christe benigne tuos. </hi></l>
+</lg>
+<div type="section">
+<pb n="21"/>
+<head rend="h3">X I X. <lb/><hi rend="i">Cierlyck leven.</hi></head>
+<lg type="poem"><l><hi rend="i">Elck pronckt met zyn gebreck wie leent niet tkóstel kleed</hi></l>
+<l><hi rend="i">Van schaap, wolf, óf wurm? droeght die niet eerst? maar elck weet</hi></l>
+<l><hi rend="i">Hem selfs niet eerwaardigh, t'kleed moet eerlyck doen schynen</hi></l>
+<l><hi rend="i">Dees diere en zótte pracht bloot Christum inden zynen.</hi></l>
+</lg>
+<lg type="poem"><l>T'Cierlycke leven maackt óóck d'uytghift zó gróót</l>
+<l>Dattet de<hi rend="i">n</hi> duer toesluyt, voor Christo naackt en blóót;</l>
+<l>Men zóeckt meer me<hi rend="i">n</hi>schen eer door zyd en bont te draghen,</l>
+<l>Dan Gód door t'kleeden der armen te behaghen.</l>
+<l>Alzó laatmen Christum in zyn leden verkouwen</l>
+<l>Om cierlyck te schynen inder luyden aanschouwen:</l>
+<l>Wat magh t'diere purper tót warmt óf decksel strecken?</l>
+<l>Zou dees onnutte kóst den naackten niet bedecken?</l>
+<l>Bracht Lazari koude en naacktheyd schóffierigh,</l>
+<l>Den pronckaart gheen hetten inden vlammen vierigh.</l>
+<l>O verdoemlyck misbruyck voor gheen misbruyck ghekend</l>
+<l>Hoe vermóórdt ghy de ziel door óóghlusts eerzucht blend.</l>
+<l>Den Heer onthoudy t'zyn, en laat hem naackt na lópen</l>
+<l>Om d'onnódighen hoop, t'gheld te gheven by hópen.</l>
+<l>Als perlenstickers, verwers van t'scharlaken</l>
+<l>Pluymlichte pluymajiers, die dwazen t'gheld ontschaken</l>
+<l>Juweliers, tapitsiers, met veel smetsende knapen,</l>
+<l>Beeldsnyders vernuftigh, en onze Juppiters apen</l>
+<l>Wiens meeste kunst bestaat in kunstighe loghen.</l>
+<l>Laat af vólght waarheyd, die werdt niet bedroghen:</l>
+<l>Maar zal zeggen, kleedt hem u pracht in d'armen niet hier,</l>
+<l>Ick was naackt, ghy liet my naackt, ghaat in t'eewighe vier.</l>
+</lg></div></div>
+<div type="chapter">
+<pb n="22"/>
+<head rend="h3">X X. <lb/><hi rend="i">Heerlyck leven.</hi></head>
+<lg type="poem"><l><hi rend="i">De heerlycke doet kóst, veel meer dan hond, valck óf paerd</hi></l>
+<l><hi rend="i">Dan aanden beelden Góds, die lidtmaten Christi waerd.</hi></l>
+<l><hi rend="i">Zyn hóghe hert, bout hóógh, voor hóghen, t'klein blyft buyten,</hi></l>
+<l><hi rend="i">Christus was noyt zyn ghast, die zal hem óóck uyt sluyten.</hi></l>
+</lg>
+<lg type="poem"><l>ANdere willen leven in gróótachtbaarheyd heerlyck,</l>
+<l>En zyn slave<hi rend="i">n</hi> veracht van haar hómoed begheerlyck.</l>
+<l>De burgher bout huyzen als een Prins óf Koning,</l>
+<l>Zyn ziel blyft een vuyl graf, der duyvelen woning.</l>
+<l>Ist niet misbruyck dit graf uytwendigh te verghulden,</l>
+<l>Alst binnen blyft vol stanx, vól helwaardighe schulden.</l>
+<l>Heerlyck bout hy Gode in zyn ziel een kamer,</l>
+<l>Die arme huyskens bout, dits Gode aanghename:</l>
+<l>Maar wy bouwen voor ons ghemackelycke lusten, </l>
+<l>D'arme Christus heeft niet om zyn hóófd op te rusten.</l>
+<l>De Heer leyt inden stal by t'ghedierte vertreden,</l>
+<l>De knecht woont int paleys, is dit nóch al reden.</l>
+<l>Waarom boutmen zó hóógh, menen wy dat de dóót</l>
+<l>Trap onbreeckt om klimmen in onze huyzen gróót?</l>
+<l>Zegghen wy niet zelve in gróót huys woont gróót kruys,</l>
+<l>Gróót ghezind, gróót bewind, met dat lastigh ghespuys.</l>
+<l>Behalven dat de Heer met hertsmoeyelyck verdriet,</l>
+<l>Zyn haaf van t'onnut vólck onnutlyck verslinden ziet,</l>
+<l>Óóck van paerd, hond en valck die hy moght ontberen,</l>
+<l>Wat gheniet hy doch meer dan zyn kóst en kleren.</l>
+<l>Zórghvuldigh bezórght hy die lastighe overvloed,</l>
+<l>En bevindt hier zyn zonde haar zelfs straf en boed.</l>
+</lg>
+<div type="section">
+<pb n="t.o. 22"/>
+<head rend="h3">X X. <lb/><hi rend="i">Vita splendida.</hi></head>
+<p><hi rend="i">Vidésne quòd ego habitem in domo cedrina, &amp; arca Dei posita sit in medio pellium?</hi></p>
+<p><hi rend="i">2. Reg. 7. 2.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0022.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Plus canibus lauti praebent nitidisq</hi>ue <hi rend="i">caballis,</hi></l>
+<l rend="; 1tab"><hi rend="i">Quàm membris Christi, quae simulachra Dei.</hi></l>
+<l><hi rend="i">Quae reserant magnis occludunt ostia paruis.</hi></l>
+<l rend="; 1tab"><hi rend="i">Christus eis claudet templa serena poli.</hi></l>
+</lg></div></div>
+<div type="chapter">
+<pb n="t.o. 23"/>
+<head rend="h3">X X I. <lb/><hi rend="i">Inivsta rervm cvstodia.</hi></head>
+<p><hi rend="i">Iudicium sine misericordia illi qui non fecit misericordiam.</hi></p>
+<p><hi rend="i">Iacob. 2, 13.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0023.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Iniustè seruat luxus iniusta libido:</hi></l>
+<l rend="; 1tab"><hi rend="i">Horrea quàm seruos plus facit illa Dei.</hi></l>
+<l><hi rend="i">Cor, nummos, aures querulis obturat egenis:</hi></l>
+<l rend="; 1tab"><hi rend="i">Elexuram credis voce querente Deum?</hi></l>
+</lg>
+<div type="section">
+<pb n="23"/>
+<head rend="h3">X X I. <lb/><hi rend="i">Onbehóórlyck bewaren.</hi></head>
+<lg type="poem"><l><hi rend="i">Lust tót weeldigh leven, doet onrecht bewaren,</hi></l>
+<l><hi rend="i">In rycke schuren, niet in Góds arme dienaren:</hi></l>
+<l><hi rend="i">Men sluyt kist, hert en óór voor t'gheroep der armen,</hi></l>
+<l><hi rend="i">Zal God zulcke dieven int óórdeel óóck ontfarmen.</hi></l>
+</lg>
+<lg type="poem"><l>T'Aardryck is Gódes met alle dat daar inne // is:</l>
+<l>Hoe kómt dan dat de me<hi rend="i">n</hi>sch zó dieflyck van zinne // is.</l>
+<l>Dat hy van enigh ding derf zegghen, ziet dat ist myn?</l>
+<l>Wat heeftmen dat niet eerst van Gód ontfanghen moet zyn.</l>
+<l>Niet als ons eyghen, maar recht als gheleende ghoeden,</l>
+<l>Om ons den rentemeesteren en Góóds armen te voeden.</l>
+<l>Om hem zelfs te voeden dees rycke niet en verzuymt,</l>
+<l>Maar wie voedt Goods armen uyt zyn overschóts ruymt.</l>
+<l>Wy heeten al Christens, ismen Christen zonder liefd,</l>
+<l>Heeft hy liefd diet vermagh, en den armen niet gheriefd?</l>
+<l>Hoe moghen wy ons zelfs dóch Christenen wanen,</l>
+<l>Als wy Gód weygheren t'zyn als hy ons kómt inmanen.</l>
+<l>Gód maant door doorwaarders an ons dooren met óótmoed,</l>
+<l>Gheen hóóftsom, maar de rent, van tzyn niet onze ghoed.</l>
+<l>Gód maant tóverlóóp van onze dertel weelden:</l>
+<l>Waart niet recht dat wy hem de kruymke<hi rend="i">n</hi>s zyns bróóds deelden.</l>
+<l>Watmen den armen gheeft, dat ontfangt Gód zelve:</l>
+<l>Gód zelve onthou ick t'zyn, als icx in myn kist delve.</l>
+<l>Dit doet elck, elck pleeght nu dees dieft vólkomelyck,</l>
+<l>Dits der Sodomyten gódlóósheyd verdomelyck.</l>
+<l>Gód is wel barmhermtigh, maar hy is óóck rechtvaardigh,</l>
+<l>D'onbarmhertighe is Goods ontfarme<hi rend="i">n</hi> ghants onwaardigh.</l>
+</lg></div></div>
+<div type="chapter">
+<pb n="24"/>
+<head rend="h3">X X I I. <lb/><hi rend="i">Min gheven om meer na te laten.</hi></head>
+<lg type="poem"><l><hi rend="i">T'misvertrouwen Góóds wil t'kind zórghlycke ryckdom erven</hi></l>
+<l><hi rend="i">Dees wil van veel hebben, doet den armen veel derven.</hi></l>
+<l><hi rend="i">T'vólck betrout Gód veel min dan t'ontrou geld inde pot:</hi></l>
+<l><hi rend="i">Gód is hunder tonghen, maar t'gheld is hun herten God.</hi></l>
+</lg>
+<lg type="poem"><l>DIt onrecht bewaren, en dit aalmis minderen</l>
+<l>Streckt om ryck te maake<hi rend="i">n</hi> niet ons ziel, maar kindere<hi rend="i">n</hi></l>
+<l>Om ons kind lief te doen wy ons vader vertóórnen:</l>
+<l>Maar ist óóck liefd datmen t'kind beddet inden dóórnen?</l>
+<l>Inden dóórnen die t'koren van Goods wóórd versticken</l>
+<l>O dwaze liefd die t'kind leyt dóódlycke stricken.</l>
+<l>Wie gheeft zyn kind gheen zwaerd tot spelens verblyden,</l>
+<l>Wie koopt zyn zoon gheen paerd, dat hy niet kan beryden:</l>
+<l>Dit paerd, is ryckdom woest, wiens wellustigh smeken</l>
+<l>Den woesten jueghd veeltyds den hals doet breecken.</l>
+<l>Men klaaght over strengheyd vanden wegh der waarheyd</l>
+<l>Nóch zoeckt elck voor zyn kind meer zorghlycke zwaarheyd:</l>
+<l>Lust ons dan t'verzwaren vanden wegh totten hemel</l>
+<l>Daar komt ryckaart zwaarlyck als door den naald een kemel,</l>
+<l>Die dan d'aalmis opsluyt om zyn kind ryck te maacken,</l>
+<l>Arbeyd om hem zwaarlyck ten hemel te doen raacken.</l>
+<l>Elck plant meer in zyn kind gheld en eerzuchticheyd,</l>
+<l>Dan de ghoedadighe al nutte Godsvruchticheyd,</l>
+<l>En elck póóght meer zyn kind gheld dan wysheyd te erven,</l>
+<l>Dus heerschapt ryckdom zót dits t'ghemeen bederven.</l>
+<l>Ach betrout Gód, die laat den vromen gheensins ter nóód,</l>
+<l>Noch zynen zade niet dat ghing nóyt bedelen bróód.</l>
+</lg>
+<div type="section">
+<pb n="t.o. 24"/>
+<head rend="h3">X X I I. <lb/><hi rend="i">Liberalitas coercetvr vt ditetvr haeres.</hi></head>
+<p><hi rend="i">Qui dat pauperi, non indigebit: qui despicit deprecantem; sustinebit penuriam.</hi></p>
+<p><hi rend="i">Prouerb. 28, 27.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0024.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Diffidens Domino cumulat patrimonia natis:</hi></l>
+<l rend="; 1tab"><hi rend="i">Et multos, cupiens plurima, egere facit.</hi></l>
+<l><hi rend="i">Confidit nummis, posita quos seruat in olla:</hi></l>
+<l rend="; 1tab"><hi rend="i">Ore Deo psallit, corda sed aere fouet.</hi></l>
+</lg></div></div>
+<div type="chapter">
+<pb n="t.o. 25"/>
+<head rend="h3">X X I I I. <lb/><hi rend="i">Divitiarvm rectvs vsv.</hi></head>
+<p><hi rend="i">Qui seminat in benedictionibus, de benedictionibus &amp; metet.</hi></p>
+<p><hi rend="i">2. Corinth. 9, 6.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0025.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">At pius à Christi verbis &amp; nomine pendens,</hi></l>
+<l rend="; 1tab"><hi rend="i">Ieiunat, miseris largus vt esse queat.</hi></l>
+<l><hi rend="i">Certus enim natos seponere posse parentem:</hi></l>
+<l rend="; 1tab"><hi rend="i">Nunquam sed Dominum posse fugare suos.</hi></l>
+</lg>
+<div type="section">
+<pb n="25"/>
+<head rend="h3">X X I I I. <lb/><hi rend="i">Recht ghebruyck der Ryckdommen.</hi></head>
+<lg type="poem"><l><hi rend="i">De Christen bouwende op zyn vaders wóórden vast,</hi></l>
+<l><hi rend="i">Leeft sober, gheeft weeldigh, vast dick uyt liefd voor een ghast.</hi></l>
+<l><hi rend="i">Want hy weet dat een vrou haar kind eer vergheten zouw,</hi></l>
+<l><hi rend="i">Dan die trouwe vader zyn kinderen ghetrouw.</hi></l>
+</lg>
+<lg type="poem"><l>DE Christen teert spaarlyck, deylt mild, bewaart voorzichtigh,</l>
+<l>Voor arm, voor hem, voor kind, en is elck nut en stichtigh.</l>
+<l>Al eyscht verscheydenheyd elkerlyks verscheyden // staat,</l>
+<l>Nóch gheeft bescheyden liefd, hier elck een bescheyden // maat.</l>
+<l>Die teert beneden staat wat onder t'ghemeen besteck,</l>
+<l>En snoeyt zyn overvloed t'snoeysel vult s'broeders ghebreck.</l>
+<l>Dat leert hem t'veel gheven door oefening kinnen,</l>
+<l>Hy deylt zyn overvloed, waar hy ghebreck kan vinnen:</l>
+<l>Want hy zyns naastens nóód, die nu is meer behert,</l>
+<l>Dan zyns zelfs óf zyns kinds toekomende onwisse smert.</l>
+<l>Ja by wylen beweeght door iemands pynlycke last,</l>
+<l>Hy tót diens verzading willigh hongherigh vast.</l>
+<l>Maar ziende niemand recht in behoefticheyds plaghen,</l>
+<l>Ghedenckt hy in Gode d'anstaande quade daghen,</l>
+<l>En bewaart voorzichtigh dat rechtvaardighe overschót,</l>
+<l>Voor hem, voor wyf, voor kind, maar byzonder voor Gód.</l>
+<l>Want in dit bewaren is hy meest in onvreden,</l>
+<l>Des zoeckt hy rechte armen om t'pond recht te besteden.</l>
+<l>Dit zyn rechte Heeren, dees leven óóck heerlyck,</l>
+<l>Doen niemand quaad, elck ghoed, en gheven zó begheerlyck</l>
+<l>Alst de ghierighe neemt in zyn bodemlóze vuyck:</l>
+<l>Is dit van ryckdom niet t'rechte en Gódlyck ghebruyck.</l>
+</lg></div></div>
+<div type="chapter">
+<pb n="26"/>
+<head rend="h3">X X I I I I. <lb/><hi rend="i">Mindering van behoefte om meer te gheven.</hi></head>
+<lg type="poem"><l><hi rend="i">T'is de beste mensch die Gód meest is ghelyck,</hi></l>
+<l><hi rend="i">Die was ryck en werd arm, om d'armen te maacken ryck.</hi></l>
+<l><hi rend="i">Boet uwes naastens ghebreck door t'derven van u weelde</hi></l>
+<l><hi rend="i">Ryckt ons armoe anderen, zó draghen wy recht Goods beelde.</hi></l>
+</lg>
+<lg type="poem"><l>DUnckt iemands onghewoont dit recht ghebruyck wat te streng?</l>
+<l>Die lees der naturen wet, dees is immers zó eng,</l>
+<l>Doet andren zó ghy wilt dat u zouw gheschieden.</l>
+<l>Wie zou niet begheeren om zyn hongher t'ontvlieden,</l>
+<l>Dat een ryck ghezond man een kappoen zou ontbeeren,</l>
+<l>Om óóck verzaadt te zyn door mildheyds klein teeren?</l>
+<l>Wie zou niet begheeren tot wermt van zyn koud ghedermt,</l>
+<l>T'gheld vant bórderen, dat den pronckert deckt nóch wermt?</l>
+<l>Zouden wy dan behoefftigh zulx van andren wenschen;</l>
+<l>Waarom doen wy dat niet den behoeftighen menschen.</l>
+<l>Al d'arm en óórringhen ghaf Israël tót t'snóóde kalf,</l>
+<l>Waarom gheven wy Gód onze kleynodyen niet half.</l>
+<l>Zout wel zyn uyt vreze, voor die eerlycke schanden,</l>
+<l>Dat wy Gód meer vólghen dan die ghewoonte vande landen.</l>
+<l>Laat ons veel meer vrezen int óórdeel te komen,</l>
+<l>Wyckt voor schandelycke eer, t'ewigh verdomen.</l>
+<l>Elck onderzoeck met ernst inder waarheyd blótelyck,</l>
+<l>Wat hy nóódlyck verteert, ende wat onnóótelyck:</l>
+<l>D'onnóótlycke kóst zal hy zó gróót aanschouwen,</l>
+<l>Dat hy een arm ghezind daar met moght onderhouwen.</l>
+<l>Verteert weynigh, gheeft veel en mindert t'bedroeven,</l>
+<l>Der rechte behoevers door u kleyn behoeven.</l>
+</lg>
+<div type="section">
+<pb n="t.o. 26"/>
+<head rend="h3">X X I I I I. <lb/><hi rend="i">Svmptvvm minvtio vt liberalitas avgeatvr.</hi></head>
+<p><hi rend="i">Quoniam propter vos egenus factus est, cùm esset diues, vt illius inopia diuites essetis. 2. Corinth. 8, 9.</hi></p>
+<p><hi rend="i">Qui habet duas tunicas, det non habenti.</hi></p>
+<p><hi rend="i">Luc. 3, 11.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0026.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Optimus ille Deo similem qui praestat amorem,</hi></l>
+<l rend="; 1tab"><hi rend="i">Vt fiat pauper, factus vt antè Deus.</hi></l>
+<l><hi rend="i">Imminuit sumptum luxus quo, donet egenis,</hi></l>
+<l rend="; 1tab"><hi rend="i">Vt largi illustris fiat imago Dei.</hi></l>
+</lg></div></div>
+<div type="chapter">
+<pb n="t.o.27"/>
+<head rend="h3">X X V.</head>
+<p><hi rend="i">Tunc dicet his qui à dextris erunt, Venite benedicti Patris mei, possidete paratum vobis regnum: &amp;c. Illis verò qui à sinistris, Discedite à me maledicti in ignem aeternum, &amp;c. Matth. 25.</hi></p>
+    <figure>
+        <p><xptr to="coor001rech01ill0027.gif"/></p>
+    </figure>
+<lg type="poem"><l><hi rend="i">Diues inópsque simul patienter ferte laborem,</hi></l>
+<l rend="; 1tab"><hi rend="i">Vt detis vigili parta labore piis.</hi></l>
+<l><hi rend="i">Sic vt oues Christum venientem in nube feretis,</hi></l>
+<l rend="; 1tab"><hi rend="i">A me cùm fuci dicet abite mali.</hi></l>
+</lg><p><hi rend="spat"><hi rend="i"><hi rend="sc">Finis</hi>.</hi></hi></p>
+
+<div type="section">
+<pb n="27"/>
+<head rend="h3">X X V. <lb/><hi rend="i">Oórdeel.</hi></head>
+<lg type="poem"><l><hi rend="i">Arm, nódruftigh, ryck, bruyckt u wel ghelyckelyck,</hi></l>
+<l><hi rend="i">Lydt duldigh, wint naarstigh, spaart matigh, deylt ryckelyck:</hi></l>
+<l><hi rend="i">Zó blyfdy als schaapkens int óórdeel by d'herder ghoed,</hi></l>
+<l><hi rend="i">Daar af alle bocken scheyden ter helscher gloed.</hi></l>
+</lg>
+<lg type="poem"><l>D'Alwetende rechter zal inden jongsten dagh,</l>
+<l>Elck gheven na zyn werck, lóón met vrueghd, óf straf met klagh.</l>
+<l>Wat elck hier doet óf lyd, magh wel óf qualyck gheschien,</l>
+<l>Voor ons rechters óóghen,  diet al wackerlyck aanzien:</l>
+<l>Ist dan niet lóflycker tót ons eewigh verblyden,</l>
+<l>Alles wel, dan qualyck te doen óf te lyden?</l>
+<l>1 Is iemand in armoe vól pynlycke onlust,</l>
+<l>Die schou quaad werck, óóck t'niet doen, dats qua rust:</l>
+<l>Al waar hy schóón zelve an zyn armoede schuldigh,</l>
+<l>T'schaadt hem niet, bruyckt hys recht, met lydsaamheyd duldigh.</l>
+<l>2 Die slechte nódruft heeft ghebruyckt die manierigh,</l>
+<l>Vermyehde hazard, smets, en spaarbeck gheldghierigh,</l>
+<l>Win eerlyck, teer matigh, en betrou den trouwen Gód,</l>
+<l>Zó bruyckt hy nódruft recht, na t'Goddelyck ghebód.</l>
+<l>3 De rycke vlie gróót behoef en ontrou bewaren,</l>
+<l>Zoeck levende kisten zyn schat in te vergharen,</l>
+<l>Veyligh voor den mótten, en voor t'dieflyck belaghen,</l>
+<l>En bruyck zó ryckdom recht na Godes wel behaghen.</l>
+<l>O hoe vrólyck en bly zullen deze anhoren,</l>
+<l>Dat laatste blyde wóórd <hi rend="i">komt myns Vaders verkoren.</hi></l>
+<l>Maar den misbruyckers zal vreeslyck t'hert doorsnyden,</l>
+<l>T'vreeselycke leste wóórd, <hi rend="i">ghaat ghy vermaledyden.</hi></l>
+</lg></div></div>
+<div type="chapter">
+<pb n="28"/>
+<head rend="h3">Eenighe misstelling inden druck, waar na de verstandighe licht andere helpen kan.</head>
+<p><hi rend="i">Blad.3. Reg. 8. </hi>goed, <hi rend="i">leest </hi>ghoed, <hi rend="i">ende meer voor </hi>g, <hi rend="i">leest </hi>gh.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">Blad 4. reg. 12. </hi>dóór, <hi rend="i">leest </hi>door.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">Blad. 6. reg. 14. ende 15. </hi>góde, nóde, <hi rend="i">leest </hi>gode, node.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">Blad 8. reg. 11. </hi>zoude, <hi rend="i">leest </hi>zonder.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">Blad 9. reg. 19.</hi> eelick, <hi rend="i">leest </hi>eerlyck.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">Blad 10. reg. 17. </hi>t'tytlyck, <hi rend="i">leest </hi>het tytlyck.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">reg. 21. </hi>ó Heer, <hi rend="i">leest </hi>o Heer.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">Bl. 11. reg. 12. </hi>naasticheid, <hi rend="i">leest </hi>naarsticheid.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">Bl. 12. reg. 5. </hi>heeft, <hi rend="i">leest </hi>leeft.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">reg. 16. </hi>dóórn, <hi rend="i">leest </hi>dóórnen.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">Bl. 15. reg. 17.</hi> menschelyker, <hi rend="i">leest </hi>menschelycke.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">Bl. 16. reg. 15. </hi>Góóds, <hi rend="i">leest </hi>Goods.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">reg. 20. ende 21. </hi>vóórdeel, óórdeel, <hi rend="i">leest </hi>voordeel oordeel.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">Bl. 17. reg. 10. </hi>blyck, <hi rend="i">leest </hi>blyckt.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">reg. 15. </hi>houd, <hi rend="i">leest </hi>hout.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">Bl. 18. reg. 8. </hi>vermeëert, <hi rend="i">leest</hi> vermeert.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">reg. 17. ende 18. </hi>mot, pot, <hi rend="i">leest </hi>mót, pót.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">reg. 25. </hi>datmen, <hi rend="i">leest </hi>datmer.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">Bl. 19 reg. 8. </hi>svleesch, <hi rend="i">leest </hi>s'vleeschs.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">reg. 19. ende 24. </hi>Góóds, <hi rend="i">leest </hi>Goods.</p>
+<p>&nbsp;</p>
+<p><hi rend="spat"><hi rend="i">FINIS.</hi></hi></p>
+
+</div>
+</body>
+</text>
+</TEI.2>

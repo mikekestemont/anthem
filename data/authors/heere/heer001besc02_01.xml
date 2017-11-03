@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "http://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Beschryvinghe van het ghene dat vertoocht wierdt ter incomste van d'excellentie des princen van Oraengiën binnen der stede van Ghendt</title>
+               <author>Lucas de Heere</author>
+               <editor>Editie Ph. Blommaert</editor>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Beschryvinghe van het ghene dat vertoocht wierdt ter incomste van d'excellentie des princen van Oraengiën binnen der stede van Ghendt</hi> van Lucas de Heere, in een editie van Ph. Blommaert uit 1852. Het originele werk verscheen in 1578.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 7: de kop ‘Woord vooraf’ is tussen vierkante haken toegevoegd.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2, 6, 34<!-- specificeer de lege pagina's hier --></empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">heer001besc02_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2012 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note type="clarin-edite">yes</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar universiteitsbibliotheek Leiden, signatuur: 1075 B 16</idno>
+               </bibl>
+               <p>Lucas de Heere, <hi rend="i">Beschryvinghe van het ghene dat vertoocht wierdt ter incomste van d'excellentie des princen van Oraengiën binnen der stede van Ghendt</hi> (ed. Ph. Blommaert). C. Annoot-Braeckman, Gent 1852</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Beschryvinghe van het ghene dat vertoocht wierdt ter incomste van d'excellentie des princen van Oraengiën binnen der stede van Ghendt</title>
+               <author>Lucas de Heere</author>
+               <editor>Editie Ph. Blommaert</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Beschryvinghe van het ghene dat vertoocht wierdt ter incomste van d'excellentie des princen van Oraengiën binnen der stede van Ghendt</title>
+               <author>Lucas de Heere</author>
+               <editor>Editie Ph. Blommaert</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2012-02-28</date>
+               <respStmt>
+                   <name type="person">DH</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<body>
+<cf>
+<div type="chapter">
+<pb n="1"/>
+<p>MAETSCHAPPY <hi rend="sc">der</hi> VLAEMSCHE BIBLIOPHILEN.</p>
+<p>&nbsp;</p>
+<p>2<hi rend="sup">e</hi> SERIE.</p>
+<p>&nbsp;</p>
+<p>WERKEN VOOR DE LEDEN ALLEEN BESTEMD.</p>
+<p>&nbsp;</p>
+<p>N<hi rend="sup">r</hi> IV.</p>
+<pb n="3"/>
+<p>BESCHRYVINGHE <hi rend="sc">van het ghene</hi> DAT VERTOOCHT WIERDT TER INCOMSTE VAN D'EXCELLENTIE <hi rend="sc">des</hi> PRINCEN VAN ORAENGIEN BINNEN DER STEDE VAN GHENDT, <hi rend="sc">den</hi> XXIX <hi rend="sc">decembris</hi> 1577.</p>
+<pb n="4"/>
+<p>N<hi rend="sup">o</hi> 34.</p>
+<p>&nbsp;</p>
+<p><hi rend="sc">Exemplaer van</hi> M. ANT. DAEL.</p>
+<p>&nbsp;</p>
+<p><hi rend="sc">De Voorzitter</hi>,</p>
+<p><figure>
+<p><xptr to="heer001besc02ill0001.gif"/></p></figure></p>
+<p><hi rend="sc">De Secretaris</hi>,</p>
+<p><figure>
+<p><xptr to="heer001besc02ill0002.gif"/></p></figure></p>
+<pb n="5"/>
+<p>BESCHRYVINGHE van het ghene dat VERTOOCHT WIERDT TER INCOMSTE VAN D'EXCELLENTIE des PRINCEN VAN ORAENGIEN BINNEN DER STEDE VAN GHENDT, den XXIX decembris 1577.</p>
+<p><figure>
+<p><xptr to="heer001besc02ill0003.gif"/></p></figure></p>
+<p>GENT,</p>
+<p>DRUKKERY VAN C. ANNOOT-BRAECKMAN.</p>
+<p>1852.</p>
+</div>
+</cf>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="blom013"/>
+</interpGrp>
+<pb n="7"/>
+<head rend="h3">[Woord vooraf]</head>
+<p>De inkomst des prinsen van Oranje te Gent, den 29 December 1577, werd door de onlusten veroorzaekt, die op het sluiten der Gentsche Bevrediging, alhier ontstonden.</p>
+<p>Sinds tien jaren duerde de kryg voort tusschen Spanje en België, tusschen Philips II en de Staten dezer landen. Philips wilde de Vlamingen als de Spanjaerden willekeurig besturen, niet slechts in politische, maer ook in godsdienstige zaken. De Belgen, immer het vrye onderzoek eerbiedigende, waren over de hiertegen strydende en onwettiglyk ingevoerde plakkaten ontevreden, en begeerden niets meer dan het behouden der sinds eeuwen bestaende staetsinrigtingen.</p>
+<p>Het heffen van ontoegestane zettingen, het verblyf der spaensche krygsbenden te lande, de oprechting der nieuwe
+<pb n="8"/>bisdommen en andere nieuwigheden veroorzaekten eene algemeene gisting. Krachtige vertoogen werden hierover aen het bestuer ingediend; maer daer deze in den wind geslagen werden, ontstonden welhaest beroerten en hevige opschuddingen, waerop koning Philips den hertog van Alba herwaerts zond, om door 't geweld der wapenen deze gewesten aen Spanje te onderwerpen.</p>
+<p>Alba's schrikbewind wrocht allerverderfelykst, en bereidde eene geweldige en schier onwederstaenbare terugwerking, die na den dood van zynen opvolger Louis de Requesens, by de muiteryen der spaensche troepen, zoo krachtig uitborst dat de ervaren veldoverste Juan van Oostenryk ze vruchteloos trachtte tegen te gaen en te stuiten. - Wanneer de Raed van State in 't jaer 1576 het bestuer des lands in handen nam, was hetzelve in eene deerlyke gesteltenis. Duizenden der aenzienlykste ingezetenen hadden het land verlaten; landbouw en koophandel, de twee voorname bronnen van welvaert en voorspoed werden op alle wyzen gestremd; maer de grootste overlast werd door het spaensch leger berokkend, die zonder tucht of ontzag baldadig en wreed te werk ging. Steden plunderen, ongewapende burgers vermoorden, het platte land verwoesten en immer om geld roepen, waren hunne voorname verrichtingen. Het was alsdan dat de Raed van State, by besluit van 29 July 1576, op 't verzoek der stad Brussel en der staten van Bra-<pb n="9"/>band, de oproerige Spanjaerds wederspannig aen den koning en vyanden des lands verklaerde. De standen van Vlaenderen, bestaende uit de bisschoppen, abten, afgezanten der mindere steden, der kasselryen van geheel Vlaenderen met de vier leden des lands, vereenigden zich ook, den 14 September 1576, ten huize van 's konings stedehouder van Vlaenderen, den grave van Roeux, om hierover te beraedslagen: ‘In deze vergadering, zegt pater De Jonghe, werd in 't breed voorgehouden, hoe het spaensch gouvernement strekte om van Vlaenderen en geheel Nederland een conquest te maken, zoo bleek uit hunnen handel te Dendermonde, te Aelst en te Mechelen, met de inbreuke der privilegien, de oprechtinge van commanderyen onder hen van de verbeurde en geestelyke goederen; en vervolgens dat men behoorde te besluiten alle de Spanjaerden als stoorders van de gemeene rust uit het land te verdryven, en ten dien einde gezanten naer Brussel te zenden om zich met die van Braband,
+Henegouwen en andere landen te vervoegen.’ De voorstel werd met eenparige stemmen aengenomen, en als uitvloeisel dezes werd ook besloten troepen te lichten om de Spanjaerden, die nog het kasteel te Gent en de stad Aelst bezetten, weg te jagen. Het kasteel te Gent werd door de staetsche krygsbenden ingesloten, en de Spanjaerden werden welhaest gedwongen hetzelve na eenige weken beleg, den 11 November 1576, over te geven. Zy
+<pb n="10"/>behielden lyf en goed; maer moesten zonder wapenen uittrekken.</p>
+<p>Ten zelfden tyde en gedurende dit beleg waren afgezanten van alle de provintien te Gent byeen gekomen om den vredehandel éen jaer te voren te Breda begonnen te hernemen, en eene overeenkomst en wederzydsch verbond tusschen de Nederlandsche landschappen te sluiten. Daer verschenen ten Stadhuize de gevolmachtigden van wege de abten, edelen, steden en landen van Braband, Vlaenderen, Artois, Henegouwen, Holland en Zeeland; en deze benaerstigden zoo zeer hunne werkzaemheden dat zy na weinige dagen over de byzonderste zwarigheden overeen gekomen waren. Het verdrag, bestaende in 25 artikelen, werd reeds den 8 November 1576, na het te Brussel door den Raed van State goedgekeurd was, ten tuine van het Stadhuis afgekondigd. - Deze vrede behelsde voornamelyk de volgende punten: 1<hi rend="sup">o</hi> Men zou met vereende kracht de spaensche en andere vreemde soldaten uit het land verdryven en dezelve daer buiten houden. - 2<hi rend="sup">o</hi> Zoo haest mogelyk de algemeene staten byeen roepen, als in 't jaer 1555, om bepaeldelyk over de vryheid der godsdienst een besluit te nemen, en over de terruggave der steden, sterkten, enz., vooral in de provintie Holland, den koning tocbehoorende. - 3<hi rend="sup">o</hi> Alle de plakkaten op het stuk van kettery uitgegeven, mitsgaders de lyfstraffelyke ordonnantien van den hertog van Alba werden ingetrokken en
+<pb n="11"/>vernietigd. - 4<hi rend="sup">o</hi> De pilaren, opschriften, zegeteekenen, door den hertog van Alba opgerecht tot schande van 't land, zouden afgebroken worden. - 5<hi rend="sup">o</hi> De uitwykelingen of derzelver weduwen, kinders of erfgenamen, zouden hersteld worden in hunne goederen, die niet verkocht of vernietigd waren.</p>
+<p>Dit waren, zoo men ziet, zeer gematige besluiten, en bestemd om een goed uitwerksel te hebben. Reeds vroeger had de provintie Vlaenderen van den Raed van State de verzekering bekomen dat geene belastingen meer zouden geheven worden, zonder toestemming der standen, en de stad Gent in het byzonder dat zy in al hare voorrechten en oude gewoonten zou hersteld worden, als vóor de afschaffing derzelve ten jare 1540.</p>
+<p>Des niet te min rees hier eene overdrevene party op, die met Jan van Hembyze aen het hoofd, ontevreden was over de vryheid van godsdienst, maer de Hervorming uitsluitend wilde gedoogen, en de herstelling der stadsprivilegien en oude kiezingwyze der schepenen oogenblikkelyk wilde heringevoerd hebben, waerover oneenigheid ontstond met den gouverneur van Vlaenderen, den hertog van Aerschot. Ondertusschen waren de vier leden van Vlaenderen te Gent byeen gekomen, en daer Hembyze voor eigen gevaer begon te vreezen, nam hy tot het uiterste geweld zynen toevlucht. Met behulp van Fr. van den Kethulle, heer van Ryhove, werden by eenen gewapenden volksoploop, al de
+<pb n="12"/>hooge beambten en invloedhebbende persoonen gevangen genomen, de privilegien der stad Gent hersteld, en de hervormde godsdienst uitsluitelyk gedoogd, hetgeen strydig was tegen de bepalingen van de kort te voren geslotene vrede of pacificatie<note n="(1)" place="foot">Tegen dezen godsdienstyver werd voorzien door de zoogenoemde <hi rend="i">Religionsvrede</hi>, den 22 July 1578, te Antwerpen gesloten, en die onmiddelyk te Antwerpen, Mechelen, Breda, Lier, Brugge, Ypre, in Gelderen en Vriesland werd aengenomen; maer te Gent slechts by overeenkomst van 16 December 1578, waerby de katholyken S. Michielskerk, S. Nieolaes, S. Pharaïlde, S. Jacobs en de kapelle van S. Catharina op 't Zand bekwamen; de hervormden behielden S. Janskerk (nu S. Baefs), 's Heiligen Kerst en O.L. Vrouwenkerk te S. Pieters, mitsgaders de kerken der Predikheeren, der geschoeide Carmelieten of O.L. Vrouwenbroeders, het Voldershuis en de Weverskapelle.</note>.</p>
+<p>Het was te dezer gelegenheid dat de vier leden van Vlaenderen den prins van Oranje verzochten naer Gent te komen om de geschondene pacificatie te handhaven en de rust te herstellen. De prins van Oranje, die tot Ruwaert van Braband benoemd was en te Antwerpen verbleef, willigde hun verzoek in, en toog over Dendermonde naer Gent, waer hy den 29 December 1577 met geestdrift werd ontvangen. Om vier uren namiddag kwam hy langs de Dampoort in de stad, met den grave Jan van Nassau, zynen broeder, zittende in eenen duitschen wagen, vergezelschapt met een vaendel gewapende burgers van Antwerpen. Hy werd, door de schepenen van beide banken, en een groot getal voorname inwooners met negen vaendelen burgers en de busschieters,
+<pb n="13"/>tot buiten de poort tegengegaen en geleid tusschen twee ryen burgers, die witte brandende fakkels droegen, tot aen het Hof van Wacken, te Poele, waer hy intrek nam.</p>
+<p>De straten langs waer de stoet henen toog waren ryk versierd en verlicht door menigvuldige toortsen en pektonnen; ook waren zy door drie theaters, waerop zinnebeeldige vertooningen gegeven werden, opgeluisterd. De eerste schouwburch was aen S. Jacobs-kerk opgerecht door de hoofdkamer der Nederduitsche Rhetoryken, gezeid: <hi rend="i">Jesus met de balsembloem,</hi> en aldaer werd Judas Machabeus vertoond, zyne vyanden met kleine heirkracht verwinnende. De vluchtende Spanjaerden werden door personnagien verbeeld, die <hi rend="i">Geweld, Roof, Moord</hi> en <hi rend="i">Verraed</hi> verzinnelykten, en die de <hi rend="i">Inquisitie,</hi> als een mager, leelyk vrouwmensch voorgesteld, wilden voorthelpen en hier in het land indringen. Eene personnagie <hi rend="i">Historie</hi> genaemd verwillekomde Zyne Excellentie met de volgende verzen:</p>
+<lg type="poem">
+<l>Doen het Nederlandt was seer ellendich gheschonden</l>
+<l rend="; 1tab">Met doodelicke wonden,</l>
+<l rend="; 1tab">Door 't spaensche ghebroet,</l>
+<l>Sijt ghy, Machabeus, t' sijnder hulpe ghesonden.</l>
+<l rend="; 1tab">Met de Staten verbonden</l>
+<l rend="; 1tab">Hebt met u lijf en goet</l>
+<l>Ons gheluckich bewaert als een recht vader doet,</l>
+<l>En 's landts recht voorghestaen, synen vyandt verdreven,</l>
+<l>Dies men Godt, als oorsprone, voor eeuwich prysen moet,</l>
+<l>En u, door wien het landt dees weldaet is ghegheyen.</l></lg>
+<pb n="14"/>
+<p>Op den schouwburch vóor het stadhuis werden twee zinnebeelden vertoond: <hi rend="i">de Gentsche Vrede</hi> en <hi rend="i">den Beschermer des Vaderlands;</hi> beide in schoone groepen voorgesteld. De maegd, die de Gentsche Vrede verbeeldde, was omgord met eenen sluijer van 's prinsen kleuren, waermede zy te zamen vereenigd hield, twee manspersonnagien, verbeeldende de eene de Katholyken, de andere de Protestanten. Deze maegd smeedde eene gouden keten van 17 schakels met de wapenen der 17 provintien, en onder het aenbeld lag de <hi rend="i">Tweedracht</hi>, als den hertog van Alba afgebeeld, die uit nyd zyn bloedend herte at.</p>
+<p>De derde schouwburch rees vóor het hof van Wacken, waer de prins intrek nam. Daer zat de Maegd van Gent te midden eenen kring ryk versierde juffers, allegorische beelden vertoonende, en omringd door 54 maegden met de wapenschilden der neringen van de stad. De Maegd van Gent bood den prins een open hart van fyn goud aen, waerin <hi rend="i">Sinceritas</hi> geschreven stond. - Toen de vorst was afgestapt werd hy door de hooge beambten en notabelen begroet en verwillekomd.</p>
+<p>Dit is de korte inhoud van het belangvolle werkje, dat wy hier uitgeven, en door den gelyktydigen schilder en dichter Lucas Dheere werd opgesteld; het vond zulken aftrek dat het in weinige maenden drie malen werd herdrukt. De eerste uitgave heeft tot titel: <hi rend="i">Beschryvinghe van hetghene</hi>
+<pb n="15"/><hi rend="i">dat vertoocht wierd ter incomste van d'Excellentie des prinsen van Oraengien, binnen der stede van Ghendt, den</hi> <hi rend="sc">xxix</hi> <hi rend="i">Decembris</hi> 1577. <hi rend="i">Te Ghendt, by de weduwe van Pieter De Clerck, wonende te Putte, in de Witte Duyve. Anno</hi> M.D.LXXVIIJ. Op den titel tusschen het opschrift en den naem des drukkers is het wapen der stad Gent: de zilveren leeuw op een veld van sabel, omringd met eenen krans lauwer- en oranjebladeren. Het behelst 12 bladzyden, in kl. 4<hi rend="sup">o</hi> zonder bladteekening.</p>
+<p>De tweede uitgave is nagenoeg aen de eerste gelyk, ter uitzondering dat er op den titel geplaetst werd: <hi rend="i">Van nieus vermeerdert ende verbetert;</hi> en ter laetste bladzyde het referein ingevoegd werd door L. Dheere vervaerdigd met het volgende opschrift: <hi rend="i">Refereyn ghepresenteert aen zijnder Excellentie t' synen vertrecke, den</hi> 15 <hi rend="i">January</hi> 1578.</p>
+<p>De derde uitgave is met eene andere letter gedrukt, en mogelyk wel in eene andere stad; zy draegt den Gentschen Leeuw ten titel niet, en onderaen, zonder melding van stad of drukker, staet alleenlyk: <hi rend="i">Ghedruckt in 't jaer Ons Heeren</hi> 1578. Eenige kleine veranderingen zyn aen den tekst toegebracht, onder andere in de beschryving van het vertoog vóor het stadhuis vindt men in de eerste uitgave: Werden door twee personnagien verbeeldt: <hi rend="i">een Catholick en een Protestant;</hi> in deze uitgave staet er bygevoegd: ‘Ghevende te kennen de vereenicheyt van beyde de voornoemde partyen
+<pb n="16"/>deur desen paeys ghedaen.’ Ten zelfden tooneele smeedde de Maegd, die de Gentsche Pacificatie vertoonde, de keten van de 17 provintien, en onder het aenbeld lag <hi rend="i">eene manspersonnagie in 't volle harnasch met eenen langhen witten baerde, representerende den persoon van duc d'Albe</hi>; alhier staet alleenlyk: ‘Eene manspersonnagie in 't volle harnasch, genaemt <hi rend="i">Tweedracht</hi>.’</p>
+<p>Zeer zeldzaem is dit werkje geworden, en slechts enkele exemplaren staen bekend. Te Gent bezit de heer Fr. Vergauwen, voorzitter der maetschappy, de eerste en de derde uitgaven; de heer P. Goetghebuer en de heer archivaris P. Van der Meersch hebben exemplaren der tweede uitgave. - Gemelde heeren hebben met de meeste bereidwilligheid hunne exemplaren my te leen gegeven, ten einde dezelve te vergelyken en eene zoo nauwkeurig mogelyke uitgave te verschaffen, waerover ik hier denzelven mynen openlyken dank toebreng.</p>
+<p>&nbsp;</p>
+<p><hi rend="sc">Ph<hi rend="sup">s</hi>. Blommaert</hi>.</p>
+</div>
+    <div type="chapter"><interpGrp><interp type="primair" value="heer001besc01"/></interpGrp>
+<interpGrp>
+<interp type="secundair" value="15771229"/>
+</interpGrp>
+<pb n="17"/>
+<head rend="h3">Beschryvinghe van het ghene dat vertoocht wierdt ter incomste van d'excellentie des Princen van Oraengien binnen der stede van Ghendt, den XXIX decembris 1577.</head>
+<head rend="h4">L. d'Heere tot den Lesere.</head>
+<p>Sijn Excellentie ter bede van de vier leden slands nae de stede van Ghendt commende den neghen en twintichsten Decembris M.D. LXXVII. met grave Jan zijn broeder ende ander Heeren, hondert tseventich Borghers soldaten van Andtwerpen, heeft aldaer feestelic ende eerlic ontfanghen ende onthaelt gheweest by de vier leden slandts, ende byzonder van de Heeren, Notable, ende Borghers der zelver stede; ghelijck hier nae int corte bewesen werdt:</p>
+<p>Ten eersten, werdt hy van Temsike (daer hy 's daechs te voren ooe eerlic ontfanghen was, ende den voorleden nacht ghelogiert hadde) ghehaelt by twee hondert Ghendtsche
+<pb n="18"/>soldaten, gheleit zijnde van den Heere van Croovelde. Ende de stede nakende werdt ghemoett by den Bailliu, eenighe Schepenen, Notablen, Edelmannen, Cooplieden ende ander Borghers te peerde zijnde tot ontrent twee hondert, ende daer neffens ghynghen hem teghen zes hondert Borgers soldaten, wel toegherust, de welcke gheordonneert waren om zijn wacht binnen der stede te zyne, Ende zo in de stadt commende, werdt ghemoett ende gheleedt met <hi rend="sc">liiii</hi> flambeaux, by de <hi rend="sc">liiii</hi> enapen der Neerynghen ghedreghen zijnde neffens ende voren zijn Excellentie, in twee reken ofte roten, Ende hier neffens waerender <hi rend="sc">liiii</hi> picktonnen, over beyde zyden van der straeten staende, van de poorte tot zijn logement.</p>
+<p>Aen Sinte Jacobs Kercke commende vondt zijn Excellentie daer een vertooch ghedaen by het souverain gulden van den name Jesus, ghezeyt de Balseme, in der manieren als hier naer volcht.</p>
+<p>Daer was vooren in de rechte zyde Judas Machabeus int volle harnasch, representerende zyne Excellentie strydende voor het vaderlandt, hebbende achter hem <hi rend="i">de dry staten des landts</hi> in eenen persoon so genaemt, de welcke op thooft hadde een fluweelen bonnette als een Edelman, ende eenen langhen priesters tabbaert aen d'een schouder, ende de reste als een ghemeen borgher; daer volchde eenen soldaet en een bootsgheselle, daeraf d'een hiet <hi rend="i">Ghewillighen aerbeit</hi>, ende den anderen hiet <hi rend="i">Cloec herte</hi>. Achter hemlien volghende <hi rend="i">Liefde des vaderlandts,</hi> diese voortstaek, hebbende in de handt een bernende tortse ende de wapen der Nederlanden op haer borst; daer was ooe by de oude <hi rend="i">Vryheyt</hi>, welcke eenighe oude privilegien in dhandt hielt, waer voren dese
+<pb n="19"/>Machabeus ende de ander schenen te stryden; van boven uut de wolcken quam een handt met een riet, dalende op Machabeus hooft, heetende <hi rend="i">Ghenade Gods</hi>, waer door Machabeus met cleen macht de machtighe vianden overwonnen heeft. Op d'ander zyde van der stellage waren dry Spaensche soldaten daer af den eenen hiet <hi rend="i">Ghewelt</hi>, den anderen <hi rend="i">Moort</hi>, den derden <hi rend="i">Roof; Ghewelt</hi> hebbende een bloedich zweert, <hi rend="i">Moort</hi> een koorde ende busse, <hi rend="i">Roof</hi> hadde een pacxken, daer was ooc <hi rend="i">Verraet</hi>, hebbende een schoon aensicht vooren en achter een leelick, onder haer was een vrauwe ghenaemt <hi rend="i">Inquisitie</hi>, magher ende leelic, zijnde ghecleedt ghelijc eenen spaenschen pape, ende het scheen datse dese vrauwe wilden advanceren ende voortdrynghen.</p>
+<p>Voren an beyde zyden stonden dese twee personnagien, de eene ghenaemt <hi rend="i">Rethorica</hi>, ende de tweede <hi rend="i">Historie</hi>, die tot zyne Excellentie dese woorden spraken; Rhetorica sprack dese naevolghende woorden:</p>
+<lg type="poem">
+<l>Des levens vrucht, met alderley weldaden goet</l>
+<l rend="; 1tab">In Jesus naem wenschen wy Balsemieren u,</l>
+<l>Princelic Vurst, biddend' uwer ghenaden vroet</l>
+<l rend="; 1tab">Neemt doch in danc ons jonstich obedieren nu.</l></lg>
+<p>Historie sprack dese naevolghende woorden:</p>
+<lg type="poem">
+<l>Doen het Nederlandt was seer cllendich gheschouden</l>
+<l>Met doodelicke wonden</l>
+<l>Deur het spaensche ghebroet,</l>
+<l>Zijt ghy Machabeus tzijnder hulpe ghesonden;</l>
+<l>Met de Staten verbonden</l>
+<l>Hebt met u lijf en goet</l>
+<pb n="20"/>
+<l>Ons gheluckich bewaert, als een recht vader doet,</l>
+<l>En slands recht voorghestaen, zynen vyand verdreven,</l>
+<l>Dies men God als oorspronck voor eeuwich prijsen moet,</l>
+<l>En u door wieu het landt, dees weldaet is ghegheven.</l></lg>
+<lg type="poem">
+<head>Rabat-rolle.</head>
+<l>Machabeus heeft t' Landt ende Gods Wet voorghestaen,</l>
+<l>Soo heeft desen Prince oock seer gheluckich ghedaen.</l></lg>
+<div type="section">
+<head rend="h4"><hi rend="i">Figuere of spectacle voor den Prince van der Fonteyne, ghenaemt de Drievuldicheyt, den Deken van Barbara, den Deken van Agnes, ghenaemt de Bommeloose Mande, den Deken van Maria ter eeren, representerende tsamen de vier Cameren van Rethorijcken, ghedaen ter blyder incompste van den Edelen Prince ende hoochgheboren Vorst den Prince van Oraengien, Grave van Nassauwen, binnen der voorseyder stede, den</hi> 29 <hi rend="i">Decembris</hi> 1577.</head>
+<p>Eerst stondt op een stellijnghe, costelick ghecleedt ende verciert voor het stadhuus deser stede, een maecht ghenaemt <hi rend="i">Gendtsche Vrede</hi>, ghehabitueert int roo fluweel ende roode zyde, de welcke hadde op thooft een stadt van dick pampier, met torren, huysen ende dierghelijcke, in teecken dat den paeys tusschen den Coninck onsen souvereinen Heere, ende zyne Excellentie metten Staten van Hollandt, Zeelandt, binnen der voornoumde stede van Ghendt ghemaect is gheweest den <hi rend="sc">viii</hi> Novembris 1576. Haer rabat-rolle was ludende aldus:</p>
+<lg type="poem">
+<l>Op stercheyt Ghendsche vrede smeett zeventhien landauwen</l>
+<l>Weerende discoort door den hamer vol trauwen.</l></lg>
+<pb n="21"/>
+<p>De Ghendsche vrede prononchiert dees vijf regulen:</p>
+<lg type="poem">
+<l>De Heere heeft door u handt, o Princ' seer hoogh gheboren,</l>
+<l>Ghemaect my Ghendtschen paeys, zijn dochter uutvercoren,</l>
+<l>Die by een heb ghevoeght veel verscheyden partyen,</l>
+<l>End' hebbe wech ghejaecht slandts vyanden ghesworen,</l>
+<l>Dies de landen met u in God te rechte verblyen.</l></lg>
+<p>Ende dese maecht was ghegort in een gordel van sprince paluere: Oraengie, wit en blau, daermede zy tsamen gevoegt ende vereenicht hielt twee mans personagien statclic ghecleedt, deene ter rechter zyden, genaemt <hi rend="i">Catholick</hi> ende dander ter slincker zyden ghenaemt <hi rend="i">Protestant</hi>.</p>
+<p>Item de zelve maecht smeedde op een ambilck een ketene van zeventhien schakels, de welcke ghemaect was van gouden tendtvel, elcken schakel hadde zijn wapen van elc landt in ordene, de welcke sy smeedde ende vereenichde metten hamer, <hi rend="i">vol trauwen</hi>, op tvoornoemde ambilc, ghenaemt <hi rend="i">stercheyt oft cloeckmoedicheyt</hi>, onder dwelc ambilck lach een mans personnagie int volle harnasch met eenen langhen witten baerde, representerende den persoon van <hi rend="i">duc d'Alve</hi>, ende als zyne Excellentic voor de stellinghe ruste, nae dat de <hi rend="i">Ghendtsche vrede</hi> ghesproken hadde, hy scheurde nydich zijn habijt dat hy over zijn wapen hadde ende att zijn herte bloedich. Onder het ambilck was zyne rabat-rolle, ludende aldus:</p>
+<lg type="poem">
+<l>Om dat Ghendtsche vrede weert tweedracht feninich,</l>
+<l>Ete ick mijns zelfs herte serpentinich.</l></lg>
+<p>Item daer-stond een maecht ghenaemt <hi rend="i">Gheloove</hi>, geeleet int witte, en haer rolle was ludende aldus:</p>
+<lg type="poem">
+<l>Ick Gheloove, leere Gods woordt onderhouden.</l></lg>
+<pb n="22"/>
+<p>Item een maecht ghenaemt <hi rend="i">Waerheyt</hi>, ghecleedt int blauwe, haer rolle luudt aldus:</p>
+<lg type="poem">
+<l>Ick Waerheyt te rechte alle zaken openbaere.</l></lg>
+<p>Item een maecht ghenaemt <hi rend="i">Gheduericheyt</hi>, gheeleedt int Oraengie, danof haer rolle luudt aldus:</p>
+<lg type="poem">
+<l>Deur mijn Gheduericheyt comt men uut benauwen.</l></lg>
+<p>Item een maecht ghenaemt <hi rend="i">Discretie</hi>, danof haer rolle luudt aldus:</p>
+<lg type="poem">
+<l>Costuyme verzouct alle statuyten verheven.</l></lg>
+<p>Item een maecht ghenaemt <hi rend="i">Compact</hi>, ende haer rolle luudt aldus:</p>
+<lg type="poem">
+<l>Compact lecht allen twist onder voet.</l></lg>
+<p>Item op elcken houck van der stellynghe stont een triumphante maecht ghenaemt <hi rend="i">Rethorica</hi>, gheheel int witte gheabitueert, elc met eenen laurier hoedt in de handt ende een tortse, ghenaemt <hi rend="i">Vierich verlynghen</hi>. Den stock van de tortse geschildert oraenge, wit en blau.</p>
+<p>Item int midden van der stellynghe stondt <hi rend="i">Mercurius</hi>, ende hadde in zijn handt een tortse, ooc ghenaemt <hi rend="i">Vierich verlynghen</hi>, gheschildert als vooren.</p>
+<p>Item een rabat-rolle boven de maecht, ghenaemt <hi rend="i">Ghendtsche vrede</hi>.</p>
+<lg type="poem">
+<l>Ghelijc een keten ghesmeedt van smedts handen int yser crachtich</l>
+<l>So is accord deur liefde onbrekelic warachtich.</l></lg>
+</div>
+<div type="section">
+<pb n="23"/>
+<head rend="h4"><hi rend="i">Den willecomme des Princen</hi>.</head>
+<p>De rabat-rolle hanghende boven thooft van der eerste maecht ghenaemt <hi rend="i">Rethorica</hi> ludende aldus:</p>
+<lg type="poem">
+<l>Edel Nassauwe, weerdt boven den gauwe</l>
+<l>Van my verheven,</l>
+<l>U liefde constant, zeer abondant,</l>
+<l>Wilt my die gheven.</l></lg>
+<p>Reponce van der rabat-rolle van d'ander maecht ghenaemt <hi rend="i">Rethorica:</hi></p>
+<lg type="poem">
+<l>Den oppersten Heere, u glorie vermeere</l>
+<l>Tot u lauderen,</l>
+<l>Om mijn recht te cryghen, en wilt niet zwyghen</l>
+<l>Wilt my assisteren.</l></lg>
+<p>De rabat-rolle boven thooft van <hi rend="i">Mercurius</hi> in midden van der stellynghen:</p>
+<lg type="poem">
+<l>Edel Princelic vorst, reyn deuchdelic wesen,</l>
+<l>Uwen persoon is willecome binnen Gheudt ghepreseu.</l></lg>
+<p>Item daer was noch dese rabat-rolle ludende aldus:</p>
+<lg type="poem">
+<l>Princelic licht van Duutschen bloede,</l>
+<l>Wilt my bewaeren tot aller tijt</l>
+<l>Naerst God stell' ic my in u hoede,</l>
+<l>U outfanghende met herten verblijdt.</l></lg>
+<p><hi rend="i">De figuere van het tweede spectacle op de zelve stellynghe camerwijs afghestelt</hi>.</p>
+<p>Item daer stont eens mans personagie, ghenaemt
+<pb n="24"/><hi rend="i">Beschermer der Nederlanden</hi> int volle harnasch, ghecleedt met een heraultrock met sprincen paluere boven zijn corselet oft wapene, hy badde in deen handt een zweert, daer op dat gheschreven stont: <hi rend="i">Voor tgheloove en tvaderlandt</hi>; hy hadde in dander handt een herte, ghenacmt <hi rend="i">Bystandighe trauwe</hi>. Op zijn rechte zyde stond een triomphante maecht, ghenaemt <hi rend="i">Wijsheyt</hi>, hebbende in de handt een palm-tack in teccken van pacyse, ende ter slyncker zyden stondt noch een maecht, ghenaemt <hi rend="i">Stercheyt</hi>, de welcke hadde in de handt een colonne. Voor hemlieden stonden twee maechdekens, d'eene ghenaemt <hi rend="i">Eendrachticheyt</hi>, ende dander ghenaemt <hi rend="i">Accoordt</hi>, elc costelic ghehabitueert na heurlieder staet, de welcke hielden in dhandt een rabat-rolle ludende aldus:</p>
+<lg type="poem">
+<l>Deur cracht van liefde en bystandighe trauwe</l>
+<l>Midts wijsheyt van God, die my daer toe moveerde,</l>
+<l>Heb ie in paeyse brocht de Nederlandsche landauwe,</l>
+<l>Stercheyt my ooc daertoe assisteerde.</l></lg>
+<p>Dese rabat-rolle stondt aent rabat an de gordyne ludende aldus:</p>
+<lg type="poem">
+<l>Edel Prince excellent, die de maecht van Ghendt</l>
+<l>Helpt uut allen doleuren,</l>
+<l>Willecomme zijt, die elcken verblijdt</l>
+<l>En brijnet uut treuren.</l></lg>
+<p>Item daer stonden noch twee Nimphen op elcke zyde van den beschermer der Nederlanden, deen ghenaemt <hi rend="i">Goede ghewillighe liefde</hi>, ende dander ghenaemt <hi rend="i">Goede jonste</hi>, den zelven beschermer der Nederlanden omagie doende.</p>
+<pb n="25"/>
+<p>Item onder de voeten van den beschermer der Nederlanden lach moort, brantschat, ende vrauwen-eracht.</p>
+<p>Item zijn Excellentie voor tspectacle rustende, was dit nae volghende liedekin met drye stemmen, uter wilder musycke ghesonghen:</p>
+<lg type="poem">
+<head>Liedekin.</head>
+<l>Willecomene zijt, ghy Edel Prince rein</l>
+<l>Van Oraengen zoet,</l>
+<l>Die nu ter tijt, hier binnen 't Ghendtsche plein</l>
+<l>Verhuecht elcx herte bloet</l>
+<l>Door u incomste wijs en vroet;</l>
+<l>Reyn Princelic Princhier,</l>
+<l>Wy presenteren voor u lijf ende goet</l>
+<l>Met blyden moet</l>
+<l>Uut der liefden vloet, als cloecke leeuwen fier.</l>
+<l>&nbsp;</l>
+<l>Weest nu verheucht, reyn edel maecht van Ghendt,</l>
+<l>In dit blyde saysoen,</l>
+<l>Deur d'eerbaer deucht van den Prince excellent</l>
+<l>Uut puerder liefden coen,</l>
+<l>Die hem uut jonsten tot u wilt spoen</l>
+<l>Deur zijn edel bedrijf;</l>
+<l>Want hy wilt u met zynen bloede voen</l>
+<l>Uut liefden groen</l>
+<l>Naer zijn bemoen, als twee zielen in een lijf.</l></lg>
+<p>Item op de zelve stellynghe was ghestelt de wapen van onsen coninc Philips, ende ter slyncker zyden de wapen van den Prince, op 's Coninex wapen stondt gheschreven, <hi rend="i">Den coninc ter eeren</hi>, ende op de wapen van den Prince <hi rend="i">Mijn begheerte is oprecht</hi>, dwelcke by een brynghende is tverstandt: <hi rend="i">Mijn begheerte is oprecht den Coninc ter eeren</hi>.</p>
+</div>
+<div type="section">
+<pb n="26"/>
+<head rend="h4"><hi rend="i">Verclaringhe van het vertooch dat ghedaen wierdt voor het hof van Zyne Excellentie:</hi></head>
+<p>Daer was ghemaect een groote stellaige met pilaren ende een Pyramide verheven, waerop stonden de wapenen des Nederlandts in midden: hebbende daer neffens d'oude ende nieuwe wapenen van Vlaenderen, van Ghendt, Yperen, Brugghe ende het Vrye: ende daer stondt gheschreven dat hier navolcht:</p>
+<lg type="poem">
+<l>Och hoe heughelic ist voor de maecht deser stede</l>
+<l>Te zien een vrome vorst commen in sheeren name</l>
+<l>T'haren rechten oorbor, en ten versoecke mede</l>
+<l>Van de leden des landts, zijnde maer een lichame.</l></lg>
+<p>In den midden van de stellagie zat de maecht van Ghendt onder eenen throon in eenen thuyn met haer banniere van Vlaenderen in deen handt en met haren leeuw: ende sprac tot zyne Excellentie dese woorden:</p>
+<lg type="poem">
+<l>Princelic goede Vorst, des Nederlandts recht Vader,</l>
+<l>Ic dijn Ghendsche dienstmaecht heet u wilcom dees tijt,</l>
+<l>In u aenschouwen wy ons verblyden te gader</l>
+<l>Verhopende daer af het ghemeene profijt,</l>
+<l>Door u wijsheyt en deucht, bestreckende haer so wijt</l>
+<l>Dat ghy ten rechten zijt van elcken hoogh verheven.</l>
+<l>Ic offre u uut jonst, die ons voorstander zijt,</l>
+<l>Een oprecht open hert u ten dienste ghegheven:</l>
+<l>Met liefde, trouwe, macht, volstandich hier beneven.</l>
+<l>Neemt in danke onse jonst al is zeer cleen de daet,</l>
+<l>God late uwe ghenad' Nestonis jaeren leven</l>
+<l>En bloeyen in voorspoet bevrijdt van alle quaet.</l></lg>
+<p>Dit seggende, presentcerde zy zijn Excellentie een open
+<pb n="27"/>herte van fijn goudt, waer in <hi rend="i">Synceritas</hi>, dat is <hi rend="i">Eenvoudicheyt</hi> gheschreven was.</p>
+<p>Neffens de maecht van Ghendt stondt <hi rend="i">Justitie</hi>, ende <hi rend="i">Politie</hi>, die de maecht altijt in eeren ghehouden hebben: ende daer neffens hadse noch dese vier dochters, die voor haer zaten, <hi rend="i">Liefde, Ghetrouwicheyt, Volstandicheyt</hi> ende <hi rend="i">Cloecmoedicheyt</hi>, zijnde qualitcyten der maecht waermede zy haren dienst offert aen Zyne Excellentie.</p>
+<p>Naer het spreken der maecht werdt dit liedeken in discant ghesonghen.</p>
+<lg type="poem">
+<l>Verblijdt u, Ghendt, Edel vermaerde stede,</l>
+<l>In de bly incomste van desen Prince goet:</l>
+<l>Vader des landts, beminder van de vrede,</l>
+<l>Die ons accoort comt stellen op de voet,</l>
+<l>Sulcke ghenade ons God de Heere doet</l>
+<l>Door desen Vorst, zeer vroom ende vaillant,</l>
+<l>Die eeuwelick moet leven</l>
+<l>In eeren verheven</l>
+<l>Tot de welvaert van geheel het Nederlandt.</l></lg>
+<p>Neffens de stellage stonden <hi rend="sc">liiij</hi> macchden int witte ghecleedt met Oraenge ende blau verciert, hebbende in d'een handt een lance, met de baniere van de <hi rend="sc">liiij</hi> Ncerynghen, ende in d'ander handt een tortse, als dienst-macchden der stadt. Dese stonden op een stellagie als twee vleughelen, over beyde zyden, omhelsende de strate, ende was dese stellagie behanghen met groen laken.</p>
+<p>Zijn Excellentie in zijn logement commende werdt daer by de Heeren van der Wet ende de Notablen willecomme ghehecten, ende in heuren naeme dede hem de Pensionaris een corte oratie.</p>
+<p>Doen zijn Excellentie tsavonts aen de Tafel zatt werdt
+<pb n="28"/>daer ghezeyt dit naervolghende Refereyn, by een personnaige, die <hi rend="i">Ghemeente</hi> hiet.</p>
+<lg type="poem">
+<l>Hooch gheboren vroom vorst, het is claer en warachtich</l>
+<l>So ons de Heer almachtich niet zelve had' by ghestaen</l>
+<l>De wreede vyanden, bloedghierich en crachtich,</l>
+<l>Hadden haren moetwille met ons ghedaen:</l>
+<l>Maer God heeft onse cause ghenomen aen,</l>
+<l>Verweckende uwer Vorstelicke ghenaden,</l>
+<l>Die noyt slandts welvaren en zijt afghegaen,</l>
+<l>Maer altijts ghevoordert met wercken en raden:</l>
+<l>Daerom zijn ooc lieflick uwe voetpaden,</l>
+<l>Alle vreedsame in u jeghenwordicheyt verblyden.</l>
+<l>Al zijnder eenighe die u zoeeken te beschaden</l>
+<l>God sal uwe ghenade ghenadich bevryden</l>
+<l>Tot zijnder eere, en t'onsen troost tallen tyden,</l>
+<l>Ghelijc hy ghedaen heeft tot den daghe van heden.</l>
+<l>Dies wy vrymoedich met der herten belyden:</l>
+<l>Weest wilcom, Edel Prince, binnen deser steden,</l>
+<l>Die in s' Heeren naem comt als een Vorst van vreden.</l>
+<l>&nbsp;</l>
+<l>Een vreedsaem vorst waert ghy van over veel jaeren</l>
+<l>Tot slandts welvaren, altijts constant ghebleven,</l>
+<l>Die om de gherechticheyt quaemt in beswaren,</l>
+<l>Jae, daerom uut den lande t'onrechte waert verdreven,</l>
+<l>Doen ghy mocht in rusten ghemackelic leven,</l>
+<l>Gheen ghebreck hebbende van goet of ghelt,</l>
+<l>Hebt ghy lijf en goet voor tVaderlandt ghegheven,</l>
+<l>En u met veel zwaricheyt begheven int velt</l>
+<l>Om te wederstaen het spaensche ghewelt,</l>
+<l>Met verraden ghequelt van buyten en van binnen.</l>
+<l>Maer hoe secre dat men hem teghen u heeft ghestelt</l>
+<l>Victorieuselie ziet men u overwinnen:</l>
+<l>Daer van wy God dancken met herte en zinnen,</l>
+<pb n="29"/>
+<l>En u dat ghy so vele voor tlandt hebt geleden.</l>
+<l>Dus spreken wy, en al die u met herten beminnen:</l>
+<l>Weest willecom, Edel Prince, binnen deser steden,</l>
+<l>Die in s' Heeren naem comt, als een Vorst van vreden.</l>
+<l>&nbsp;</l>
+<l>In den name des Heeren, dit moet elc weten,</l>
+<l>Sijt ghy opgheseten om te commen int landt</l>
+<l>En u so wel Godzalich hebt ghequeten,</l>
+<l>Alsmen oyt van eenich vorst gheschreven vandt:</l>
+<l>Niet teghenstaende al het groot wederstandt,</l>
+<l>Dat t'onrechte teghen u is opgheresen,</l>
+<l>Hebt ghy gheensins ghesocht te wreken, want</l>
+<l>Voor quaet hebt ghy ons goet wederom bewesen.</l>
+<l>Daerom prysen wy uwe vromicheyt in desen,</l>
+<l>En willen u voorts by blyven tot ter doot,</l>
+<l>Gheensins meer lyden dat ghy wordt mispresen;</l>
+<l>Want ghy bethoont ons te zyne een vriendt in den noot.</l>
+<l>Wy haten de verraders met al haer exploot,</l>
+<l>Die noch seer vele alomme tlandt betreden;</l>
+<l>Maer roepen tot u in oprechter liefden groot:</l>
+<l>Weest willecom, Edel Prince, binnen ouser steden,</l>
+<l>Die in s' Heeren naem comt als een Vorst van vreden.</l>
+<l>&nbsp;</l>
+<l>Den alder hoochsten Prince machtich en rechtveerdich</l>
+<l>Beware u volherdich in zijn Goddelicke weghen,</l>
+<l>Opdat ghy moecht mercken hoe costelic en weerdigh</l>
+<l>Eenen schat en weldaet ghy van God hebt vercreghen.</l>
+<l>Wanneer u schier de gantsche weerelt was teghen</l>
+<l>Heeft u den almachtighen ghenomen in behoet,</l>
+<l>So dat al u vyanden, hoe groot sy waeren bedeghen,</l>
+<l>U nu moeten bidden en vallen te voet.</l>
+<l>Dits gheen menschen were maer God die sulcx door u doet,</l>
+<l>En reghiert alle dinc, nae zijn welbehaghen,</l>
+<l>Daerom sult ghy ooc met eenen cloecken moct</l>
+<l>Gods lof vercondighen tot allen daghen;</l>
+<l>Want hier toe street u doen, aerbeyden end' bejaghen</l>
+<pb n="30"/>
+<l>Dat zynen grooten naem mach worden beleden</l>
+<l>Nae zijn Goddelick woordt: Dies wy als voren ghewaghen:</l>
+<l>Weest thien duysent faut willecom in onser steden,</l>
+<l>Die in s'llceren naem comt als een Vorst van vreden.</l></lg>
+</div>
+<div type="section">
+<head rend="h4"><hi rend="i">Aen d'Excellentie des Prince van Orangen, etc. L. D'Heere zijn onderdanich dienaer</hi>.</head>
+<lg type="poem">
+<head>Sonnet.</head>
+<l>Men prees oyt wel te recht dat een prins liever wan</l>
+<l rend="; 1tab">Met vriendschap eenen vriendt, dan oft hy had' versleghen</l>
+<l rend="; 1tab">Duysent vianden sterek: dies heeft Pius verereghen</l>
+<l rend="; 1tab">Meer lofs dan Caesar had' oft eenich sulck Tyran.</l>
+<l>Maer die nu met zijn deuchdt, wijsheyt en' wete kan</l>
+<l rend="; 1tab">Al' herten, wie zy zijn, in God tot hem beweghen,</l>
+<l rend="; 1tab">De ghemeen welvaert soeet, en vervoordert ter deghen,</l>
+<l rend="; 1tab">Is veel meer eeren weerd, dan eenich ander man.</l>
+<l>Zulck eerlich wonderwerck uwe ghenade doet,</l>
+<l rend="; 1tab">Met Hercules vroom staf en Nectars tonghe zoet,</l>
+<l rend="; 1tab">Treckend' als den seylsteen het yser loet met staden.</l>
+<l>Elex jonst deur uwe deuchdt: en oock met cloecheyt groot</l>
+<l rend="; 1tab">Hebt ghy door cleyne macht, uwen sterck viandt dood:</l>
+<l rend="; 1tab">Dies de weerelt vol is van den prijs uwer daden.</l>
+<l>&nbsp;</l>
+<l>Ick wil na d'oude wijs', ghenadich Heer, gaen hauwen</l>
+<l rend="; 1tab">U Tropheum zeer groot in eenen marmersteen:</l>
+<l rend="; 1tab">Waer een cloeck man sal staen, in een schoon pere alleen:</l>
+<l rend="; 1tab">Op wien des hemels jonst, zeer mildelick zal dauwen.</l>
+<l>Hy zal hebben by hem, niet mannen ende vrauwen</l>
+<l rend="; 1tab">Die ligghen in den bandt, en maken groot gheween:</l>
+<l rend="; 1tab">Maer een groot kudde volex, ghemengelt onder een,</l>
+<l rend="; 1tab">Die hy in zijn beschut zal bewaren met trauwen:</l>
+<l>Dees sullen hem haer hert offren met liefd' en eeren,</l>
+<l rend="; 1tab">En menich beest zal oock door hem in mensch verkeeren:</l>
+<pb n="31"/>
+<l rend="; 1tab">De wolf zal met het schaep by hem weyden als vriendt.</l>
+<l>En daer zal onderaen in gaudt, dit zijn ghcschreven:</l>
+<l>&nbsp;</l>
+<l rend="; 2tab"><hi rend="sc">Dit ghedenck-teecken is hem ter eeren verheven</hi>:</l>
+<l rend="; 2tab"><hi rend="sc">Die vader des landts is en elcx jonste verdiendt</hi>.</l>
+<l>&nbsp;</l>
+<l>Maer wat behoeft men u heer, te maken bekendt</l>
+<l rend="; 1tab">In Pyramyd' oft steen, als u eerlicke fame</l>
+<l rend="; 1tab">In elck zoo is ghedruct, dat noyt den grooten name</l>
+<l rend="; 1tab">Van Alexander was, in boecken bet gheprent?</l>
+<l>En met David ghy oock alle lof van u sendt</l>
+<l rend="; 1tab">Tot God die u hier toe als middel maect bequame;</l>
+<l rend="; 1tab">Dies ghy heylichlick roept, als oft u niet toecame:</l>
+<l rend="; 1tab">Niet ons, heere, maer dy zy den lof zonder eyndt.</l>
+<l>Daerom u hoecheyt dunct te zyne wel ghecert,</l>
+<l rend="; 1tab">Als men haer vrome daet, Gode ten pryse keert:</l>
+<l rend="; 1tab">Want daer toe streckend' is al u doen, ende pooghen.</l>
+<l>Maer sal men swyghen dan wat de Heer deur u doet?</l>
+<l rend="; 1tab">Neent, want men veel eer hem in u hooch prysen moet:</l>
+<l rend="; 1tab">Hier omme moet de Maecht van Ghend haer jonste tooghen.</l>
+<l>&nbsp;</l>
+<l>Dat Aldegonde dan in prose oft in schoon dicht,</l>
+<l rend="; 1tab">(Want hy kantt even wel) en in verscheyden tale,</l>
+<l rend="; 1tab">U wonderdaden groot, gheleerdelick verhale:</l>
+<l rend="; 1tab">Op dat God zy gheeert, en de kercke ghesticht.</l>
+<l>En' dat Douza voort ga, na zijn schuldighe plicht,</l>
+<l rend="; 1tab">En zyngh in zijn Latijn, als eenen Nachtegale:</l>
+<l rend="; 1tab">Dat oock elek vlaemsch Poët, het zelve zoo uutmale,</l>
+<l rend="; 1tab">Dat ment meyne te zien' met der ooghen ghesicht.</l>
+<l>Dan wil ick aehteraen met mijn lyre wat zynghen,</l>
+<l rend="; 1tab">End oock met mijn pinceel, Orangens lof uutbrynghen:</l>
+<l rend="; 1tab">Twelck beter subject is, dan Hector met zijn helden</l>
+<l>Voor Homero mocht zijn, en dan oock was Achilles</l>
+<l rend="; 1tab">Voor Maro den Poët: in ons den selfden wil es.</l>
+<l rend="; 1tab">Laet ons jonste by u, ghenadich heere wat ghelden.</l>
+<l rend="; 3tab">Schade leer u.</l></lg>
+</div>
+<div type="section">
+<pb n="32"/>
+<head rend="h4"><hi rend="i">Refereyn ghepresenteert an zijnder Excellentie tsynen vertrecke, den</hi> xv <hi rend="i">Januarij</hi> M.D.L.XXVIIJ <hi rend="i">By L.D.</hi></head>
+<lg type="poem">
+<l rend="; 1tab">Och, hoe bitter ende zwaer ist voor de maecht van Ghendt</l>
+<l>Te zien haer lief wech gaen, wien zy is toeghezworen</l>
+<l>Met een oprecht ghemoet, ja diese oock recht bekendt</l>
+<l>Voor haer gheluc en vreuchdt: zoo datse (hy zijnd' absent)</l>
+<l>Als een Duyvekin treurt, twelck tgaykin heeft verloren:</l>
+<l>Maer nu het wesen moet, Prince zeer hoogh gheboren,</l>
+<l>Dat ghy om meerder noodt moett gaen voor eenen tijdt,</l>
+<l>Den goeden God wil u, zijn Instrument vercoren</l>
+<l>Zoo wel behoeden voorts als ghy ons noodich zijt,</l>
+<l>En beleeden u doen, tot ghemeene profijt:</l>
+<l>God laete u in voorspoedt, ghelucksalich beclyven:</l>
+<l>Oorlof, Prince Vorst, daer wy eeuwich by blyven.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Oorlof, groot Instrument, daer door God wonder werct,</l>
+<l>Als door Moysen, David, en ander dierghelijcke:</l>
+<l>Waer door men zijn goetheyt t'onswaert claerlick merct:</l>
+<l>Ons cause werdt gheeert, end t'gheloove ghesterct.</l>
+<l>Oorlof, Princelick Vorst, in ghenaden seer rijcke,</l>
+<l>Oorlof, Paysmaker goet, Vader der republijcke:</l>
+<l>Die alle goet voorstaet: meest alle herten oock heeft.</l>
+<l>Oorlof, oprechter oock der rechten autentijke,</l>
+<l>Die de landen weerom haer oude vryheyt gheeft:</l>
+<l>Oorlof, recht Magestraet, tot elcken seer beleeft:</l>
+<l>Wien de vyanden selfs eere ende lof toeschryven:</l>
+<l>Oorlof, Princelick Vorst, daer wy eeuwich by blyven.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Oorlof, die ons te recht, end' uut liefden bemindt</l>
+<l>Als een vader het kindt, tot het ghemeen welvaren,</l>
+<l>Die met goetheyt en deught alle quaet onderwindt,</l>
+<l>Die met wijsheyt regiert, end' alle dyngh versindt,</l>
+<l>Die d'onnoosel bevrijdt: oock altijt wilt bewaren.</l>
+<l>Die Syoen vorenstaet, met alle Gods dienaren</l>
+<pb n="33"/>
+<l>Als een recht voesterheer van Gods kercke in de noot,</l>
+<l>Die ghy nu hebt verlost, van t'ellendich bezwaren:</l>
+<l>Oorlof, leven der goede en aller quaden dood:</l>
+<l>Der wewen soeten troost, der weesen hulper groot,</l>
+<l>Adieu den rom en prijs van mannen ende wyven,</l>
+<l>Oorlof, Princelick Vorst, daer wy eeuwich by blyven.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Oorlof, Princelick Prince, over al hoogh ghepresen,</l>
+<l>Eenvoudich ende oprecht: verre van het bedroch,</l>
+<l>Die u selven niet en soect: maer veel eer te ghenesen</l>
+<l>Die wonden van het landt, ja, al moest het oock wesen</l>
+<l>Ten coste van u lijf, goeden end' haven noch,</l>
+<l>Die oock als Constantijn in all uwen crijgh toch</l>
+<l>Christum voor ooghen hebt, en soect hem te behaghen,</l>
+<l>Die u verwinnyngh gheeft, door zijn ghenade doch,</l>
+<l>En sal gelijck het stof u vyanden verjaghen</l>
+<l>Met alle het groot misbruick, oorsaken van de plaghen,</l>
+<l>De spaensche tyrannie, uut den Lande verdryven,</l>
+<l>Oorlof, Princelicke Vorst, daer wy eeuwich by blyven.</l>
+    <l rend="; 2tab">Schade leer u.</l></lg><interpGrp><interp type="end" value="heer001besc01"/></interpGrp>
+</div>
+</div>
+    <cf>
+<div type="chapter">
+<pb n="35"/>
+<head rend="h3">Lyst der leden.
+<lb/>
+(november 1852.)</head>
+<p><hi rend="i">De Heeren:</hi>
+<table>
+<row>
+<cell cols="2">I.</cell></row>
+<row>
+<cell>FR. VERGAUWEN, te Gent, <hi rend="i">Voorzitter</hi>,</cell>
+<cell>Stichtend Lid.</cell></row>
+<row>
+<cell cols="2">II.</cell></row>
+<row>
+<cell>PH. BLOMMAERT, te Gent, <hi rend="i">Secretaris</hi>,</cell>
+<cell>idem.</cell></row>
+<row>
+<cell cols="2">III.</cell></row>
+<row>
+<cell cols="2">D.J. <hi rend="sc">Vanderhaeghen-Hulin</hi>, te Gent, gaf zyn ontslag in 1845.</cell></row>
+<row>
+<cell cols="2">CH. ANNOOT-BRAECKMAN, te Gent, benoemd 6 November 1845.</cell></row>
+<row>
+<cell cols="2">IV.</cell></row>
+<row>
+<cell cols="2">R. <hi rend="sc">Brisart</hi>, te Gent, overleden 9 Mei 1851.</cell></row>
+<row>
+<cell><hi rend="sc">Vacat</hi>.</cell>
+<cell/></row>
+<row>
+<cell cols="2">V.</cell></row>
+<row>
+<cell>R. CHALON, te St. Jans-Molenbeek, by Brussel,</cell>
+<cell>Stichtend Lid.</cell></row>
+<row>
+<cell cols="2">VI.</cell></row>
+<row>
+<cell cols="2">P.-J.-F. <hi rend="sc">De Decker</hi>, te Gent, gaf zyn ontslag in July 1859.</cell></row>
+<row>
+<cell cols="2">F.-H. MERTENS, te Antwerpen, benoemd in 1859.</cell></row>
+<row>
+<cell cols="2">VII.</cell></row>
+<row>
+<cell>TH. DE JONGHE, te Brussel,</cell>
+<cell>Stichtend Lid.</cell></row>
+<row>
+<cell cols="2">VIII.</cell></row>
+<row>
+<cell>J.-J. DE MULDER, te Audenaerde,</cell>
+<cell>idem.</cell></row>
+<row>
+<cell cols="2">IX.</cell></row>
+<row>
+<cell cols="2">L.-J.-A. <hi rend="sc">De Roovere-De Roosemeersch</hi>, te Brussel, overleden 1845.</cell></row>
+<row>
+<cell cols="2">P. DE BONNE, te Brussel, benoemd 30 Juny 1845.</cell></row>
+<row>
+<cell cols="2">X.</cell></row>
+<row>
+<cell><hi rend="sc">Baron</hi> J. DE SAINT-GENOIS, te Gent,</cell>
+<cell>Stichtend Lid.</cell></row></table></p>
+<pb n="36"/>
+<p><hi rend="i">De Heeren:</hi>
+<table>
+<row>
+<cell cols="2">XI.</cell></row>
+<row>
+<cell cols="2"><hi rend="sc">Graef Fr. Goethals-Pecsteen</hi>, te Brugge, overleden 8 September 1846.</cell></row>
+<row>
+<cell cols="2">P. KERVYN-DE VOLKAERSBEKE, te Gent, benoemd 8 November 1847.</cell></row>
+<row>
+<cell cols="2">XII.</cell></row>
+<row>
+<cell>J. KETELE, te Audenaerde,</cell>
+<cell>Stichtend Lid.</cell></row>
+<row>
+<cell cols="2">XIII.</cell></row>
+<row>
+<cell cols="2">P. <hi rend="sc">Kocks</hi>, te Gent, gaf zyn ontslag in 1845.</cell></row>
+<row>
+<cell cols="2">J. VANDEN BOSSCHE, te Gent, benoemd 4 Mei 1846.</cell></row>
+<row>
+<cell cols="2">XIV.</cell></row>
+<row>
+<cell cols="2">A. <hi rend="sc">Kreglinger</hi>, te Antwerpen, gaf zyn ontslag in 1851.</cell></row>
+<row>
+<cell cols="2">C. WELVAERT, te Gendbrugge, benoemd 28 January 1851.</cell></row>
+<row>
+<cell cols="2">XV.</cell></row>
+<row>
+<cell>J.-B.-F. LE ROY, te Brussel,</cell>
+<cell>Stichtend Lid.</cell></row>
+<row>
+<cell cols="2">XVI.</cell></row>
+<row>
+<cell>CH. PIETERS-MOREL, te Gent, <hi rend="i">Schatbewaerder</hi>,</cell>
+<cell>idem.</cell></row>
+<row>
+<cell cols="2">XVII.</cell></row>
+<row>
+<cell cols="2">M.-L. <hi rend="sc">Polain</hi>, te Luik, gaf zyn ontslag 22 April 1852.</cell></row>
+<row>
+<cell><hi rend="sc">Vacat</hi>.</cell>
+<cell/></row>
+<row>
+<cell cols="2">XVIII.</cell></row>
+<row>
+<cell>C.-P. SERRURE, te Gent,</cell>
+<cell>idem.</cell></row>
+<row>
+<cell cols="2">XIX.</cell></row>
+<row>
+<cell cols="2">L. <hi rend="sc">Van Alstein</hi>, te Gent, gaf zyn ontslag in 1846.</cell></row>
+<row>
+<cell cols="2">CH. DE KERCHOVE DE DENTERGHEM-DE LIMON, te Gent, benoemd 10 November 1848.</cell></row>
+<row>
+<cell cols="2">XX.</cell></row>
+<row>
+<cell>D.-J. VANDERMEERSCH, te Audenaerde,</cell>
+<cell>Stichtend Lid.</cell></row>
+<row>
+<cell cols="2">XXI.</cell></row>
+<row>
+<cell>P.-C. VANDERMEERSCH, te Gent,</cell>
+<cell>idem.</cell></row>
+<row>
+<cell cols="2">XXII.</cell></row>
+<row>
+<cell>SYLVAIN VAN DE WEYER, te Londen,</cell>
+<cell>idem.</cell></row>
+<row>
+<cell cols="2">XXIII.</cell></row>
+<row>
+<cell cols="2">A. <hi rend="sc">Voisin</hi>, te Gent, overleden 2 February 1845.</cell></row>
+<row>
+<cell cols="2">J. <hi rend="sc">Gautier</hi>, te Brussel, gaf zyn ontslag in 1850.</cell></row>
+<row>
+<cell cols="2">C.-A. VAN COETSEM, te Gent, benoemd 19 Mei 1851.</cell></row></table></p>
+<pb n="37"/>
+<p><hi rend="i">De Heeren:</hi>
+<table>
+<row>
+<cell cols="2">XXIV.</cell></row>
+<row>
+<cell cols="2">J.-G. <hi rend="sc">De Block</hi>, te Gent, gaf zyn ontslag in 1850.</cell></row>
+<row>
+<cell cols="2">J. DIEGERICK, te Brugge, benoemd 13 December 1850.</cell></row>
+<row>
+<cell cols="2">XXV.</cell></row>
+<row>
+<cell cols="2">P.-F.-X. DE RAM, te Leuven, benoemd in 1839.</cell></row>
+<row>
+<cell cols="2">XXVI.</cell></row>
+<row>
+<cell cols="2">J.-B. DAVID, te Leuven, benoemd in 1839.</cell></row>
+<row>
+<cell cols="2">XXVII.</cell></row>
+<row>
+<cell cols="2">C. CARTON, te Brugge, benoemd in 1839.</cell></row>
+<row>
+<cell cols="2">XXVIII.</cell></row>
+<row>
+<cell cols="2"><hi rend="sc">Ant. Van Dale</hi>, te Brussel, gaf zyn ontslag in 1847.</cell></row>
+<row>
+<cell cols="2"><hi rend="sc">Kanonik</hi> J.-J. DE SMET, te Gent, benoemd 10 November 1848.</cell></row>
+<row>
+<cell cols="2">XXIX.</cell></row>
+<row>
+<cell cols="2"><hi rend="sc">Ridder</hi> K. <hi rend="sc">Van Eersel</hi>, te Brussel, gaf zyn ontslag in 1850.</cell></row>
+<row>
+<cell cols="2">V. GAILLARD, te Gent, benoemd 14 Juny 1850.</cell></row>
+<row>
+<cell cols="2">XXX.</cell></row>
+<row>
+<cell cols="2">P. DE BRAUWERE-VAN STEELAND, te Elsene, by Brussel, benoemd 30 Juny 1845.</cell></row>
+<row>
+<cell cols="2">XXXI.</cell></row>
+<row>
+<cell cols="2"><hi rend="sc">Ed. Malou</hi>, te Ypre, overleden 23 Mei 1849.</cell></row>
+<row>
+<cell cols="2"><hi rend="sc">Baron</hi> H. SURMONT, te Gent, benoemd 14 Juny 1850.</cell></row>
+<row>
+<cell cols="2">XXXII.</cell></row>
+<row>
+<cell cols="2"><hi rend="sc">Baron</hi> E. DE T'SERCLAES, te St. Joos-ten-Noode, by Brussel, benoemd 30 July 1845.</cell></row>
+<row>
+<cell cols="2">XXXIII.</cell></row>
+<row>
+<cell cols="2">J. DE MERSSEMAN, te Brugge, benoemd 30 July 1845.</cell></row>
+<row>
+<cell cols="2">XXXIV.</cell></row>
+<row>
+<cell cols="2">ANT. DAEL, te Gent, benoemd 4 Mei 1846.</cell></row>
+<row>
+<cell cols="2">XXXV.</cell></row>
+<row>
+<cell cols="2">THEOD. DE VALENZI, te Gent, benoemd 4 Mei 1846.</cell></row>
+<row>
+<cell cols="2">XXXVI.</cell></row>
+<row>
+<cell cols="2">F. VAN DE PUTTE, te Boesinghe, by Ypre, benoemd 5 Mei 1847.</cell></row></table></p>
+</div></cf>
+</body>
+</text>
+
+</TEI.2>

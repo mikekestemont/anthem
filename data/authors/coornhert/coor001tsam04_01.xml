@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "http://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Tsamensprekinghe, waar in bewesen wort dat hy niet goet en wil worden die quaat blijft</title>
+                <author>D.V. Coornhert</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Tsamensprekinghe, waar in bewesen wort dat hy niet goet en wil worden die quaat blijft</hi> van D.V. Coornhert in de eerste druk van een uitgave uit 1630, getiteld <hi rend="i">Wercken. Deel I</hi>. De eerste druk van het oorspronkelijke werk dateert van 1568.
+                </edition>
+                <respStmt>
+                    <resp>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">coor001tsam04_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2011 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="clarin-edite">yes</note>
+            </notesStmt>	
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Universiteitsbibliotheek Amsterdam, signatuur: Cat. Ned. Lett. UBA 195</idno>
+                </bibl>
+                <p>D.V. Coornhert, ‘Tsamensprekinghe, waar in bewesen wort dat hy niet goet en wil worden die quaat blijft’, uit: D.V. Coornhert, <hi rend="i">Wercken. Deel I</hi>, Jacob Aertsz. Colom, Amsterdam 1630</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Tsamensprekinghe, waar in bewesen wort dat hy niet goet en wil worden die quaat blijft</title>
+                <author>D.V. Coornhert</author>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Tsamensprekinghe, waar in bewesen wort dat hy niet goet en wil worden die quaat blijft</title>
+                <author>D.V. Coornhert</author>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2011-12-07</date>
+                <respStmt>
+                    <name type="person">JV</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+    <div type="chapter"><interpGrp><interp type="primair" value="coor001tsam02"/></interpGrp>
+<pb ed="fol." n="160r"/>
+<head rend="h3">Tsamensprekinghe, waar in bewesen wort dat hy niet goet en wil worden die quaat blijft.</head>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">H.</hi></p>
+<p>Wat zit dees Mensche hier alleen en suft: Siedy niet wat lieffelijcker weder het is? Het Sonneken schijnt, daar en is geen Wint aan de Lucht, een Mensch is te bat, die desen klaren Hemel aenschout. Com laat ons gaan wandelen.</p>
+<p>Met niemant liever. Want met u wandelende, verlusticht door u verstandele tonge al veel meer mijn Herte, dan dit Hemelsche weder mijn Oogen.</p>
+<p><hi rend="i">H.</hi> Soo sprekende, schijnt ghy u selve oock te verlustigen met spotten. Maar secht my waar heen gaan wy? Willen wy over den Vijverberch ten Bosschewaart gaan?</p>
+<p><hi rend="i">C.</hi> Tis my lief, gaat wat wech u lust, ghy sult mijn Seynsteen sijn.</p>
+<p><hi rend="i">H.</hi> Hoe bloodt ende dorre staat dit Bosch nu: Hoe groen ende lustich sal’t sijn noch binnen drye Maanden.</p>
+<p><hi rend="i">C.</hi> Dats waar, dit geeft ons wel zaecke om de wonderlijcke moghentheydt Godts daar by te leeren kennen.</p>
+<p><hi rend="i">H.</hi> Tis so, ende niet alleen zijn Mogentheyt, maar oock sijn ongemeeten goetheyt, ende daar by mede des Menschen hertneckige snootheyt. Want hy bevochtight metten Vrughtbaaren Douwe ende Regen het dorre Lant, ende treet alsoo uyt het ingheweyd’ der aarden door de koockinge ende distilleringe vande wermte der Sonnen alle t’kruyt, Vruchten ende geboomte met overvloedigheyt, alleen om den Mensche weeldelijck van alle nootdruft te voorsien, daar aan zijn goetheydt blijckt. Maar alsmen let opte miltheyt van der aarden, vande Boomen, ende vande Koeyen, schapen, ende andere gedierten, die den Douwe t’Saet, ende voetsel, dat zy ontfangen, met eenen Rijcken woecker hondertvout tot des Menschen behoef weder verghelden: soo mercktmen hare danckbaarheyt, ende daar by oock de schandelijcke ondanckbaarheyt ende boosheydt der Menschen, die elc hem selve levende noch tegen Gode, noch tegen mensche, eenigh teecken van danckbaarheyt en bewijsen. Niemant en wil hem tot eens anders nut laten genieten (so wy sien dat alle onredelijcke creaturen doen) maar elck wil van ander ghenieten, Ia elck arbeyt omme (mocht hy) als een Aposteunie alle t’bloet van’t gheheele Lichaam des Respublijcx in sijnen etterighen buyck te trecken ende te swelghen.</p>
+<p><hi rend="i">C.</hi> T’is seker so, maar als’t den Heere verdriet, soo sal’t eens beteren.</p>
+<p><hi rend="i">H.</hi> T’heeft den Heere al lange verdroten, het moest ons ooc verdrietē, t’sal aan dē Heere niet gebrekē als wy maar begeeren beter te wesen.</p>
+<p><hi rend="i">C.</hi> Wat Mensche en soude niet begheeren beter te wesen?</p>
+<p><hi rend="i">H.</hi> Vraaghdy dat met ernst?</p>
+<p><hi rend="i">c.</hi> Ia ick voorwaar.</p>
+<p><hi rend="i">H.</hi> So sal ick u met ernst antwoorden, wildy’t sonder gram worden lijden.</p>
+<p><hi rend="i">C.</hi> Soud’ ick niet?</p>
+<p><hi rend="i">H.</hi> Ghy self en wilt niet dat ghy beter waert.</p>
+<p><hi rend="i">C.</hi> So lichtelijck soudy my Vroet maken dat ick hoornen op mijn hooft hebbe. Wat Paradoren slady daar uyte?</p>
+<p><hi rend="i">H.</hi> Die my licht is te bewijsen.</p>
+<p><hi rend="i">C.</hi> Kondy dat doen, ick sal gelooven dat ick Esels ooren hebbe, en̄ ghy eē Ciceronis tonge.</p>
+<p><hi rend="i">H.</hi> Neen, men behoeft daar toe geē constige sprake, noch oock geen licht-geloovens ghehoor, maar alleen eenvuldige woorden ende een redelijck begrijp. ende om t’selve bequamelijck te mogen doen, suldy my (believet u) naacktelijck antwoorden op mijn vraghen.</p>
+<p><hi rend="i">C.</hi> Gaat te wercke, ick salt doen.</p>
+<p><hi rend="i">H.</hi> Seght, van wat beter worden spreeckt ghy hier? des Lichaems of der Zielen?</p>
+<p><hi rend="i">C.</hi> Der Zielen?</p>
+<p><hi rend="i">H.</hi> Ick mede. Wat noemt ghy het beter wesen der Zielen?</p>
+<p><hi rend="i">C.</hi> Dat zy deuchtlijcker zy, dan zy te voren was.</p>
+<p><hi rend="i">H.</hi> Waar by wert zy deuchdelijcker?</p>
+<p><hi rend="i">C.</hi> By verkrijginghe van nieuwe inwoonende Deuchde.</p>
+<p><hi rend="i">H.</hi> Maar segt my, ist u eerst huyden aangecomen, dat ghy gaarne beter waart dan ghy sijt?</p>
+<p><hi rend="i">C.</hi> Neen zeecker, ick hebt al over langhe Iaren gewilt.</p>
+<p><hi rend="i">H.</hi> Zydy sedert dat willen niet al beter gheworden?</p>
+<p><hi rend="i">C.</hi> Neen. Maar quader, ende worde noch van Daeghe tot Daeghe arger.</p>
+<p><hi rend="i">H.</hi> Waar aan meyndy ghebreecket u, dat ghy niet beter en wort na uwen wille?</p>
+<p><hi rend="i">C.</hi> Aan maghte.</p>
+<p><hi rend="i">H.</hi> Gebreeckt u daar inne yet anders?</p>
+<p><hi rend="i">C.</hi> Neen. Want wil ende maght te zaemen komende, doen alle dingen: ende waar oock een van beyden ontbreeckt, en magh geen werck uyt werden. Gemerckt niemant en doet tgunt hy niet en wil, al vermach hy’t al: Wederom en doet nyemant t’gunt hy niet en magh al wil hyt schoon al, zo ick vare. Want ick wil beter werden, maar ick en vermachs niet, ende blyve daeromme <hi rend="i">Ioannes in eodem:</hi> Indien achterwaarts gaan vant quade int arger, anders den ouden Knecht te blijven geseyt mach werden.</p>
+<p><hi rend="i">H.</hi> Seker om een werck te doen, zijn wil ende macht te zaemen komende genoech: maar om een werck wel te doen, gheensins want daer noch een derde by moet wesen.</p>
+<p><hi rend="i">C.</hi> Wats datte?</p>
+<p><hi rend="i">H.</hi> Verstant stelt een wandelaer voor verscheyden omweghen, onder welcken eenen wech zy. Dese macht ende wil hebbende om te gaan tot een Stede, sal voorwaar mogen gaan: maar recht gaan (t’welck wel gaan is) en magh hy niet sonder kennisse te hebben van den rechten weghe. Maar laat ons hier noch al nemen als of Macht ende Wille t’samen genoech waeren om beter te werden, ende zulcx de kennisse oock onder de Macht behelsen: Soo wilde ick gaarne uyt u hooren, of ghy de macht ontbeert met of tegen uwen wille?</p>
+<p><hi rend="i">C.</hi> Seecker. Ic ontbeerse tegen mijnen wille. Want wat ic wil, soude ick gaarne volbrengen. vermach icx dan niet, dat is mijns ondancx.</p>
+<p><hi rend="i">H.</hi> Wat soudyer toe segghen, of eenich zondaar zeyde: Ten is niet mijne, maar Godes schult dat ick sondich ben.</p>
+<pb ed="fol." n="160v"/>
+<p><hi rend="i">C.</hi> Dat soude ick houden voor een openbaere lasteringe Godts. Want gelijck uyt het Licht geen duysternisse, alsoo en mach uyt de goedtheyt geen quaat voort komen. Nu is Godt de goedtheyt selve Sonde is quaat. Ende en mag daaromme Godt oock geensins oorsaecke zijn van Sonden nochte van yemants bederffenisse, maar elck quetst ende verderft sijn selven.</p>
+<p><hi rend="i">H.</hi> Dats al seer wel geseyt, seght my doch voort: Wien acht ghy beter, den Mensche ofte Godt?</p>
+<p><hi rend="i">C.</hi> Wat klap is dat? Wie weet niet dat Godt alleen goet is, ende daar tegen alle Menschen quaat?</p>
+<p><hi rend="i">H.</hi> Of eens Menschens kint sijns Vaeders raat ende hulpe behoevende, zijn Vader daaromme baede: soude de Vader, verstant ende macht hebbende om zijn Kint te helpen, hem des oock weygeren?</p>
+<p><hi rend="i">C.</hi> Ick en meens niet, maar vermoede dat die Vader oock ongebeden zijnde, sijnen sone zulcx van zelf soude aanbieden, ja aenbidden.</p>
+<p><hi rend="i">H.</hi> is Godt dan beter dan <hi rend="i">de Menschen: die quaat zynde, hare Kinderen nochtans gaarne goede gaven soude geven:</hi> zoo gelooft ghy immers oock wel dat Godt den Menschen gaarne wil gheven Wijsheyt en̄ Macht om wel te doen ende hem Ghebenedijt te dienen?</p>
+<p><hi rend="i">C.</hi> Onghetwijfelt.</p>
+<p><hi rend="i">H.</hi> Godt wil u dan de Macht geven om beter te worden?</p>
+<p><hi rend="i">c.</hi> Ia.</p>
+<p><hi rend="i">H.</hi> Godt mach’s u oock gheven?</p>
+<p><hi rend="i">c.</hi> ghewisselijck. Want hy is Almachtigh.</p>
+<p><hi rend="i">H.</hi> Nochtans wilde ghy wel dat ghy de macht haddet om beter te werden.</p>
+<p><hi rend="i">C.</hi> Dats gewis, en̄ oock mijn eerste seggen.</p>
+<p><hi rend="i">H.</hi> Waar’t soo, dat ghy niet en wilde de macht te hebben, ten soude niet wonders zijn, nadien Godt niemant sijns ondancx en dwinghet, dat ghy de macht ontbeert: ofte waardt oock soo dat ghy de maght wel begheerdet te hebben, maar dat u Godt die niet en wilde verleenen, ten ware oock niet vreemts dat die machte by u niet en is. Maar nu Godt willigher is u die macht, dan een Moeder haar Kint den Mam te gheven: ende ghy willigh ende begheerlijck zijt (soo ghy secht) om die macht te ontfangen ende te hebben: soo schijnet wonder dat u die macht, om beter te werden, ontblijft.</p>
+<p><hi rend="i">C.</hi> Alle verwonderinghe komt uyt onkunde vande Redene der saecken die gevallen. Die redene hier af en weet ick u niet te seggen. Maar een dinck weet ick vast, dat ick gaarne beter waar, ende dat icks niet en werde door gebreck van vermoghen, dats door Kranckheydt.</p>
+<p><hi rend="i">H.</hi> Isser oock eenige maght buyten oft sonder Gode?</p>
+<p><hi rend="i">C.</hi> Neen.</p>
+<p><hi rend="i">H.</hi> Het schijnt dan niet u schult dat ghy niet en vermooght beter te werden, ende volgende dien dat ghy niet beter en zijt. Want ghy wildet gaarne beter wesen, maar u ontbreeckt macht, die ghy u selven niet en mooght gheven, want ghy en hebse niet.</p>
+<p><hi rend="i">C.</hi> Ghy spreeckt daer redelijck. Want het Godtloos waar te vermoeden dat Gode onrechtvaardich soude zijn, ende dat soude moeten wesen als hy my eyschte t’gunt hy my niet en heeft ghegeheven, te weten macht om beter te werden.</p>
+<p><hi rend="i">H.</hi> Dats oock niet onbillick geseyt, waar uyt dan oock wel schijnt te volghen dat het niet u schult en is, als ick terstont seyde, maar het mochte alsoo wel Godes schult werden. Want die vermacht alleen u te gheven, dat en doet hy niet. Ende daer door blijft ghy in Zonden.</p>
+<p><hi rend="i">C.</hi> Hola, daar gady my wat te verde want, dat segghende, soude ick vallen in de Godts lasteringe by my terstont gescholden.</p>
+<p><hi rend="i">H.</hi> Houdy Gode dan onschuldich, ende u selven mede, wie is schuldich aan u byblyvende Zondelijckheydt?</p>
+<p><hi rend="i">C.</hi> De nijdige Duyvele, <hi rend="i">die als een Leeuwe<note place="margin">1. Pet. 5.8.</note> rontsomme gaaat, soeckende ons te verslinden.</hi></p>
+<p><hi rend="i">H.</hi> Heeft hy eenighe maght buyten oft zonder Gode?</p>
+<p><hi rend="i">C.</hi> Geen altoos.</p>
+<p><hi rend="i">H.</hi> Soo en vermach hy’t oock gheensins u in sijnen dienst der Sonden te houden teghen Godes ende uwen wille.</p>
+<p><hi rend="i">C.</hi> Neen voorwaer, <hi rend="i">Godt en laat niemandt<note place="margin">1 Cor. 10. 12</note> bekoort worden boven vermogen,</hi> zoo dat die geloovighe ende goetwillighe Mensche den Duyvel, diens macht door den Doot Christi al vernielt is, lichtelijck in Christo wederstaan mach ende verwinnen, so d’Apostel seyt: <hi rend="i">VVederstaat<note place="margin">iacob. 4, 7.</note> den Duyvel, ende hy sal van u vlieden.</hi></p>
+<p><hi rend="i">H.</hi> Seker mocht de Duyvele tegen Godes ende teghen onsen wille ons bedwinghen, soo waar hy machtiger dan Godt, d’welck valsch is: ende al heeft Godt die macht wel om alle Menschen ter Deugden ende mitsdien ter Saligheyt te bedwinghen, so en wil noch en pleecht hy sulcx niet. Hoe soude hy ghebenedijdt dan ghedoogen dat de Duyvel macht soude hebben om den Mensche (sijn Schepselen) te bedwinghen tot Zonden ende verdoemenisse?</p>
+<p><hi rend="i">C.</hi> Ghy spreeckt recht.</p>
+<p><hi rend="i">H.</hi> Ten is dan de Duyvel niet, so gy terstont t’onrecht waande, want die en vermagh niet meer over u, dan ghy hem willigh toe en laat.</p>
+<p><hi rend="i">C.</hi> Ick kans niet loochenen.</p>
+<p><hi rend="i">H.</hi> Wie salt dan zijn?</p>
+<p><hi rend="i">C.</hi> Daer vallet my inne, ende sal’t u seggen. Het is onse Vleesch dat door Adam bedorven ende tot allen quaat is genegen.</p>
+<p><hi rend="i">H.</hi> Ist maght oft Kranckheydt te noemen dat het Vleesch ten quaden genegen is?</p>
+<p><hi rend="i">C.</hi> Cranckheydt, broosheyt ende ydelheydt.</p>
+<p><hi rend="i">H.</hi> Godt is de sterckheydt, de moghentheydt ende het self-standige wesen selve. Ist niet zoo</p>
+<p><hi rend="i">C.</hi> Ongetwijfelt.</p>
+<p><hi rend="i">H.</hi> Voor hebdy geseydt Godts wille en̄ oock den uwen te zijn, dat ghy beter sout wesen.</p>
+<p><hi rend="i">C.</hi> Tis sulcks.</p>
+<p><hi rend="i">H.</hi> Ick en houde u soo onvernuftichig niet, dat ghy de Kranckheydt, broosheyt ende ydelheydt des Vleeschs krachtigher, mogende rende geweldiger soudt houdē te zijn dā de Mogentheyt, Sterckheyt, ende ‘twesen Godts selve.</p>
+<p><hi rend="i">c.</hi> Wie soude soo zot zijn?</p>
+<p><hi rend="i">H.</hi> Ghy en hout ooc het Schepsel dat vleesch ende verganckelijck is, niet machtigher dan Godt, die een eeuwighe Gheest ende Almachtigh Schepper alder Creatueren is?</p>
+<p><hi rend="i">c.</hi> Wat soude ick dat houden?</p>
+<p><hi rend="i">H.</hi> Dat moeste nochtans zijn indien ‘tvleesch vermoghen soude, u teghen de God’lijcke, oock teghen uwen wille in zonden te houden?</p>
+<p><hi rend="i">c.</hi> Nochtans (ghy meught seggen dat u belieft) het Vleesch porret ons daghelijcx aan tot alle boosheyden.</p>
+<p><hi rend="i">H.</hi> Een ander dingh is porren, ende een ander is dwinghen. Dit moest dwingen zijn daar wy af spreken. Want ghy wilde gaarne min zondighen, ende moet sulcx u meer sondighen geschieden teghen uwen wille (so ghy segt) met bedwangh ende ghewelt. Maar laat ons een <pb ed="fol." n="161r"/>weynich hooren, wat ist quaat daar toe u Vleesch u Natuerlijck aanport?</p>
+<p><hi rend="i">C.</hi> Vraaghdy datte? tot alle quaden.</p>
+<p><hi rend="i">H.</hi> Noemter my eene.</p>
+<p><hi rend="i">C.</hi> Begonste ick u te noemen Ongheloove, Hoovaardije, Ghierigheydt, Nijdigheydt, Hate, Afgoderije, Toornigheydt, met andere dierghelijcke Sonden, ghy soudt moghelijck willen segghen de selve voort te komen uyt d’Apinien ende niet uyt den Vleysche. Daeromme stelle ick de selve ter sijden, ende noeme u niet dan Onkuyscheydt ende Gulsigheydt, die men niet en mach ontkennen Vruchten des Vleyschs te wesen.</p>
+<p><hi rend="i">H.</hi> Wat verstaat ghy by dat Woordeken Vleysch, t’welck ghy seght een aansporinge ende oorsaecke uwer Sonden te wesen? Want men mach daar by verstaen tweereleye dinghen.</p>
+<p><hi rend="i">C.</hi> Ick meyne daar by het verdorven sichtbare Lichaam.</p>
+<p><hi rend="i">H.</hi> Laet ons hier malkanderen wel verstaan. Binnen dat vleyschelijck ende sichtbare Lichaam woont een Gheestelyck ende onsichtbare Ziele, Ist niet soo.</p>
+<p><hi rend="i">C.</hi> Het is soo.</p>
+<p><hi rend="i">H.</hi> Die Ziele is niet dat het Vleysch is, noch het Vleysch dat de Ziele is, al maecken sy te saemen maar eenen Mensche. Of houdyt anders?</p>
+<p><hi rend="i">C.</hi> Neen.</p>
+<p><hi rend="i">H.</hi> Wie dan beyden is vooght? Ist niet soo, dat ghelijck Godt die onsienlijck ende een Gheest is, dese sichtbare uyterlijcke Weerelt heerschapt: dat alsoo t’onsienlijcke ende Geestelijcke Ziele het sichtbaar Vleeschelijck Lichaam beheerschet.</p>
+<p><hi rend="i">C.</hi> Als t’Lichaem niet wederspannigh en is.</p>
+<p><hi rend="i">H.</hi> Dat mach niet wesen.</p>
+<p><note place="margin">Galat. 5, 27</note><hi rend="i">C.</hi> Wat seghdy nu? Stater niet gheschreven: <hi rend="i">t’Vleysch begheerte teghen den Gheest.</hi></p>
+<p><hi rend="i">H.</hi> Ia. Maar hier valt ghy van u zichtbare Vleysch op een ander Vleysch dat onsightbaar ende Gheestelijcke is: hoe wel t’selve (als streckende ende sijn werckinghe hebbende in ende tot Vleyschelijcke dinghen) mede Vleysch werdt ghenoemt. Dit is het Vleysch daar <note place="margin">Galat. 5, 24</note>af d’Apostel in ’t zelve Capittel zeydt: <hi rend="i">Die Christo toe-behooren, hebben haeren Vleysche Ghekruyst met sijne lusten,</hi> ende dit al dewijle sy noch in ’t sichtbare Vleysch Leven. Dit is oock het innerlijcke Vleysch ende Lichame der Zonden, d’welcken <hi rend="i">Handen ende<note place="margin">Mat. 5. 29. 30.</note> Voeten afhouwen, ende welckes Ooghen men uytsteecken moet.</hi> Dit soude ongheschiet vallen te verstaan van dese sightbaere Handen ende Voeten af te houwen. Maar hier by wert verstaan, te weten by t’quaede Ooghe het valsche Oordeel: by Voeten die quade Begheerten: ende by de Handen de Zondelijcke werckinghe. Van dit Gheestelijcke Vleysch en spreecken wy nu niet, maar van’t sichtbaere Vleysch, dat is de Siele soo gantsch ghehoorsaam, dat het niet en mach weygheren zijn eyghen Leden te laten misbruycken tot sijns selfs quetsinghe ende verderffenisse. Alsmen leest van <hi rend="i">Origene,</hi> die hem selven lubde, ende van <hi rend="i">Mutio Scevolla</hi> die zijn eyghen Handt Brande, van <hi rend="i">Themestocle, Haenibaele,</hi> ende anderen, die met haren eyghen handen den mondt venijn gereyckt hebben, ende van <hi rend="i">Samson, Saul, Catho</hi> ende <hi rend="i">Bruto,</hi> welcker eyghen Handen, hare ghebiedende Siele, in’t Dooden van haeren Lichaeme ghediendt ende ghehoorsaemt hebben. Sietmen niet daeghelijcx voor Ooghen slechte luyden door eenderhande Wanhope metten handen stricken bereyden, daar mede sy hem selven verworghen, verhanghen ende dooden? Doet dan t’Lichaam de Ziele onderdanigh zijn, oock in’t berooven (overmits den Doot des Lichaems) van alle Lichaemelijcke lusten te samen: wie twijffelt of het en sal oock moeten ghehoorsaemen in’t ontberen van eenighe lusten, sonder in Doots perijckel te komen? Of meyndy dat hy ’t minste ofte het deel niet en vermach, die t’meeste ende t’gheheele vermach? Dat waer soo veel gheseyt. Die man is soo sterck dat hy Hondert Pont ghewichts een Mijle weechs magh draeghen, maar hy en kan gheen Pondt ghewichts een vieren deel Mijle weeghs draghen, wat maghmen doch Zottelijckers bedencken? Wat dunckt u nu? Is de Ziele dan gheen vooght over t’Lichaem.</p>
+<p><hi rend="i">C.</hi> Dat en mach ick nu niet loochenen Maer ghy moet nu oock klaarlijcken bekennen, dat het Lichaam door sijn verdorven Aardt tot Zondighen is gheneghen, ende ons oock noch Daghelijcks daer toe is aanporrende.</p>
+<p><hi rend="i">H.</hi> Voor seyde ick een ander dinck te wesen Aanporren, ende een ander dinck te wesen Dwinghen, daar by ghy nu wel klaarlijcken hebt moghen bemercken ende oock verstaan, dat het Lichaam niet die Ziele, maar de Ziele wel het Lichaam magh ende kan bedwinghen. Daar mede mijn voornemen nu meer dan ghenoegh blijckt, dat als Godt wil ende ghy oock wilt, het Vleysch u nyet en mach beletten, nochte verhinderen om tot de beteringe, daar af wy nu spreken, te komen. Laat ons nu oock komen op de Zonden, daar toe ghy segghen wilt het Vleysch ons aan te porren, als Dronkenheydt, Vratigheydt, ende Onkuyscheyt. Ende soo moet ick u eerst vragen of alle Eten, alle Drincken, ende alle By-Slapen oock Zonde is?</p>
+<p><hi rend="i">C.</hi> Dat en segghe ick niet, maar ghy moet klaarlijcken bekennen dat te veel Eeten, te veel Drincken, te veel By-slapen oock Zonde is!</p>
+<p><hi rend="i">H.</hi> Dat bekenne ick, ende ghy en sult oock niet ontkennen nochte loochenen dat slechte Spijse ende Drancke maetelijck gegheten ende gedroncken, ende tot zijn Echte Wijf ter nootdruft inne ghegaen, gheen Zonde en is.</p>
+<p><hi rend="i">C.</hi> Ick en loochene nochte en ontkenne dat niet.</p>
+<p><hi rend="i">H.</hi> Het Eten, Drincken ende by-slapen en is dan van selfs noch Sonde noch Deughde, want het mach Sondelijck ende oock Deugdelijck gheschieden: mMaar in’t misbruycken van dien is Sonde, ende in’t recht ghebruycken is Deughde gheleghen.</p>
+<p><hi rend="i">C.</hi> Het schijnt soo.</p>
+<p><hi rend="i">H.</hi> Men mach dan oock soo wel seggen dat de Mensche ter Deughden werdt aangheport als tot Sonde, wanneer hem des Vleyschs nootdruft aanporret tot Eeten, Drincken ende minnen.</p>
+<p><hi rend="i">C.</hi> Nochtans so komet oock door des vleysches aanporringhe, datmens te veel ende ter ontijt doet.</p>
+<p><hi rend="i">H.</hi> Neen. De Natuere en is niet tegen haer <pb ed="fol." n="161v"/>selve, maar sy is gheneghen tot de nootdruft, die haar in’t ghenieten altijt lustigh ende daar na altijt versterckende ende nut is. Daar teghen vliedt sy den overvloedt, die haar in’t ghenieten walght, ofte ten minsten min lustigh maackt, ende daar nae altijdt lastigh, krenckende ende schaedelijck is. Dit sietmen daghelijcx aen de Vraeten ende Dronckaarts, welcker overladen maghe den last weder uytbraackt. Niet anders en ist met d’overmatighe by-slapinghe, want die kranckt ende bederft die Natuere, ende is daarom onmoghelijck, dat des Vleesch Natuere (alle welcks gheneghentheyden ende aanporringhe streckende zijn tot sijne behoudenisse) aanporren soude tot te veel Etens, te veel Drinckens, ofte te veel minnens, dat sijn bederffenisse is. De Natuere heeft haer maete, dat is in’t Hongheren, in’t Dorsten ende in’t Branden nae Venus. Neemt een ghelijckenisse: Als de Leden kout zijn, zoo eyscht die Naetuer warmte, de Mensche ghenaeckt het Vuyr, ende heeft lust in’t Wermen, want daar wort het ghebreck ghevoet ende Naetuere versterckt, daar sich altijt lust mede vermenght. Maar wil de Mensch onbescheydelijck te veel Wermte hebben, zoo dat hy voor Wermte, Hitte ofte Brandt wil ghenieten: de Naetuere sal daar af grouwelen ende de selve vlieden. Wat isser oock lieffelijcker voor den Ooghen, dan de Sonne? Nochtans vermijdtmen die overmatighe klaarheydt zijnder glantsen als quetselijck zijnde. Men vindt oock niet lustighers dan verkoelinghe voor den ghene die verhit is: nochtans sal die Naetuere grillen, indien zy met al te kouden Waeter schielijck overgoten wert, ende t’selfde vermijden. Also mede den Hongher ende Dorst verzaedight zijnde, rust de Natuere van meer spijse ende Dranck te begheeren, alsoo ’t haar lastigh ende quetselijck is, maar schickt haer om die te Koocken, te verdouwen ende t’Voedtsel, Gheeste, ofte krachte in’t Bloedt te veranderen, ende door alle de Leden tot ververschinghe ende onderhoudt te verspreyen.</p>
+<p><hi rend="i">C.</hi> Het schijnt wel soo ghy secht. Maar ist soo, wat port den satten, verlaafden ende verkoelden van Venus Brandt, tot noch meer Etens, Drinckens, ende Minnens?</p>
+<p><hi rend="i">H.</hi> De verbeeldinghe van ’t lustigh ghevoel ende welluste des voorleden ghenietens, om de welcke weder te bekomen de Begheerlijckheydt ontsteecken, de Wille Gebooren ende het werck ghewracht werdt tot staedighe ghenietinghe van’t voorschreven wellustighe ghevoelen. Dit veroorsaackt voor de Satten die konsten van leckerheyt in spijse ende drancke, ende die hittighe jacht nae vreemde schoonheyt. Maar hier af willen wy voorder spreken op een ander tijdt, ende ons nu ghenoeghende met het voorschreven bewijs dat het Vleesch gheen vooght, maar als een Harpe den Speelman, een onderdanigh Instrument is vander Ziele: ende dat volghende dien het Vleesch gheen macht en heeft, niet alleen om die Ziele te dwinghen, soo ghy eerst waande, maar oock niet om die tot quaat aan te porren. In welck bewijs ick wat langher ben ghebleven, om dat ick t’selfde verstandt bemerckte by u of veelen niet te wesen. Laat my nu voorder hooren, wie ghy den ghenen sult noemen, die vermach den Mensche zijns ondancks te beletten zijnen begheerde beteringhe.</p>
+<p><hi rend="i">C.</hi> Ick ben daar byna gheheel uyt.</p>
+<p><hi rend="i">H.</hi> Byna en is niet al, ghy weet dan noch al wat raats</p>
+<p><hi rend="i">C.</hi> Dats waar, maer ghy sulter al weder wat op weten te segghen.</p>
+<p><hi rend="i">H.</hi> Is dat niet beter dan of ick sweeghe? Wt een t’samensprake sonder Toorn, Eersucht ende Hardtneckigheydt plach gemeenlijck wel wat goedts te komen, dat by wijle een Mensche alleen niet en soude konnen bedencken. Dus segt u meeninghe vryelijck uyte.</p>
+<p><hi rend="i">C.</hi> Ick dencke dat het die Werelt soude sijn, <note place="margin">Weerelt.</note> die den Menschen sijn ondanckx af-treckt van der Deuchden.</p>
+<p><hi rend="i">H.</hi> Dat laat ons mede nae-speuren. Ghy verstaat by dat woordeken Weerelt of de sichtbare Weerelt, of t’gunt daer by ghemeent wort opte plaatse luydende: <hi rend="i">Alle de gheheele<note place="margin">1. Ioan. 5. 10</note> VVerelt in’t boose te zijn gheleghen.</hi> Meyndy t’eerste, dats een goet maacksel Godes, ende en mach niet quaadts van selfs veroorsaken. Meynt ghy d’ander, van de welcke de Duyvel heer is, te weten de onsichbare, soo en mach die oock niet yemandt zijns ondancks, ten quaden te bedwinghen. Ghemerckt dese Werelt met haar herte de Duyvel selve, van Christo al overwonnen is.</p>
+<p><hi rend="i">C.</hi> Ick dachts wel, dat ghy my al weder met listen soudt vanghen.</p>
+<p><hi rend="i">H.</hi> Niet met listen, maar met Waarheyt, want seker ghy en vermoedt die Werelt niet moghender te zijn dan Godt?</p>
+<p><hi rend="i">C.</hi> Wat waar’t Schepsel stercker ghemaact dan de Scheppere.</p>
+<p><hi rend="i">H.</hi> Is dat dan soo: het kranckste en mach d’Almoghentheyt niet beletten zijnen Wille te volbrenghen.</p>
+<p><hi rend="i">C.</hi> Gheensins.</p>
+<p><hi rend="i">H.</hi> Dat soude nochtans moeten zijn, indien de Werelt vermocht te beletten, die willigh zijt (soo ghy wilt segghen) beter ende deughdelijcker te worden, t’welck ghy bekent de wille Godes te wesen. Swijght ghy? Seght, wat dunckt u hier af?</p>
+<p><hi rend="i">C.</hi> Dat ghy segt schijnt wel sulcx, maar my valt daar wat anders inne, dat my bedunckt macht te hebben om den Mensch t’hanteren der Deughden te beletten.</p>
+<p><hi rend="i">H.</hi> Wat soude dat zijn?</p>
+<p><hi rend="i">C.</hi> De quade Ghewoonte, ghenoegh een<note place="margin">Quade Gewoonte.</note> tweede Nature wesende.</p>
+<p><hi rend="i">H.</hi> Daar komdy de Waarheyt naarder dan met alle u voorgaande antwoorden. Want dese heeft groote macht in de Mensch, sulcx dat<note place="margin">Iere. 13. 23</note> sy oock in den beghinne van der Deughden<note place="margin">Prov. 22. 0.</note> hanteringhe, den ghenen die nu al van goede Wille zijn, belet de ghewilde Deught, ende dwinght de gehaatte Zonde te pleghen. Doch al hedeft de quade Ghewoonte sulcke macht in den beghinne van de bekeeringhe, soo en behoudtse de heerschappije ende macht niet totten eynde toe, maer moet metter tijdt door een teghen-ghewoonte, te weten een goede Ghewoonte allencxkens inne komen de, haar macht verliesen, ende ten laatsten uyten Mensche ruymen: dat suldy aldus licht verstaan: Hebdy in u Leven (ick swijghe van de Heylighen in ouden tijden) niet wel Menschen ghekent, die hem bekeerende, uyt Dronckaarts, Vraten, Hoereerders, Ghierigaarts, Achterklappers, ende dierghelijcke Zondelijckheydt van leven verandert zijn in Nuchtere, Sobere, Kuyssche, Milde ende Heussche Menschen?</p>
+<pb ed="fol." n="162r"/>
+<p><hi rend="i">C.</hi> Veele.</p>
+<p><hi rend="i">H.</hi> Elck van soodanighe hadde nochtans te vooren in hem een krachtighe Ghewoonte van zondighen, ende ghenoech een tweede Natuer, soo ghy’t noemt.</p>
+<p><hi rend="i">C.</hi> Tis waar.</p>
+<p><hi rend="i">H.</hi> Hadde nu die quaede ghewoonte macht ghehadt om henluyden alle t’Leven door te dwinghen, sy en moghten sulckx aanghewendt quaadt haar Leven lanck niet verlaeten hebben.</p>
+<p><hi rend="i">C.</hi> T’schijnt wel soo.</p>
+<p><hi rend="i">H.</hi> Immers het is soo.</p>
+<p><hi rend="i">C.</hi> Ick ghelooft.</p>
+<p><hi rend="i">H.</hi> Soo blijckt dan dat de quaede Ghewoonte den Mensche niet en mach altijdt dwinghen ten quaeden, ende af-trecken van ’t goede: dat mooghdy oock hier noch by mercken. Wat metter tijt inden Menschen komt, dat mach metter tijdt daer uyt ghedaen werden. Ist niet soo?</p>
+<p><hi rend="i">C.</hi> T’is soo.</p>
+<p><hi rend="i">H.</hi> Hoe veele Menschen sijn Twintigh jae Dertigh ende meer Iaren Out, eer sy aan den Dronck, aan ’t Vrou-eeren, ende aan andere quade Ghewoonte gheraecken?</p>
+<p><hi rend="i">C.</hi> Veele.</p>
+<p><hi rend="i">H.</hi> Eer sy daer aan quamen hadden sy die quade Ghewoonte niet.</p>
+<p><hi rend="i">C.</hi> Neen.</p>
+<p><hi rend="i">H.</hi> Sy komt dan metter tijdt in den Menschen.</p>
+<p><hi rend="i">C.</hi> Alsoo.</p>
+<p><hi rend="i">H.</hi> Sy mach dan daer oock metter tijdt uyt komen, soo wy in veelen sien gheschieden.</p>
+<p><hi rend="i">C.</hi> Sy mach.</p>
+<p><hi rend="i">H.</hi> De quade Ghewoonte en mach dan oock de Mensche niet altijdt des Deughts hanteringhe beletten.</p>
+<p><hi rend="i">C.</hi> T’schijnt te volghen, ende en wete oock nu niet een woort meer te segghen.</p>
+<p><hi rend="i">H.</hi> Nadien dan voor is beleden, dat Godt willigh is u sijn macht mede te deylen, tot toeneminghe in Deughden, ende ghenoech is ghebleken dat noch Duyvel, noch Vleysch, noch de Weerelt, noch quaede Ghewoonte macht en hebben om u daar in te beletten of te hinderen, by al-dien ghy wel wilde dat ghy beter waart (soo ghy seght:) wat mach u inde weghe zijn dat u Wille niet en geschiet.</p>
+<p><hi rend="i">C.</hi> Ick en weets niet.</p>
+<p><hi rend="i">H.</hi> Voorwaar, waar ’t soo dat ghy een zelve dingh wilde, dat ghy bekendt den Almoghenden Godt te willen, te weten u Beteringhe: ghy zoudt die sonder allen twijfel moeten verwerven, want buyten ende sonder Godt en is (soo ghy voor hebt beleden, ende oock altijt moet belijden) geen macht altoos. So en kan daar oock niet zijn dat Godts wille wederstaan mach.</p>
+<p><hi rend="i">C.</hi> T’is soo.</p>
+<p><hi rend="i">H.</hi> Maar ghy en wert niet beter, belijdy.</p>
+<p><hi rend="i">C.</hi> Ick belijdt.</p>
+<p><hi rend="i">H.</hi> T’ghebreeckt u aan maght seghdy: soo ghy u laet beduncken de Wille te hebben.</p>
+<p><hi rend="i">C.</hi> Ghy secht recht.</p>
+<p><hi rend="i">H.</hi> Godts macht staat u bereydt, bekendy mede, als ghy seght dat Godt willigh is om u te beteren.</p>
+<p><hi rend="i">C.</hi> Sonder twijfel.</p>
+<p><hi rend="i">H.</hi> Gheen Createur en mach u beletten die maght, u uyt ghenaden aangheboden, te ontfanghen.</p>
+<p><hi rend="i">C.</hi> Dat en vermach gheen Creatuer.</p>
+<p><hi rend="i">H.</hi> Nochtans en hebt ghyse niet.</p>
+<p><hi rend="i">C.</hi> Neen.</p>
+<p><hi rend="i">H.</hi> Soo volcht dat ghyse niet en begheert? nochte en wilt. Want wilde ghy die aangheboden ghenade Godts ontfangen, ghy soudtse hebben.</p>
+<p><hi rend="i">c.</hi> Ick soude.</p>
+<p><hi rend="i">H.</hi> Alsoo ontbreeckt u die macht om beter te worden, alleenlijck om dat ghy die niet en wilt hebben. Want onghetwijfelt, Godt en schept niet te vergheefs in u een goede Wille, die waar sonder macht vergeefs. Maar daar staat gheschreven: <hi rend="i">Die daar in u werckt het<note place="margin">Philip. 2.</note> willen, die werckt oock het Volbrengen.</hi> Doch niet met bedwanghe Want Godt en zadeldt sijne gaven niemandt op met ghewelt, maar gheeft die den Armen, Behoeftighen, begheerlijcken ende willighe Menschen. Hy ghebiedt ons het gheloovigh Bidden, beloovende ghewisse verkrijginge <hi rend="i">of verhooringhe in alle<note place="margin">1. Ioz. 5. 15, </note> t’gene wy nae zynen Heylige VVille bidden.</hi> Als wy dan metter Herten in den Geest ende Waarheydt Bidden, dat sijn Goddelijck Rijck ons toekome, ende dat sijnen Wille in ons moedt gheschieden, soo Bidden wy immers na sijnen Wille, ende moeten mitsdien oock onghetwijfelt het begheerde verkrijghen. Alsoo en ghebreecket ons niet aan die maght, wandt die staat ons in Godes ghenaeden altijt open ende ghereedt, maar aan de Wille ghebreecket ons dat wy niet beter en worden. Seeker hadden wy eenen ernstighen Wille om der Zonden onkruydt te wieden uyten Acker onser Herten, die selve te bearbeyden, te Ploeghen, te Zaeyen, ende te Maeyen, ten soude aen de Sonne des Godtlijcken verstandts ende den Douwe der Hemelscher ghenaeden niet ghebreecken, wy en zouden haast de Vruchten der Saligher Deugden in de Schuere onses Herten Overvloedelijcken dorschen. Maar wy zijn (leyder) van de Luyden daar af gheschreven staat: <hi rend="i">de Trage<note place="margin">Prov. 13. 4.</note> wil ende wil niet.</hi> Dat is, wy willen metten Monde, maar metter daat niet: Wy willen t’quaadt pleghen, maar willen die straffinghe niet: Wy willen der Deughden loon, de Zaligheydt, wel, maar der Deughden Oeffeninghe en willen wy niet. Wandt <hi rend="i">wy dan om<note place="margin">Prov. 20. 4.</note> der koude wille niet en willen Ploeghen, sullen daarom oock in den VVinter ghebreck lijden.</hi> Wee ons, indien in des e Vruchteloose Winter de vlucht gheschiet.</p>
+<p><hi rend="i">C.</hi> Heere Godt, ghy seght al de Waarheyt. Och of dit verstaan waere van vele Menschen, die hun al laeten beduncken, ende oock Daghelijcx segghen (als ick terstont dede): onse Heere Godt make mijn beter dan ick ben, Ick wilde wel dat ick beter ware, ende dierghelijcke meer, t’welck wy meest al (soo ick nu mercke) valschelijck lieghen. Arbeydende daar mede ons selven te ontschuldighen, ende den liefhebbenden Godt te beschuldighen, van onse blijvende Zondelijckheydt. Maar want ick niet en versta wat het ghene is dat ons tot zonden brenght, ende daar inne onderhoudt, ende daar nochtans eenighe oorsake toe moedt wesen, ghemerckt uyt niet niet en gheschiedt, (soo men seyt) ende de Sieckte niet en magh ophouden soo langhe d’oorsake van dien blijft in den Mensche, welcke oorsaecke oock moedt bekendt sijn, sal die moghen wegh-ghenomen werden, soo bidde ick u my die te willen ontdecken.</p>
+<p><hi rend="i">H.</hi> De Sonne daalt, het is haast tijdt nae Huyse te gaan. Niet te min, om u (soo veel in <pb ed="fol." n="162v"/>my is, ende des tijdts kortheyt mach lijden) te vernoeghen, wil ick na Huys gaande, daar wat af segghen. Segt my dan, hebdy nyet wel eer nyt vreese van schande ghelaten droncken te drincken?</p>
+<p><hi rend="i">C.</hi> Ick hebbe.</p>
+<p><hi rend="i">H.</hi> Ter liefde van’t ghewinne t’ghemack ontbeert?</p>
+<p><hi rend="i">C.</hi> Dickmaal.</p>
+<p><hi rend="i">H.</hi> Ende om t’leven te behouden t’ghelt verlaten?</p>
+<p><hi rend="i">C.</hi> Ia ick.</p>
+<p><hi rend="i">H.</hi> Ghy haddet keure ende macht om anders te doen, haddy nyet?</p>
+<p><hi rend="i">C.</hi> Trouwen ja.</p>
+<p><hi rend="i">H.</hi> Maar ghy oordeelde Eere beter, dan de smake? den oorbaar dan t’ghemack? ende t’leven dan t’ghelt?</p>
+<p><hi rend="i">C.</hi> Alsoo.</p>
+<p><hi rend="i">H.</hi> Wat men om snooder kan doen of laten, dat kanmen oock (indien men wil) om beter wel doen of laten. Also dat ghy t’gunt ghy wel soudet willen doen om een pondt kopers, ghy t’selven oock wel soudet willen doen om een pondt goudts te winnen.</p>
+<p><hi rend="i">C.</hi> T’is recht.</p>
+<p><hi rend="i">H.</hi> Deughde is beter dan s’volcx Eere, dan ghelt ende dan t’leven, ist nyet soo?</p>
+<p><hi rend="i">C.</hi> T’is soo.</p>
+<p><hi rend="i">H.</hi> Soo wie dan vermach ter liefde van s’volcx Eere, van ghelt ende van sijn leven, de dronckenheyt, het ghemack ende het ghelt te begheven: die moet sulcx oock vermoghen ter liefden van Matigheyt, Sterckheyt en̄ Miltheyt (dat al t’samen Goddelijcke Deughden ende veel beter zijn) te verwerven: door hanteringhe van welcke Deughde, oock de Gulsigheyt, Kranckheyt ende Ghierigheyt verlaten, verdreven ende vernielt werden.</p>
+<p><hi rend="i">C.</hi> Het is onwedersprelijck.</p>
+<p><hi rend="i">H.</hi> Merckt ghy nu wel van nieus, dat ghy oyt macht ghehadt hebt beter te worden, indien ghy sulcx met ernst in den Heere ghewilt haddet, soo ghy t’onrecht anders waandet?</p>
+<p><hi rend="i">C.</hi> Hoe datte?</p>
+<p><hi rend="i">H.</hi> Ick sal’t verklaren. Ghy bekent dat ghy eertijts het droncken drincken, u ghemack ende u ghelt hebt konnen laten, uyt vreese van schande, uyt hope van ghelts ghewinne, ende uyt liefde van’t leven. Ghy bekent oock mede dat ghy t’selve soudt hebben moghen laten ter liefde van beter dinghen dan de voorschreven, ende ick hoore u toe-slaan dat Deughde beter is dan Eere, ghemack ende t’leven: so moest ghy t’selve oock vermoghen te doen, om t’verkrijghen van de voorschreven Deughden, waar inne oock t’verlies van Ondeughde is gelegen, niet anders dan met inkomste van’t Licht de Duysternisse verdwijnt. Soo dat het verkrijghen der Deughden in sich heeft dubbel loon, te weten verlossinghe van verdriet, ende ghenietinghe van een heylige Welluste. Maar ghy en hebt die Deughde niet verkreghen, want ghy die niet soo vuyrighlijck begheert, soo ernstelijck ghewilt, nochte so ghestadelijck in den Heere benaarstight en hebt, als Eere, Rijckdom ende lanck leven.</p>
+<p><hi rend="i">C.</hi> Dit is also, maar noch en hoore ick die oorsake nyet.</p>
+<p><hi rend="i">H.</hi> Luystert, ghy sultse haast mercken, oock uyt dit voorschreven: Of een kindeken keure hadde te nemen een Poppe ofte een Diamant, ende een Appel ofte een goudē Ducaat: welck meyndy soudet nemen?</p>
+<p><hi rend="i">C.</hi> De Poppe ende Appel.</p>
+<p><hi rend="i">H.</hi> Waarom dat.</p>
+<p><hi rend="i">C.</hi> Wt Onkunde van de waarde der dinghen.</p>
+<p><hi rend="i">H.</hi> Alsoo. Ende of ghy soudt kiesen?</p>
+<p><hi rend="i">C.</hi> De Diamant ende Ducaat soude mijns werden.</p>
+<p><hi rend="i">H.</hi> Overmits u d’onderscheyt vande waarde tusschen den Pop ende Diamant, tusschen den Appel ende Ducaat wel bekent is?</p>
+<p><hi rend="i">C.</hi> Daaromme.</p>
+<p><hi rend="i">H.</hi> Ghy segt wel, ende meyne oock onmoghelijck te zijn dat ghy soo zottelijck soudt kiesen als het kindt: ghemerckt ghy sekerlijck weet datmen om een Diamant duysent Poppen, ende om een Ducaat duysendt Appelen mach koopen.</p>
+<p><hi rend="i">C.</hi> Ghy segt de waarheyt.</p>
+<p><hi rend="i">H.</hi> De grondt hier af is, dat de Mensch boven al begheert, ende wil het gunt hy hem best waant of weet te wesen.</p>
+<p><hi rend="i">C.</hi> t’is alsoo.</p>
+<p><hi rend="i">H.</hi> Dat elck meest begheert ende wil, dat benaarstight hy meest te verkrijghen ende besteedt daar sijnen meesten tijdt, Hert ende sinne toe.</p>
+<p><hi rend="i">C.</hi> Dat doet hy.</p>
+<p><hi rend="i">H.</hi> Wat acht ghy beter, u Lijf of u Ziele?</p>
+<p><hi rend="i">c.</hi> Dat is gheen vraghens waart: Wie weet niet dat de Ziele, als wesende redelijck, Godtlijck ende onsterffelijck, ongelijck beter is dan het dierlijcke, vleyschelijcke ende sterffelijcke lichaam.</p>
+<p><hi rend="i">H.</hi> Wat goeden zijn beter, der Zielen, of des Lichaams?</p>
+<p><hi rend="i">c.</hi> Der Zielen.</p>
+<p><hi rend="i">H.</hi> Weet ghy dat oock wel inder waarheyt ende sonder twijfele?</p>
+<p><hi rend="i">c.</hi> Die daar aan twijfelt is puyr zot.</p>
+<p><hi rend="i">H.</hi> Hola, wedt dat so hoogh nyet, op dat ghy tot u selfs oneere nyet en spreeckt. Maar. ghy en twijfelt daar nyet aan.</p>
+<p><hi rend="i">c.</hi> Gheensins.</p>
+<p><hi rend="i">H.</hi> Segt my doch, welck benaarstight ghy meer, der Zielen of des Lichaams goederen? Wat swijght ghy? Stamert noch en schroomt niet, maar segt die naackte waarheydt.</p>
+<p><hi rend="i">c.</hi> Dat wil icks loochenen, ick bestede meer Daghen, ja Weken (zijn’t anders gheen Maenden ofte Iaren) om te verkrijghen des Lichaams, dan der Zielen Rijckdommen.</p>
+<p><hi rend="i">H.</hi> Nochtans segdy u ghewis te weten dat der Zielen goederen onghelijck beter zijn, soo datter al grooter onderscheyt tusschen is, dan tusschen de Poppe, of Appel ende Diamant ofte gouden Ducaat, daar van wy terstont hebben vermaant.</p>
+<p><hi rend="i">c.</hi> Wat sal ick segghen?</p>
+<p><hi rend="i">H.</hi> Ick wil u wat segghen: Wt het gunt wy ghesproken hebben blijckt onwedersprekelijck (ghy en sult u niet belghen) dat ghy een kindt zijt van 45. Iaren, dat gheen onderscheyt heeft tusschen goet ende quaat, ende veel min tusschen die alderbeste ende snoode goeden. Want indien ghy t’quaat kende, ghy soudt dat bevinden te wesen de Zonde (daar inne ghy daghelijcx blijft) ende die selve niet anders dan t’venijn uwer Zielen (so de Zonde der Ziele doot is) haten, vermijden ende vlieden. Wederom indien ghy t’goede kende, ghy soudt dat bevinden te wesen die onsterffelijcke Deughde (die ghy niet en benaarstight) ende die selve als een Medecijne uwer gewonder ende krancker Zielen beminnen, beghee-<pb ed="fol." n="163r"/>ren ende naspeuren, ende gheensins (soo ghy nu doet) het snoodtste, ja valsche goet, met versuymenisse van’t beste ende warachtighe Goedt, benaarstighen, na u selfs bekentenisse, dat elck Mensche boven al begheert, wil ende <note place="margin">Onverstant de eenighe verderver der Zielen.</note>benaarstight, het ghene hy best waandt ofte weet voor hem te wesen. Onverstant blijckt dan d’eenighe verleyder ende verderver uwer Zielen te wesen, door haar komet dat ghy het beste niet kennende, t’selve niet en begheerdt nochte en wilt. Want onkunde maackt (zoo t’spreeckwoordt seyt) onminne, ende door haar beminnen de Menschen dwaaslijck henluyder <note place="margin">Prov. 1. 22.</note>bederven, daar af gheschreven staat: <hi rend="i">Hoe langhe sult ghy Sotten, beminnen dinghen die u schadelyck syn?</hi></p>
+<p><hi rend="i">C.</hi> My is leet dat wy door u Deure zijn, ende datter Volck op u wacht. Want hier is oorsake om te spreken van de begheerlijckste, ja nootlijckste sake (soo my bedunckt) daar af de menschen moghen spreken.</p>
+<p><hi rend="i">H.</hi> Wats datte?</p>
+<p><hi rend="i">C.</hi> Het onverstant by u vermaandt, wandt <note place="margin">Ephes. 4. 22</note>ick meyn nu te verstaan, dat des Menschen <note place="margin">1. Pet. 1. 14.</note><hi rend="i">onwijse begheerten</hi> zijn d’Oorspronck van alle <note place="margin">Iac. 1. 14. 25</note>sijn jammer ende verdriet (om soo te segghen.)</p>
+<p><hi rend="i">H.</hi> Lust u soo seere daar nae, soo willen wy (voeghet Godt) op een ander wandelingh, het Onverstandt voorhanden nemen, ende ondersoecken wat het is: wanneer ende hoe dat het inden Mensche komt: waanneer het de Mensche tot Zonde gherekent wordt, ende wanneer niet: wat het inden Mensche werckt: waar door het inden Mensche blijft: ende by wat middelen men daar af verlost werdt. Hier en tusschen wil ick u de Heere bevelen, ende u vermaenen dat ghy dese onse t’samen-sprake wel ter Herten neemt, dat ghy naarstigheydt doet om u onverstant grontlijck te verstaan, dat ghy de selve als u Hooft-Vyant leerdt haeten, dat ghy begheert, wilt ende arbeydt om verlost daar af te werden, daar toe u gheen maght en sal ontbreken, ist maar dat ghy’t inder Waarheydt Bidt, den ghenen die’t belooft heeft in sijnen Soone, d’eeuwighe Waarheyt, die u dat gonne.</p>
+<p><hi rend="i">C.</hi> Amen. Dats Salighlijck ghewenscht: Ick wilt benaarstighen metter hulpe Godts, wiens ghenade ick u bevele.</p>
+<p>&nbsp;</p>
+        <p>Ghemaackt den 4. February, Anno 1568. <hi rend="i">(Stilo communi)</hi> in de Ghevanckenisse des Hertoghen van Alva:</p><interpGrp><interp type="end" value="coor001tsam02"/></interpGrp></div>
+</body>
+</text>
+</TEI.2>

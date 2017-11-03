@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "http://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Corte berispinge. Vande leere Calvini vande voorsienigheyt Godes</title>
+                <author>D.V. Coornhert</author>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Corte berispinge. Vande leere Calvini vande voorsienigheyt Godes</hi> van D.V. Coornhert in een uitgave uit 1630. De eerste druk dateert van 1556.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr>fol. ccc lxiiiv: Het onjuiste opsommingsnummer XVI is verbeterd in XIV.</corr>
+                        <corr>fol. ccc lxiiv: darse → datse: ‘datse vanden volcke verstaen mogen worden’.</corr>
+                        <corr>fol. ccc lxivr: seghen  segghen: ‘Maer vande Schriftuere segghen sy alsoo’.</corr>
+                        <corr>fol. ccc lxivr: wz → wij: ‘ende oock dat wij hem segghen te wesen een Propheet’.</corr>
+                        <corr>fol. ccc lxivr: hing → ghing: ‘hy ghing dan sulcx doen, by toelatinge des Vaders’.</corr>
+                        <corr>fol. ccc lxvr: gnatsche → gantsche: ‘so was al sijn gantsche leven niet dan enckele Hipocrisie’.</corr>
+                        
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan section="1" type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+                <scan section="1" type="fol2">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">coor001cort02_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2013 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note></note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Universiteitsbibliotheek Amsterdam, signatuur: Cat. Ned. Lett. UBA 195</idno>
+                </bibl>
+                <p>D.V. Coornhert, <hi rend="i">Corte berispinge. Vande leere Calvini vande voorsienigheyt Godes</hi>. Jacob Aertsz Colom, Amsterdam 1630 (uitgave)</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Corte berispinge. Vande leere Calvini vande voorsienigheyt Godes</title>
+                <title type="subordinate"></title>
+                <author>D.V. Coornhert</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Corte berispinge. Vande leere Calvini vande voorsienigheyt Godes</title>
+                <title type="subordinate"></title>
+                <author>D.V. Coornhert</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2013-05-13</date>
+                <respStmt>
+                    <name type="person">RK</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+    <interpGrp><interp type="primair" value="calv003"/></interpGrp>
+<body>
+<div type="chapter">
+    <pb ed="fol." n="ccc lxiiv"/>
+    <head rend="h3">Corte berispinge. Vande Leere Calvini vande voorsienigheyt Godes.</head>
+<p><hi rend="i">Gheschreven (so Calvijn ende Besa seggen) door Sebastiaen Castellion ende by den selven Calvijn genaemt valsche beschuldiginghen eens boeves, mette welcke hy heeft bestaen met hate ende nijt te beladen de leere Iohan Calvini vande ver-holen voorsienigheyt Gods.</hi></p>
+<p><hi rend="i">Vertaelt door D.V. Coornhert.</hi></p>
+<div type="section">
+<head rend="h4"><hi rend="i">Aen den onpartydigen Leser.</hi></head>
+    <p><hi rend="i">HOe nodigh (Lieve Leser) by Calvijn ende Besam ter saligheyt is gheacht, die kennisse vande eeuwighe Predestinatie Godes, betuygen heure beyder boecken tot vele plaetsen, ende namentlijck die titule eens boecx Bese, daer hyse noemt het eenighe fundament onser saligheydt. Hoe diepe sy oock beyde met haer menschelijck vernuft ghewadet hebben inden grondeloosen Zee deser saken, die sy selve noemen verholen ende onbegrijpelijck te wesen, betuygen mede der voornoemder Leeraren beyder schriften overvloedelijck. Maer dat sy beyde in dese sake gheicariseert hebben, betuygen mede naecktelijc veele grove ende lelijcke ongheschicktheyden niet alleen nootlijc uyt haer woorden volgende, maer met naeckte woorden bottelijck by hem beyden uytgesproken wesende, so ick niet alleen slechtelijc gheseyt, maer crachtelijc bewesen hebbe in mijne boecxkens vande toelatinghe Godes over thien jaren by my in druc gegeven, sulcx dat ooc sulcke heure beyder leere vande Predestinatie velen grootelijc mishaecht, ooc luyden wesende vade religie diemen naemt gereformeert. Die heeft ooc seer mishaecht den schrijver van dit naervolgende geschriftgen, twelc sy segghen te zijn gheweest Sebastiaen Castellio, welc schriftgen ic niet en hebbe moghen laten in Nederlantsche tale ghemeen te maken, of moghelijc die selve leere u lieve Leser, ooc soo mocht mishagen dat ghy die of vermijden of verlaten mochte immers dat ghy mocht het al te diep ondersoec deser saken, met derghelijcke anderen ter zijden stellen, den eersten trap ter saligheyt naspeuren, u self verlaten, Christum na volgen, in zijn licht wanderen daer inne het lichte Godes sien, ende 't gunt u ter saligheyt nodich is verstaen. Doch hope ic u Leser laets my die Heere toe ter eerster gelegentheyt ooc te laten int Nederlans sien, 't gene hier op dit gheschriftgen gheantwoordt is gheweest, daer suldy dan <pb ed="fol." n="ccc lxiiir"/> selve mogen lesen meer andere grove ende sware verwerringhen deser twee Leraren in desen te verde zijnde ghetreden, soo menichvuldich wesende, dat onmogelijc was alle die selve in dit corte schriftjen vervatet te werden. Ten eynde ghy u so sachtelijc als voorsichtelijc aen een anders verderflijcke curieusheydt spiegelende u daer voor wachten moocht, ende met ootmoediger onderdanigheyt gehoorsamen dese Godlijcke vermaningen: wilt niet hoogh wijs zijn maer vreest. Die een ondersoecker is der Majesteyts sal vande glorie verdruct worden, en wilt niet wyser zijn dan 't nodigh is. Niemant en ghevoele boven het gene hy behoort te ghevoelen, maer dat zijn gevoelen sy ter matigheyt. Met meer andere alsodanige heylsame ende salighe vermaningen des Heeren, op dat ghy also verlatende onnodige saken die al geweten zijnde veeleer den mensche hovaerdiger dan beter maken: u corte ende diere tydt mocht besteden tot dinghen meer tot goet worden dan tot hoochweten streckende. Dit gonne God de Vader ende gever alder goeder gaven door onsen Heere Iesum Christum u allen ende oock mede my.</hi></p>
+<p><hi rend="i">V. alderdienstwillige D.V. Coornhert.</hi></p>
+<p>&nbsp;</p>
+<p><hi rend="i">DYne leringe Iohan Calvijn, die daer zijt by na de vermaerste man ter werelt, heeft ongetwyfelt veele goetgonstigen: maer die selve heeft oock mede vele wedersprekers. Ick wensche datter sy maer een leeringhe, gheliick daer maer een waerheyt is, ende dat sy die altesamen toestemden so dat mochte zijn: Daeromme hebbe ick dat moeten familierlic vermanen vande saecken die tegen dyne leringe dickmael geseyt worden: ten eynde soo dat die valsch zijn du die wederleggen, ende ons die wederlegginge senden soutste: op dat wy tegen sodanigen daer mede bestaen souden mogen, maer dat du die soutste doen met sodanige redenen, datse vanden volcke verstaen mogen worden.</hi></p>
+<p><hi rend="i">Want daer zijn vele saecken, inde welcke vele met dy oneens zijn. Maer ic de anderen tot op een ander tydt ter zyden stellende, sal nu met dy handelen van een stuck, te weten vande predestinatie. Want dit articule verweckt inde Kercke groote beroerten, die wy gaerne uytghebluscht sagen. Ende der wedersprekeren bewysredenen schynen inde sake sodanige te wesen, dat sy tot noch niet en hebben mogen wederleyt worden uyten boecken die du tot noch toe hebste uytgegeven.</hi></p>
+<p><hi rend="i">Op dit stuck van de Predestinatie werden omher ghedragen sekere articulen getogen uyt dijne boecken, die ick hier, so dat valt sal stellen, ende sal daer voorts by stellen, 't geen sy teghen elcx pleghen te segghen, du mochtste sien, waer op du hebste te antwoorden.</hi></p>
+    
+</div></div>
+<div type="chapter">
+    <pb ed="fol." n="ccc lxiiiv"/>
+<head rend="h3">Articulen ghetoghen uyte Latijnsche ende Walsche Boecken Calvijns. Van de Predestinatie.</head>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I.</p>
+<p>GOd heeft het meeste deel des Werelts, door zijn naeckte ende loutere keure zijns willens gheschapen ten verdoemenisse.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;II.</p>
+<p>Dat God ghepredestineert heeft niet alleen ten verdoemenisse, maer oock ter oorsaken des verdoemenissen oock Adam, welckx val hy niet alleen en heeft voorsien, maer ooc ghewilt heeft met zijn eeuwigh ende verborghen decreet. Ende heeft ooc gheordineert dat hy soude vallen. 't Welc, op dat het tot zijnder tijdt soude gheschieden, heeft hy den Appel voorghestelt tot sake des vals.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;III.</p>
+<p>De sonden die bedreven worden, en werden niet alleen door de toelatinghe, maer oock door de wille Godes bedreven. Want vergheefs ist datmen onderscheyt wil maecken tusschen de toelatinghe ende wille Godes, so veele de sonde aengaet. Die dat doen die willen by Gode door smekingen ende pluymstrijckerye danck behalen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IV.</p>
+<p>Alle boosheyden van wat menschen die ooc worden bedreven, zijn goede ende rechtvaerdighe wercken Godes.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;V.</p>
+<p>Daer en werdt gheen Overspel, Diefte, ofte Dootslag ghedaen, of Godes wille en komt daer tusschen, Institutie, Cap. 14. Dist. 24.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VI.</p>
+<p>Die Schriftuere tuycht opentlijck, dat de boosheyden bedreven worden niet alleen door dien God sulcx wil, maer oock werckman af is.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VII.</p>
+<p>'tGhene de menschen doen als sy sondighen, doen sy uyten wille Godes, want dicmael strijdet Godes wille tegen 'tgebodt.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VIII.</p>
+<p>Die verhardinghe van Pharao ja oock de hartneckigheyt zijns ghemoets ende wederspannigheydt was een wercke Godes, oock na de tuychnisse van Moyse, die alle die wederspannigheydt van Pharao Gode toeschrijft.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IX.</p>
+<p>Die wille Godes is die opperste oorsaeck vander menschen verhardinghe.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;X.</p>
+<p>Sathan is loghenachtigh uyten ghebieden Godes.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XI.</p>
+<p>Den ghenen die quaet doen geeft God die wille, ja hy gheeft oock inne die quade ende oneerlijcke affecten (of begeerten) niet alleen toelatelijck, maer crachtelijck, ende dit om zijn glorie wil.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XII.</p>
+<p>Die Godloosen doen met haer Godloosigheyt meer Gods wercke dan haer eygen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XIII.</p>
+<p>Nootsakelijck sondighen wy uyten sinne Godes,als wy uyt onsen sinne of by ghevalle sondighen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XIV.</p>
+<p>Die dinghen die de menschen bedrijven uyt haer verkeerde wille, komen oock voort uyten wille Godes.</p>
+<p>Hier hebdy die Articulen, neemt nu oock die dinghen die daer teghen werdt gheseydt.</p>
+    <p>&nbsp;</p>
+    <div type="section">
+<head rend="h3">Tegen 't eerste.</head>
+<p>HEt eerste Articule segghen sy te wesen tegen de natuere ende teghen de Schriftuere. Van de Natuere segghen sy also. Alle dier bemint natuerlijck zijn vruchte. Nu is dese natuere van Gode. Soo volcht dat God oock zijn vrucht bemint. Want hy en soude niet maken dat die Dieren haer vrucht souden beminnen, indien hy selve oock de zijne niet en beminde. Ende dit bewijsen sy aldus. De Heere heeft geseyt, soude ic anderen doen baren, ende soude ick niet baren? als of hy sprack alsoo: dat ick anderen doe doen, dat selve doe ick mede: ick doe anderen baren, daerom sal ick selve oock baren. Daer uyt trecken sy van gelijcke saken, een bewijsreden. God maeckt dat de Dieren haer vruchten beminnen. Daerom beminde God oock de zijne.</p>
+    <p>Maer alle menschen zijn vruchten Godes, want Gode is Adams Vader, vande welcke alle menschen zijn ghebooren. Hy bemint dan oock alle menschen. Maer het scheppen ter verdoemenissen is gheen wercke der liefden, maer des haets. So en heeft dan God niemant gheschapen ter verdoemenissen. Item het scheppen is een werck der liefden ende niet des haets. So heeft dan Godt alle menschen gheschapen uyt liefde en niet uyt hate. Item men vint gheen so wreden <pb ed="fol." n="ccc lxivr"/> dier (ick swijghe mensche) dat zijn jong ten ellendigheyt soude willen scheppen, hoe veel te minder Gode? soude hy niet argher zijn dan een Wolf? Also argumenteert Christus. Cont ghyluyden alhoewel ghy quaedt zijdt, nochtans uwe kinderen goede gaven geven: hoe veele te meer God? Also argumenteren dijne wedersprekers. Indien Calvijn, hoe wel hy quaet is, des niet te min gheen soon tot ellendigheyt soude telen: Hoe vele te minder God? dese dingen ende dergelijcke seggen sy vande natuere.</p>
+<p>Maer vande Schriftuere segghen sy alsoo. God sach alle dat hy ghemaeckt hadde te wesen seer goet. Daerom was oock de mensche die hy ghemaeckt hadde seer goet. Ist nu so dat hy hem ten verderven hadde geschapen, so heeft hy 'tgoet ten verderven geschapen ende verderft gaerne 'tgoet, 't welcke Godloos ware, oock om te bedencken alleenlijck.</p>
+<p>Item God heeft een mensche geschapen, om hem te stellen inden Paradijse, 't welck is het salighe leven. Daerom heeft God alle menschen tot het salighe leven. Want in een mensche zijn sy alle gheschapen. Want indien sy altsamen in Adam zijn ghevallen, so moeten sy nootsakelijck altsamen ghestaen hebben in Adam, ende dat op sulcken conditie als Adam.</p>
+<p>Item ick en wil niet des Sondaers doodt.</p>
+<p>Item God en wil niet dat yemandt verlooren gae, maer dat sy alle komen tot kennisse der waerheydt.</p>
+<p>Item indien God het grootste deel des werelts heeft gheschapen ten verdoemenisse soo volcht dat zijn toorn grooter sy dan zijn bermhertigheydt. Nochtans soo verclaert ons de H. Schrift, dat hy lancksaem is tot Toorn, maer gheneghen tot barmhertigheyt, soo dat zijn Toorn haer streckt maer totten derden of vierden graet des geslachts, daer zijn bermhertigheydt open staet oock totten duysensten toe.</p>
+    <p>&nbsp;</p>
+</div>
+<div type="section">
+<head rend="h3">Tegen het Tvveede.</head>
+<p>Het tweede segghen sy te wesen die leeringhe des Duyvels, ende eyschen, Calvine van ons dat wy henluyden toonen waer sulcx inde Goddelijcke Schriftuere staet geschreven.</p>
+    <p>&nbsp;</p>
+</div>
+<div type="section">
+<head rend="h3">Teghen het Derde.</head>
+<p>Teghen het derde vande onderscheyt tusschen die wille ende toelatinghe segghen sy dit. Calvijn seyt dat hy is een Propheet Godes: Maer wij segghen tat hy is een Propheet des Duyvels. Nu ist nodigh dat een onser liecht. Want is hy een Propheet Godes, so lieghen wy: maer is hy een Propheet des Duyvels, so liecht hy, die sich self seyt te wesen een Propheet Godes. Ist nu sulcx dat dit beyde gheschiet door die wille Godes, dat is, ist dat God wil dat Calvijn hem selven seyt te wesen een Prophete Godes: ende oock dat wij hem segghen te wesen een Propheet des Duyvels, soo wil God strijdighe dinghen, 'twelck is onmoghelijck, want soo God die loghen wil, soo en wil hy die waerheyt niet: of hy wil die waerheyt, so en wil hy die loghen niet. Daer uyt dan volcht, in dien hy wil dat een van beyden waerheyt segge: so en wil hy niet dat d'ander liege. Nochtans moet hier een van beyden liegen. Soo liecht die dan door die toelatinghe, ende niet door die wille Godes. Daer is dan oock onderscheyt in Gode tusschen die toelatinghe ende wille.</p>
+<p>Sy brengen oock by veele clare exempelen vande onderscheydt des willens ende toelatings, namentlijck uyt het twintichste Capittel Ezechiel, alwaer God na dat hy met vele woorden zijn volck hadde verweten dat sy niet en wilden ghehoorsamen zijne gheboden, ten laetsten besluyt alsoo: gaet hene, elck uwer diene zijnen strontighen God, na dien ghy my niet en ghehoorsaemt, als of hy seyde also, ick laet u leven na uwen wille, nadien ghy mijne gheboden niet en wilt ghehoorsamen, ende dit schijnt het selve te wesen dat hy een weynigh daer voor int selve Capittel hadde gheseyt: aenghesien sy mijne insettinghen hebben verworpen, hebbe ickse ghegeven wetten die niet goet en zijn. Nu en heeft God den Israeliten niet ghegheven wetten die niet goet en zijn: want alle die geboden Gods zijn goet: maer want sy zijne goede wetten verwierpen, so verliet hy henluyden. Ende syluyden van Gode zijnde verlaten, zijn ghevallen in quade wetten, gelijck die verloren sone vanden Vader, of veel eer die Vader van hem, verlaten wesende, gevallen is in geyle weelde, ende so Paulus leert, overmidts die menschen die waerheyt niet en beminden, soo heeft God een gheest des dolinghs ghesonden, dat sy die loghen ghelooven.</p>
+<p>Sodanich schijnt oock te wesen dat Amos seyt int vierde Capittel. Gaet hene tot Bethel ende sondight, na dien ghy sulcx gaerne doet. Alsoo huyden oock, overmidts die menschen niet en hebben willen God gehoorsamen, die daer seydt dat hy die sonde niet en wil: soo heeft Godt toeghelaten datter zijn geesten der dolingen, die daer leeren dat God de sonde wil: soo dat de ghene die niet en hebben willen gehoorsamen de waerheyt, die logen ghehoorsaem zijn souden.</p>
+<p>Sy brenghen boven dien oock by een plaetse uyt Sacharia, daer hy seyt, dat God sich vertoornt over die stoute Heydenen. Om dat God maer een weynigh vertoornt zijnde opten Israelijten, sy Heydenen het quaet noch gheholpen hebben: dat is de Israelijten swaerlijcker quelden, dan de gramschappe Godes vereyschte: ende dit daeromme oock door de toelatinghe niet door de wille Godes.</p>
+<p>Een ghelijck exempel brenghen sy oock uyten Propheet Obed. Die den Israelijten berispte om dat sy den Joden swaerlijcker straften, dan de Toorn Godes vereyschte.</p>
+<p>Sy halen oock voort het exempel terstont gheroert vanden Verlooren Sone, den welcken (soo men wilde segghen) zijn goet door ghebracht te hebben door des Vaders wille, salt met allen ongheschickt luyden: hy ghing dan sulcx doen, by toelatinge des Vaders.</p>
+<pb ed="fol." n="ccc lxivv"/>
+<p>Also seggen zy oock dat die zondaren sijn Verlooren zonen Godes, die door die toelatinghe, niet door de wille Godes zondighen.</p>
+<p>Item, oock de woorden Christi: Wilt ghy oock wech gaen? Voorwaer hy en wilde niet dat zy souden wegh gaen, maer hy liet sulcx toe.</p>
+<p>Sy brenghen oock het alghemeen gevoelen, 'twelc seyt onderscheyt te wesen tusschen den wille ende toelatinghe: Na 't welck ghemeen gevoelen Christus ghewoonlijck is te leeren Goddelijcke saken: 't welcke wech genomen sijnde, sullen verdrijven alle die gelijckenissen Christi, van de welcke wy oordeelen na 't gemeen ghevoelen.</p>
+    <p>&nbsp;</p>
+</div>
+<div type="section">
+<head rend="h3">Teghen 't vierde</head>
+<p>Teghen 't vierde roepen sy dese woorden Isaie: Wee den ghenen die 't goede quaedt, ende 't quaedt goedt segghen te wesen. Is de zonde goedt ende een rechtvaerdigh werck Godes: soo volght dat Rechtvaerdigheydt quaedt zy, ende een onrechtvaerdigh werck Godes: Want die rechtvaerdigheyt is plat het teghendeel vande zonde.</p>
+<p>Is de zonde rechtvaerdigh, so volght dat onrechtvaerdigheyt rechtvaerdigh zy, want de zonde is onrechtvaerdigheyt.</p>
+<p>Is de zonde een werck Godes, so volght dat Godt zonde doet. Ende doet hy zonde, so is hy een Dienaer der zonden na de Sententie Christi.</p>
+<p>Is de zonde een werck Godes, ende is Christus ghekomen om de zonde te niet te doen, so is Christus ghekomen om te niet te doen het werck Godes.</p>
+<p>Maer is Christus ghekomen om te niet te doen het werck des Duyvels (soo Petrus betuyght) welcke sijn des Duyvels wercken?</p>
+<p>Is die zonde een Rechtvaerdigh werck Godes, soo haet ende straft Godt sijn rechtvaerdighe werck. So is Godt dan oock onrechtvaerdigh.</p>
+<p>Maer somen henlieden teghen werpt, dat de zonde Gode gheen zonde en is, so antwoorden zy: Wien is zy dan zonde? of waerom haet hyse: Of waeromme wert het zonde ghenaemt, dan om dat zy geschiet teghen die wet, niet der menschen, maer Godes?</p>
+<p>Is die zonde een werck Godes, so doet Godt zonde: Ende indien God zonde doet, so zondight hy: ghelijck die Rechtvaerdigheyt doet, Rechtvaerdigh is.</p>
+<p>Ist nu dat Godt zondight, waerom verbiet hy anderen te zondighen? Immers waerom en ghebiedt hy niet veel eer het zondighen, op dat die menschen sijne navolgers moghen wesen? want het kindt behoort sijnen Vader na te volghen. Weest heyligh, seyt hy, want ick ben heyligh. Met ghelijcke redene soude hy moghen segghen: Doet zonde, want ick doe zonde.</p>
+</div>
+<div type="section">
+<head rend="h3">Tegen 't vijfde ende seste.</head>
+<p>Teghen 'tvijfde ende seste segghen zy, behalven veele andere dinghen, oock dit bysondere. Ist dat Godt de zonde wil, so is hy oorsake vande zonde, ende is dan Godt selve strafbaer. Want die zonde is bysonder te straffen inden ghenen die daer oorsaeke af is.</p>
+<p>Ist dat Godt die zonde wil, so en wil de Duyvel de zonde niet: want in allen dingen is de Duyvel God teghen of contrarie.</p>
+<p>Indien God de zonde wil, soo heeft hy die zonde lief: ende indien hy de zonde lief heeft, so haet hy die Rechtvaerdigheyt.</p>
+<p>Indien Godt de zonde wil, so is hy arger dan vele menschen: want vele menschen en willen de zonde niet: Immers hoe yemandt meer ghenaeckt de nature Godes, hoe hy die zonde minder wil. Waeromme seydt dan Paulus: Het goede dat ick wil en doe ick niet: maer 't quade dat ick niet en wil doe ick? Waeromme en wil Paulus niet 'tghene dat God wil? Waerom wil Paulus 'tghene dat Godt niet en wil?</p>
+<p>Ten laeststen vraghen zy wat Schriftuere daer betuyght, dat het quade gheschiedt, niet alleen door Gods wille, maer oock so dat Godt dat werckt?</p>
+    <p>&nbsp;</p>
+</div>
+<div type="section">
+<head rend="h3">Tegen 'tsevende.</head>
+<p>Op het sevende vragen zy: Indien Godes wille dickmael strijdet teghen 'tgebodt, hoe men sal moghen weten, wanneer hy wil, of wanneer hy niet en wil, 'tghene hy gebiedt? Ist dan dat Calvijn seyt dat altijdt behoort te gheschieden 't ghene dat Godt ghebiedt, weder hy dat wil of niet en wil: so volght dat Godt wil dat sijn wille by wijlen werdt wederstaen. Want ist dat hy my verbiedt Overspel te doene, daer hy nochtans wil dat ick Overspel doe, ende ick behoore gheen Overspel te doen, so behoore ick te doen teghen die wille Godes. Nadien hy nu int algemeyn den Israeliten heeft gheboden: ghy en sult gheen Overspel doen: Wat wil hy? dat zy alt'samen gheen overspel en doen? Of dat het eene deele overspel doe, ende 't ander deel niet? Hier op begheeren sy eenighe sekere antwoorden Calvine Segdy dat hy wil, dat het eene deel overspel doe, ende 't ander deel niet, so sal God sich self teghen of contrarie sijn in een selfde ghebodt.</p>
+<p>Item, zy segghen dat God een Hipocrijt zy, ist dat hy anders ghebiedt, ende anders wil: Ende hy Honigh heeft inden monde, maer gal int herte.</p>
+<p>Wilmen henlieden tegen werpen dat God heeft twee willen, malcanderen contrarie sijnde, so dat die eene openbaer zy, te weten in sijn geboden, ende d'ander verholen zy: soo vraghen zy, wie die verhoolen wille Godes Calvinus heeft gheopenbaert? Want ist soo dat Calvijn ende de sijnen die kennen, so en is zy niet verholen, kennen zy die niet, soo affirmeren zy van een verholen sake.</p>
+<p>Item, zy segghen dat twee strijdighe of contratrie saken, niet teffens ende ghelijcke en moghen wesen in een ding of subject.</p>
+<p>Nu sijnt contrarie of strijdighe dinghen, een selve ding teffens te willen, ende niet te willen.</p>
+<p>Item, ist so dat Godt heeft twee willen in sich selfs contrarie zijnde, so ist ghelooflijck, dat oock Calvijn (als een navolgher Godes) twee willen heeft, soo dat hy anders denckt, anders wil,ende anders seyt, so willen wy hem oock niet ghelooven, als die dan is een mensche dubbelt van wille.</p>
+<pb ed="fol." n="ccc lxvr"/>
+<p>Item, indien Godt als hy Rechtvaerdigheyt gebiedt onrechtvaerdigheyt wil. So volght, dat die Duyvel als hy onrechtvaerdigheyt gebiedt, rechtvaerdigheyt wil.</p>
+<p>Ende indien Godt anders willende ende anders segghende, daer aen niet en zondight: so volght, dat soo wat mensch hem daer inne na volght, oock niet en zondight: want het gheen zonde en is datmen Godt na-volght. Also salmen dan den Menschen moghen gebieden also, lieght, ende segt anders dan ghyt inder herten meynt, op dat ghy mooght gelijck wesen u Vader, die anders seyt, ende anders wil.</p>
+<p>Sy vraghen oock mede, na welcke van beyden willen Godt spreeckt, als hy den sijnen beveelt te bidden: Dijnen wille gheschiede, ende die daer doet de wille mijns Vaders die inde Hemelen is, die is mijn Broeder, mijn Suster ende Moeder.</p>
+<p>Item, Paulus: Du werdste een Jode genaemt, ende verlaetste dy opte wet, oock roemdy van Godt, kenste sijnen wille, ende prijstste dat goede inde wet, etc. Dit is immers de wille (Godes) die in de wet werd bevolen. Die welcke, so zy goedt is (also zy seeckerlijck is) volght noodtlijck dat die ander wille desen teghen sijnde, quaedt moet wesen.</p>
+<p>Item, die woorden Christi, hoe dickmael hebbe ick dijne kinderen willen vergaederen, ende du en hebste niet gewilt. Hier spreeckt voorwaer Christus van den openbaren wille die hy in so veelreleye wijsen hadde gheopenbaert. So hy nu een ander wille hadde, desen teghen wesende, so was al sijn gantsche leven niet dan enckele Hipocrisie of beveynstheyt: 'twelck, oock maer om te dencken schrickelijck is.</p>
+<p>Ten laetsten segghen zy: Ist so, dat God anders ghebiedt dan hy wil, so en sijnt gheen twee willen, maer loghen: ghemerckt de ghene die daer seyt dat hy wil, ende nochtans niet en wil, die lieght: Ende metten woorden alleen (te gebieden) en is niet willen maer lieghen.</p>
+    <p>&nbsp;</p>
+</div>
+<div type="section">
+<head rend="h3">Teghen het achtste ende neghenste.</head>
+<p>Int achtste ende neghenste vraghen zylieden, wat Moyses dan daer mede wil,als hy schrijft: Ende Pharao heeft sijn herte verhardet? Soudet wel soo moeten beduydt worden: Pharao heeft sijn herte verhardet dat is, God heeft Pharaons herte verhardt?</p>
+<p>Maer noch veel gheweldigher sal dat sijn dan of ghy seyde: Godt heeft Paraons herte verhardt, dat is, Godt heeft Pharaonem ghelaten in sijn natuerlijcke hardigheyt des herten, overmits Pharao weygerde hem te ghehoorsamen.</p>
+<p>Voorts wordt daer af ghevraeght: Ist dat ghy heden sijn stemme hoort, soo en wilt uwe herten niet verharden. 'tWelck indien ghy't also beduyt: Godt en wil uwe herten niet verharden: het sal boven maten ongheschickt sijn: te weten, datmen den menschen ghebiedt te doen 't welck Godts werck is. Want ist verharden des herten een werck Godts, soo en mach den menschen niet gheboden worden dat zy heure herten verharden, of niet en verharden: Niet meer, dan dat zy hare selven een cubit langer of corter souden maken.</p>
+    <p>&nbsp;</p>
+</div>
+<div type="section">
+<head rend="h3">Tegen het thiende.</head>
+<p>Tegen het thiende argumenteren zy also: Is Sathan loghenachtigh door den bevele Godes, so is het loghenachtigh wesen rechtvaerdigh, ende Sathan is dan oock rechtvaerdigh. Want is het bevelen te lieghen rechtvaerdigh (soo't is indien Calvijn waerheyt seyt) so is oock het gehoorsamen int lieghen rechtvaerdich. Want die rechtvaerdigheyt des ghehoorsaemheyt ware gheoordeelt na de rechtvaerdigheyt des ghebodts. Want alsoo 't ghehoorsaemen van een onrechtvaerdigh ghebodt onrecht is: Also ist ghehoorsamen van een rechtvaerdigh ghebodt recht. Maer wil Calvijn segghen dat Sathan niet onderdanighlijck loghenachtigh is, dat is, dat hy niet en lieght om Godt onderdanigh te sijn, zy sullen antwoorden nae de sententie Calvijn,dat sulcx mede gheschiedt na den bevele Godes, dat hy niet onderdanighlijck loghenachtigh is, want Godt hem dan heeft bevolen niet onderdanighlijck loghenachtich te wesen.</p>
+    <p>&nbsp;</p>
+</div>
+<div type="section">
+<head rend="h3">Tegen het Elfde.</head>
+<p>Teghen het elfde segghen zy alsoo: Calvijn schrijft God toe 't ghene des Duyvels is so doorgaens die Schrifture ghetuyght. Ist nu so, dat God in gheeft die quade ende oneerlijcke affecten ofte begeerten, dat hy nochtans ons gebiedt te wederstaen, so ghebiedt hy datmen hem self wederstae, ende is sich self contrarie of teghen.</p>
+<p>Alle goede gave komt van boven nederdalende vanden Vader des Lichts. Souden nu quade begheerlijcheden wel een goede gave sijn? Of soude nu die duysternisse (want seker, die quade begheerlijckheyden sijn duysternissen) af-komen van den Vader des Lichts? Waerom en werdt hy dan niet genaemt de Vader der duysternissen? Maer Jacobus schrijft opentlijck, dat niemant en wert bekoort van Gode, maer elck van sijn eyghen begheerlijckheydt. Nu is het ingeven van quade begeerlijckheden bekooren.</p>
+<p>Dat ghy nu daer by stelt dat Godt sulcks doet om sijn glorie, segghen zy spottelijck te wesen: wantmen niet en placht yemant om 't lieghen te prijsen. Nabuchodonosor versocht hebbende de Rechtvaerdigheydt ende moghentheyt Gods, daer inne dat hy om sijn hovaerdigheyt in een beestelijcke nature was verandert, schrijft Godt glorie toe, ghemerckt hy Gode bevandt, ende oordeelde te wesen Rechtvaerdigh. De Heere wil gepresen sijn van alle volcken: Alle volcken prijst den Heere. Het moet dan sijn dat hy doe soodanighe dinghen, die alle volcken kennen moghen ende prijsen: Maer nimmermeer sal eenigh volck verstaen moghen rechtvaerdigh te sijn, dat de mensche ghestraft worde om 'tghene God selve hem inne heeft ghegeven. Want wy vraghen, indien Godt ons strafte om dat wy een baert hebben, soude hy ons niet ongelijck nadien hy selve ons den baert heeft ingegeven, ende die baerde niet en hanght aen onsen wille: wat ghebaerde mensche soude hem immermeer moghen prijsen?</p>
+<pb ed="fol." n="ccc lxvv"/>
+<p>Maer seyt Calvijn dit te wesen een verborghen oordeel Godes: dat ons onbekendt is wy sullen antwoorden, dat ons sonder twijfel die verborgentheyden Godes onbekendt zijn: maer so veele zijn rechtvaerdigheyt belangt, is ons die bekent ende inden Evangelio gheopenbaert: na welck gheopenbaerde Evangelio (soo Paulus leert) ende niet na dat verborgen oordeel Calvini, sal Godt de werelt oordeelen: ende sal midtsdien verstaen worden van allen menschen, so vanden Godloosen als vande Godsalighen. Want sy alle, so wel godloosen als godsalighen sullen sien dat het billijck is, dat die ghene die de waerheydt, niet die verborghen is (als Calvijns) maer die openbare waerheyt (als des Evangeliums is) niet hoorsamigh zijn gheweest, beloninge ontfangen.</p>
+<p>De toorn Gods seyt Paulus wort gheopenbaert over dat Godloose wesen ende onrecht der menschen, die de waerheyt Godes in onrechtvaerdigheydt ophouden. Is nu Calvijns sentencie waerachtigh, soo wort de toorn Godes geopenbaert over alle onschuldighen: want indien God ingeeft de quade begheerlijckheyden, so vertoornt ende haedt hy, al voor die quade begheerlijckheyden. Want quade begeerlijckheyen inne te gheven is een werck des haets, so haet God dan die onnoselen, want door de quade begeerlijckheyden zijn sy onnosel, want die sonde komt vande quade begeerlijckheyden, ja die quade begheerlijckheyden zijn selfs sonde.</p>
+    <p>&nbsp;</p>
+</div>
+<div type="section">
+<head rend="h3">Teghen het tvvaelfde.</head>
+<p>Van't twaelfde segghen sy also. Is dit sulcx, soo vertoornt God opt goede. Want is godloosigheydt het werck Godes, soo is godlosigheyt goet. Ende indien godlosigheyt goet is, so is die godsaligheyt quaet, als wesende het teghendeel van de godlosigheydt: Daeromme als die H. Schriftuere tot ons seyt: haet het quade, hebt lief het goede: soo beveelt sy ons de godlosigheyt lief te hebben, ende de Godsaligheyt te haten.</p>
+<p>Voorts segghen sy dat articule ghenoech Lybertijnsch te wesen, ende verwonderen sich dat du den Libertijnen soo vyandt biste.</p>
+    <p>&nbsp;</p>
+</div>
+<div type="section">
+<head rend="h3">Teghen het derthiende ende veerthiende.</head>
+<p>Hier op argumenteren sy aldus. Ist so dat wy sondigen nootsaeckelijck, so zijn alle vermaninghen vergeefs. Te vergeefs wert dan den volcke gheseydt by Jeremiam: Ick stelle u voor oogen den wegh des levens ende des doots. So wie in dese stadt blijft, die sal van't swaert, vanden hongher ende vande pest sterven: maer wie overloopt totten Chaldeen die sal leven. Te vergeefs segge ick worden dese dinghen geseyt, indient henluden so onmoghelijck was te vluchten totten Chaldeen, als een berch in te swelgen.</p>
+<p>Maer seyt Calvijn dat de geboden Godes ghegeven zijn daer toe, dat de menschen onschuldelijck soude wesen, so antwoorden wy dat ydel te wesen: want of du dijn soon bevaelste een steenclippe op te eten, ende hy dat niet en doet, soo en sal hy niet te meer na, dan voor dat ghebodt, onschuldelijck wesen. Van ghelijcken, indien God tot my seyt en steelt niet, ende ick so nootlijck steele, dat ick my niet meer van't steelen en mach wachten, dan ick een steenclip mach op eten: so en ben ick niet meer onschuldelijck na 'tgebodt, dan daer voor, oock niet meer ononschuldelijck voor dan na 'tgebodt.</p>
+<p>Voorts indien de meyninge Calvini waer is, soo is de mensche onschuldelijck oock al voort ghebod: daer door dan oock het ghebodt gants onnodigh is om de onschuldigheydt te  maken. Want ist dat de godtloose verworpen is al voor dat hy Godloos is, dat is al eer dat hy is, te weten al vander eeuwigheydt, ende hy daeromme nootsakelijcken sondight, so is hy dan al onschuldelijck ende verdoemt voor 'tgebodt, ende dit tegen alle wetten so Goddelijcke als menschelijcke. Want alle wetten verdoemen den menschen na den misdaet ende om de misdaets wille. Maer dese Calviniaensche Godt heeft den godloosen al eer dat sy waren verdoemt ende verworpen, ick swijghe al eer dat sy godloosen waren ende ghesondight hadde: Ende want hyse al voor de sonde verdoemt heeft, so heeft hyse gedrongen te sondighen, opdat hyse schijnen soude rechtvaerdelijc verdoemt te hebben. Eyntlijck, Calvijne, so stellen sy hier een antithesin van dijn God ende van haer God in deser wijsen.</p>
+    <p>&nbsp;</p>
+</div>
+<div type="section">
+<head rend="h3">Natuere des valschen Godes.</head>
+<p>De valsche God is traech ter barmherticheyt, maer genegen tot toornigheyt, die het meeste deel der werelts geschapen heeft ten verderven, ende heeft die niet alleen ten verdoemenisse, maer oock totte oorsake des verdoemenissen ghepredestineert. Also heeft hy van eeuwigheydt besloten, ende hy wil ende maeckt dat sy sondighen nootsakelijck, so dat sy noch diefte, noch overspel, noch dootslach en bedrijven, dan na zijnen wille ende in geven, want hy gheeft inne die quade ende oneerlijcke affecten of begeerlijckheyden, niet alleen toelatelijck, maer werckelijc: ende verhertse so, dat sy als godloselijck levende, meer doen Gods dan haer eygen werck, ende en moghen niet anders. Hy maeckt dat Sathan logenachtigh is, so dat nu niet Sathan maer Calvijns God de Vader der loghenen is, als die disckwils anders heeft inden mont dan int herte.</p>
+    <p>&nbsp;</p>
+</div>
+<div type="section">
+<head rend="h3">Nature des waren Godes.</head>
+<p>Maer de God die ons vande nature, van de redene, ende vande Heylige Schrift wert gheleert, is den voorsz. God ganselijck contrarie of tegen. Want hy is ghenegen tot barmhertigheyt, traech tot toornigheyt, die den mensche, vanden welcken alle menschen zijn ghekomen gheschapen heeft tot zijnen beelde ende ghelijckenisse, om hem te stellen inden Paradijse ende hem met het salige leven te begiftigen.</p>
+<pb ed="fol." n="ccc lxvir"/>
+<p>Dese God wil dat alle menschen saligh worden, ende niet dat yemant verlooren zy. Daer omme heeft hij sijnen zone opter Aerden gezonden, wiens rechtvaerdigheyt soude overvloeyen alsoo waer de zonde overvloedigh was geweest. Wiens licht der gherechtigheydt allen Menschen die in dese werelt comt verlicht, ende die daer roept, comt tot my alle die belast ende beladen sijn, ende ick sal u verquicken. Dese gheeft inne goede ende Eerlijcke affecten of begheerlijckheden, ende verlost den Menschen vande noodtsakelijcheden van zondigen, in de welcke zylieden hen selven door hare ongehoorsaemheyt ghestort hadden, ende gheneest oock alle quellagien ende zieckten onder den volcke, sulcks dat hy noyt iemanden die weldaedt van hem begeerde en heeft gheweyghert. Ende dese Godt is ghekomen omme te vernielen de wercken vande voorsz. Calviniaensche God, ende den selven uyt te werpen.</p>
+<p>Gelijck u dese twee Goden van naturen <note place="margin"><hi rend="i">Kinderen des valschen Godes.</hi></note> onder malcanderen contrarie sijn, soo teelen zy oock Kinderen malcanderen contrarie wesende. Want de God Calvinie teelt Kinderen die daer sijn onbarmhertigh, hovaerdigh, niet goedertieren, bloetgierig, valsche wroeghers/ <note place="margin">Siet leser wiens kint de schryver vande Kalc hier voor is.</note> beveynst, anders sprekende, ende anders denckende, ongeduldigh, arghelistigh, oproerisch, twistigh, Eersuchtigh, gierigh, meer de wellust dan Gode beminnende, summa vol van quade ende oneerlijcke affecten, of begeerlijckheden, die haer Vader henluyden inne gheeft.</p>
+<p><note place="margin">Kinderen des waren Gods.</note> Maer d'ander Godt teelt Kinderen die daer sijn barmhertigh, ootmoedigh, goedertieren, goetwilligh, goedt-dadigh, grouwelende van bloedt, openhertigh, waerheyt uyt haer herten overvloedigh sprekende, lijtsaem vrundelijck, besatigh, vreedsaem, vreemt van gekijf, ende twisticheyt, verachters van eere, mildt, Gode meer dan wellust beminnende, ende ten laetsten vol van goede ende Eerlijcke begeerten, die haer Vader henluyden inne gheeft.</p>
+<p>Dit sijn Calvine, de saken, die dijne wedersprekers segghen van dijne Leere, ende vermanen den Menschen, dat zy die leere oordelen uyte vruchten. Want zy segghen dy ende dijne Leerjongeren voort te brenghen veele vruchten dijns Godes: als die ghemeenlijck sijn twistighe luden, wraeck-gierigh, haer leedt vast ghedenckende, ende begaeft met d'andere ghebreken die dijn Godt inne geeft. Als dan iemandt henluyden antwoordt, dat sulckx die schulde niet en is van de Leere, also die ghesondt is, ende soodanighe Menschen niet en baert, so antwoorden zy, dat zy immers sulcke menschen baert, 't welck daer by blijckt, dat veele, na dat sy dijn leeringhe sijn toe-ghevallen, sodanighe sijn gheworden, die nochtans daer voor minder quaedt waren.</p>
+<p>Nu ist so, dat die de leere Christi gheloofden beter sijn geworden dan zy eerst waren: Maer door dijn leere segghen zy dat de menschen openbaerlijck argher worden. Voorts als ghylieden seght dat ghy hebt de ghesonde leere, segghen zy datmen u niet en mach gelooven. Want ist soo, dat u Godt dikwils anders (dan hy sich ghelaet) seydt, anders denckt, ende anders wil, soo ist te beduchten dat ghy-luyden uwen Godt daer inne naevolghende, sulcx mede doet, ende den menschen bedrieght.</p>
+<p>Ick (Calvine) ben voorwaer voortijdts dijn leeringhe jonstigh gheweest, ende hebbe die (hoewel my doe niet ghenoegh bekent sijnde) verantwoordt: als die soo veele hielt van dijn groot-achtbaerheyt, dat ick meynde ongheoorloft te sijn yet daer teghen te dencken. Maer nu ghehoort hebbende uwer wedersprekeren argumenten en hebbe ick niet daer teghen te antwoorden. Het is wel so dat dijne Discipulen bestaen te antwoorden, ende onder den ghenen die henluyden jonstigh sijn stoutelijck roemende waerheydt te hebben: maer alsmen comt tot wedersakers so wancken zy, ende soecken uyt dijne boecken hulpe, maer die swack is. Want dijne reden sijn duyster, ende by na sodanighe dat zy terstont als 't boeck uyter handt is verdwijnen uyt de gedachtenisse, ende den wederspreeckers niet en verwinnen. Maer die wedersprekers algumenten of bewijs-reden, sijn claer, scherp, ende die lichtelijck onthouwen moghen worden, ja oock van den ongheleerden menschen also die gene waren die Christum na volghden) verstaen worden. Hier door comet dat dijne Discipulen meer steunen opte authoriteyt ofte aenzien, dan opte redene. Ende als zy haere wedersaken niet en connen verwinnen, so houden zy die voor Ketteren ende hartneckighen, ende onthouden hen van haer geselschap, vermanen oock yeghelijck sulcke te vermijden. Maer ick, die niet wie daer seyt, maer watter wort gheseydt achte op te moeten ghelet worden, houde datmense al hooren, ende datmens al proeven, ende dat goedt is houden sal. Daeromme Calvine, ist dat ghy waerachtighe, clare, en vaste bewijs-redenen hebt, met welcke de wedersaken wederleyt moghen worden, bidde dy dat du die int licht wilste brenghen, op dat du daer mede de waerheydt mooghste voorstaen. Du weetste datter is gheschreven, u sal een mondt ende wijsheydt worden ghegheven, den welcken niemandt en sal mogen wederstaen. Ick ben bereydt te volghen also waer ick die mach becomen, ende oock anderen daer toe te vermanen. Maer ist dat du moghelijck ghedoolt hebste, so bidde ick dy, Calvine, dat du Gode gheefste de eere. Dat sal dy Eerlijcker sijn dan in dolinghe te volherden. Maer dat du my om deses briefs wille bekijven soudste, en schijnt niet voort te beduchten, ist anders dat du biste rechtvaerdigh ende waerachtigh. Te weten: Eerst om dat het dy nut is dat du hier af vermaent wertste: Voort overmits du houtste (so du seghste) dat alle dinghen noodtsaeckelijck gheschieden, sulstu oock ghelooven dat dese Brief van my noodsakelijck is gheschreven.</p>
+<p>&nbsp;</p>
+<p>Vaert wel.</p>
+</div></div>
+</body>
+</text>
+</TEI.2>

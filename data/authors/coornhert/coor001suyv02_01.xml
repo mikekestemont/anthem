@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "http://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Suyveringe opten titule ende voorreden vander predicaten boeck, genaemt Teghen-bericht</title>
+                
+                <author>D.V. Coornhert</author>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Suyveringe opten titule ende voorreden vander predicaten boeck, genaemt Teghen-bericht</hi> van D.V. Coornhert in de eerste druk van de uitgave uit 1630. Het is onbekend wanneer dit werk voor het eerst in druk verscheen.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr>fol. CCC xxiiijv: arbeybeyden → arbeyden: ‘dat sy oock hier te landt nu al arbeyden’.</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan section="1" type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+                <scan section="1" type="fol2">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">coor001suyv02_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2013 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note></note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Universiteitsbibliotheek Amsterdam, signatuur: Cat. Ned. Lett. UBA 195</idno>
+                </bibl>
+                <p>D.V. Coornhert, <hi rend="i">Suyveringe opten titule ende voorreden vander predicaten boeck, genaemt Teghen-bericht</hi>. Jacob Aertsz Colom, Amsterdam 1630 (uitgave)</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Suyveringe opten titule ende voorreden vander predicaten boeck, genaemt Teghen-bericht</title>
+                <title type="subordinate"></title>
+                <author>D.V. Coornhert</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Suyveringe opten titule ende voorreden vander predicaten boeck, genaemt Teghen-bericht</title>
+                <title type="subordinate"></title>
+                <author>D.V. Coornhert</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2013-05-06</date>
+                <respStmt>
+                    <name type="person">RK</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+
+<div type="chapter">
+    <pb ed="fol." n="CCC xxiiijr"/>
+<head rend="h3">Suyveringe opten titule ende voorreden vander predicaten boeck, genaemt <hi rend="i">Teghen-bericht.</hi></head>
+<div type="section">
+<head rend="h4">I. <hi rend="i">Onder den Titule.</hi></head>
+<p><hi rend="i">AEnwijsende</hi> hoe ongegrondt ende onchristelick dien raed des Autheurs is, daer mede die menschen vande uyterlijcke oeffeninge der Religie af-getrocken werden.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Niet van selfs, maer gevraeght, hebbe ick raedt ghegeven na den kleynen mate mijnre gaven, ende dat niet allen menschen in't ghemeyn in druck, maer eenen Man in besloten brief. Of die mijnen raedt nu is ongegront, so de Predicanten tot Delft die noemen, dan wel vast gegront opte waerheydt, ende mitsdien niet onchristelijck, maer Christelijck, sal de Leser in't lesen moghen oordelen. Nadien <note place="margin">Romeyn. 2.28.39</note> men oock vind veele menschen die naerstiger zijn om door uyterlijcken gebare Christenen te schynen, dan door den doope of suyveringe des herten voor Gode Christenen te wesen, inden gheest, ende niet inden letter: Soo en mach ickx n<hi rend="i">iet</hi> dan voor wel gegront op Christi woorden self, ende mitsdien voor Christelijck houden, dat ick metten selven onsen Heere af-rade vande Hypocrijtische uyterlijcke reyninghe, in't hanteren van Ceremonien, tusschen allen kercken nu strydich zijnde, en<hi rend="i">de</hi> in twijffele staende, ende dat ick een wijse tot die innerlijcke ryeniginge des herten eerst te beginnen, die elck moet bekennen ontwijffelijck nodich, ende van Christo selve eerst te doen bevolen te wesen, sonder 'twelcke oock alle Ceremonien, sodanigen onreyn blyvende herten onreyn zijn ende zonde.</p>
+    <p>&nbsp;</p>
+</div>
+    <div type="section">
+<head rend="h4">II. <hi rend="i">Voor-reden.</hi></head>
+<p>Dat hy (Godt) die Paeuslijcke afgodendiensten wech ghenomen, ende ons die openbare exercitie des waren Gods-dienst gegeven heeft.</p>
+        <p>&nbsp;</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Men roept hier hey, al eermen over den plassche is. Die duyvel is noch niet al doot. Daer zijn meer Afgoden-diensten, dan die <note place="margin">uyterlijcke reyniginge sonder de innerlijcke is vergeefs Colos. 3.5 Ephes. 5.3</note> Pauslijcke. Wat baet het wech-nemen van den eenen Afgoderije, alsmen d'ander in de plaetse oprecht? Wat baet het stormen van de uyterlijcke Afgoden uyt den steenen Tempelen, als die by hoopen op't outaer des herten blyven staen, ende aenghebeden worden? Of en is gierigheydt gheen afgoden-dienst? D'Apostel seydt daer ja toe. Ick en mercke uyt de herten der geenre die so vro zijn, met het uyterlijcke beeld-stormen, noch gheensins wech ghenomen te zijn, desen selven ghemeenen ende grooten Afgodt van gierigheydt, nochte oock niet die afgodische ontrou, valscheyd, bedroch, meyn-eedigheydt, ghewelt, ende dierghelijcke meer andere. D'Afgoden zijn wel door een onordentelijck rumoer gheworpen uyt de stenen kercken, maer niet seer door waerheydts onderwijs uyten vleeschen herten. Hadde men dit (na Christi Leer) wel voor gedaen, dat soude van selfs wel gevolcht hebben, na 'tseggen ooc van Martijn Luther selve. Die Tempelen zijn ghevaeght met besemen, ende met kalck ghewit; maer daer mede zijn wy niet seker, datter gheen seven argher (ende als Enghelen vermomde) duyvelen, dan die botte uytghejaechde duyvel is, weder in de plaetse sullen komen, ende ons laetste argher maken dan't eerste was. Ick hoore wel datmens noemt, een exercitie des waren Gods-diensts, maer ick en sie die niet voor sulcx met de H<hi rend="i">eilighe</hi> Schrift vastelijck bewysen. Ick en sie noch niemandt van dese gereformeerde Predicanten sijn sendinge genoegsaem met de H<hi rend="i">eilige</hi> Schrift bewysen: Immers ik meyne niet, dat haer alder gheleertheydt macht heeft omme die tegen my ongheleerde te bewysen. Maer ick sie wel datmer in de Leere groflijck doolt, niet in kleyne, maer in fundamentele stucken (so sy't selve noemen) als inder leere vande Predestinatie, van de Justificatie vande vrye wille, en<hi rend="i">de</hi> ander meer. <note place="margin">Besa traicte de lautorite du Magistraten la punition des heretiques Fol. 365 Me<hi rend="i">n</hi> voert den menschen af va<hi rend="i">n</hi> Gode, tot dienste van vreemde Goden.</note> Nadien nu eenighe van die hoofden van dese gereformeerde leere (so sy't noemen) selve, het valsch uytleggen der H<hi rend="i">eylighe</hi> Schriftueren seggen te wesen, datmen het volck aenlocken tot dienste van vreemde Goden: ende ick ontwijffelijcken sie dat dese luyden de Schrifture in velen saken onrecht uytleggen: So en mach ick niet anders vande selve houden, na 't seggen van Besa self, van dat sy mede van nieus het Volck aenlocken tot dienste van vreemde Goden, te weten, van haer eyghen opinien, vreemt vanden sinne der H<hi rend="i">eilighe</hi> Schriftueren zijnde. Welcke afgoden so vele te argher zijn dan die uytgheroeyde waren, als die opinien, die met ghedraeyde Schriftuere gheblancket zijnde,argher ende schadelijcker zijn, dan onchristelijcke ende botte menschelijcke dichtinghen, die de Duyvel selv nu al schijnt moede te zijn. So vele schelet, nu leser, in mynen oordeele, (die bereydt ben hier af vorder redene te gheven, ende my te laten onder-richten teghen, ende van een iegelijck) Van dat Godt hen-luyden de exercitie des waren Gods-diensts gegeven soude hebbe<hi rend="i">n</hi>.</p>
+    <pb ed="fol." n="CCC xxiiijv"/>
+<p>Twelck ick hier dus breed hebbe willen verhalen, om eenmael voor al te beantwoorden het voorgheven deser Predicanten, Van dat by hen-luyden die ware Kercke soude zijn, de ware Leere, ende het rechte ghebruyck der Sacramenten, so syluyden hier in dit Boecxken dickmael sich selve sulckx toe-schryven, maer nerghens en bewysen. Daermede dan oock alle hen-luyder bewijs-redenen deses Boecxkens op dat voorstel ghegrondet, van dat haer-luyder bewijs-redenen deses Boecxkens op dat voorstel ghegrondet, van dat haer-luyder Leere die rechte, ende volghens dien hare kercke, die ware sichtbare kercke, soude zijn, als gantsch ongegrondet zijnde, ter neder vallen met het voorsz<hi rend="i">eide</hi> haer onbewesen fundament. Welck mijn zegghen van dat sy sulckx nerghens bewesen en hebben, dese Predicanten oock selve in dit boecxkens laetste bladt opentlijck bekennen, maer <note place="margin">fol. 71</note> segghen haer voornemen sulcx niet gheweest te zijn. Wel aen; Nadien dan meest alle haer bewijsingen door dit gantsche boecxken daer op rusten, Dat hare Kercke die ware sy, ende een na-volchster vander Apostelen Kercke, ende sy sulcx hier niet bewesen te hebben, selve bekennen: So waer 't oock niet onbehoorlijck, dat sy de waerheydt eerende, mede bekenden, dat meest al dit haer boecxken ongegrondet, ende mitsdien onwaerachtich is, gemerckt sulcken grondt daer 't meest op rustet, nergens noch en is geleyt.</p>
+        <p>&nbsp;</p>
+</div>
+<div type="section">
+<head rend="h4">III. <hi rend="i">Voor-reden. Linea 7, ende 14.</hi></head>
+<p>De Predicanten klagen over der mensche<hi rend="i">n</hi> ondanckbaerheydt – van dat die weldaet Godes – in ´t verleenen vande exercitie des waren Gods-dienst, so sy't noemen, van't meestendeel niet en werdt aengenomen.</p>
+    <p>&nbsp;</p>
+<p><hi rend="i">Coornhert.</hi></p>
+    <p>Dat achte ic der Predicanten eygen schulde meest te zijn. Ist niet een groote vermetelheydt, een ander Religie aen te nemen sonder eerst sekere bewysinghe te sien, dat die zy de waerachtige? Dit en sietmen noch niet ghedaen te zijn. Voorts weten sy-luyden Predicanten wel, dat alle man gheklaecht heeft over den dwang in der conscientien, ende gehoopt na de vryheydt in saken des gheloofs. Hierom is ghevochten, ende hierom vechtmen noch. Wat nu de Hooft-leeraers vande Ghereformeerde Religie voor-wenden, om over alle mans conscientien te oordeelen ende te gebieden, ende niemandts oordeel te willen lyden, en is allen menschen niet verborghen; Immers my niet, die wel weet ende kan bewysen, dat sy oock hier te landt nu al arbeyden om met ghevanghenisse of aenden lijve, <hi rend="i">et</hi>c<hi rend="i">etera</hi> te doen straffen, die d'uyterlijcke kercken-vrede verstooren. Wie meyntmen hier met anders dan die hen-luyder Leere wederspreken? Twijffelt iemandt aen dees voorgenomen dwang in't geloove, die lese by Bezam, in druck uyt-ghegheven te zijn in sijn Boeck, daer hy handelt van't ketter-doden, dese woorden: <note place="margin"><hi rend="i">Traicte de lauto du Magistr.</hi> Fol. 175.</note> <hi rend="i">Maer ghy-luyden segt, Dat het niet gheoorloft is (te weten, den Ketters te straffen) ende dit om inne te voeren inde Kercke Godes, een gheoorloftheydt omme te moghen hebben sodanighen opinie inde Religie, als een ieghelijck sal ghelieven, </hi>et<hi rend="i">c</hi>etera<hi rend="i"> volcht. Aengaende dat u bedunckt. Datmen niet en moet den menschen dwinghen, om de waerheydt te volghen teghen haren wille: Ghy doolt, niet verstaende de Schrift, noch de kracht Godes; die onder daen, datmen den mensche dwingt teghen haren wille, hen-luyden wille doet hebben: dat seydt Besa daer uyt een vanden ouden Schribenten, ende op een ander plaetse, noch uyt hem Besa selve also: daerom hoemen't wendet ofte keert, so </hi><note place="margin"><hi rend="i">Traite de lauto du Magist. </hi>Fol. 297</note> <hi rend="i">men den Magsitraet niet en geeft de autoriteyt ofte macht, omme na eysch van't crijm te verdrucken de verachters vande uyterlijcke discipline vande Kercke, hardneckighen ende sectmakers, so moet daer nootlijck navolghen een oneyndlijcke ende noodlijcke confusie, ten sy dat de Heere daer inne voorsie door eenige remedie extraordinaris. Want de conditie ende aerdt der menschen is sodanich, dat het noodsakelijck is, datse onderdruckt, ende in officie onderhouden worden, ende dat noch door eenige authoriteyt ende heerschappie door menschen te exerceren.</hi> Daer sietmen immers naecktelijck, <note place="margin">Beza leert de aerd der menschen sodanich te wesen, dat sy gedwongen willen zijn.</note> dat Beza leert, der menschen aerdt sodanich te zijn, dat sy ghedwongen moeten worden in saken des gheloofs ende der Religien; tegen ons alder voorgaende opinien, ende ghewoonlijck segghen: <hi rend="i">Homines volunt duci, non trahi,</hi> dat is, dat de menschen wel geledet, maer niet getrocken of ghedwongen willen worden. Die dat noch niet en merckt, die merckt weynich.  Ja dat meer is, men hevet niet by den woorden laten blyven, maer sy hebbent op twee of drie verscheyden plaetsen, aen eenighe personen (ketters in haren ooghen) al met vuer ende swaert in 't werck gebracht. Datmen hier soude willen seggen, wy en doent noch hier te lande niet; is niet altoos geseyt, gemerckt het niet aenden wille, maer noch aen macht schijnt te gebreken. Men weet wel dat Calvijn ende Beza by der Ghereformeerden Ministren gemeenlijck in gheen minder authoriteyt en zijn dan de Patres by den Catholijcken. Calvijn ende Beza leeren sulck ketter-dooden, ende dwingen der conscientien behoorlijc te zijn, ja Beza noemt dat der Princen cussen des soons (ick houdt oock so, maer een Judas cusse) te wesen. Soude de meyninge Beza ende Calvini dan <note place="margin">Beza misbruyckt de H<hi rend="i">eylighe</hi> Schrift.</note> niet de meyninge ende wille worden der Predicanten by hen-luyden in so grooten geloove wesende? Of weten die twee deser Delfsche Predicanten niet self wel, dat sy voor den Commissarisen tot Leyden inder Kameren by my haer meyninge van't ketterdoden ghevraecht zijnde, noyt ja of neen daer af en wilden antwoorden? de wille schijnter dan al te wesen, ende sal noch meer in velen worden, maer de macht gebreeckter noch,soo sy wel betoont hebben inden thienden Articule, vanden onderscheydt tusschen de Overheydt Kerckelijck ende Burgerlijck; daer af ick in myne Voor-reden hebbe verhaelt. Daer siet-men dan twee niet kleyne oorsaken daer door de Predicanten selve maken, datter niet veel aenwassings en is in hare Kercke, behalven meer anderen, die ick soude konnen (als het noodt zy) doen blijcken,ende houde 'tselve haer eygen, ende niet des volcx schulde te wesen.</p>
+    <p>&nbsp;</p>
+</div>
+<div type="section">
+<head rend="h4">IIII. <hi rend="i">Voorreden Pag</hi>ina<hi rend="i"> 2. Linia 5.</hi></head>
+    <p>Hier segghen de Predicanten dat vele ghe-<pb ed="fol." n="CCC xxvr"/>sproken werd in mynen Brief van prijslijcke ende so noodighe dinghen, dat de Menschen daer toe niet ghenoech vermaent en konnen werden. Mijn woorden ende werck prijsen sy, maer het eynde daer toe ickx doe (henluyden onbekent, soo ick sie ende wete) prijsen sy niet. Maer segghen datmen anders niet en kan mercken, dan dat ick den menschen daer mede vande ghemeynschappe der sichtbare Kercke ende oeffeninge des uyterlijcken Godes-diensts hebbe willen af-wijsen.</p>
+    <p>&nbsp;</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Ick prijse oock desen Predicanten, dat sy hier 'tghene by my wel geseyt is, niet afgonstelijck en mis-prijsen, ende mocht lijden dat sy door-gaens het contrarie niet en hadden ghedaen. Maer ick en kan henluyden daer <note place="margin">Onbeleeftheyt der Predicante<hi rend="i">n</hi></note> inne niet prijsen; Dat sy een ander eynde van sulcke myne woorden dichten, dan ick wete/ in mijn herte gheweest te zijn. Sy seggen, dat sy't mercken. Waer uyt? uyt mijnen woorden by hen-luyden daer gestelt? Die en hebben niet meer sulcx inne, dan ons Heeren woorden, datmen't innerlijcke eerst sal reynighen, inne hebben: Datmen het uyterlijcke niet en behoeft te reynigen. Lieve segt doch? Of iemandt bestaende het gat in sijn hose, daer door hy met een bijle swaerlijck in sijne been ghewondt ware, te stoppen eer hy besorghde des beens ghenesinge, geraden worde, dat hy eerst sijn beens genesinghe benaerstighen soude, ende dan sijnen hose stoppen. Soude daer uyt volgen, datmen sulcken een af-wijsen soude van't stoppen sijnder hosen? Wat is nu het uyterlijcke ghebaer doch vele anders, dan 'tLichaem teghen die Ziele, oft de hose oft kleedt teghen het lichaem te rekenen? Dese Predicanten dolen dan, in dit haer mercken; soo sy oock qualijck hebben ghemerckt, dat ick den menschen (soo sy dat in't ghemeen stellen van allen Menschen) af soude raden, ghemerckt sy wel behoorden te mercken, dat ick hier niet en schreef in eenen open Boeck, door den druck, aen allen menschen, maer in eenen besloten sendt-brief,aen een Mensche, die my om raet vraechde, ende sijn gheleghentheydt ontdeckt hadde met syne twijffelen, veroorsaeckt uytet gehoor van de Predicatien, ende het lesen der boecken, van meest alle Secten, oock Kercken. Daer op hebbe ick hem, in mynen brief, na sijn selfs gheleghentheydt, gheraden, te weten, soodanighen eenen mensche, ende niet allen menschen in't hondert. Dat behoorden dese Predicanten wel ghemerckt te hebben (segge ick noch) dat hebben sy niet ghemerckt, ende spreken derhalven hier sonder alle aenschou van saecken, onbedachtelijck ende qualijck. Dese Predicanten hebben dan niet in't goede noch ten besten gheraemt, van mijn eyndlijck voornemen in sulck mijn schryven, 'twelck ick waerachtelijck wete gheweest te zijn, niet anders, dan dien mijnen vrundt sodanich als ick hem kende wesende, af te wijsen, niet van de sienlijcke Kercke, maer van een onsekere opinie/ hen noch onsienlijck, of niet inder waerheydt bekent zijnde: Om soo niet op't onseker ende blindeling te bestaen dese aldergrootste sake, namentlijck, een Bruydegom sijnre zielen te trouwen. Dit mijn segghen, blijckt opentlijck in den text mijns Briefs selve, met uytgedruckte woorden, so de Leser in dit haer Boeckxken mach sien, pagin. 16. nde 26. dat is immers recht ende wel gheraden. Want (somen seyt) voorghedaen ende na bedacht, heeft menich mensch in lijden gebracht. Eerst weghet, dan waghet, seydt de Duytsch. Wie oock goede ware heeft, die mach wel lyden, dat die selve vanden ghenen die koopen wil, in't licht wel wordt besichtighet, voor't koopen. Maer bedrieghers, die valsche waren willen ghebruycken, hebben sulcx ongaerne, ende arbeyden met alle listen daer toe, dat elck blindelijck, haer ware, op haer toe-segghen, ende gheloove, souden koopen.</p>
+    <p>&nbsp;</p>
+</div>
+<div type="section">
+<head rend="h4">V.<hi rend="i"> Voor-reden pag</hi>ina<hi rend="i"> 3. linea 2.</hi></head>
+<p>So laet hy doch groote onsekerheydt ende twijffelachtigheyt achter, aenghesien hy niet verklaert, hoe langhe datmen de inwendighe reyniginghe benaerstighen, inden woorden Christi blyven, ende den wille Godes doen moet, eermen een ware litmaet Christi wort. Item, hoe langhe het daer na noch moet lijden, eermen de kennisse der waerheydt door den Gheest Christi verkrijcht, hoe verre die kennisse der waerheydt haer streckt, ofte gantsch volmaeckt moet zijn, eermen van eenige Leere oordeelen mach of niet.</p>
+    <p>&nbsp;</p>
+<p><hi rend="i">Coornhert.</hi></p>
+    <p>Men leest by Plutarchum, dat Aristoteles van eenen ghevraecht zijnde, hoe't komt, datmen liefste ende langste sprake houdt metten ghenen die schoon zijn. Gaf ter antwoorde: Sulckx te wesen, een blindens vraghe: ghemerckt de blind niet meer en werdt verlusticht door iemands schoone gedaente, dan door schoone verwen. Ick soude oock wel twijffelen, of dese Predicanten al wel ghesien hebben, inde voorsz<hi rend="i">eide</hi> hare vragen. Men vind Predicanten, welcker lesen, leeren ende prediken, meest bestaet inde theorijck, maer weynich inde practijck: Ick meyne, in't vernuftich speculeren, van hooghe ende curieuse geschillen, daer af sy Papegaeyelijck klappen, maer niet, in't dadelijck hanteren, ende oeffeninghe van deuchden. Salmen twijfelen moghen, daer Christus in is, of hy daer oock is? Dat waer ghetwijfelt, of men leeft. Salmen dan een ghewonde wet stellen, hoe langhe hy den plaester sal ghebruycken? Hy ghevoelt, ende siet immers selve wel, wanneer hy van de smerte verlost, de wonde ghenesen, ende het vleesch gheheelt is. Of salmen den blinden wet stellen, hoe langhe hy sich van anderen sal laten metter handt leyden? Hy verneemt immers, ghenesen zijnde, selve wel, wanneer hy siet. Het zy dan mannen, wandelende als bomen, so d'een voort volkomen ghenesen, eerst seyde, of klaerlijck ende wel, als d'ander seyde: Een dingh weet ick, dat <note place="margin"> marc. 8.24 Joan 9.25 Ondervindlijcke saken en mach niemandt van andere leeren.</note> ick blindt was, ende dat ick nu sie. Sy beyde vernamen't selve, int ondervinden wel, wanneer sy recht siende waren: derhalven onnodich was, henluyden een tijdt of maet te stellen,wanneer sy ghenoeghsaem saghen, om sonder leydts-man te wandelen. Siet Leser, op sulcke vraghen,niet dan enckel uytsluypinghen zijnde, met onrecht duyden, mijnre woorden ende voor-stellinghen van questien, <pb ed="fol." n="CCC xxvv"/> die tusschen ons niet en zijn, is dit Boeck voornemelijck ghegrondet. Seker, so ick tot dese dinghen raedt hadde bestaen te gheven, men soude mijnder niet min ghespot hebben: dan of iemandt sulcken ghenesen, ende siende gheworden blinde, hadde willen leeren, wanneer, ende waer by hy weten soude moghen, of hy oock wel ghenoegh saghe, om alleen te wandelen. Also gebreeckter niet altoos aen den voors<hi rend="i">eiden</hi> raedt, by my mynen vriendt ghegeven, dan 'tghene lachens ende spottens waerdich gheweest soude zijn. Ist dan oock al met rechten ernst, dat de Predicanten my, in't gheven van soo goeden, sekeren ende volkomen raedt, daer aen gheen nodighe middelen en ghebreken, hier berispen? Van herten gaerne sal ick eenen beteren raedt, hier toe uyt hen-luyden, hooren. Die en sie ick in dit Boeck niet.</p>
+    <p>&nbsp;</p>
+</div>
+<div type="section">
+<head rend="h4">VI.<hi rend="i"> Voorreden Pag</hi>ina<hi rend="i"> 3. linea 27.</hi></head>
+<p>Dit al t'samen ghebreeckt aen desen raed, ende daeromme diend hy nerghens toe beter, dan omme de swarigheydt te vermeerderen, ende de twijffelachtighe gantsch onseecker te maken.</p>
+    <p>&nbsp;</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p><note place="margin">Onbescheydenheydt der Predicate<hi rend="i">n</hi>.</note> Al dit mis-verstant der Predicanten in desen, rijst uyt hen-luyder roeckeloos oordeel, dat sy't achten, allen menschen gheraeden te zijn gheweest  'tghene ick een eenich mensche, na sijn gheleghentheydt, op sijn te kennen geven aen my (daer af de Predicanten niet altoos en weten) geraden hebbe ghehadt: ende soude zijn by ghelijckenisse al-sodanighe bewijs-reden. Desen Medicijn-meester heeft een krancke, met aldus, of al-sodanige sieckte beladen wesende, dese, of die raedt, of recepte ghegheven: daer uyt volcht, dat hy oock dese, of die selve raedt, of recepte allen Menschen gheeft, niemanden uytgenomen, ouden of jonghen, wie't mach zijn, met alreleye verscheyden sieckten ghequelt zijnde. Dat luyd qualijck. Niet anders en luydt oock het bewijs deser Delfscher Predicanten, uyt desen mynen brief, aen eenen seeckeren persoon. Doch vantmen meer ghebreckx by den Menschen, van al-te Lichtsinnich, van d'een Religie in d'ander te swermen, dan van alte lancsaem een Religie aen te nemen. Daeromme oock noch allen menschen nutter is, datmen de swarigheyt van een Religie aen te nemen, versware, dan verlichte. Want watmen licht aenvaerdt, dat verlaetmen oock licht. De kosten, na den raedt Christi, Luce 14.28, <note place="margin">In twyffelijcke saken ist beter besorgt te zijn dan stout.</note> eerst te vooren wel over te legghen, en mach niemanden schaden; maer roeckeloos aen te loopen, sonderlinghe, in so hoochwichtighen sake, heeft menighen gheschadet. Die seggen dan te spade, metten onbedachten luyden: Ick en haddet niet ghewaent. Wie in twijffel, hem selven seker waendt, die is vermetel, ende moet dolen. De mensche moet gantsch onseker zijn in sijn eyghen vernuft ende duysternissen, sal hy seker worden in Gods waerheydt ende klaerheydt. Soo streckt mijnen raedt tot veyligheydt, om stille te houden, in dese wichtighe saken, soo lange men noch onseker is: ende is noch ghelijckewel nut voor alle die onseker zijn in desen. Daer tegen is der Predicanten tot Delfs raedt voorderlijck, om den ghenen die inder waerheydt onseker is, tot een ghewaende seeckerheydt te brenghen, ende daer door in dese groote sake te doen voort-varen, dat is; om voor alle verlichtinghe ende versekeringhe des geests, blindeling het twijfelijc vermoeden des vernufts te volghen, ende te doen wanen, dat men weet, al eermen  noch weet, hoemen weten soude.</p>
+    <p>&nbsp;</p>
+</div>
+<div type="section">
+<head rend="h4">VII.<hi rend="i"> Voorreden pag</hi>ina<hi rend="i"> 3. linea 30.</hi></head>
+<p>Ja schijnt (de raedt des briefs) daer toe eyghentlijck gherichtet te zijn, om de menschen altijdts op te houden, datse haer nemmermeer begeven, om vande sichtbare kercke te oordeelen; de ware te verkiesen, <hi rend="i">et</hi>c<hi rend="i">etera</hi>.</p>
+    <p>&nbsp;</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Al dit, is mede qualijck ghenomen, als of <note place="margin">Predicante<hi rend="i">n</hi> besluyten qualijck.</note> mynen raet, eenen man ghegeven, allen menschen ware ghegheven. Maer laet ons dit nemen, oft so noch al waer, ende besien dan of de Predicanten al verstandelijck besluyten. Esdras beval, datmen de poorten tot <note place="margin">2. Esd. 7.3</note> Jerusalem niet en soude openen, voor dat de sonne heet waer. Daer by blijckt dat Esdras beval, datmen de poorten nemmermeer openen soude: Is dat oock een goet ghevolgh, of bewysinghe? Ick houdt neen. Also mede: Salomon leert, datmen niet en sal antwoorden, <note place="margin">Pro. 11.18</note> voor datmen ghehoort heeft: daer uyt volcht, datmen nemmermeer en sal antwoorden: Sluyt dat al wel? Ick achte neen. Ende  noch, Christus beveelt, datmen het inwendighe eerst sal reynigen: Daer uyt <note place="margin">mat. 23.26</note> verstaetmen, datmen het uytwendighe nemmermeer en sal reynighen. Machmen dat bewijs oock toelaten? Wie merckt niet neen? Desghelijckx argumenteren de Predicanten tot Delft also. De autheur van desen brief raedt, datmen voor't aennemen van eenighe Leere oft Kercke, eerst sal staen na ware kennisse vande Leere oft Kercke, om seker te zijn of die Leere of Kercke, die waerachtige zy, dan niet: daer uyt volcht, dat de autheur deses briefs, te weten, Coornhert, den menschen raedt, dat sy altijdts op-houden, ende sich nemmermeer begheven sullen, om vande sichtbare Kercke te oordelen; de ware te verkiesen, <hi rend="i">et</hi>c<hi rend="i">etera</hi>. Is dat besluyt der Predicanten oock vast? Geen dingh minder; maer komt voort uyt een quade conscientie, of uyt onwetenheydt, die niet kleyn en is. Want rade ick nae de ware kennisse te staen, om die ware Kercke met sekerheydt aen te nemen: So en rade ick immers niet, datmen gheen Kercke sal aennemen, maer om die wel aen te nemen.</p>
+    <p>&nbsp;</p>
+</div>
+<div type="section">
+<head rend="h4">VIII. <hi rend="i">Voor-reden pag</hi>ina<hi rend="i">. 4.7.</hi></head>
+<p>Ende sommige bemerckten dat des Doctors voor-nemen niet gheweest was, den inhout des voorseyden briefs in't breede te verhalen, maer alleen korte annotatien daer op te maken, <hi rend="i">et</hi>c<hi rend="i">etera</hi>.</p>
+    <pb ed="fol." n="CCC xxvjr"/>
+    <p>&nbsp;</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p><note place="margin">De Predicanten late<hi rend="i">n</hi> D<hi rend="i">octor</hi> Daneu<hi rend="i">m</hi> in sijn vuyl steken.</note> Dit ist al dat dese Predicanten seggen van des Doctors annotatien, latende den selven Doctor selve sorghen voor de verantwoordinghe van die vuyle annotatien, door myne zeepe, met kleyne moeyten, wel klaer afghewasschen zijnde. De Doctor Daneus hield den brief voor argher, dan dese Predicanten doen: die maer ongegront noemen, ende on-Christelijck, daerse de Doctor noemt arghelistich ende Duyvelsch. Dus heeft hy't (is te dencken) so nodich doe, als dese Predicanten nu, moeten achten, dat dese mijne Brief, in't langhe wederleydt werde. Oft nu is, dat de Doctor beter sach dan dese Predicanten, dat sulckx niet en mochte gheschieden, sonder in vele grove ongheschicktheden, ende mitsdien, in beschaemtheden, te vallen, ende daerom liever weynich, dan vele ongherijmde saken, daer op hadde te stellen: Ende of dese Delfssche Predicanten haer vuyl op mynen Brief ghestroyt, beter dan D<hi rend="i">octor</hi> Daneus heeft ghedaen, sullen konnen verantwoorden, salmen licht uyt het vervolch van desen mogen mercken.</p>
+    <p>&nbsp;</p>
+</div>
+<div type="section">
+<head rend="h4">IX. <hi rend="i">Voorreden Pag</hi>ina <hi rend="i">4. linea 18.</hi></head>
+<p>So hebben wy ons lichtelijck daer toe laten beweghen, om 'tghene wy hier inne ghearbeyt hadden, anderen mede te deylen, ende ghemeyn te maken.</p>
+    <p>&nbsp;</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p><note place="margin">Het tweede aenvechten des briefs der Predicanten beschaemtet eerste des Doctors.</note> Heeft D<hi rend="i">octor</hi> Daneus mijn brief te voren recht beschaemt, so was deser Predicanten arbeyd onnodich. Is dat niet; soo beschamen dese Predicanten des Doctors berispinge mijns briefs, als niet goet zijnde. Moster dan twemael ghevochten zijn teghen mijnen eenen brief, noyt gheschreven zijnde met meyninge om in druck te laten komen? Maer wonder ist, dat de Predicanten tot Delft, sich oock niet so lichtelijck heben laten beweghen van haer selfs volck tot Delft, tot beantwoordinghe van mijn schrift, teghen haer onghegronde erf-zonde, soo sy die leeren. Want daer toe hebben sy-luyden, sich onder hare handt-tekens, in mijn handen wesende, verbonden: welck mijn schrift, sy nu al langher dan een Jaer in handen gehadt hebben : tot welckx verantwoordinge sy oock vande heuren niet luttel geport hebben.</p>
+    <p>&nbsp;</p>
+</div>
+<div type="section">
+<head rend="h4">X. <hi rend="i">Voorreden pag</hi>ina <hi rend="i">4. linea 20.</hi></head>
+<p>Oft nu iemandt vreemt mochte geven, dat wy in dit onse schrift den naem des autheurs des sendbriefs niet melden, nademael hy hem selven bekent gemaeckt heeft, <hi rend="i">et</hi>c<hi rend="i">etera</hi>.</p>
+    <p>&nbsp;</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Dat en gheeft my niet vreemt, die nu wel gesien hebbe, dat Calvijn ende Beza versweghen den namen haerder weder-saken; om hare suyvere Boecken, metten vuylen namen der selver, niet te bevlecken. Maer my geeft wel vreemt, dat dese Predicanten van Delft, ende namentlijck, Reynerus Donteklocke, <note place="margin">Der Predicanten tot Delfs onbestendigheyts.</note> ende Arent Cornelisz<hi rend="i">oen</hi> sich selve in desen dinghen niet wat bestendigher, dan sy doen, en toonen. Denckt hier iemandt, waer in? Ick sal 't verklaren. In't Jaer 79. den xj. Septembris, hebben die twee voornoemde Delfsche Predicanten aen my ghesonden een brief onder haer beyder onder-tekeninghe, waer inne sy nevens anderen schrijven also:</p>
+<p><hi rend="i">Ghy presenteert u selven, om tegen </hi><note place="margin">Wat Coornhert den Predicante<hi rend="i">n</hi> aengheseyt, ende ingheboden heeft gehadt.</note> <hi rend="i">ons te bewysen, dat de Leere in onsen Catechismo begrepen, menschen leere is. Item, Dat onse sendinge niet wettelijck en is; en te wederleggen onse opinie, vande dwanc der conscientie; ende begheert dat te doen niet mondelijck, maer metter penne.</hi></p>
+<p>Dat zijn uwe eygen woorden mannen, by de handt van Donteklock gheschreven, oock by u ende Arnoldum gheonderteyckent, noch by my wesende. Wat dunckt u; Zijn dat kleynder stucken, dan't inhouden van desen mynen Brief? Wat seyt die, sommierlijck te spreken, doch anders tot mynen vrundt, dan dat ick hen rade, dat hy sich in gheen uyterlijcke Ghemeente of Kercke en begheve; sonder eerst te vooren inder waerheydt seecker te zijn, dat het de ware KerckeChristi zy, daer in hy sich wil begheven? Wat is doch daer in, dat u luyden met reden mach quetsen, soo ghy niet den volcke wilt raden, blindelijck ende sonder voorgaende kennisse ende oordeel in u ghemeenschappe te swermen? Maer de voorsz<hi rend="i">eide</hi> stucken, by my u aengheboden, treffen wel anders, namentlijck, de onwaerheydt van u Leere; u loopen onghesonden; ende het dwinghen der conscientien. Al des niet teghenstaende, weygherde ghy sulcx teghen my te verantwoorden. Wat gaeft ghy doe voor antwoorde, op sulcke myne presentatie? 'Tghene volcht:</p>
+<p><hi rend="i">Wy bedancken u van dese presentatie, ende laten u weten, dat wy gheen tijdt so snode en kennen, die wy in't verantwoorden van uwe raserijen souden willen aenleggen, noch mondelijck, noch schriftelijck; want wy souden't achten, teghen een oven ghegaept te zijn.</hi></p>
+<p>Dat's wel een spottelijcke ende onvriendelijcke antwoorde. Die gheeft my nu oorsake van verwonderen, dat ghy noch wetende te vooren, desen brief, mijn werck te wesen, (so ghy hier voor selve seght) u tijdt so snode kent, dat ghy die aenleght in't verantwoorden, (of teghen-bericht maken) van mijne raserijen, ende dat ghy't nu niet meer en acht teghen een oven ghegaept te zijn. Dat's een ongestadige veranderinge in Predicanten.</p>
+<p><hi rend="i">Voorts, segdy, opdat ghy nochtans niet en soudet segghen, dat het u afgeslaghen ware sonder oorsake, soo sullen wy de wichtichste hier stellen.</hi></p>
+    <pb ed="fol." n="CCC xxvjv"/>
+<p>Daer seghdy voorts/ dat my tot Leyden meer ghegunt is, dan ick waerdich ben; dat mijn hooghmoedigheyd ende goet-dunckenheyd te groot is; dat myne valscheden ende dolinghen te menichvuldich zijn; dat myne opinien, tegen uwe Catechismum, so grouwelijck zijn, dat ghy die sonder verschrickinghe niet en soudet konnen hooren; dat ick verkeert ben, ende by my selven veroordeelt; ende dat ick my tegen mijn eygen Vaderlandt ontrouwelijck ghestelt hebbe. Siet dat zijn die ses stucken, by u luyden, inden gemelden uwen brief gestelt voor redenen, daer door ghy weygerde u tijdt te besteden, in 't weder-leggen van mijn raserijen, ende teghen een oven te gapen. Wat my tot Leyden gegunt is, hoe men daer met my heeft ghehandelt, ende hoe ghy Arnolde voor al den volcke verstomde, (so ghy beyde inden voor-ghemelden brief, de waerheyd eerende, selve bekent) als ghy in u self stricken ghevanghen waert, ende hoe schandelijck ick van daer ben gelopen (so ghy luyden my dat na gheeft) oock mede antwoordt op elck der voorsz<hi rend="i">eide</hi> ses stucken, leydt al by my ghereet inde minute, om gegrosseert ende voorts ghedruckt te worden, soo my de Heere spaert: Ten eynde, het spreeck-woort hier mede waer mach blijcken: Al is de loghen snel, de waerheyt achter-haeltse wel. Ende in het sluyten van desen uwer beyder brief, segdy wel uytdruckelijck tot my aldus:</p>
+<p><hi rend="i">Maer met u en willen wy gantsch gheen doen hebben: u verklarende onse intentie mitsdesen, dat wy geene brieven, of wat het wesen wilde, van u komende, meer en dencken te verantwoorden.</hi></p>
+<p>Nu komt desen brief van my, ende dat noch niet aen u luyden; des niet-te-min beantwoordt ghy-luyden die. Sy moet u luyden dan scherp byten, of ghy zijt seer onbestendig in u voornemen. Dit geeft my vreemt in sodanighe Predicanten.</p>
+<p>So vele ghy hier gheseyt op den voor-reden des Boecks, omme voorts te komen tot het Boeck selve. Ick was in voornemen desselven boecks schickinge na te volghen: maer siende 't selve vol rediten, oft menichvuldigh verhael, van't ghene al dickmael was gheseydt; heeft my goet gedocht, om sulckx alhier te vermyden, alle 'tinhouden des boecks eenichsins verhalens waerdich zijnde, te verhandelen, ende op elck, 'tghene my noodich ende nut dochte, te antwoorden: Te weten, waer inne de Predicanten niet (1) oprechtelijck en handelen; waer sy selfs schuldigh zijnde, my t'onrecht (2) beschuldighen; hoe qualijck sy dickmalen ghetuygen opter Apostelen (3) exempelen; oock (4) questien dichten, die tusschen ons niet en zijn; en<hi rend="i">de</hi> ten laetsten, waer in wy't in desen (5) oneens zijn, met verhandelinghe van sulcken onsen gheschillen.</p>
+</div>
+</div>
+</body>
+</text>
+</TEI.2>

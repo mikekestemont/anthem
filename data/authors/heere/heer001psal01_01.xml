@@ -1,0 +1,2807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "http://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Psalmen Davids na d'Ebreeusche waerheit</title>
+               <author>Lucas de Heere</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Psalmen Davids na d'Ebreeusche waerheit</hi> van Lucas de Heere in de eerste druk uit 1565.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>de kop [approbatie] is tussen vierkante haken toegevoegd</corr>
+                       <corr>p. 55-58 ontbreken in het origineel. De beginregels van de liederen op p. 56 en 58 zijn tussen vierkante haken toegevoegd.</corr>
+                       <corr>p. 77: aenscihts → aensichts: ‘De welvaert mijns aenscihts te zijne.’</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan section="1" type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">heer001psal01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2012 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note>DSOLmetadata:yes</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar universiteitsbibliotheek Gent, signatuur: G 277</idno>
+               </bibl>
+               <p>Lucas de Heere, <hi rend="i">Psalmen Davids na d'Ebreeusche waerheit</hi>. Ghileyn Manilius, Gent 1565</p>
+               <p>&nbsp;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Psalmen Davids na d'Ebreeusche waerheit</title>
+               <author>Lucas de Heere</author>
+               <idno></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Psalmen Davids na d'Ebreeusche waerheit</title>
+               <author>Lucas de Heere</author>
+               <idno></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2012-09-04</date>
+               <respStmt>
+                   <name type="person">SW</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<body>
+<div type="chapter">
+
+<cf>
+<pb n="1"/>
+<p>PSALMEN DAVIDS</p>
+<p>Na d'Ebreeusche waerheyt, en d'alder beste exemplairen, oft translatien, Liedekins-wijs in dichte ghestelt: op de voysen en mate, van Clement Marots Psalmen.</p>
+<p><hi rend="i">Autheur L.D.H.</hi></p>
+<p>Paeys is goedt.</p>
+<p>Te Ghendt,</p>
+<p><hi rend="i">By Ghileyn Manilius, ghezworen Drucker wonen̄ by de vijf Helmen, op de Cooren Leye. Anno M.D. LXV.</hi></p>
+<p>Met Privilegie voor drie Iaren.</p>
+</cf>
+</div>
+<div type="chapter">
+
+<pb n="2"/>
+<head rend="h3">[Approbatie]</head>
+<p>DEse naervolghen̄ Psalmen Dauids, zijn ghevisiteert, en̄ gheapprobeert, by Meester Laurens Metsium, Deken ende Plebaen van Sinter Goedelen Kercke, binnen der stadt van Bruessele: Ende zijn toeghelaten ende ghepermitteert in den Rade vā Brabant ons Conings, Ghileyn Manilius, ghezworē drucker, de zelue te moghen drucken en̄ vercoopen, allõme daert hē belieft. Verbiedende allen anderē druckers, ende bouckvercoopers, de zelue na te drucken, oft vercoopen, binnen den tijdt van drye naestcommende Iaren, vp pene, breeder verhaelt int Priuilegie. Ghedaen te Bruessele, den iij. Octob. 1564.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Onderteeckent</hi></p>
+<p><hi rend="i">I. de Perre.</hi></p>
+</div>
+<div type="chapter">
+
+<pb n="3"/>
+<head rend="h3">Den Drucker, tot den goedwillighen Lezer, oft Zangher.</head>
+<p><hi rend="b">A</hi>L hebben de Psalmen Dauids van ouerlangh in nederlandsche spraecke ghemaeckt ghevveest, nochtans en zal men desen nieuvven aerbeit niet te vergheefs achten. Ten eersten, om dat eenighe van d'oude Psalmen ghemaeckt zijn op lichtvaerdighe voysen, daer by theyligh vvoord Gods dickmael is mesbruuct ghevveest, in danssen en ander vvulpschedē. Ten anderen (onder correctie) zijnder veel zaeckē in bevonden vvijckende den zin van den Text: ia die niet vry en zijn van erreuren. Ander hebben gheenē reghel in de dichten ghehouvvē, daer nochtans de materie alle d'eere diemen haer doen magh vvel vveerdigh is. Al vvelcke fautē desen Autheur hem heeft ghepooghet te beteren: Nemende de voysen van Marots Psalmen die deghelic ende ghestadelic zijn, volghende dat de materie heescht. Ten anderen heeft hy ghevolghd de translatiē, die voor de beste ghehouvven vverden by alle gheleerde: Als die van S. Hieronimus, Augustinus, Arnobius, ende meer ander: Ende daer hy om tdicht te vulcommen, oft om eenighe duuster zaecken te verclaeren, heeft moeten vvat buyten den Text gaen, heeft hy oock ghevolghd de Paraphrasen ende verclarijnghe der Doctoren van der kercken als van de voorseide ende onder de nieuvve Titelmanus, Flaminius, Cā
+<pb n="4"/>penses, en̄ de zulcke: zoo dat het zelfde datter buytē den Text gaed, diend voor verclarijnghe, en̄ zoo en isser niet te vergheefs: Maer ick vvil den simpelē Lezer vvel vvaerschuvvē dat hy hem niet en behoort te quetsen al vind hy erghens dese Psalmen vvat different luudende van sommighe texten: vvant daer vverdē uut d'Ebreeusche spraecke (alzo ooc uut an der) veil zaeken op diuersche manieren ghelesen, en̄ ghetranslateert: die nochtans meest al op eenen zin uutcõmen. Ooc is d'Ebreeusche tale zulck, dat in sommighe zaecken vvel tvvee diuęrsche zinnē moghen verstaē zijn zonder mesdoen: zo zy vvel vveten en̄ bekennē die daer in gheoeffent zijn. Angaen̄ de dichten, die hemlien dies recht verstaen, ende de svvaerheit der materie anmercken, zullen die (hope ic) goed vinden: In de vvelcke hy heeft meer moetē onderdanigh zijn den zin oft de vvoordē van̄ text, en̄ de zeker maten van de versen oft reghels, dan de Rhetorijcke, oft bequaemicheit om d'oore te payē. Al tvvelcke (beminde Lezer) is ghedaē tot dier meeninghe, op dat hier mede zouden ontvvent vvordē vele onstichtelicke, en̄ ketterlicke liedekins, die hedēsdaeghs (God betert) zeer ghemeē zijn: en̄ op dat zy (die lusten vvat gheestelix te zijnghen) zoudē heml. vermaken met de Psalmen Dauids, daer dē heilighē gheest eerste oorspronc af is: Daer neffens niet vergheten̄ met alder reuerentien, en̄ deuocien, te eeren, en̄ te beminnen tguent datmen in de kercke zijnght ten loue Gods. Dit doen̄ zullē vvy achten van onsen aerbeit vvel gheloont te zyne: en̄ zullē ons pooghen om met der tijdt de reste int licht te brijnghen.</p>
+<p>Vaert vvel.</p>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0001"/> </interpGrp>
+<pb n="5"/>
+<head rend="h2">Psalmen-Davids.</head>
+<head rend="h3"><hi rend="i">Beatus vir, qui non abijt.</hi>
+<lb/>
+Psalme. I.</head>
+<p>Desen Psalme zijnght dat zy zalich zijn, die (verwerpen de wercken ende den raed der booze) haer begheuen te kennen, ende te wercke te legghen, de Wet Gods: En̄ dat zy onzaligh zijn die anders doen.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0001.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="b">W</hi><hi rend="i">Elhē die niet en wādelt in dē raed</hi></l>
+<l><hi rend="i">Van de menschen Goddeloos, ende quaed,</hi></l>
+<l><hi rend="i">Noch en terd ooc vp den wech der zondaren,</hi></l>
+<l><hi rend="i">Die ooc en zitt onder der spotters scharen:</hi></l>
+<l><hi rend="i">Maer diēs lust draegt tot Gods ghebodē naect,</hi></l>
+</lg>
+<pb n="6"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0002.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">VVaer in hy hem dach ende nacht vermaect.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Desen zal zijn, als eenen boom plaisant</hi></l>
+<l><hi rend="i">Die gheplantt is ontrent der beken cant,</hi></l>
+<l><hi rend="i">En zijn vruchten voortbrijngt naer de terminen</hi></l>
+<l><hi rend="i">VViens bladeren nemmermeer en verdwinen,</hi></l>
+<l><hi rend="i">Al dat zulck een meinsch' anslaet ende doet</hi></l>
+<l><hi rend="i">Zal ghelucken, en hebben groot voorspoet.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Maer zules en zal den boozen niet gheschien</hi></l>
+<l><hi rend="i">VVant hy beschaēt zal voor Gods anschijn vliē,</hi></l>
+<l><hi rend="i">Ghelijckmen ziet t' caf vanden wind wegdriuen:</hi></l>
+<l><hi rend="i">Daerom en zal ooc gheensins staende bliuen</hi></l>
+<l><hi rend="i">De Godloos' in Gods oordeel excellent</hi></l>
+<l><hi rend="i">Noch int ghemeent' der vprechter bekent.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVant God die kend en bevestight zeer staerck</hi></l>
+<l><hi rend="i">S'gherechtighen weghen doen ende waerck:</hi></l>
+<l><hi rend="i">Maer der boosen weghen, waerck, ofte cueren</hi></l>
+<l><hi rend="i">Zullen vergaen ende niet moghen dueren.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0002"/> </interpGrp>
+<head rend="h3"><hi rend="i">Quare fremuerunt gentes</hi>?
+<lb/>
+Psalme. II.</head>
+<p>Hier ziet men hoe dat Dauid en zijn Rijcke, warachtighe figueren Iesu Christi zijn, ende ontwijfelicke Prophetien vā hem en zijn Rijcke.</p>
+<pb n="7"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0003.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="b">W</hi><hi rend="i">Aerõ loopen d'Heydenē t'hoope toch</hi>?<note place="margin">Actũ. 4. e.</note></l>
+<l><hi rend="i">VVat roert dē volck' aldus nu dwaes te zine?</hi></l>
+<l><hi rend="i">Dat zij beroerlick murmureren noch</hi></l>
+<l><hi rend="i">Onderwindend' haer een verloren pine.</hi></l>
+<l><hi rend="i">De Conijnghen, en Princen van aerd'rijcke</hi></l>
+<l><hi rend="i">Hauden raed, en steken haer onbeschaemt</hi></l>
+<l><hi rend="i">Ieghens God den Heer' en oock desghelijcke</hi></l>
+</lg>
+<pb n="8"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0004.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">Ieghens zijnen Coninck Christũ ghenaemt.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Zizegghen, laett ons nu breken een paer</hi></l>
+<l><hi rend="i">Al haer banden, en haer ioc van ons keeren:</hi></l>
+<l><hi rend="i">Maer die in die hemelen woond voorwaer</hi></l>
+<l><hi rend="i">Zal daer mede lachghen t'haerder oneeren.</hi></l>
+<l rend="; 1tab"><hi rend="i">God zal spotten met haer, en met haer treken,</hi></l>
+<l><hi rend="i">Dan zal hy oock in alder gramschap bloot</hi></l>
+<l><hi rend="i">Haer zeer straflick angaen, en toe spreken</hi></l>
+<l><hi rend="i">En makense vervaert met anxte groot.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Zegghende, ick heb mijn Coningh in ghestelt</hi></l>
+<l><hi rend="i">Op Syon mijnen baergh, heiligh en reene:</hi></l>
+<l><hi rend="i">Gods ordonanci' werdt van my vertelt</hi></l>
+<l><hi rend="i">Dat is dat de Heere my zeyde alleene:</hi></l>
+<l rend="; 1tab"><note place="margin">Actũ. 13. e. Hebrę. 1. b Ende. 5. b</note> <hi rend="i">Ghy zijt mijn zone die ick voort broght' en</hi></l>
+<l><hi rend="i">Beghaerd van my, en ick gheue u gheheel</hi></l>
+<l><hi rend="i">D'Heydenen voor u bezittingh' met vreden</hi></l>
+<l><hi rend="i">En d'houcken der aerden voor u erfdeel.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><note place="margin">Apoc. 2. g. Ende 19. c</note> <hi rend="i">Ghy zultse met d'yseren roede slaen</hi></l>
+<l><hi rend="i">En breken, als zaken van cleender waerde,</hi></l>
+<l><hi rend="i">Ia murselen ende nietighen zaen</hi></l>
+<l><hi rend="i">Zoo aest alsmen breeckt eenen pot van aerde.</hi></l>
+<l rend="; 1tab"><hi rend="i">Daerom ghy Coninghen, hooghe verheuen</hi></l>
+<pb n="9"/>
+<l><hi rend="i">Verstaet, en zijt toch nu voorsichtigh wel:</hi></l>
+<l><hi rend="i">En ghy aerdsche Iugen, wilt u begheuen</hi></l>
+<l><hi rend="i">Te leeren, en u te beteren snel.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Diend den Heere ghewilligh van nu voort</hi></l>
+<l><hi rend="i">In zijnder vreese, en met obedienci'</hi></l>
+<l><hi rend="i">Verblijdt u, om dat ghy hem toebehoort</hi></l>
+<l><hi rend="i">Vreesende quaed te doen in zijn presenci'</hi></l>
+<l rend="; 1tab"><hi rend="i">En cust den zone in teecken van eerbieden.</hi></l>
+<l><hi rend="i">Op dat ghy hem tot gramschap niet verwect</hi></l>
+<l><hi rend="i">En op dat ghy dit groote quaed meught vlieden</hi></l>
+<l><hi rend="i">Gheel te vergan' in dijn weghen bevlect.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVant zijn gramschap ontsteect en ooc antast</hi></l>
+<l><hi rend="i">Haestelick, en eer men is op zijn hoede:</hi></l>
+<l><hi rend="i">Maer alle die in hem betrauwen vast</hi></l>
+<l><hi rend="i">Ogh hoe zaligh zijn die, zoo ick bemoede?</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0003"/> </interpGrp>
+<head rend="h3"><hi rend="i">Domine quid multiplicati sunt</hi>?
+<lb/>
+Psalme. III.</head>
+<p>Dauid ommeringhd zijnde met een groote armeye volx is int eerste verschrict: maer daer naer neemt hy zulc een betrauwen tot <hi rend="sc">God</hi>, dat hy (dien angheroupen hebbende) hem zeluen verzekert van de victorie.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0005.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>H<hi rend="i">Eer' hoe veil' int ghetal, Zijn mijn vian</hi>-</l>
+</lg>
+<pb n="10"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0006.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">den al? Hoe sterck commen ter bane Die</hi></l>
+<l><hi rend="i">hemlien maken reed Om (deur middelen</hi></l>
+<l><hi rend="i">wreed) Alteghen my te stane? Veil die</hi></l>
+<l><hi rend="i">zegghen hier by Van mijn ziel' ofte my,</hi></l>
+<l><hi rend="i">Zijn sterct' is t'onderbleuen: VVant hy niet</hi></l>
+<l><hi rend="i">meer en vindt In God (die hy bemindt)</hi></l>
+<l><hi rend="i">Eenigh' hulpe in dit leuen.</hi></l>
+</lg>
+<pb n="11"/>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Nochtans ô Heere mild</hi></l>
+<l><hi rend="i">Ghy zijt my eenen schild,</hi></l>
+<l><hi rend="i">Ghy zijt oock al mijn eere,</hi></l>
+<l><hi rend="i">Ia zijt (alsmen ghelooft)</hi></l>
+<l><hi rend="i">Opheffende mijn hooft</hi></l>
+<l><hi rend="i">My groot makende zeere.</hi></l>
+<l rend="; 1tab"><hi rend="i">Ick riep sijnde inden noot</hi></l>
+<l><hi rend="i">Tot onsen Heere groot</hi></l>
+<l><hi rend="i">Die verhoorde my clachtigh</hi></l>
+<l><hi rend="i">Zoo hy oock altijt doed</hi></l>
+<l><hi rend="i">Van Syons baergh zeer goed</hi></l>
+<l><hi rend="i">Dit bevinde ick warachtigh.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Ick was in slaep gheraect</hi></l>
+<l><hi rend="i">En bem weder ontwaect</hi></l>
+<l><hi rend="i">Sonder vrees' alst my paste:</hi></l>
+<l><hi rend="i">VVant God my onderhaut</hi></l>
+<l><hi rend="i">Op wien mijn hert' betraut</hi></l>
+<l><hi rend="i">Als op een lene vaste.</hi></l>
+<l rend="; 1tab"><hi rend="i">Dies en versaegh'ick niet</hi></l>
+<l><hi rend="i">VVat my nu oock gheschiet</hi></l>
+<l><hi rend="i">Al wilden my bestriden</hi></l>
+<l><hi rend="i">(Omringhende als een perck)</hi></l>
+<l><hi rend="i">Thien dusent Mannen sterck</hi></l>
+<l><hi rend="i">Ick en vrees' haer gheen tiden.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Staet op ô Heere noch</hi></l>
+<l><hi rend="i">Helpt en behoudt my doch</hi></l>
+<pb n="12"/>
+<l><hi rend="i">Die ghewent zijt te smiten</hi></l>
+<l><hi rend="i">Mijn vyanden zeer boos,</hi></l>
+<l><hi rend="i">En zijt brekende altoos</hi></l>
+<l><hi rend="i">Haer tanden die my biten.</hi></l>
+<l rend="; 1tab"><hi rend="i">Tis van u datmen magh</hi></l>
+<l><hi rend="i">Verbeyden met verdragh</hi></l>
+<l><hi rend="i">Ons zalicheit alleene:</hi></l>
+<l><hi rend="i">Ghy zijt oock die daer zend</hi></l>
+<l><hi rend="i">Den zeghen excellent</hi></l>
+<l><hi rend="i">Op u volck int ghemeene.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0004"/> </interpGrp>
+<head rend="h3"><hi rend="i">Cum inuocarem, exaeudiuit me.</hi>
+<lb/>
+Psalme. IIII.</head>
+<p>In de laghen die hem Absalon leyde roupt hy <hi rend="sc">God</hi> an, en berispt de Princen van Israël, die ieghens hem raedslagh hielden, haer roupende tot berau, en besluutt dat hy hē wel bevindt met in den <hi rend="sc">Heere</hi> hem te verlaten.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0007.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>A<hi rend="i">Nhoort my als ick roup' en keere Tot</hi></l>
+<l><hi rend="i">u mijn gherechticheit groot: Verlost mijn</hi></l>
+<l><hi rend="i">benaudt herte zeere Hebt met my mélijden</hi></l>
+</lg>
+<pb n="13"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0008.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">(ô Heere!) Verhoort mijn ghebed inden noot.</hi></l>
+<l><hi rend="i">Hoe langhe zuldy meinschen waerlic Zijn zoo</hi></l>
+<l><hi rend="i">begheerigh en̄ snel Om minen Naem' t' ont-ee</hi></l>
+<l><hi rend="i">ren daerlick? En sijn tot ydelheit beghaer-</hi></l>
+<l><hi rend="i">lick Beminnende leughenen fel?</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">VVeett dat de Heer' heeft uutvercoren</hi></l>
+<l><hi rend="i">Ghelijck naer sijn hert' eenen man</hi></l>
+<l><hi rend="i">Den welcken hy nu zal verhoren</hi></l>
+<l><hi rend="i">(Ghelijck hy oynt dede hier te voren)</hi></l>
+<l><hi rend="i">VVanneer ick hem sal roupen an.</hi></l>
+<l rend="; 1tab"><hi rend="i">VVilt God vreesen en voor hem beuen,</hi><note place="margin">Ephe. 4. f.</note></l>
+<l><hi rend="i">En sondight niet t'eenigher tijt:</hi></l>
+<pb n="14"/>
+<l><hi rend="i">VVilt by u seluen, u begheuen</hi></l>
+<l><hi rend="i">T'ouerdincken u sondigh leuen</hi></l>
+<l><hi rend="i">Op u bedde en als ghy stil' sijt.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Dan offert God den Heer' almachtigh</hi></l>
+<l><hi rend="i">Een offer gherechtigh, en goet</hi></l>
+<l><hi rend="i">En dat met een berau warachtigh</hi></l>
+<l><hi rend="i">Stellende u betrauwen eendrachtigh</hi></l>
+<l><hi rend="i">Op den Heere, zoo elck wel moet.</hi></l>
+<l rend="; 1tab"><hi rend="i">Vele zegghen, wie salt togh wesen</hi></l>
+<l><hi rend="i">Die ons nu doen ghebruucken sal</hi></l>
+<l><hi rend="i">Veel aerdtsche rijckdommen ghepresen?</hi></l>
+<l><hi rend="i">Maer Heere verlicht ons in desen</hi></l>
+<l><hi rend="i">Met t'licht dijns aenschijns ouer al.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Ick hebbe zeker vanden minen</hi></l>
+<l><hi rend="i">Meerder blyschap ghenought' en vreught,</hi></l>
+<l><hi rend="i">Dan zi hebben, of t'hebben schinen,</hi></l>
+<l><hi rend="i">Als haer cooren, en al haer winen</hi></l>
+<l><hi rend="i">Ouervloedigh sijn inder ieught.</hi></l>
+<l rend="; 1tab"><hi rend="i">Zo sal ick in rust' paeys en vrede</hi></l>
+<l><hi rend="i">My voughen tot slapen voorwaer:</hi></l>
+<l><hi rend="i">VVant ghy Heer (alleen goed van zede)</hi></l>
+<l><hi rend="i">Sult my doen wonen (hop'ick mede)</hi></l>
+<l><hi rend="i">Met alder zekerheit eenpaer.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0005"/> </interpGrp>
+<head rend="h3"><hi rend="i">Verba mea auribus percipe.</hi>
+<lb/>
+Psalme. V.</head>
+<pb n="15"/>
+<p>Dauid vluchtigh zijnde, en hebbende veel gheleden, oock verwachtende noch meer te lijden, deur d'oorstekers die by Saul waren, voughd zijn ghebed tot <hi rend="sc">God</hi>, en ghetroost hē met te ghedijnckene, dat den Heere altijd de boose haete, en̄ de goede gheionstich is.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0009.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>H<hi rend="i">Eere zijt mijn woorden gha' slaen̄ V ooren</hi></l>
+<l><hi rend="i">te bughen verneert, Op dat ghy mijn propoost</hi></l>
+<l><hi rend="i">noteert Sijt mijn heym'lic gheclagh ontfaen̄,</hi></l>
+<l><hi rend="i">Ende verstaende.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Anhoort togh mijn roupen, en claghen</hi></l>
+<l><hi rend="i">Mijn God, en Coningh, ouer al:</hi></l>
+<l><hi rend="i">VVant u (en niemand el) ick zal</hi></l>
+<l><hi rend="i">Dese mijn ghebeden toedraghen</hi></l>
+<l><hi rend="i">Ende ghewaghen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Ghy sult my verhooren met staci'</hi></l>
+<pb n="16"/>
+<l><hi rend="i">Van den morghen stond (weet ick wel)</hi></l>
+<l><hi rend="i">VVant seer vrough sal ick schicken snel</hi></l>
+<l><hi rend="i">V te doene (Heere) mijn oraci'</hi></l>
+<l><hi rend="i">En wachten graci'.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVant ghy sulck een God sijt beuonden</hi></l>
+<l><hi rend="i">Die gheene boosheit en bemindt,</hi></l>
+<l><hi rend="i">Noch met wien, die ghy quaed bevindt</hi></l>
+<l><hi rend="i">En sal wonen: noch oock de zonden</hi></l>
+<l><hi rend="i">T'eenighen stonden.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Dwase of verkeerde (zoo wy maercken)</hi></l>
+<l><hi rend="i">En durfuen u niet commen by,</hi></l>
+<l><hi rend="i">Ofte voor dijnen ooghen vry:</hi></l>
+<l><hi rend="i">VVant ghy haett all' die boosheit waercken</hi></l>
+<l><hi rend="i">En daer in staercken.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Ghy sult alle die lueghens spreken</hi></l>
+<l><hi rend="i">Te niet' doen, en verderfuen nu,</hi></l>
+<l><hi rend="i">Oock hebdy (ô Heere!) eenen gru</hi></l>
+<l><hi rend="i">Van die als doodslaghers haer wreken</hi></l>
+<l><hi rend="i">En valschaertstreken.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Ick zal commen (rustende eendrachtigh</hi></l>
+<l><hi rend="i">Op u seer milde goetheit bloot)</hi></l>
+<l><hi rend="i">Tot uwen Temple, en huuse groot,</hi></l>
+<l><hi rend="i">Anbidden met u vreese crachtigh</hi></l>
+<l><hi rend="i">V God almachtigh.</hi></l>
+<pb n="17"/>
+<l rend="; 1tab"><hi rend="i">O Heere beschict my van deghen</hi></l>
+<l><hi rend="i">En dat deur u gherechticheyt</hi></l>
+<l><hi rend="i">Om die my laghen heeft gheleyt</hi></l>
+<l><hi rend="i">En effent voor my dijne weghen</hi></l>
+<l><hi rend="i">Al naer v pleghen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">In haren mond is niet beseuen</hi></l>
+<l><hi rend="i">Rechtsinnicheyt: maer is altoos</hi></l>
+<l><hi rend="i">Haer binnenste gheel aergh en boos:</hi></l>
+<l><hi rend="i">Haer kele een open graf ghebleuen</hi><note place="margin">Rom. 3. b.</note></l>
+<l><hi rend="i">Smeekende hier neuen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVilt haer opstel ter aerden slechten</hi></l>
+<l><hi rend="i">En maects' in haer zaken confuus</hi></l>
+<l><hi rend="i">Verwerpts' om haer zeer groot abuus</hi></l>
+<l><hi rend="i">VVant ieghens u alleen zi vechten</hi></l>
+<l><hi rend="i">En haer vprechten.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Maer wild al die in u betrauwen</hi></l>
+<l><hi rend="i">Gheuen eewighe goede vreught,</hi></l>
+<l><hi rend="i">En bedect haer med dijner deught:</hi></l>
+<l><hi rend="i">Die dijnen naem' in eeren hauwen</hi></l>
+<l><hi rend="i">Laett vreughd anschauwen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVant ghi dijnen seghen laett strecken</hi></l>
+<l><hi rend="i">Ouer d'oprecht' ende zijn deel,</hi></l>
+<l><hi rend="i">Hem croonende med weldaet gh'eel</hi></l>
+<l><hi rend="i">Soo den schild yemand magh bedecken</hi></l>
+<l><hi rend="i">In alle plecken.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0006"/> </interpGrp>
+<pb n="18"/>
+<head rend="h3"><hi rend="i">Domine ne in furore tuo arguas me.</hi>
+<lb/>
+Psalme. VI.</head>
+<p>Dauid zieck tot der dood zijnde, vreest te steruen, ende beghaert voor zijn dood Gods name te verheffen, dan verheugt hy hem terstont van zijn ghezondheyt, ende van de schande der gheenre die na zijn dood wachten.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0010.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>E<hi rend="i">N wilt my niet (ô Heere!) Be-</hi></l>
+<l><hi rend="i">grijpen nau en zeere In dijnen thoorne</hi></l>
+<l><hi rend="i">zwaer: Noch oock castyen mede (Dit is</hi></l>
+<l><hi rend="i">altijd mijn bede) In dijn gramschap een paer.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Maer zijt my eer ghenadigh</hi></l>
+<l><hi rend="i">VVant deur ziecte ghestadigh</hi></l>
+<l><hi rend="i">Ben ick verwonnen man:</hi></l>
+<l><hi rend="i">Mijn beenderen die beuen</hi></l>
+<l><hi rend="i">Mijn cracht heeft my begheuen</hi></l>
+<l><hi rend="i">Heere gheneest my dan.</hi></l>
+<pb n="19"/>
+<l rend="; 1tab"><hi rend="i">Mijn ziel' is vul turbaci'</hi></l>
+<l><hi rend="i">En groote tribulaci'</hi></l>
+<l><hi rend="i">O god in goedheyt groot:</hi></l>
+<l><hi rend="i">Hoe langhe zalt noch wesen</hi></l>
+<l><hi rend="i">Dat ghi my onghenesen</hi></l>
+<l><hi rend="i">Zult laten in den noot?</hi></l>
+<l rend="; 1tab"><hi rend="i">Keert weder, wilt u spoeden</hi></l>
+<l><hi rend="i">Om mijn ziel' te behoeden</hi></l>
+<l><hi rend="i">Van dees benaudtheyt fel:</hi></l>
+<l><hi rend="i">En wilt my toch bevryen</hi></l>
+<l><hi rend="i">Ooc helpen t'allen tyen</hi></l>
+<l><hi rend="i">Duer dyne goetheyt snel.</hi></l>
+<l rend="; 1tab"><hi rend="i">VVant in de dood (warachtigh)</hi></l>
+<l><hi rend="i">Is men dijns niet ghedachtigh</hi></l>
+<l><hi rend="i">Noch dijns doen de ghewagh:</hi></l>
+<l><hi rend="i">En wye zal u doch prysen</hi></l>
+<l><hi rend="i">Of eenigh' eer' bewysen</hi></l>
+<l><hi rend="i">In d'helle nacht of dagh?</hi></l>
+<l rend="; 1tab"><hi rend="i">Ick aerbeyde in mijn treuren</hi></l>
+<l><hi rend="i">En baede t'alder heuren</hi></l>
+<l><hi rend="i">Mijn slaepstede al den nacht:</hi></l>
+<l><hi rend="i">Ende met tranen spoedich</hi></l>
+<l><hi rend="i">Maec'ick mijn bedde vloedich</hi></l>
+<l><hi rend="i">Al deur des droufheyts cracht.</hi></l>
+<l rend="; 1tab"><hi rend="i">Mijn oogh' is gheel verstoruen</hi></l>
+<l><hi rend="i">Veraudt ende bedoruen</hi></l>
+<l><hi rend="i">Ziende rondsomme my</hi></l>
+<l><hi rend="i">Die my in alder vauwen</hi></l>
+<pb n="20"/>
+<l><hi rend="i">Als vianden benauwen</hi></l>
+<l><hi rend="i">En bespotten daer by.</hi></l>
+<l rend="; 1tab"><note place="margin">Matt. 7. d. ende. 25. d. Lucae. 13. f.</note> <hi rend="i">Vertrect van my al tsamen</hi></l>
+<l><hi rend="i">Boosdoenders vol van blamen:</hi></l>
+<l><hi rend="i">God heeft verhoort voor al</hi></l>
+<l><hi rend="i">De stemme van mijn weenen,</hi></l>
+<l><hi rend="i">En mijn bede med eenen</hi></l>
+<l><hi rend="i">Welck' hy ontfanghen zal.</hi></l>
+<l rend="; 1tab"><hi rend="i">Dat al dees mijn vyanden</hi></l>
+<l><hi rend="i">Commen tot grooter schanden,</hi></l>
+<l><hi rend="i">En zijn zeer verturbeert:</hi></l>
+<l><hi rend="i">Dat zij te rugghe vlieden</hi></l>
+<l><hi rend="i">Als zeer beschaemde lieden</hi></l>
+<l><hi rend="i">Die haest zijn ghemineert.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0007"/> </interpGrp>
+<head rend="h3"><hi rend="i">Domine Deus meus, in te speraui.</hi>
+<lb/>
+Psalme. VII.</head>
+<p>Hy bidt om te moghen bewaert zijn vande groote perfecutie van Saul, en leght voor ooghen zijn onnooselheit, beghaerende tRijcke dat hem belooft was, ende de schande, zijn der vianden, hy sijnghd dat zy zullen vergaen deur haerselfs sweerd, ende looft God.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0011.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>M<hi rend="i">ijn God ick heb' in u betrauwen</hi></l>
+<l><hi rend="i">Bescheremt my in alder vauwen Van die</hi></l>
+</lg>
+<pb n="21"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0012.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">my vervolghē constāt, En verlost mi vā haer-</hi></l>
+<l><hi rend="i">der hand. Op dat mijnē viand mordadigh My</hi></l>
+<l><hi rend="i">niet an en grijp' ongenadigh Noch verschuer'</hi></l>
+<l><hi rend="i">als een Leeu seer boos, En ghelaten werd'</hi></l>
+<l><hi rend="i">hulpeloos.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">O God op wien' ic hope vaste</hi></l>
+<l><hi rend="i">VVaert datt bleke te minen laste</hi></l>
+<l><hi rend="i">Dat ic ghedaen had' dat hy zeght</hi></l>
+<l><hi rend="i">En met mijn hand hem dede onrecht:</hi></l>
+<l rend="; 1tab"><hi rend="i">Indien ick oynt quaed docht' of dede,</hi></l>
+<l><hi rend="i">Ieghens die met my hadde vrede</hi></l>
+<l><hi rend="i">Verlost' ick oock niet op een pas</hi></l>
+<l><hi rend="i">Die t'onrecht minen viand was.</hi></l>
+<pb n="22"/>
+<l rend="; 1tab"><hi rend="i">Ick wil dat hy vervolgh' mijn ziele,</hi></l>
+<l><hi rend="i">Die griip', en teenemael verniele,</hi></l>
+<l><hi rend="i">En werp' mijn leuen ondervoet</hi></l>
+<l><hi rend="i">Also hy oock mijn eere moet.</hi></l>
+<l rend="; 1tab"><hi rend="i">VVild u ieghens dees boos' op maken</hi></l>
+<l><hi rend="i">In dijn gramschap, en voor my waken,</hi></l>
+<l><hi rend="i">Op dat ick gheniete mids dien</hi></l>
+<l><hi rend="i">T'recht, daer toe ghy my hebt voorsien.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Dan sal het volck commen gheloopen</hi></l>
+<l><hi rend="i">En u oock omrijnghen med hoopen:</hi></l>
+<l><hi rend="i">Om haren wille weder keert.</hi></l>
+<l><hi rend="i">T'uwen throon', als haer Coningh gh'eert.</hi></l>
+<l rend="; 1tab"><hi rend="i">Daer zuldy Heere tvolck iugieren,</hi></l>
+<l><hi rend="i">Dan recht my in alle manieren</hi></l>
+<l><hi rend="i">Naer mine gherechticheit bloot,</hi></l>
+<l><hi rend="i">En naer mijn onnooselheit groot.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Dattet tquaed de boose verslinde,</hi></l>
+<l><hi rend="i">Maer versterct de recht ghesinde</hi></l>
+<l><hi rend="i">Rechtuaerdigh God, die (talder stond)</hi></l>
+<l><hi rend="i">Zouct de nieren, en shertsen grond.</hi></l>
+<l rend="; 1tab"><hi rend="i">In God den Heer' is mijn beschermen,</hi></l>
+<l><hi rend="i">Die sal helpen ende oock ontfermen</hi></l>
+<l><hi rend="i">De ghuene die van herten sijn</hi></l>
+<l><hi rend="i">Oprecht en goed t'allen termijn.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">God is eenen iuge eerwaerdigh</hi></l>
+<pb n="23"/>
+<l><hi rend="i">In al zijn ordeelen rechtvaerdigh,</hi></l>
+<l><hi rend="i">Die dreeght ende wordt (allen dagh)</hi></l>
+<l><hi rend="i">Vergramt, alsoo men maercken magh.</hi></l>
+<l rend="; 1tab"><hi rend="i">VVild mijn viand niet keeren snellick</hi></l>
+<l><hi rend="i">God sal zijn zwaerd gaen schaerpen fellick</hi></l>
+<l><hi rend="i">Die spand zinen boghe zeer staerck</hi></l>
+<l><hi rend="i">Om te schieten med goed bemaerck.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">De Heer' heeft hem bereed zeer wijslick</hi></l>
+<l><hi rend="i">Dood'licke wapenen afgrijslick,</hi></l>
+<l><hi rend="i">Ende maeckt oock pilen bereed</hi></l>
+<l><hi rend="i">Om schieten mijn veruolghers wreed.</hi></l>
+<l rend="; 1tab"><hi rend="i">De boos' aerbeyt, en heeft verlanghen</hi></l>
+<l><hi rend="i">Om quaed baeren, heeft pijn ontfanghen,</hi></l>
+<l><hi rend="i">Voor de goede, en sal onbedacht</hi></l>
+<l><hi rend="i">Baersen loghenen zonder cracht.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Een diepen put om mijn verstricken</hi></l>
+<l><hi rend="i">Heeft hy ghemaeckt deur sijn beschicken:</hi></l>
+<l><hi rend="i">Maer in de gracht is hy (eylaes!)</hi></l>
+<l><hi rend="i">Zelue ghevallen als aerm' dwaes.</hi></l>
+<l rend="; 1tab"><hi rend="i">Tquaed dat hy andren wilt bedriuen</hi></l>
+<l><hi rend="i">Zal op zijn hooft keeren en bliuen,</hi></l>
+<l><hi rend="i">En sijn lasteringh' alder meerst</hi></l>
+<l><hi rend="i">Zal op zijnen cop vallen eerst.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Daer om wil ick God van hier bouen</hi></l>
+<l><hi rend="i">Van sijnder gherechticheit louen,</hi></l>
+<pb n="24"/>
+<l><hi rend="i">Ende zinen Naem' ick oock zal</hi></l>
+<l><hi rend="i">Zijnghen, en verbree'n ouer al.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0008"/> </interpGrp>
+<head rend="h3"><hi rend="i">Domine dominus noster.</hi>
+<lb/>
+Psalme. VIII.</head>
+<p>Dauid recht hier uut, en oeffent med groot verwonderen de groote macht van den Schepper alder dinghen, ende de groote goetheyt, die hy hem ghewaerdicht heeft te ghebrukē voor den mensche, hebbende hem ghemaect zulck als hi is.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0013.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>H<hi rend="i">Oe wonderbaer, en eerelick van fame</hi></l>
+<l><hi rend="i">Is (eeuwigh God) dinen helighen name</hi></l>
+<l><hi rend="i">Ouer gheheel d'aerde, zoo men beseft Die</hi></l>
+<l><hi rend="i">dine macht bouen d'Hemelen heft!</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><note place="margin">Matt. 21. b</note> <hi rend="i">In als condy ons dijn groote cracht betooghen</hi></l>
+<l><hi rend="i">Ia oock an de ionghe kinders die zooghen:</hi></l>
+<pb n="25"/>
+<l><hi rend="i">Daer mede ghy beschaemt maect, en verwind</hi></l>
+<l><hi rend="i">Al die ghy dijn viand en nider vind.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Maer als ick wil gade slaen en anmaercken</hi></l>
+<l><hi rend="i">Die hemelen uwer vingheren waercken,</hi></l>
+<l><hi rend="i">Als Mane, Sterre, en gh'eel het Firmament</hi></l>
+<l><hi rend="i">Zoo wel gheschict, bequaem en excellent.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Dan dinck'ick als die hem verwondert zeere'</hi><note place="margin">Hebr. 2. b.</note></l>
+<l><hi rend="i">VVat ist oock toch vanden mensche (ô Heere!)</hi></l>
+<l><hi rend="i">Dat ghy u zijns te ghedincken verneert,</hi></l>
+<l><hi rend="i">Hem gade slaet, beweeght, en assisteert?</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVant, ghy hebt hem zoo edelick gheschepen</hi></l>
+<l><hi rend="i">Dat hem (voorwaer) niet en faelt, onbegrepen,</hi></l>
+<l><hi rend="i">Dan God te sijn', dwelck ghy alleene zijd</hi></l>
+<l><hi rend="i">Die hem verciert met veel eeren altijd.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">En ghy hebt hem ghesteld in alle landen</hi></l>
+<l><hi rend="i">Meester, op al de waercken dijner handen:</hi></l>
+<l><hi rend="i">Stellende onder zijn voeten gh'eel subiect,</hi><note place="margin">1. Cor. 15. d Hebr. 2. b.</note></l>
+<l><hi rend="i">Alle zaken, zoo verre als d'aerde strect.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Schapen, Ossen, en Lammers al te male,</hi></l>
+<l><hi rend="i">Beesten des velds, ende oock int generale</hi></l>
+<l><hi rend="i">Voghels der lucht, zee vissch' en zulck ghediert</hi></l>
+<l><hi rend="i">Med alle dat de wateren anthiert.</hi></l>
+<pb n="26"/>
+<l rend="; 1tab"><hi rend="i">O Heere God, onsen regierder crachtigh</hi></l>
+<l><hi rend="i">Hoe triumphant, en eerelick warachtigh</hi></l>
+<l><hi rend="i">Is dinen Naem', nu ende t'alder stond</hi></l>
+<l><hi rend="i">Verbreedt ouer gheheel aerderijck rond.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0009"/> </interpGrp>
+<head rend="h3">Confitebor tibi Domine in toto corde.
+<lb/>
+Psalme. IX.</head>
+<p>Dit is een Triũphelic Liedekin, by dwelcke Dauid <hi rend="sc">God</hi> danct van zeker slaghen die hy wan, in de welcke dat bleef zijn hooft viand: Eenighe zegghen twas Goliath. Daer na verheft hy de gherechticheyt <hi rend="sc">Gods</hi>, die de zyne vvreect in plaetse en stonden.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0014.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>I<hi rend="i">C salts Heeren lof maken cond VVt alle</hi></l>
+<l><hi rend="i">mijnder herten grond, Vertellende (ô God vul</hi></l>
+<l><hi rend="i">ghenaden) Al dine wonderlicke daden.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">In u, ende in gheen ander, vreught,</hi></l>
+<l><hi rend="i">Zal ick zijn vroylic, en verheught,</hi></l>
+<l><hi rend="i">Zinghende in Lie'kins zeer bequame</hi></l>
+<l><hi rend="i">(O alder hooghstē) dinen Name.</hi></l>
+<pb n="27"/>
+<l rend="; 1tab"><hi rend="i">Om dat mijn vianden ghemeen</hi></l>
+<l><hi rend="i">Zijn ghevloden deur u alleen,</hi></l>
+<l><hi rend="i">En zijn te nieten al ghebleuen</hi></l>
+<l><hi rend="i">Deur t'ansien dijns anschijns verdreuen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVant mijn zaeck' ghy in handen naemt,</hi></l>
+<l><hi rend="i">En voerdet mijn recht zoodt betaemt,</hi></l>
+<l><hi rend="i">Zittende in dinen zetel waerdigh</hi></l>
+<l><hi rend="i">Als rechter goed, ende rechtvaerdigh.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Ghy straft al t'Heydensche ghebroed</hi></l>
+<l><hi rend="i">En briinght de boos' onder den voet:</hi></l>
+<l><hi rend="i">Haeren naem' die zi hier verweruen</hi></l>
+<l><hi rend="i">Doedy inder eeuwigheit steruen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">O viand t'iammer is vervult!</hi></l>
+<l><hi rend="i">Inder eeuwicheit deur u schult:</hi></l>
+<l><hi rend="i">VVant de steden hebdy bedoruen,</hi></l>
+<l><hi rend="i">Maer is haer fame mé ghestoruen?</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Neen, neen, den Heer' diedt al bestierd</hi></l>
+<l><hi rend="i">En in der eeuwigheit regierd</hi></l>
+<l><hi rend="i">Bereedt zinen throon autentijcke</hi></l>
+<l><hi rend="i">Om elcken t'oordeelen publijcke.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Daer sal hy vonnessen gheheel</hi></l>
+<l><hi rend="i">Al naer het recht des aerdrijcs deel:</hi></l>
+<l><hi rend="i">Ende tvolck oock iugieren mede</hi></l>
+<l><hi rend="i">In alder goede oprechtighede.</hi></l>
+<pb n="28"/>
+<l rend="; 1tab"><hi rend="i">En God zal wesen een toevlucht</hi></l>
+<l><hi rend="i">Van d'aerme die hier weend en zucht,</hi></l>
+<l><hi rend="i">Ia sal oock zijn een consolaci'</hi></l>
+<l><hi rend="i">In midden van zijn tribulaci'.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Dan zal die uwen name kend</hi></l>
+<l><hi rend="i">Hem betrauwen op u ten hend':</hi></l>
+<l><hi rend="i">VVant ghy en laett niemend in zwaerheit</hi></l>
+<l><hi rend="i">Van die u zoucken naer der waerheit.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Zinght den Heere die resideert</hi></l>
+<l><hi rend="i">In Syon dat so schoon floreert,</hi></l>
+<l><hi rend="i">En vercondight sijn groote waercken</hi></l>
+<l><hi rend="i">Onder tvolc, tot zijns lofs verstaercken.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVant hy ghedincken en heesschen zal</hi></l>
+<l><hi rend="i">Tbloed van zijn verdructe armen al:</hi></l>
+<l><hi rend="i">Ende en vergheett tot gheenen daghen</hi></l>
+<l><hi rend="i">Haer roupen, weenen, ende claghen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">O Heer' zijd mijns ghenadigh dogh,</hi></l>
+<l><hi rend="i">Anmaerckt mijn groot' allende noch</hi></l>
+<l><hi rend="i">Die ick lide van die my haten</hi></l>
+<l><hi rend="i">VVilt my uut sdoods poorten vry laten.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Op dat ick vertelle dijn lof,</hi></l>
+<l><hi rend="i">In Syons dochters schoon voorhof,</hi></l>
+<l><hi rend="i">En alle vroylicheit bewyse</hi></l>
+<l><hi rend="i">In u zalicheit die ick pryse.</hi></l>
+<pb n="29"/>
+<l rend="; 1tab"><hi rend="i">D'Heydenen sijn selue gheraect</hi></l>
+<l><hi rend="i">Inden put by hem lien ghemaect</hi></l>
+<l><hi rend="i">Haren voet die is oock ghevanghen</hi></l>
+<l><hi rend="i">Int net dat zi voor andre hanghen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Zoo is bekend den Heere bloot</hi></l>
+<l><hi rend="i">Om dat hy doed zulck oordeel groot</hi></l>
+<l><hi rend="i">Dat de boos' is verstropt med schanden</hi></l>
+<l><hi rend="i">Deur dat eyghen waerck zijnder handen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVeett dat dees meinschen boos en dwaes</hi></l>
+<l><hi rend="i">Ter hellen zullen keeren, iae's,</hi></l>
+<l><hi rend="i">Daer zi oock moeten al verzincken,</hi></l>
+<l><hi rend="i">Die om den Heere niet en dincken.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Maer die van gheest sijn aerm' en teer</hi></l>
+<l><hi rend="i">Die en vergheett God nemmermeer,</hi></l>
+<l><hi rend="i">Noch d'hope van al die hier liden</hi></l>
+<l><hi rend="i">En sal vergaen tot gheenen tiden.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Staet op ô Heere, en comt ons by</hi></l>
+<l><hi rend="i">Dat de meinsch niet de staercst' en sy,</hi></l>
+<l><hi rend="i">En laett d'Heydenen gh'oordeelt wesen</hi></l>
+<l><hi rend="i">Voor u anschauwen hoogh ghepresen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">O Heere doed haer een vrees' an,</hi></l>
+<l><hi rend="i">Op dat de boose kennen dan</hi></l>
+<l><hi rend="i">Dat zi niet en zijn van nature</hi></l>
+<l><hi rend="i">Dan meinschen cranck tot elcker hure.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0010"/> </interpGrp>
+<pb n="30"/>
+<head rend="h3"><hi rend="i">Domine, vt quid recessisti.</hi>
+<lb/>
+Psalme. X.</head>
+<p>Desen Psalme is een ghebedt ieghens d'hinderlicke boose menschen, die deur fortse en gheweldt, de goede en crancke verdrucken: Daer wordt bescreuen wat hooghmoedighe en valsche middels de quade ieghens de goede oeffenen.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0015.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>H<hi rend="i">Eere God waerom haudt ghy u absent</hi>?</l>
+<l><hi rend="i">VVaerom verberghdy u van ons eenpaer?</hi></l>
+<l><hi rend="i">Bysonder als wy liden dit torment?</hi></l>
+<l><hi rend="i">VVant de boose deur zijn hoogmoed (voorwaer)</hi></l>
+<l><hi rend="i">Vervolght den aermen med benaudtheit zwaer:</hi></l>
+</lg>
+<pb n="31"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0016.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">Maect dat zulck'heur zeluen strecken en binden</hi></l>
+<l><hi rend="i">Deur den handel, die zi maken en vinden.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Den boosen hem glorieert en verheft</hi></l>
+<l><hi rend="i">Om dat hy heeft zijns herten wellust zoet:</hi></l>
+<l><hi rend="i">En prijst den ghierighen zoomen beseft,</hi></l>
+<l><hi rend="i">Maer hy lastert den alderhooghsten goet:</hi></l>
+<l><hi rend="i">En is so hoogh in alle sijn ghemoed</hi></l>
+<l><hi rend="i">Dat hy op God den Heere noynt en paste,</hi></l>
+<l><hi rend="i">Ia datter gheen God is ghelooft hy vaste.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Sijn weghen ghelucken wel, hoe datt gaet,</hi></l>
+<l><hi rend="i">Maer u oordeelen sijn verre verscheen</hi></l>
+<l><hi rend="i">Van alle sijn ghedachten boos en quaet,</hi></l>
+<l><hi rend="i">Hy acht alle zijn vianden so cleen'</hi></l>
+<l><hi rend="i">Dat hyse waent wegh te blasen alleen':</hi></l>
+<l><hi rend="i">zegghende in zijn hert': my zal niet ghebeuren</hi></l>
+<l><hi rend="i">Inder eeuwigheit hinder ofte treuren.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Sijnen mond is vul van quaed en bedroch</hi></l>
+<l><hi rend="i">Vul valscheyts ende vervlouckinghe boos:</hi></l>
+<l><hi rend="i">Onder zijn tonghe, light bouen dien noch</hi></l>
+<pb n="32"/>
+<l><hi rend="i">Vermoeytheit en hinderlickheit altoos.</hi></l>
+<l><hi rend="i">De verwoeste plaetsen hy oyt vercoos:</hi></l>
+<l><hi rend="i">Hy doodt d'onnoosel' in verborghen steden,</hi></l>
+<l><hi rend="i">zijn ooghen bespien de bedructe leden.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Hy lourt int heymelicke, dagh en nacht</hi></l>
+<l><hi rend="i">zoo eenen Leeu hem in zijn hol bedect,</hi></l>
+<l><hi rend="i">Om den aermen te beclippen, hy wacht</hi></l>
+<l><hi rend="i">Dien hy grijpt, en oock in sijn netten trect:</hi></l>
+<l><hi rend="i">Hem seluen hy sluutt, en buught, en langh strect:</hi></l>
+<l><hi rend="i">Maer med zijn groue leden, zonderlinghen</hi></l>
+<l><hi rend="i">Can hy veel aerme meinschen t'onder blinghen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Dan zeyt hy oock in zijn herte (deur nijd)</hi></l>
+<l><hi rend="i">Dat de Heere, dit al tsamen vergheett,</hi></l>
+<l><hi rend="i">En dat hy bedect zijn anschijn altijd</hi></l>
+<l><hi rend="i">Om zulx niet t'anschauwen, zo ghy wel weett.</hi></l>
+<l><hi rend="i">O Heere, ieghens die hem zulx vermeett</hi></l>
+<l><hi rend="i">Staet op, en heft u handt om hem te slane,</hi></l>
+<l><hi rend="i">Ende vergheett, d'aermen niet by te stane.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Hoe darf den boosen hem kennen so clouck</hi></l>
+<l><hi rend="i">Dat hy u terght, en zeyt in zijn hert' snood</hi></l>
+<l><hi rend="i">Dat ghy dies niet en zuld doen onderzouck?</hi></l>
+<l><hi rend="i">Maer ghy merct den last en t'onghelijck groot</hi></l>
+<l><hi rend="i">Ende neemt de zaeck' in dijn handen bloot,</hi></l>
+<l><hi rend="i">Dies de bedructe altijd op u betrauwen</hi></l>
+<l><hi rend="i">Als der weesen hulper in alder vauwen.</hi></l>
+<pb n="33"/>
+<l rend="; 1tab"><hi rend="i">Dus breect en beneemt de crachten ô Heer</hi></l>
+<l><hi rend="i">Van de boos', en zijn waerck examineert</hi></l>
+<l><hi rend="i">Op datter gheen ouer en bliue meer:</hi></l>
+<l><hi rend="i">VVant de Heer' is een Coningh gh'estimeert,</hi></l>
+<l><hi rend="i">Die inder eeuwichede triumpheert,</hi></l>
+<l><hi rend="i">Van wiens aerde is vergaen ende verdreuen</hi></l>
+<l><hi rend="i">Dat ongheloeuigh gheslacht' quaed van leuen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">O Heere God ghi hoord (alzoo ghi pleeght)</hi></l>
+<l><hi rend="i">De beghaerte van d'oodmoedighe net</hi></l>
+<l><hi rend="i">Haer herte ghi verstaerct, ende beweeght,</hi></l>
+<l><hi rend="i">En u ooren ontfanghen haer ghebed</hi></l>
+<l><hi rend="i">Om wreken, en te doene recht en wet</hi></l>
+<l><hi rend="i">Den weeskens en verdructe, vp dat de scharen</hi></l>
+<l><hi rend="i">Der aerdscher meinschē, haer niet meer veruarē.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0011"/> </interpGrp>
+<head rend="h3"><hi rend="i">In Domino confido.</hi>
+<lb/>
+Psalme. XI.</head>
+<p>Hy beclaeght hem, van die hem verdreuen uut al dland vā Israël, dan zinght hi tbetrauwen dat hi in <hi rend="sc">God</hi> heeft, ende t'oordeel des selfs ouer goede en quade.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0017.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>H<hi rend="i">Oe dorfdi mijn ziel' aldus dicmaels terghen</hi></l>
+<l><hi rend="i">Als ic my vast rust' op den Heere goed</hi></l>
+</lg>
+<pb n="34"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0018.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">Zegghende dat ic zau vlien op de berghen</hi></l>
+<l><hi rend="i">Ghelijck de mussch' oft ander voghel doed?</hi></l>
+<l><hi rend="i">Al spannen de boos' haer boghen vā smerten,</hi></l>
+<l><hi rend="i">En bereen haer pilen, om metter spoed</hi></l>
+<l><hi rend="i">By doncker te deurschieten de goed' herten.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Zeer haest zal verdwinen ende begheuen</hi></l>
+<l><hi rend="i">De meeninghe van dese meinschen blend:</hi></l>
+<l><hi rend="i">VVant wat heeft de gherechtighe bedreuen?</hi></l>
+<l rend="; 1tab"><hi rend="i">VVeett dat God is in zijn Pallaeys present</hi></l>
+<l><hi rend="i">VViens throon den hemel is, die zal anmaercken</hi></l>
+<l><hi rend="i">Med zijn ooghschelen (diet al zijn bekent)</hi></l>
+<l><hi rend="i">Der meinschen kindren bedrijf ende waercken.</hi></l>
+<pb n="35"/>
+<l rend="; 1tab"><hi rend="i">God die prouft, med liden buten en binnen</hi></l>
+<l><hi rend="i">Den vprechten: maer zijn hert' haert voor al</hi></l>
+<l><hi rend="i">De boose, die wreedheyt en quaed beminnen:</hi></l>
+<l rend="; 1tab"><hi rend="i">Op de welck' hi laten reghenen zal</hi></l>
+<l><hi rend="i">Stricken, solpher, vier, wind, ende tempeesten</hi></l>
+<l><hi rend="i">Ziet daer haer deel, tot haren grooten val</hi></l>
+<l><hi rend="i">Dits haren loon, en dranck, minst med dē meestē.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVant de Heer' is rechtuaerdigh in zijn wesen</hi></l>
+<l><hi rend="i">En heeft alle gherechticheyt ooc lief:</hi></l>
+<l><hi rend="i">Zijn anschijn dat begracijt bouen desen</hi></l>
+<l><hi rend="i">Al dat recht uut is zoomen oyt besief.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0012"/> </interpGrp>
+<head rend="h3"><hi rend="i">Saluum me fac Domine.</hi>
+<lb/>
+Psalme. XII.</head>
+<p>Dauid spreect hier teghen de pluumstrikers van Sauls hof die met gheueynst ghelaet en vermetenheyt, elcken hinderlic waren, ende bidt <hi rend="sc">God</hi>, daer in te willen voorziene.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0019.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>H<hi rend="i">Elpt ons Heere God, het is tijd en huere</hi></l>
+<l><hi rend="i">VVant wy zijn vā veel goe' meinschē berooft,</hi></l>
+</lg>
+<pb n="36"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0020.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">Ende onder de meinschelicke natuere</hi></l>
+<l><hi rend="i">Is qualick een goed, ofte die ghelooft.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Ieghens elc anderen zi altijdt spreken</hi></l>
+<l><hi rend="i">Leughens, en ydelheyt, d'welc voor God stinct:</hi></l>
+<l><hi rend="i">Heur leppen zijn vul pluumstrijckers ghebreken</hi></l>
+<l><hi rend="i">Zegghende dat haer herte niet en dinct.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">God wille dan al dees leppen afgrijslick</hi></l>
+<l><hi rend="i">VVt roeyen, en te niet doen van nu voort:</hi></l>
+<l><hi rend="i">Alzoo ooc alle de tonghen misprijslick</hi></l>
+<l><hi rend="i">Daermen niet dan hoouerdy' af en hoort.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Zi zegghen: wy zullen toch domineren</hi></l>
+<l><hi rend="i">Ouer hemlie'n, deur onze tonghen fijn:</hi></l>
+<l><hi rend="i">Ons leppen kuennen wy, te will' uzeren,</hi></l>
+<l><hi rend="i">VVye zal kuennen ons Heer' oft Meester zijn?</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Maer ic zal vpstaen om tzuchten der armen</hi></l>
+<l><hi rend="i">En des benooghden druck (zoo d'Heere zeyt)</hi></l>
+<l><hi rend="i">Stellende in vriheyt, en in mijn ontfarmen</hi></l>
+<l><hi rend="i">Hem, dien de boose vele laghen leyt.</hi></l>
+<pb n="37"/>
+<l rend="; 1tab"><hi rend="i">S'Heeren woorden (troostelic bouen maten)</hi></l>
+<l><hi rend="i">Zijn woorden, gheheel zuuer ende net</hi></l>
+<l><hi rend="i">Als ziluer ghezuuert in aerden vaten,</hi></l>
+<l><hi rend="i">En dat ghefijnt is zeuen warf of bet.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVilt dā (ô Heere God zeer groot vā machte)</hi></l>
+<l><hi rend="i">Bewaren u volc, zoo ghi hebt gheseyt:</hi></l>
+<l><hi rend="i">Ende van dit alder booste gheslachte</hi></l>
+<l><hi rend="i">VVild ons verlossen inder eeuwicheyt.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">De quade wandelen, ende verkeeren</hi></l>
+<l><hi rend="i">Onder de goede, zouckende haer dangier,</hi></l>
+<l><hi rend="i">Als de booste zijn verheuen in eeren</hi></l>
+<l><hi rend="i">Bouen de kinderen der meinschen hier.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0013"/> </interpGrp>
+<head rend="h3"><hi rend="i">Vsquequo Domine obliuisceris.</hi>
+<lb/>
+Psalme. XIII.</head>
+<p>Dauid veel slaghen verloren hebbende, beclaeght hem dat <hi rend="sc">God</hi> zo langhe touft vā hē t'helpen: Dan bidt hi hem te willen gheuene de blischap der victorien alreede vercreghen.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0021.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>Z<hi rend="i">Alt dueren noch langhen termijn Dat ick</hi></l>
+<l><hi rend="i">gheel sal vergheten zijn Van u (ô mijn Hee-</hi></l>
+</lg>
+<pb n="38"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0022.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">re ghepresen?) Hoe langh' zuldi deckende</hi></l>
+<l><hi rend="i">wesen Voor mi (laes) dijn Godlic anschijn?</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Hoe langhe zal hem minen gheest</hi></l>
+<l><hi rend="i">Beraeden, ende zijn bevreest?</hi></l>
+<l><hi rend="i">En daeghlicx lijden sdroufheyts banden?</hi></l>
+<l><hi rend="i">Hoe langhe zullen mijn vianden</hi></l>
+<l><hi rend="i">Dogh, ouer my heerschappen meest?</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Anschaut my med dijn goedbeyt groot,</hi></l>
+<l><hi rend="i">En verhoort my in minen noot:</hi></l>
+<l><hi rend="i">Verlicht mijn ooghen, ô goed' Heere,</hi></l>
+<l><hi rend="i">Op dat ic niet en slape zeere</hi></l>
+<l><hi rend="i">Inden boosen slaep vander doot.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Ende op dat, die my d'lijden doed</hi></l>
+<l><hi rend="i">Niet zegh': ick hebb' hem onder voet,</hi></l>
+<l><hi rend="i">Oock vp dat die my persequeren</hi></l>
+<l><hi rend="i">Haer vreught dus niet en dobbeleren</hi></l>
+<l><hi rend="i">Ziende my weer' in ieghenspoet.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Maer ick betrau' vast vp u deught</hi></l>
+<l><hi rend="i">In u bistant, mijn hert' verheught,</hi></l>
+<pb n="39"/>
+<l><hi rend="i">Ende zal God den Heere zinghen</hi></l>
+<l><hi rend="i">Om dat hi my (na mijn verlinghen)</hi></l>
+<l><hi rend="i">Heeft vp gheholpen in mijn ieught.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0014"/> </interpGrp>
+<head rend="h3"><hi rend="i">Dixit insipiens in corde suo.</hi>
+<lb/>
+Psalme. XIIII.</head>
+<p>Hi zeyd, t'isser alom vul ongheloouighe en ongoddelicke, beschrijft haer bedoruen verstant, weynscht en voorzeyt haer verderuinghe: en tverlossen des volcs <hi rend="sc">Gods</hi> dat zy verslindē.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0023.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>D<hi rend="i">En boosen zeyt (als een die is onvroed)</hi></l>
+<l><hi rend="i">Daer en is gheen God: en is zoo bedoruen</hi></l>
+<l><hi rend="i">In gruw'licke boosheyt de deught verstoruen</hi></l>
+<l><hi rend="i">Dat niet een vā hemliē weinscht noch en doed</hi><note place="margin">Roma. 3.b</note></l>
+<l><hi rend="i">Deught ofte goed.</hi></l>
+</lg>
+<pb n="40"/>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">God vernam van zinen Hemel bescheet</hi></l>
+<l><hi rend="i">Oft onder de meinschen zoo hoogh ghepresen</hi></l>
+<l><hi rend="i">Niet een zoo verstandigh en zaude wesen</hi></l>
+<l><hi rend="i">Die om God te zoucken ware bereed</hi></l>
+<l><hi rend="i">VVt liefden heet.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Maer hi vādse (als tghuent dat qualic beclijft)</hi></l>
+<l><hi rend="i">Afgheweken, haudende quade weghen,</hi></l>
+<l><hi rend="i">Bedorfuen, bevlect, ende van ondeghen</hi></l>
+<l><hi rend="i">Zoo datter niet een is oft' ouer blijft</hi></l>
+<l><hi rend="i">Die goed bedrijft.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Hoe bliuen zi dan aldus onbekent</hi></l>
+<l><hi rend="i">Die quaed doen, ende en willent gheēssins wetē?</hi></l>
+<l><hi rend="i">Dat zi (als brood) mijn arme volcxken eten,</hi></l>
+<l><hi rend="i">God t'anroupen zijn zi gh'eel onghewent</hi></l>
+<l><hi rend="i">Als meinschen blent.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Zeker zi zullen verscricken eenpaer</hi></l>
+<l><hi rend="i">Als zi sheeren gramscap zullen anmaercken:</hi></l>
+<l><hi rend="i">VVant dē Heere wonderbaer in zijn waercken</hi></l>
+<l><hi rend="i">Zal wesen med de gherechtighe daer</hi></l>
+<l><hi rend="i">Haude ic voorwaer.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">O boos', altijd ghi pooght ende studeert</hi></l>
+<l><hi rend="i">Om den raed van d'aermen, in alle plecken,</hi></l>
+<l><hi rend="i">Te beschamen, en̄ zeer te beghecken</hi></l>
+<l><hi rend="i">Om dat hi vp God staed vast ghefundeert</hi></l>
+<l><hi rend="i">D'welc ghi blameert.</hi></l>
+<pb n="41"/>
+<l rend="; 1tab"><hi rend="i">Ogh of God wt Syon nu gaue suel</hi></l>
+<l><hi rend="i">Verlossinghe zoet Israel ter eeren?</hi></l>
+<l><hi rend="i">Ende trocke zijn volck uut tgroot verzeeren</hi></l>
+<l><hi rend="i">Zo zau Iacob hem verheughen zeer wel</hi></l>
+<l><hi rend="i">En Israël.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0015"/> </interpGrp>
+<head rend="h3"><hi rend="i">Domine quis habitabit.</hi>
+<lb/>
+Psalme. XV.</head>
+<p>Desen Psalm zijnght, en leert, met welcke dueghdelicke zeden dat behoorden verciert te zijne, de rechte borghers des Hemels.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0024.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="b">W</hi><hi rend="i">Ie isser (ô God bouen al) Die zal in</hi></l>
+<l><hi rend="i">u hutte verkeerē? VVie ist onder t'meinsch'lic</hi></l>
+<l><hi rend="i">ghetal Die wonen ende blyuen zal Op</hi></l>
+<l><hi rend="i">uwen baergh, heligh vul eeren?</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Tsal zijn de mensche goed en slecht</hi></l>
+<l><hi rend="i">Die wandelt in vprechtichede</hi></l>
+<pb n="42"/>
+<l><hi rend="i">En niet en doed, ten zi wel recht,</hi></l>
+<l><hi rend="i">Ia die niet en spreect of en zeght</hi></l>
+<l><hi rend="i">Dan tghuent daer in waerheit heeft stede.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Die med zijn tonghe (als een onvroed)</hi></l>
+<l><hi rend="i">Gheen achterclap doed t'anders blame,</hi></l>
+<l><hi rend="i">Die zinen naesten niet mesdoed,</hi></l>
+<l><hi rend="i">Noch en tijdt (zoomen ooc en moet)</hi></l>
+<l><hi rend="i">Zijns naesten hinder in zijn fame.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Die hem zelfs cleen acht naer den gheest</hi></l>
+<l><hi rend="i">En versmaedt die boosheyt vseren,</hi></l>
+<l><hi rend="i">Maer verheft die den Heere vreest</hi></l>
+<l><hi rend="i">Die houdt (al hinderet hem meest)</hi></l>
+<l><hi rend="i">Zijn beloften zonder frauderen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Die zinen naesten niet en stroopt</hi></l>
+<l><hi rend="i">Med woucker croos, oft eyghen bate,</hi></l>
+<l><hi rend="i">Noch eens anders recht en vercoopt:</hi></l>
+<l><hi rend="i">Die dit doed (hoe zijn zake loopt)</hi></l>
+<l><hi rend="i">Zal vast bliuen in goeden state.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0016"/> </interpGrp>
+<head rend="h3"><hi rend="i">Conserua me Domine.</hi>
+<lb/>
+Psalme. XVI.</head>
+<p>Dauid roupt om hulpe tot <hi rend="sc">God</hi>, verhalende zijn ghelooue, ende belijdt dat zijn vvaercken niet zijn, voor of bi <hi rend="sc">God</hi>: Dan vertooght hi, een vvalghe t'hebbene van alle afgoderic, Ende neemt <hi rend="sc">God</hi> voor zijn al, zijnde zoo verzekert van zijn ghebet verhoort te zijne, dat hi dies <hi rend="sc">God</hi> danct, en hem verzekert te leuen hier ende hier naermals inder cracht vander
+<pb n="43"/>verrisenesse van Messias, de vvelcke hy expresselie voorzeyt, zoot vutgheleyt is Actuum 2. 13. Eenen Psalm inhaudende een recht ghebed der versuchtende gheloouighen.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0025.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>O <hi rend="i">Heer' almachtigh mijn bewaerder zijd,</hi></l>
+<l><hi rend="i">VVant op u hebb' ic mijn betrauwen zeere</hi></l>
+<l><hi rend="i">Ogh mijn ziele doed Gode dit belijd Segghen-</hi></l>
+<l><hi rend="i">de hem, ghy zijd mijn Meester en Heere:</hi></l>
+<l><hi rend="i">Mijn goed noch al dat myn' is t'estimeren</hi></l>
+<l><hi rend="i">Can niet u toecommen of profiteren.</hi></l>
+</lg>
+<pb n="44"/>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Alle mijn beghaert' is t'helpen eenpaer</hi></l>
+<l><hi rend="i">Die deur een goed leuen haer laten kennen:</hi></l>
+<l><hi rend="i">Maer quad op quaed, zal hemlien volghen naer</hi></l>
+<l><hi rend="i">Die naer vremde Goden loopen en rennen,</hi></l>
+<l><hi rend="i">Haer bloed-offerande ic niet en ghenake</hi></l>
+<l><hi rend="i">Noch ooc haers naems ic gheē ghewagh en make.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Den Heer' is van mijn bezittingh' het deel,</hi></l>
+<l><hi rend="i">En desghelijcs het deel van minen beker,</hi></l>
+<l><hi rend="i">Mijn deel, d'welcke my is ghevallen gh'eel</hi></l>
+<l><hi rend="i">Vinde ic an u goed, als mijn rente zeker.</hi></l>
+<l><hi rend="i">Het lot viel my in plaetsen zeer bequame</hi></l>
+<l><hi rend="i">De bezittingh' is voor my anghename.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Den Heere zal ic gheuen lof en prijs</hi></l>
+<l><hi rend="i">Die my raedt gheeft, en dat nood is laett weten:</hi></l>
+<l><hi rend="i">Ooc gheuen my leeringh' en onderwijs</hi></l>
+<l><hi rend="i">(Al den nacht) mijn inwendighe secreten</hi></l>
+<l><hi rend="i">K'heb' God altijd in d'ooghe die (t'magh blijckē)</hi></l>
+<l><hi rend="i">T'mijnder rechter hand is: hoe zoude ic wijckē?</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Dies verheughd mijn herte, mijn tonghe lacht</hi></l>
+<l><hi rend="i">En mijn vleesch zal in hope rust' vseren:</hi></l>
+<l><note place="margin">Actu. 2.d. Ende. 13.d</note> <hi rend="i">VVant ghi en zuld mijn ziel' in d'helssche cracht</hi></l>
+<l><hi rend="i">Gheenszins verlaten, noch oock consenteren</hi></l>
+<l><hi rend="i">Dat uwen helighen, in een'gher vauwen</hi></l>
+<l><hi rend="i">Zaude de bederfuelickheyt aenschauwen.</hi></l>
+<pb n="45"/>
+<l rend="; 1tab"><hi rend="i">Maer ghy zuld my veel eer maken bekent</hi></l>
+<l><hi rend="i">Den wegh die daer leedt tot het eeuwigh leuen,</hi></l>
+<l><hi rend="i">VVant by u, ofte, daer ghy zijd present</hi></l>
+<l><hi rend="i">Is verzadinghe van bliscap voorschreuen:</hi></l>
+<l><hi rend="i">En ghenoucht' en wellusticheyt alleene</hi></l>
+<l><hi rend="i">Zijn t'uwer rechter hand altijd ghemeene.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0017"/> </interpGrp>
+<head rend="h3"><hi rend="i">Exaudi Domine iustitiam.</hi>
+<lb/>
+Psalme. XVII.</head>
+<p>Dauid veruolghd zijnde bidt <hi rend="sc">God</hi>, stelt zijnder vianden vvreetheit by zijnder onnooselheyt: nochtans bekend hy dat dit liden bevveeghd vvord van den vville <hi rend="sc">Gods</hi>. Daeromme acht hy hē selfs veel gheluckigher dan zijn vianden, om d'hope die hy heeft vā te ghebrukē de ieghenvvoordicheyt <hi rend="sc">Gods</hi>.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0026.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>A<hi rend="i">Nhoort mijn gherechticheit dogh, O Heer'</hi></l>
+<l><hi rend="i">ende lett vp mijn claghen, Buught u ooren (in</hi></l>
+<l><hi rend="i">dese daghen) Tot mijn ghebed rein van be-</hi></l>
+<l><hi rend="i">drogh, VVilt van mijn zake vonnis gheuen:</hi></l>
+</lg>
+<pb n="46"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0027.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">Laett u ooghē oordeelē t'recht, Ghy hebt ghe-</hi></l>
+<l><hi rend="i">prouft mijn herte stecht, En snachts ondersocht</hi></l>
+<l><hi rend="i">en beseuen.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">VVanneer ghi my hebt ondersocht</hi></l>
+<l><hi rend="i">Zo en hebdi, t'eenighen stonden,</hi></l>
+<l><hi rend="i">In mijn herte niet anders vonden</hi></l>
+<l><hi rend="i">Dan den mond sprack, als recht bedocht.</hi></l>
+<l rend="; 1tab"><hi rend="i">En nopende der meinschen daden</hi></l>
+<l><hi rend="i">Ghedinckende u Godelick woord</hi></l>
+<l><hi rend="i">Ic heb my ghewacht (zoodt behoord)</hi></l>
+<l><hi rend="i">Van de weghen der Tirans quaden.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Verzekert minen gangh en keer</hi></l>
+<l><hi rend="i">In u paden daer ic ben gaende,</hi></l>
+<l><hi rend="i">En zijd my zoo wel gade slaende</hi></l>
+<l><hi rend="i">Dat minen voet niet slibber meer.</hi></l>
+<l rend="; 1tab"><hi rend="i">Tot u mijn God ic addressere</hi></l>
+<l><hi rend="i">Al mijn ghebeden, ende belijd,</hi></l>
+<pb n="47"/>
+<l><hi rend="i">Om dat ghy my verhoort altijd</hi></l>
+<l><hi rend="i">Buught u ooren, anhoort my wére.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">O zalighmaker wonderbaer</hi></l>
+<l><hi rend="i">Van die in u betrauwen zeere</hi></l>
+<l><hi rend="i">Die haer steken ieghens u eere</hi></l>
+<l><hi rend="i">Onttrect u ghenade van haer.</hi></l>
+<l rend="; 1tab"><hi rend="i">VVilt my verberghen en ghedooghen</hi></l>
+<l><hi rend="i">Onder de schaduwen zeer vry</hi></l>
+<l><hi rend="i">Van u vlaercken: en bewaert my</hi></l>
+<l><hi rend="i">Ghelijc den appel diner ooghen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Op dat ic alzoo magh ontvlie'n</hi></l>
+<l><hi rend="i">De boose die my dus zeer dwinghen,</hi></l>
+<l><hi rend="i">En oock als vianden omringhen</hi></l>
+<l><hi rend="i">Naer mijn leuen staende by dien.</hi></l>
+<l rend="; 1tab"><hi rend="i">Die haer in wellust zoo verdwasen</hi></l>
+<l><hi rend="i">Dat sy schinen te zine stom:</hi></l>
+<l><hi rend="i">Maer sy kuennen wel spreken zom</hi></l>
+<l><hi rend="i">Schamper woorden, en vpgheblasen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Zi omringhen en speuren snel</hi></l>
+<l><hi rend="i">Om ons verderfuen, als die slachten</hi></l>
+<l><hi rend="i">De Leeuwen die den roof verwachten</hi></l>
+<l><hi rend="i">En t'Leeuwelp in zijn holen fel.</hi></l>
+<l rend="; 1tab"><hi rend="i">Staet vp Heere, en wilt toch voortcommen,</hi></l>
+<l><hi rend="i">VVerpt ter aerden den meinsche boos,</hi></l>
+<l><hi rend="i">Ende verlost mijn ziel' altoos</hi></l>
+<l><hi rend="i">Van hem diemen u zwaerd magh nommen.</hi></l>
+<pb n="48"/>
+<l rend="; 1tab"><hi rend="i">En van die zijn u gheessel-hand</hi></l>
+<l><hi rend="i">Verlost my: ooc van d'aerdsche meinschen</hi></l>
+<l><hi rend="i">VViens deel dat al is naer haer weinschen</hi></l>
+<l><hi rend="i">In dit leuen zeer abundant.</hi></l>
+<l rend="; 1tab"><hi rend="i">Ghy vult haren buuck med dijn gauen</hi></l>
+<l><hi rend="i">Zoo dat haer kinders zijn verzaedt:</hi></l>
+<l><hi rend="i">En zulcke ghenough achter laett</hi></l>
+<l><hi rend="i">Voor sijn gheslacht' in goed en hauen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Maer ic zal zien u aenschijn goed</hi></l>
+<l><hi rend="i">Leuende inne gherechtichede,</hi></l>
+<l><hi rend="i">En sal zijn verzaedt, (als ic mede</hi></l>
+<l><hi rend="i">Ontwect ben) van u wesen zoet.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0018"/> </interpGrp>
+<head rend="h3"><hi rend="i">Exaudiat te Dominus.</hi>
+<lb/>
+Psalme. XX.</head>
+<p>Tvolck ziende haren Conijnck gaen naer eenen grooten strijd, roupt <hi rend="sc">God</hi> aen, dan dancken zy hem, als alreede verzekerdt zijnde van de victorie. Eenen Psalme seer eyghen om de ghemeente, beuochten sijnde van alle syen, van de ongheloouighe Princen.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0028.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>D<hi rend="i">En Heer' verhoor' u ghebed crachtich In</hi></l>
+<l><hi rend="i">des benautheits dagh, Den naem' van Iacobs</hi></l>
+</lg>
+<pb n="49"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0029.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">God almachtich Verhef u zo hy plagh.</hi></l>
+<l><hi rend="i">Hy wil u sterckt' en hulp'verleenen Van</hi></l>
+<l><hi rend="i">zijn stad heligh vonden, En onderhouwen</hi></l>
+<l><hi rend="i">u med eenen Van Syon t'allen stonden.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Den Heere ghedinck' u offranden</hi></l>
+<l><hi rend="i">(Als die hem bequaem zijn)</hi></l>
+<l><hi rend="i">Laete dijn offre in asschen branden</hi></l>
+<l><hi rend="i">Tsi zo t'allen termijn.</hi></l>
+<l rend="; 1tab"><hi rend="i">Hy wil u gheuen zonderlijnghen</hi></l>
+<l><hi rend="i">Naer dijns herten begheeren,</hi></l>
+<l><hi rend="i">Ende gheluckelic volbrijnghen</hi></l>
+<l><hi rend="i">Al u doen en affeeren.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Den Heere die wil doch verhoren</hi></l>
+<l><hi rend="i">Dijn ghebed menichfaut</hi></l>
+<pb n="50"/>
+<l><hi rend="i">Op dat wy mueghen vrueghd oorboren</hi></l>
+<l><hi rend="i">Midts dijn zaligh behaud.</hi></l>
+<l rend="; 1tab"><hi rend="i">Ende dan oprechtende wezen</hi></l>
+<l><hi rend="i">De bannieren van vreughden</hi></l>
+<l><hi rend="i">Ende dat inden naem gheprezen</hi></l>
+<l><hi rend="i">Van onsen God vul deughden.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Segghende nu heb'ick beseuen</hi></l>
+<l><hi rend="i">Dat den Heer' heeft bewaert,</hi></l>
+<l><hi rend="i">En bystant of hulpe ghegheuen</hi></l>
+<l><hi rend="i">Sinen Coninck vermaert.</hi></l>
+<l rend="; 1tab"><hi rend="i">Hy verhoort hem van d'helighe stede</hi></l>
+<l><hi rend="i">Des Hemelsch t'allen tyde</hi></l>
+<l><hi rend="i">Deur de zalighe deughd'lichede</hi></l>
+<l><hi rend="i">Van zijnder rechter syde.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Onse vianden die ons deerden</hi></l>
+<l><hi rend="i">Betrauwen op cranck riet,</hi></l>
+<l><hi rend="i">D'een op waghen d'ander op Peerden</hi></l>
+<l><hi rend="i">Elc hem altoos verliet.</hi></l>
+<l rend="; 1tab"><hi rend="i">Maer wy sullen naer den betaeme</hi></l>
+<l><hi rend="i">Altijdts ghedincken louen</hi></l>
+<l><hi rend="i">Den grooten en helighen naeme</hi></l>
+<l><hi rend="i">Van God den Heere hier bouen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Siet zi zijn vutgheworpen alle</hi></l>
+<l><hi rend="i">En zijn t'onder ghegaen:</hi></l>
+<l><hi rend="i">Sy meenden ons bringhen te valle</hi></l>
+<pb n="51"/>
+<l><hi rend="i">Die sullen bliuen staen.</hi></l>
+<l rend="; 1tab"><hi rend="i">Verlost ons altijd ô goed' Heere</hi></l>
+<l><hi rend="i">Den Coninck hoor' ons claghen</hi></l>
+<l><hi rend="i">Als wy sullen roupen so zeere</hi></l>
+<l><hi rend="i">Tot hem in alle daghen.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0019"/> </interpGrp>
+<head rend="h3"><hi rend="i">Deus deus meus respice in me.</hi>
+<lb/>
+Psalme. XXII.</head>
+<p>Prophetie Iesu Christi, in de vvelcke dat Dauid sijnght eerst zijn nedere en beschaemde verlatentheit, daer naer tverheffen ende tverrestrecken van zijn Rijcke tot den hende der eerdē, ende t'eeuwigh dueren van tzelfde.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0030.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>M<hi rend="i">ijn God, mijn God waerom hebdy my toch</hi><note place="margin">Mat. 27.b. Marc. 15.c.</note></l>
+<l><hi rend="i">Dus verlaten? ende vervremt u noch Van</hi></l>
+<l><hi rend="i">mijn hulpe suchten en claghen och D'welck</hi></l>
+<l><hi rend="i">ick u dede? Eylaes daegh'lics roup' ic tot u ooc</hi></l>
+</lg>
+<pb n="52"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0031.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">mede! Maer ghy en verandwort niet op mijn</hi></l>
+<l><hi rend="i">bede Al en heeft rust' alsoo in my gheen ste-</hi></l>
+<l><hi rend="i">de Den gh'eelen nacht.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Nochtans zidi dat helighe gheacht</hi></l>
+<l><hi rend="i">VVonende onder t'Israëlsche gheslacht'</hi></l>
+<l><hi rend="i">Daer ghy wild datmen u met alder macht</hi></l>
+<l><hi rend="i">Zal exalteren.</hi></l>
+<l><hi rend="i">Men heeft ons voorvaders zonder cesseren</hi></l>
+<l><hi rend="i">Haer hope zien altijd vp u fonderen</hi></l>
+<l><hi rend="i">Die ghy daer omme wildet preserueren</hi></l>
+<l><hi rend="i">Van al t'dangier.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Zi riepen tot u God med moede fier</hi></l>
+<l><hi rend="i">En ontvloden alzoo sviands bestier</hi></l>
+<l><hi rend="i">Zonder eenighsins bescaemt te zijne hier</hi></l>
+<l><hi rend="i">Deur t'vast betrauwen.</hi></l>
+<l><hi rend="i">Maer ic en ben voor gheen meinsche te hauwen</hi></l>
+<l><hi rend="i">Bet worme ghelijck' in alder vauwen:</hi></l>
+<pb n="53"/>
+<l><hi rend="i">Ia ben den dreck van mannen ende vrauwen,</hi></l>
+<l><hi rend="i">En svolcx versmaen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVant al die my aldus zien staen en gaen</hi></l>
+<l><hi rend="i">Verachten ende bespotten my zaen</hi></l>
+<l><hi rend="i">Schuddende haer hooft altijd, als vanden quaen</hi></l>
+<l><hi rend="i">Heb ic beseuen.</hi></l>
+<l><hi rend="i">Zi zegghen: hy heeft zijn zaeck' op ghegheuen</hi></l>
+<l><hi rend="i">Zijn God die hy heeft zo hooghe verheuen:</hi></l>
+<l><hi rend="i">Maer bemind hy hem al zoo bouen schreuen</hi></l>
+<l><hi rend="i">Verlos' hem dan.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Nochtans zidi Heer' (als ic mercken kan)</hi></l>
+<l><hi rend="i">Die my bewaerde van als ic beghan</hi></l>
+<l><hi rend="i">Te sooghen mijns Moeders burst, troct my van</hi></l>
+<l><hi rend="i">Des buucx bezwaeren.</hi></l>
+<l><hi rend="i">Ic was ghegheuen in u goed bewaeren</hi></l>
+<l><hi rend="i">Van de baermoeder, en ooc voor het baeren</hi></l>
+<l><hi rend="i">Oft vā mijns Moeders buuc (moet ic verclaeren)</hi></l>
+<l><hi rend="i">Mijn God ghy zijt.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">En vervremdt u van my niet dan gheen tijd,</hi></l>
+<l><hi rend="i">VVant nu naect aest den alder meesten strijd</hi></l>
+<l><hi rend="i">Daer en is niemand die my tot bevrijd</hi></l>
+<l><hi rend="i">Magh' hulpigh wesen.</hi></l>
+<l><hi rend="i">Veel als ionghe kaluers my teghen rezen,</hi></l>
+<l><hi rend="i">En vette ossen van Basan vutghelezen</hi></l>
+<l><hi rend="i">Hebben my van allen kanten in desen</hi></l>
+<l><hi rend="i">Nau ommestelt.</hi></l>
+<pb n="54"/>
+<l rend="; 1tab"><hi rend="i">Zi hebben haer muul gh'opent med gheweld</hi></l>
+<l><hi rend="i">Ieghens my ghelijck een Leeu in het veld</hi></l>
+<l><hi rend="i">Die om roof wt gaed briest en elcken queld</hi></l>
+<l><hi rend="i">Ic ben besweken,</hi></l>
+<l><hi rend="i">Ghelijc water, en al mijn beenders weken:</hi></l>
+<l><hi rend="i">En zoomen twas zied in de hitte leken</hi></l>
+<l><hi rend="i">Zoo smelt mijn herte deur al zulck versteken</hi></l>
+<l><hi rend="i">Int inghewand.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Mijn cracht is zoomē een drooch vat oyt vād,</hi></l>
+<l><hi rend="i">Mijn tonghe cleeft an mijnder kaken kant,</hi></l>
+<l><hi rend="i">Gh'ebt my ghesteld om in het staeruens bant</hi></l>
+<l><hi rend="i">Dus te gheraken.</hi></l>
+<l><hi rend="i">VVant d'hondē om rijnghdē my, en moest smakē</hi></l>
+<l><hi rend="i">Den anstoot der boosen hoop in dees zaken,</hi></l>
+<l><hi rend="i">Die my mijn handen en voeten deur staken</hi></l>
+<l><hi rend="i">Med lijden groot.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Ic zau wel tellen alle mijn beenders bloot</hi></l>
+<l><hi rend="i">Dus mismaect zaeghen my dees nijders snoot</hi></l>
+<l><note place="margin">Mat. 27.d Ioan. 19.d</note> <hi rend="i">Lootten op mijn rocxkin, en zonder nood</hi></l>
+<l><hi rend="i">Deelden mijn cleeren.</hi></l>
+<l><hi rend="i">wild di niet vervremden Heer' der Heeren</hi></l>
+<l><hi rend="i">Die mijn sterckte zijd, wild niet van my keeren:</hi></l>
+<l><hi rend="i">Maer aest u my t'helpen wt het verzeeren</hi></l>
+<l><hi rend="i">Mijn ziell' behoett.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Verlost mijn leuen, verlaeten ontgoedt</hi></l>
+</lg>
+        <pb n="56"/>
+    <div type="section">  
+        <interpGrp> <interp type="song" value="heer001psal01_0020"/> </interpGrp>
+    <head rend="h3">[God die voett my onder zijn macht ghepresen]</head>
+        <p></p>
+        <pb n="58"/>
+        <div type="section"> 
+            <interpGrp> <interp type="song" value="heer001psal01_0021"/> </interpGrp>
+        <head rend="h3">[D'aerde b'hoort toe den Heere goed]</head>
+        
+<pb n="59"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0032.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">gheplant Ende verciertse an elcken cant</hi></l>
+<l><hi rend="i">Omringhende haer med schoon riuieren.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">VVie zal zoo gheluckigh zijn toch</hi></l>
+<l><hi rend="i">Die zal commen en clemmen noch</hi></l>
+<l><hi rend="i">Vp des Heeren bergh hoogh verheuen?</hi></l>
+<l><hi rend="i">En wie zal oock hebben hier by</hi></l>
+<l><hi rend="i">Een woonste zeker ende vry</hi></l>
+<l><hi rend="i">In die plaets' heligh bouen schreuen?</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Tsal zijn die van handen is net,</hi></l>
+<l><hi rend="i">In zijn hert' ende wercken med,</hi></l>
+<l><hi rend="i">En die oock niet en steld zijn herte</hi></l>
+<l><hi rend="i">Vp ydelheyt (naer mijn aduijs)</hi></l>
+<l><hi rend="i">Noch en zwaert in eenigher wijs</hi></l>
+<l><hi rend="i">Tot bedrogh of tot iemands smerte.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Zulck' zal van God den Heer' ontfaen</hi></l>
+<l><hi rend="i">Sijn ghebenedidinghe zaen,</hi></l>
+<l><hi rend="i">En gherechticheyt desghelijcke</hi></l>
+<l><hi rend="i">Van God zijn zaligheyt expeert:</hi></l>
+<l><hi rend="i">Sulck is tvolc d'welc zouct en begheert</hi></l>
+<l><hi rend="i">T'aenschijn van Iacobs God publijcke.</hi></l>
+<pb n="60"/>
+<l rend="; 1tab"><hi rend="i">Poorten u hooft vp t'heffen pooght</hi></l>
+<l><hi rend="i">Eeuwighe deurren u verhooght</hi></l>
+<l><hi rend="i">Nu comt in den Coningh der eeren:</hi></l>
+<l><hi rend="i">VVie is desen Coningh ghehacht?</hi></l>
+<l><hi rend="i">Tis den Heere vul sterct' en macht</hi></l>
+<l><hi rend="i">Ten stride staerck niet om vermeeren.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Poorten, u hooft vp t'heffen pooght</hi></l>
+<l><hi rend="i">Eeuwighe deurren u verhooght</hi></l>
+<l><hi rend="i">Nu comt in den Coningh der eeren:</hi></l>
+<l><hi rend="i">VVie is desen Coningh ghehacht?</hi></l>
+<l><hi rend="i">Tis den Heere God der heyrcracht</hi></l>
+<l><hi rend="i">Coningh der glorien en Heeren!</hi></l>
+</lg>
+</div></div></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0022"/> </interpGrp>
+<head rend="h3"><hi rend="i">Ad te Domine leuaui.</hi>
+<lb/>
+Psalme. XXV.</head>
+<p>Den meinsche verdruct by zijn zonden, en van de quaetheit zijnder vianden, bidt den Heere voor hem zeluen, ende int ghemeene voor al het volck.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0033.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>T<hi rend="i">Ot u clemt mijn hert' ô Heere In u</hi></l>
+<l><hi rend="i">stel'ic mijn hoop' vry Bewaert my dan wel en</hi></l>
+</lg>
+<pb n="61"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0034.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">zeere Dat ic niet beschaemt en zi. En op</hi></l>
+<l><hi rend="i">dat ooc mijn viand Niet en verblijde midts</hi></l>
+<l><hi rend="i">desen: Die u verbeyden constant En</hi></l>
+<l><hi rend="i">zullen niet beschaemt wezen.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Maer zullen tot schanden commen</hi></l>
+<l><hi rend="i">Die ghy onghetrauwe vind</hi></l>
+<l><hi rend="i">Zonder cause ofte waerommen</hi></l>
+<l><hi rend="i">O Heere die dueghd bemind:</hi></l>
+<l rend="; 1tab"><hi rend="i">Leert my kennen en verstaen</hi></l>
+<l><hi rend="i">Dijne gherechtighe weghen,</hi></l>
+<l><hi rend="i">En wild my vroed maken zaen</hi></l>
+<l><hi rend="i">Al u schoon paden ter deghen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVilt my leeren en regieren</hi></l>
+<l><hi rend="i">In u waerheyt excellent</hi></l>
+<pb n="62"/>
+<l><hi rend="i">Die zijt in alle mannieren</hi></l>
+<l><hi rend="i">Mijns zalicheyts God bekend.</hi></l>
+<l rend="; 1tab"><hi rend="i">Ic wacht u Heere' allen dagh:</hi></l>
+<l><hi rend="i">Ghedijnct dan u medelijden,</hi></l>
+<l><hi rend="i">En u goedheit met verdragh</hi></l>
+<l><hi rend="i">By u g'hoefent t'allen tijden.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Dijnct niet op mijn quaed voorleden</hi></l>
+<l><hi rend="i">Van mijnder ioncheyt zeer snoot,</hi></l>
+<l><hi rend="i">Noch om al mijn ouertreden</hi></l>
+<l><hi rend="i">VVelck veel is ende groot.</hi></l>
+<l rend="; 1tab"><hi rend="i">Maer wt dijn ghenade wel,</hi></l>
+<l><hi rend="i">En om dijn goedheit ghestadigh</hi></l>
+<l><hi rend="i">VVild my nu (ô Heere) snel</hi></l>
+<l><hi rend="i">Ghedijncken en zijn ghenadigh.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Recht en goed is God almachtich</hi></l>
+<l><hi rend="i">Dus zal hy dan wysen claer</hi></l>
+<l><hi rend="i">Vele zondaeren waerachtich</hi></l>
+<l><hi rend="i">Den rechten wegh openbaer.</hi></l>
+<l rend="; 1tab"><hi rend="i">En d'oodmoedighe hi ooc zal</hi></l>
+<l><hi rend="i">De rechte weghen doen hauwen,</hi></l>
+<l><hi rend="i">En den aermen wysen al</hi></l>
+<l><hi rend="i">Zijn paden in alder vauwen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Goedheit en trauwe zijn vonden</hi></l>
+<l><hi rend="i">Al de weghen onzer God</hi></l>
+<l><hi rend="i">Voor die bewaert t'allen stonden</hi></l>
+<pb n="63"/>
+<l><hi rend="i">Zijn verbond ende ghebot.</hi></l>
+<l rend="; 1tab"><hi rend="i">Maer om dijns naems wille toch</hi></l>
+<l><hi rend="i">(O Heere God hoogh verheuen)</hi></l>
+<l><hi rend="i">Vergheeft mi mijn zonden noch,</hi></l>
+<l><hi rend="i">VVant zi groot zijn bouen schreuen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVie is den meinsche voor ooghen,</hi></l>
+<l><hi rend="i">Eist dat hi den Heere vreest,</hi></l>
+<l><hi rend="i">Ofte God en zal hem tooghen</hi></l>
+<l><hi rend="i">Den wegh dien hi moet kiesen meest?</hi></l>
+<l rend="; 1tab"><hi rend="i">Zijn herte zal leuen vet</hi></l>
+<l><hi rend="i">In vele goeden van waerde:</hi></l>
+<l><hi rend="i">En veel vā zijn kinders med</hi></l>
+<l><hi rend="i">Zullen altijd zijn op d'aerde.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">God openbaert zijn secreten</hi></l>
+<l><hi rend="i">Die hem vreest als goede knecht,</hi></l>
+<l><hi rend="i">Den welcken hy ooc laet weten</hi></l>
+<l><hi rend="i">Tinhaudt zijns verbonds te recht.</hi></l>
+<l rend="; 1tab"><hi rend="i">Dies ic neme my bemerck</hi></l>
+<l><hi rend="i">Een paer op God (zoo wy moeten)</hi></l>
+<l><hi rend="i">Die als eenen hulper sterck</hi></l>
+<l><hi rend="i">VVt het net zal doen mijn voeten.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVilt naer my u aensicht wenden</hi></l>
+<l><hi rend="i">En hebt mede lijden med my</hi></l>
+<l><hi rend="i">Die alleen is, in ellenden</hi></l>
+<l><hi rend="i">En niemand en staet my by.</hi></l>
+<pb n="64"/>
+<l rend="; 1tab"><hi rend="i">En ic ghevoel' dat vermeert</hi></l>
+<l><hi rend="i">De benautheit mijnder herten:</hi></l>
+<l><hi rend="i">Och Heere my trect en keert</hi></l>
+<l><hi rend="i">VVt dees mijn druckighe smerten!</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Vergheeft mijn zonden te male,</hi></l>
+<l><hi rend="i">Ende zied mijn lijden an:</hi></l>
+<l><hi rend="i">Merckt oock hoe groot van ghetale</hi></l>
+<l><hi rend="i">Dat mijn vianden zijn dan.</hi></l>
+<l rend="; 1tab"><note place="margin">Ioan. 15.d.</note><hi rend="i">Z'ebben vp my eenen haet</hi></l>
+<l><hi rend="i">Zeer dood'lic, hoett van haer handen</hi></l>
+<l><hi rend="i">Mijn ziel', verlost my van quaed,</hi></l>
+<l><hi rend="i">Op dat ic niet comm' in schanden.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVant in dy ic vast' betrauwe:</hi></l>
+<l><hi rend="i">Dat mijn oprechtigheyt nu</hi></l>
+<l><hi rend="i">My bewaer' en onderhauwe,</hi></l>
+<l><hi rend="i">VVant ic ben verwachtende u.</hi></l>
+<l rend="; 1tab"><hi rend="i">O God des hemelsch bevangh</hi></l>
+<l><hi rend="i">VVilt toch Israël beschermen</hi></l>
+<l><hi rend="i">Van alle zijn lijden strangh,</hi></l>
+<l><hi rend="i">Deur dijn ghenadigh ontfermen.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0023"/> </interpGrp>
+<head rend="h3"><hi rend="i">Afferte Domino filij Dei.</hi>
+<lb/>
+Psalme. XXIX.</head>
+<p>Een vutnemende Liedekin daer in Dauid beschrijft de maiesteit <hi rend="sc">Gods</hi>, deur den blixem en tempeesten die alle creaturen veruaren, hoe vvel hy ondertusschen tot de zyne goedertieren is. Psalme bequame als <hi rend="sc">God</hi> ons vermaent deur sulcke vervaerlicheyt.</p>
+<pb n="65"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0035.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>A<hi rend="i">L ghy heerschappen die leeft Den Hee-</hi></l>
+<l><hi rend="i">re lof en prijs gheeft Van zijnder sterck-</hi></l>
+<l><hi rend="i">te zeer groot, Gheeft den Heere glori' bloot</hi></l>
+<l><hi rend="i">VVelcke zinen naem' is weerdich: En zijd</hi></l>
+<l><hi rend="i">om t'anbidden veerdich Den Heer' med ood</hi></l>
+<l><hi rend="i">moedichede In zijn groot' helighe stede.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Des Heeren stem' drijft med spoed</hi></l>
+<l><hi rend="i">Op de waters, die oock doed</hi></l>
+<l><hi rend="i">In de locht den donder slaen</hi></l>
+<pb n="66"/>
+<l><hi rend="i">Theeft God der Heeren ghedaen.</hi></l>
+<l rend="; 1tab"><hi rend="i">VVant an sHeeren stem wy mercken</hi></l>
+<l><hi rend="i">Hoe crachtich dat hy can wercken,</hi></l>
+<l><hi rend="i">Des Heeren voeys, en vermonden</hi></l>
+<l><hi rend="i">Is vul groot-dadicheits vonden.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Des Heeren voeys sterck voorwaer</hi></l>
+<l><hi rend="i">Breect en morselt Ced'ren zwaer,</hi></l>
+<l><hi rend="i">Ia den hoochsten die daer groeyt</hi></l>
+<l><hi rend="i">Op den bergh Libaen ghebloeyt.</hi></l>
+<l rend="; 1tab"><hi rend="i">Hy doedse als een kalf vp sprijnghen</hi></l>
+<l><hi rend="i">Libanen kan hy zo dwijnghen</hi></l>
+<l><hi rend="i">En Sirion uut vercoren</hi></l>
+<l><hi rend="i">Als eenen ionghen Eenhoren.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Des Heeren stem splijtt zeer snel</hi></l>
+<l><hi rend="i">Vlammen viers straf ende fel,</hi></l>
+<l><hi rend="i">Doed beuen de wildernes</hi></l>
+<l><hi rend="i">En twoud datmen naemt Cades.</hi></l>
+<l rend="; 1tab"><hi rend="i">Ende doed (als wy bevinden)</hi></l>
+<l><hi rend="i">Van vreesen misvallen d'Hinden,</hi></l>
+<l><hi rend="i">Menighe wilde Landauwe</hi></l>
+<l><hi rend="i">VVord ontdect in zulcker vauwe.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Onder tusschen gaed elc een</hi></l>
+<l><hi rend="i">In zijnen Temple ghemeen</hi></l>
+<l><hi rend="i">Daer gheeft v dit volcxkin wijs</hi></l>
+<l><hi rend="i">Alle eere lof ende prijs.</hi></l>
+<pb n="67"/>
+<l rend="; 1tab"><hi rend="i">God den Heere presideerde</hi></l>
+<l><hi rend="i">Doent water op elc passeerde,</hi></l>
+<l><hi rend="i">En zitt als Coninck ghepresen,</hi></l>
+<l><hi rend="i">wiens rijck' blijft eeuwigh in wesen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Dies den Heere gheuen sal</hi></l>
+<l><hi rend="i">Sijn volck groot vermoghen al,</hi></l>
+<l><hi rend="i">En zalse zeghenen met</hi></l>
+<l><hi rend="i">Paeys ende alle ghoeden net.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0024"/> </interpGrp>
+<head rend="h3"><hi rend="i">Beati quorum remisse sunt.</hi>
+<lb/>
+Psalme. XXXII.</head>
+<p>Dauid ghestraft sijnde met siecten om sijnder sonden vville, sijnghd dat sy saligh sijn, die duer haer schuld niet en vallē inden val daer hy is, belijdt sijn sonden, die <hi rend="sc">God</hi> hem vergheeft: vermaent de quade tot vvel te leuene, ende de goede om hemlien te verhueghen in Gode.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0036.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>Z<hi rend="i">Alich is hy, wiens ouertredigh leuen Is</hi></l>
+<l><hi rend="i">vutghedaen, en mildelic vergheuen</hi>: W<hi rend="i">iens</hi></l>
+<l><hi rend="i">zonden zijn vanden Heere perfect</hi> W<hi rend="i">t ghena</hi></l>
+</lg>
+<pb n="68"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0037.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">den verborghen en bedect. Saligh is hi welc-</hi></l>
+<l><hi rend="i">ken God vol ghenaden Niet toe en schrijft de</hi></l>
+<l><hi rend="i">boos heit nochte quaden: Oock in wiens</hi></l>
+<l><hi rend="i">gheest ende binnensten grond Men</hi></l>
+<l><hi rend="i">noynt valscheit noch eenigh bedrogh vond.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Om dat ic zweegh mijn mesdaet niet en kende</hi></l>
+<l><hi rend="i">Mijn ghebeenten zijn gh'eel vergaen ten hende</hi></l>
+<l><hi rend="i">Deur mijn daeghelicx gheween ende beclagh:</hi></l>
+<l>W<hi rend="i">ant my dijn handt verzwaerde nacht en dagh</hi></l>
+<l rend="; 1tab"><hi rend="i">Dus verdrooghde ooc als inder zonnē claerheit</hi></l>
+<l><hi rend="i">Mijn vochticheit, ende cracht inder waerheit,</hi></l>
+<pb n="69"/>
+<l><hi rend="i">Ic heb' u dan ontdect mijn zonden al</hi></l>
+<l><hi rend="i">V niet verborghen mijn quaed en mesval.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVant ic doen dacht, en sprack: ic zal belijdē</hi></l>
+<l><hi rend="i">Mijn zonden voor den Heere t'allen tijden,</hi></l>
+<l><hi rend="i">En ghy hebt terstond van my gheweert reyn</hi></l>
+<l><hi rend="i">De schulden van al mijn zonden certeyn.</hi></l>
+<l rend="; 1tab"><hi rend="i">Daer om zullen ooc alle helighe lieden</hi></l>
+<l><hi rend="i">Ter goeder tijdt, tot v med bidden vlieden:</hi></l>
+<l><hi rend="i">En al waert dat zulcker een straf caem' an</hi></l>
+<l><hi rend="i">Veel waters vloeds, t'mocht hem niet letten dan.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Ghy Heere zijt mijn stercke plaets' en stede</hi></l>
+<l><hi rend="i">Die my bewaert, engheeft my oorzaeck' mede</hi></l>
+<l><hi rend="i">Om van alle sijen te zijn' verhueghd</hi></l>
+<l><hi rend="i">Midts tverlossen' gheschiedt duer dijne dueghd.</hi></l>
+<l rend="; 1tab"><hi rend="i">Comt al hier dan ic zal ulieden leeren</hi></l>
+<l><hi rend="i">En doen verstaen, den rechten wegh des Heeren</hi></l>
+<l><hi rend="i">Deur den welcken ghylien moet henen gaen</hi></l>
+<l><hi rend="i">En zal v med mijn ooghen gade slaen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">En zijd toch niet als muulen ende peerden</hi></l>
+<l><hi rend="i">Die zonder reden gaen hier lancxt der eerden:</hi></l>
+<l><hi rend="i">VViens mule datmen moet breydelen wel</hi></l>
+<l><hi rend="i">Op datse v niet en zouden byten snel.</hi></l>
+<l rend="; 1tab"><hi rend="i">Veel lijdens zal de Godloose benauwen:</hi></l>
+<l><hi rend="i">Maer veel weldaeds ghebuert die God betrauwē</hi></l>
+<l><hi rend="i">Ghy gherechtighe, ende van herten goed</hi></l>
+<l><hi rend="i">Verblijdt v in Gode met eenen moet.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0025"/> </interpGrp>
+<pb n="70"/>
+<head rend="h3"><hi rend="i">Domine ne in furore tuo.</hi>
+<lb/>
+Psalme. XXXVIII.</head>
+<p>Dauid hebbēde de peste, of eenigh seer in zijn dgye, claecht Gode de groote pijne die hi daer in heeft, ooc deur het afwijcken sijnder vrienden, en al de vvreedheyt sijnder vyanden: daer om begheert hy seer vierich de bistandicheyt <hi rend="sc">Gods</hi>.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0038.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>E<hi rend="i">N begrijpt mi tot gheē stondē Van mijn zõ</hi></l>
+<l><hi rend="i">den In dynen toren ô Heer': Noch wild</hi></l>
+<l><hi rend="i">my oock niet castyen Noch doen lyen</hi></l>
+<l><hi rend="i">In dijn groote gramschap meer.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab">W<hi rend="i">ant dijn pylen my deurdringhen</hi></l>
+<l><hi rend="i">En ombringhen:</hi></l>
+<l><hi rend="i">Oock heeft my dijn hand gheraect:</hi></l>
+<l><hi rend="i">In mijn vleesch is niet gh'eels bleuen</hi></l>
+<l><hi rend="i">Hier beneuen</hi></l>
+<l><hi rend="i">Deur dijn dreeghen alst my naect.</hi></l>
+<pb n="71"/>
+<l rend="; 1tab"><hi rend="i">In mijn beenders en is ooc mede</hi></l>
+<l><hi rend="i">Rust of vrede</hi></l>
+<l><hi rend="i">Deur mijn quaed zeer dick ghetast:</hi></l>
+<l><hi rend="i">Mijn zonden my ouerterden</hi></l>
+<l><hi rend="i">Ende werden</hi></l>
+<l><hi rend="i">Een pack van te zwaeren last.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Mijn wonden stijncken en rotten</hi></l>
+<l><hi rend="i">Deur mijn verzotten,</hi></l>
+<l><hi rend="i">En ic buughe my zeer crom,</hi></l>
+<l><hi rend="i">En wandel zo in die pijnen</hi></l>
+<l><hi rend="i">Veel termijnen</hi></l>
+<l><hi rend="i">Med droufuen ghelaet hier om.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Mijn inghewant is verstoruen</hi></l>
+<l><hi rend="i">Gheel bedoruen</hi></l>
+<l><hi rend="i">Niet gheels is an my voorwaer:</hi></l>
+<l><hi rend="i">Ic ben al te zeer ghesmeten</hi></l>
+<l><hi rend="i">En verbeten</hi></l>
+<l><hi rend="i">Ic huul' deur sherten mesbaer.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">O Heer' al dat ic arm' mensche</hi></l>
+<l><hi rend="i">Aldus wensche</hi></l>
+<l><hi rend="i">Is u wel kendelic nu,</hi></l>
+<l><hi rend="i">Ooc al mijn weenens gheruchten</hi></l>
+<l><hi rend="i">Ende suchten</hi></l>
+<l><hi rend="i">Is niet verborghen voor u.</hi></l>
+<pb n="72"/>
+<l rend="; 1tab"><hi rend="i">Mijn herte heeft bouen maeten,</hi></l>
+<l><hi rend="i">En verlaeten</hi></l>
+<l><hi rend="i">Heeft my mijn cracht en virtuut:</hi></l>
+<l><hi rend="i">Zelfs d'licht van mijnen ooghen</hi></l>
+<l><hi rend="i">(Moet ic'dooghen)</hi></l>
+<l><hi rend="i">Is my vergaen, en gheel wt.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Van verren stonden en zaeghen</hi></l>
+<l><hi rend="i">Vrienden maeghen</hi></l>
+<l><hi rend="i">Schuuden mijn wonde en torment,</hi></l>
+<l><hi rend="i">Die my bestonden ten naesten</hi></l>
+<l><hi rend="i">(Als med aesten)</hi></l>
+<l><hi rend="i">Vloden al van myten hend'.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Maer die mijn zielle versoucken</hi></l>
+<l><hi rend="i">An all' houcken</hi></l>
+<l><hi rend="i">Hanghen my streck ende slagh,</hi></l>
+<l><hi rend="i">Die my quaed willen anrichten</hi></l>
+<l><hi rend="i">Valscheit stichten</hi></l>
+<l><hi rend="i">En spreken quaed allen dagh.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Maer ic slachte hier gheel de dooue</hi></l>
+<l><hi rend="i">Gheen ghelooue</hi></l>
+<l><hi rend="i">Gheue ic haer zaecken onvroed:</hi></l>
+<l><hi rend="i">Ben by den stommen gheleken</hi></l>
+<l><hi rend="i">Die om spreken</hi></l>
+<l><hi rend="i">Synen mond niet open doed.</hi></l>
+<pb n="73"/>
+<l rend="; 1tab"><hi rend="i">Ic ben als een creature</hi></l>
+<l><hi rend="i">Op dees hure</hi></l>
+<l><hi rend="i">Die niet en hoort noch begrijpt,</hi></l>
+<l><hi rend="i">In wiens mond es gheen wee'r spraecke</hi></l>
+<l><hi rend="i">In de zaecke</hi></l>
+<l><hi rend="i">Die hem nochtans zeere nijpt.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVant ic stell' (int sarucx benauwen)</hi></l>
+<l><hi rend="i">Mijn betrauwen</hi></l>
+<l><hi rend="i">Op dy Heer' en altijd zal:</hi></l>
+<l><hi rend="i">En ghy zuld (weet ic te voren)</hi></l>
+<l><hi rend="i">My verhoren</hi></l>
+<l><hi rend="i">O mijn God Heere en mijn al!</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVant ic zeyde ic wil' swijghen</hi></l>
+<l><hi rend="i">Soo en krijghen</hi></l>
+<l><hi rend="i">Zi gheen vrueghd med my als noch</hi></l>
+<l><hi rend="i">Die teghen my haer op blasen</hi></l>
+<l><hi rend="i">Ende rasen</hi></l>
+<l><hi rend="i">Als mynen voet wanckelt toch.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Ic ben ghemaect tot verdriete</hi></l>
+<l><hi rend="i">Ic gheniete</hi></l>
+<l><hi rend="i">Druck die voor my staed zeer langh:</hi></l>
+<l><hi rend="i">VVant ic beken' mijn mesdaden</hi></l>
+<l><hi rend="i">Om mijn quaden</hi></l>
+<l><hi rend="i">Ben ic in sorghens bedwangh.</hi></l>
+<pb n="74"/>
+<l rend="; 1tab"><hi rend="i">Ooc leuen ende verstercken</hi></l>
+<l><hi rend="i">Machmen mercken</hi></l>
+<l><hi rend="i">Alle mijn vianden zeer:</hi></l>
+<l><hi rend="i">En die my nijdich bevechten</hi></l>
+<l><hi rend="i">(VVel t'onrechten)</hi></l>
+<l><hi rend="i">Vermenighen lancxom meer.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Die ic weldede my loonen</hi></l>
+<l><hi rend="i">En betoonen</hi></l>
+<l><hi rend="i">Quaed ende viandscap snood,</hi></l>
+<l><hi rend="i">Om dat ic volghe voor tbeste</hi></l>
+<l><hi rend="i">Tot int leste</hi></l>
+<l><hi rend="i">Dat voor dy is goed en groot.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Heere God wilt my niet laeten</hi></l>
+<l><hi rend="i">Als verwaeten,</hi></l>
+<l><hi rend="i">En vervremt u niet van my,</hi></l>
+<l><hi rend="i">Helpt my, en die dijns behoeuen</hi></l>
+<l><hi rend="i">Zonder toeuen</hi></l>
+<l><hi rend="i">O Heer' mijns zalicheyts vry.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0026"/> </interpGrp>
+<head rend="h3"><hi rend="i">Quemadmodum desiderat.</hi>
+<lb/>
+Psalme. XLII.</head>
+<p>Dauid beclaeghd hem om dat hy verhindert vverd vander ghemeente <hi rend="sc">Gods</hi>, vvaer naer hy heeft groot verlanghen: te kennen gheuende zijn ellendicheyt, en hem vertroostende op de goedheit <hi rend="sc">Gods</hi>, hoopt noch by de ghemeente <hi rend="sc">Gods</hi> te commen, om hem aldaer te dancken.</p>
+<pb n="75"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0039.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>G<hi rend="i">Helijc men hoort den Hert zeer tierē Naer</hi></l>
+<l><hi rend="i">de verschz des waters zoet, Zo haect en schreit</hi></l>
+<l><hi rend="i">in dier manierē Mijn ziele naer dy Heere goed.</hi></l>
+<l><hi rend="i">Mijn herte dat dorst lanx õ meer Naer dy leuē</hi></l>
+<l><hi rend="i">dich God en Heer, Als ic dijnck', wanneer zal</hi></l>
+<l><hi rend="i">ic muegē Gods anschijn ziē tot mijn verhuegē?</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Dach ende nacht hebben mijn tranen</hi></l>
+<l><hi rend="i">My onderhauwen als het brood</hi></l>
+<l><hi rend="i">Als ic hoorde dit my vermanen</hi></l>
+<pb n="76"/>
+<l><hi rend="i">VVaer is dijn God en Heere groot?</hi></l>
+<l><hi rend="i">Mijn hert smalt in my als ic docht</hi></l>
+<l><hi rend="i">Dat ic med den hoop te gaen' plocht</hi></l>
+<l><hi rend="i">Naer Gods woonste med blijden gheeste</hi></l>
+<l><hi rend="i">Med lof en sangh haudende feeste.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Maer waerom queldy u hier neuen</hi></l>
+<l><hi rend="i">Mijn ziel' ontrust, in God betraut?</hi></l>
+<l><hi rend="i">VVant hy zal my noch oorzaeck' gheuen</hi></l>
+<l><hi rend="i">Om hem te louen menichfaut:</hi></l>
+<l><hi rend="i">VVanneer hy my behauwen zal</hi></l>
+<l><hi rend="i">Deur zijn anschauwen ouer al,</hi></l>
+<l><hi rend="i">Nochtans eyst thert' deur zulc beweghen</hi></l>
+<l><hi rend="i">In my beroert ende versleghen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Ghedijnckende om de weldaed crachtich</hi></l>
+<l><hi rend="i">Die ghy deedt int land der Iordaen,</hi></l>
+<l><hi rend="i">En van Mizar den bergh cleenachtich</hi></l>
+<l><hi rend="i">Tot Hermonem zeer hoogh ghestaen,</hi></l>
+<l><hi rend="i">Hoe dat d'een diepte d'ander riep</hi></l>
+<l><hi rend="i">Deur swaters gheluut dat daer liep</hi></l>
+<l><hi rend="i">Doen u baeren en sluusen vloedigh,</hi></l>
+<l><hi rend="i">Ouer mijn hooft dreuen zeer spoedigh.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">God heeft my zijn goedheit en dueghden</hi></l>
+<l><hi rend="i">Sdaeghs claer betoont ende belast</hi></l>
+<l><hi rend="i">Dies sijngh ic hem snachts lied met vruechden</hi></l>
+<l><hi rend="i">Den God mijns leuens bid ic vast:</hi></l>
+<pb n="77"/>
+<l><hi rend="i">Ic zeg' tot hem mijnen rotssteen</hi></l>
+<l><hi rend="i">VVaerom vergheett ghy my alleen?</hi></l>
+<l><hi rend="i">Hoe langh' zat ic in dezer vauwen</hi></l>
+<l><hi rend="i">Treurigh gaen deur sviands benauwen?</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Mijn nijders gheuen my doodwonde</hi></l>
+<l><hi rend="i">Als zulcker een my blaemt en vraeght,</hi></l>
+<l><hi rend="i">VVaer is dyn God ten desen stonde?</hi></l>
+<l><hi rend="i">Maer mijn ziel' hoe zijdi versaeght</hi></l>
+<l><hi rend="i">Ontrust in my? betraut God toch</hi></l>
+<l><hi rend="i">VVant ic zal hem belijden noch</hi></l>
+<l><hi rend="i">De welvaert mijns aensichts te zijne</hi></l>
+<l><hi rend="i">Ende ooc mijn God t'allen termijne.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0027"/> </interpGrp>
+<head rend="h3"><hi rend="i">Iudica me Deus.</hi>
+<lb/>
+Psalme. XLIII.</head>
+<p>Dauid bidt om verlost te zine van die met Absalon anghe spānen vvaren, vp dat hi mochte in naerste vercondighen den name ende lof <hi rend="sc">Gods</hi> in d'helighe vergaderinghe.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0040.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="b">W</hi><hi rend="i">Reect my, ende voert ooc mijn clachte (O</hi></l>
+<l><hi rend="i">Heere God mijn toeuerlaet) Ieghēs het wreede</hi></l>
+</lg>
+<pb n="78"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0041.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">valsch ghestachte, Ende verlost my oock met</hi></l>
+<l><hi rend="i">crachte Van alle menschen opstinaet Vul</hi></l>
+<l><hi rend="i">van bedrogh en quaed.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Ghy zijd altijd den God en Heere</hi></l>
+<l><hi rend="i">Van mijn vermoghen zeer constant,</hi></l>
+<l><hi rend="i">VVaer om versteect ghy my dus zeere</hi></l>
+<l><hi rend="i">En ghedooght dat ic ga en keere</hi></l>
+<l><hi rend="i">In verdriet deur des lidens band</hi></l>
+<l><hi rend="i">Van minen dood viand.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVilt u licht zenden en verbreeden</hi></l>
+<l><hi rend="i">En ooc u waerheyt excellent</hi></l>
+<l><hi rend="i">Vp dat die my altijd gheleeden,</hi></l>
+<l><hi rend="i">Ende bringhen onder hem beeden</hi></l>
+<l><hi rend="i">Tot uwen bergh heligh bekent</hi></l>
+<l><hi rend="i">In u woonsten present.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Ic zal commen ten zeluen tijen</hi></l>
+<l><hi rend="i">Vlitigh, tot des Heeren Aultaer,</hi></l>
+<pb n="79"/>
+<l><hi rend="i">Tot den God mijns vreughds en verblijen,</hi></l>
+<l><hi rend="i">En u daer louen en belijen</hi></l>
+<l><hi rend="i">Med mijn harp' ô Heere voorwaer</hi></l>
+<l><hi rend="i">Die mijn God zijd eenpaer.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Mijn ziele waer voor wildi beuen?</hi></l>
+<l><hi rend="i">En zijn zoo verturbeert in my?</hi></l>
+<l><hi rend="i">Betraut in den Heere al u leuen</hi></l>
+<l><hi rend="i">VVant ic zal hem lof en prijs gheuen</hi></l>
+<l><hi rend="i">VVelcken mijn God is, en daer by</hi></l>
+<l><hi rend="i">Ooc mijn aenzicht maect vry.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0028"/> </interpGrp>
+<head rend="h3"><hi rend="i">Deus deorum Dominus.</hi>
+<lb/>
+Psalme. L.</head>
+<p>Dauid voorseyt dat <hi rend="sc">God</hi> zaude tot hem roupen alle natien deur t'Euangelium, beghaerende van de zine (voor sacrificie) belijd ende vercondinghe zijnder goetheyt, vervverpen̄ die haer berõmen, t'onderhauvven zinen Godsdienst, vviens herte nochtan niet gheraect is met de liefde <hi rend="sc">Gods</hi>.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0042.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>D<hi rend="i">En staercken God, d'Heere van Israël</hi></l>
+<l><hi rend="i">Heeft ghesproken, ende gheroupen snel Gheel</hi></l>
+</lg>
+<pb n="80"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0043.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">aerderijck van der Zonnen opgangh Tot</hi></l>
+<l><hi rend="i">dē westen, onder sHemels bevangh, Van Syon</hi></l>
+<l><hi rend="i">vol vā schoonicheit warachtigh, Heeft hē ver</hi></l>
+<l><hi rend="i">tooght clarelick God almachtigh.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Onsen God comt zonder touven nu zaen</hi></l>
+<l><hi rend="i">Voor hem zal een verslindende viergaen,</hi></l>
+<l><hi rend="i">En rondsom hem turbaci' wesen zal,</hi></l>
+<l><hi rend="i">Dan zal hi ooc van bouen roupen al</hi></l>
+<l><hi rend="i">Hemel en aerde in ghetughen vercoren</hi></l>
+<l><hi rend="i">Om ouer zijn volc recht vonnes' t'orboren.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Hy zal zegghen vergaerd my med der spoed</hi></l>
+<l><hi rend="i">Mijn volc vprecht ghewilligh ende goed</hi></l>
+<l><hi rend="i">Die med my hebben ghemaect een verbond</hi></l>
+<l><hi rend="i">Deur d'offranden. En d'hemelen terstond.</hi></l>
+<pb n="81"/>
+<l><hi rend="i">Zullen vertellen zijn gherechtichede:</hi></l>
+<l><hi rend="i">VVant het is God die oynt recht oordeel dede.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Mijn volc ic zal tot u spreken, my hoort,</hi></l>
+<l><hi rend="i">Verstaed Isr'el ic zal betughen voort</hi></l>
+<l><hi rend="i">Ic ben u God, u God alleen voorwaer</hi></l>
+<l><hi rend="i">Ic en zal u niet begripen eenpaer</hi></l>
+<l><hi rend="i">Om dat ghy my altijd niet hebt ghegheuen</hi></l>
+<l><hi rend="i">Brand-offre med al dat dies magh ancleuen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">En ick en zal van u huus nemen niet</hi></l>
+<l><hi rend="i">Stier noch iongh bock, van u cuddeken ziet,</hi></l>
+<l><hi rend="i">VVant mijn is al dat wild ghediert' alleen</hi></l>
+<l><hi rend="i">Die vp baerghen en in bosschen haer ween:</hi></l>
+<l><hi rend="i">Ic ken' voghels der baerghen, ooc de dieren</hi></l>
+<l><hi rend="i">(Hoe wild zi zijn) staen tot mijn obegieren.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Hadd'ict van doene, of daer naer apetijt</hi></l>
+<l><hi rend="i">Ic en zaudts u niet zegghen teen'gher tijd:</hi></l>
+<l><hi rend="i">VVant de waereld, med al dat haer gaet an</hi></l>
+<l><hi rend="i">Behoord my toe, hoe zoude ick eten dan</hi></l>
+<l><hi rend="i">Der stieren vleesch? en desghelijcx ooc drinckē</hi></l>
+<l><hi rend="i">Der bocken bloed? wilt dogh dit wel ghedincken.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Maer offert God lof ende danckbaerheyt,</hi></l>
+<l><hi rend="i">En hout wel vast dat ghy hebt toeghezeyt</hi></l>
+<l><hi rend="i">Hem, die daer is bouen al ander groot:</hi></l>
+<l><hi rend="i">Anroupt my (zeyt hi) in den tijd der nood;</hi></l>
+<pb n="82"/>
+<l><hi rend="i">En ic zal u helpen en consoleren</hi></l>
+<l><hi rend="i">Dies zuld ghy my prijsen ende lauderen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Maer God die sprack tot de meinschē zeer boos</hi></l>
+<l><hi rend="i">VVat gaed u an, zoo te spreken' altoos</hi></l>
+<l><hi rend="i">Van mijn leere, beuel, ofte ghebod?</hi></l>
+<l><hi rend="i">En te noemen oock (als in eenen spot)</hi></l>
+<l><hi rend="i">In uwen mond, tot alle quaed volvaerdigh</hi></l>
+<l><hi rend="i">Mijn schoon verbond, en allyanci' waerdigh.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Naer dien dat ghy alle vermaningh' baett</hi></l>
+<l><hi rend="i">En dat ghi ooc mijn woorden zeer versmaedt:</hi></l>
+<l><hi rend="i">VVant ziet ghy eenen dief die u ghenought</hi></l>
+<l><hi rend="i">Terstond ghy loopt, en u by hem zaen vought</hi></l>
+<l><hi rend="i">Zijnde ooc ghezell' in alderley manieren</hi></l>
+<l><hi rend="i">Med die hoerri' ende ouerspel anthieren.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Ghy hebt ghewent (zied) uwē mond tot noch</hi></l>
+<l><hi rend="i">Te spreken quaed: En ooc alle bedrogh</hi></l>
+<l><hi rend="i">Berockt ghy, deur u tonghen alder meest:</hi></l>
+<l><hi rend="i">Ghy schict u by d'ander quaede onbevreest</hi></l>
+<l><hi rend="i">Om te spreken ieghens uws naesten broeder</hi></l>
+<l><hi rend="i">Ende blameert den Zone van u Moeder.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Dese zaken bedreeft ghi, zeggh' ic u</hi></l>
+<l><hi rend="i">En ick hebt toch al verzweghen tot nu:</hi></l>
+<l><hi rend="i">Daer om meende ghy als-doen op dat pas</hi></l>
+<l><hi rend="i">Dat ic als ghy, oft uws ghelijcke was:</hi></l>
+<pb n="83"/>
+<l><hi rend="i">Maer ic zal u cuennen in alder vauwen</hi></l>
+<l><hi rend="i">Dies berispen in u, en elcx anschauwen.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Nu verstaet dat ghy die God gh'eelvergheett</hi></l>
+<l><hi rend="i">Op dat ic u niet en rooue eer ghijt weett,</hi></l>
+<l><hi rend="i">En vp dat ghi hulpeloos niet en blijft:</hi></l>
+<l><hi rend="i">Die my offert lof, my alle eer' toe schrijft</hi></l>
+<l><hi rend="i">En die desen wegh haudt, in al zijn zaken</hi></l>
+<l><hi rend="i">Zal ic laten wel God-zalicheyt smaken.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0029"/> </interpGrp>
+<head rend="h3"><hi rend="i">Miserere mei Deus.</hi>
+<lb/>
+Psalme. LI.</head>
+<p>Naer Vrias dood, Dauid bekennen̄ zijn zonden, beghaert van <hi rend="sc">God</hi> verghef, en dat hy hem zijnen helighen gheest sende om hem te bevvaren van meer te zondighen: pooghd hem om ander te leeren: en bidt voor Ierusalem d'helighe kaercke.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0044.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>Z<hi rend="i">ijd ghenadigh toch, my arme zondaer</hi></l>
+<l><hi rend="i">Almachtigh God, naer dijn bermherticheden,</hi></l>
+<l><hi rend="i">En wild uut doen alle mijn ouertreden</hi></l>
+</lg>
+<pb n="84"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0045.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">Naer u grootste medelyden eenpaer.</hi></l>
+<l><hi rend="i">Wascht my ô Heer', en erwascht my wel net</hi></l>
+<l><hi rend="i">Van mijn onreyn' ende vule mesdaden:</hi></l>
+<l><hi rend="i">En ic bid u zuuert my langhs om bet</hi></l>
+<l><hi rend="i">Van mijn zonden, boosheden, ende quaden.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">VVant ic beken' mijn ouertreden wel,</hi></l>
+<l><hi rend="i">Daegh'licx comt my te voren mijn quaed leuen,</hi></l>
+<l><hi rend="i">Ieghens u alleen heb ick quaed bedreuen</hi></l>
+<l><hi rend="i">Dat u Heere mes haeghde dede ic snel.</hi></l>
+<l rend="; 1tab"><note place="margin">Rom 3. a.</note> <hi rend="i">Maer doed, zo dat ghy meught bevonden zijn</hi></l>
+<l><hi rend="i">In u woordē rechtvaerdigh, en meught blijcken</hi></l>
+<pb n="85"/>
+<l><hi rend="i">Zuuer te zijn', nu en t' allen termijn</hi></l>
+<l><hi rend="i">In d'oordeelen, die ghy (Heere) zult strijcken.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Ziet in zonden ben ic ghegenereert</hi></l>
+<l><hi rend="i">Mijn Moeder ontfingh my zondigh int winnen:</hi></l>
+<l><hi rend="i">Maer ghy hebt lust tot de waerheyt van binnen</hi></l>
+<l><hi rend="i">Die verborghen wijsheit my declareert</hi></l>
+<l rend="; 1tab"><hi rend="i">Zuuert en maect my reyn van zonden al</hi></l>
+<l><hi rend="i">Med d'yzope van u Godlicke graci'</hi></l>
+<l><hi rend="i">Dan werd'ic reyn: Ia zoo wit ic zijn zal</hi></l>
+<l><hi rend="i">Als de snee magh wesen in comparaci'.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Laett my hooren, verstaen, en onderschee'n</hi></l>
+<l><hi rend="i">De zeer blide boedschap: vp dat haer meughen</hi></l>
+<l><hi rend="i">Mijn ghebeenten vermaken en verheughen</hi></l>
+<l><hi rend="i">Die ghy (Elaes) hebt ghebroken om tween.</hi></l>
+<l rend="; 1tab"><hi rend="i">O Heer' u aenzicht van mijn zonden wendt</hi></l>
+<l><hi rend="i">VVischt wt al mijn misdaed: wild in my maken</hi></l>
+<l><hi rend="i">Een zuuer hert', oock vernieut en̄ prentt</hi></l>
+<l><hi rend="i">In my eenen gheest, recht in alle zaken.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">En versteect my niet van u anschijn doch,</hi></l>
+<l><hi rend="i">Noch en onttrect my dynen gheest gheen tyen</hi></l>
+<l><hi rend="i">Maer gheeft my we'er uws zalicheits verblyen</hi></l>
+<l><hi rend="i">In den vryen gheest onderhaut my noch.</hi></l>
+<l rend="; 1tab"><hi rend="i">Zo zal ic u weghen dan leeren voort</hi></l>
+<l><hi rend="i">De ghuene die u ghebod ouerterden,</hi></l>
+<l><hi rend="i">En de zondaers, dit hebbende ghehoort,</hi></l>
+<pb n="86"/>
+<l><hi rend="i">Zullen tot u haer bekeerende werden.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">O Heere God, an wien ons welvaert leyt</hi></l>
+<l><hi rend="i">Verlost my van mijn bloed schuldighe zonden,</hi></l>
+<l><hi rend="i">Zo zal mijn tonghe moghen t'allen stonden</hi></l>
+<l><hi rend="i">Zinghen vroylick van uwe zalicheyt.</hi></l>
+<l rend="; 1tab"><hi rend="i">En opent mijn leppen in alder wijs</hi></l>
+<l><hi rend="i">So magh minen mond hem dan gaen bereeden</hi></l>
+<l><hi rend="i">Dine groot' eere glorie ende prijs</hi></l>
+<l><hi rend="i">Te vertellen, en by elc te verbreeden.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Ghy en neemt gheen behaghē (merck'ic bloot)</hi></l>
+<l><hi rend="i">Inden dienst van wtwendighe offranden</hi></l>
+<l><hi rend="i">Als beest-offer diese pleghen te branden,</hi></l>
+<l><hi rend="i">Anders gaeficx u, med hoopen zeer groot.</hi></l>
+<l rend="; 1tab"><hi rend="i">Maer d'offranden, die God behaghen meest</hi></l>
+<l><hi rend="i">Zijn, een verneert hert' in zijn eyghen crachten,</hi></l>
+<l><hi rend="i">Een ghebroken ziel' oft bedructen gheest</hi></l>
+<l><hi rend="i">Dese en zult ghy (ô Heere) niet verachten.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Doed wel an Syon, u beminde bruud,</hi></l>
+<l><hi rend="i">VVild vp maken, ende wederom bauwen</hi></l>
+<l><hi rend="i">Ierusalems mueren in alder vauwen</hi></l>
+<l><hi rend="i">Deur u goe' ionst'en ghewilligh virtuut.</hi></l>
+<l rend="; 1tab"><hi rend="i">Dan zullen u wel behaghen het deel</hi></l>
+<l><hi rend="i">Der gherechtighe offranden wt ghelesen,</hi></l>
+<l><hi rend="i">Den brand-offre en den offre gheheel,</hi></l>
+<l><hi rend="i">Dan zalmen u Ossen schinckende wesen.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+
+    <interpGrp> <interp type="song" value="heer001psal01_0030"/> </interpGrp><pb n="87"/>
+<head rend="h3"><hi rend="i">Misericordiam, &amp; iudicium cantabo.</hi>
+<lb/>
+Psalme. CI.</head>
+<p>Dauid noch in onrusten zijnde, belooft <hi rend="sc">God</hi>, van dat hy daer vvesen zal, den dienst te doene van een goed Prince, dat is te leuen zonder yemandt onghelijck te doene, quaed, ofte vvreedt te zyne, ende dat hy de goede verheffen zal.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0046.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>I<hi rend="i">C zal uut recht' oodmoedicheit gaen zinghen</hi></l>
+<l><hi rend="i">VVt oprechter herten, voor alle dinghen</hi></l>
+<l><hi rend="i">Zal ic dy Heer' offeren vry en vranck</hi></l>
+<l><hi rend="i">Lof ende danck.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Op den rechten wegh zal ic blyuen leeren,</hi></l>
+<l><hi rend="i">VVanneer zuldy u tot my toch keeren?</hi></l>
+<l><hi rend="i">Op dat ick wandel' in mijn woonste stecht</hi></l>
+<l><hi rend="i">Met thert' oprecht.</hi></l>
+<pb n="88"/>
+<l rend="; 1tab"><hi rend="i">Ic en zal dan niet quaeds willen an mercken</hi></l>
+<l><hi rend="i">VVant ic haet' alder boosen, quade wercken,</hi></l>
+<l><hi rend="i">En dier een zal ic niet voughen med my</hi></l>
+<l><hi rend="i">Noch commen by.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Een quaed opzettigh hert' oft zijn begheeren</hi></l>
+<l><hi rend="i">Sal ic t'alder tijt verre van my weeren,</hi></l>
+<l><hi rend="i">Ende en zal ooc niet een hinderlic man</hi></l>
+<l><hi rend="i">Voorts trecken an.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Die heymelic quaed spreect van zijnen naestē</hi></l>
+<l><hi rend="i">Zal ic te nieten doen al med der haesten:</hi></l>
+<l><hi rend="i">Herten groot en verhenen (zoo men zied)</hi></l>
+<l><hi rend="i">Lijde ic ooc niet.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Maer mijn ooghen zullen lieflick anschauwen</hi></l>
+<l><hi rend="i">Al die op d'aerde wandelen in trauwen,</hi></l>
+<l><hi rend="i">Op dat zi med my tot haer groot ghewin</hi></l>
+<l><hi rend="i">Dan wonen in.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Die wandelt opden rechten wegh, zal wezen</hi></l>
+<l><hi rend="i">Mijn dienaere, maer die bedrieghd, zied dezen</hi></l>
+<l><hi rend="i">Noch den loghenaer zal med my als gast</hi></l>
+<l><hi rend="i">Niet wonen vast.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Allen dagh zal ic my spoe'n om veriaeghen</hi></l>
+<l><hi rend="i">Zoo vele boose alsmen zied daerde draeghen</hi></l>
+<l><hi rend="i">Om te keeren van Gods huus voor altoos</hi></l>
+<l><hi rend="i">Al die zijn boos.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="heer001psal01_0031"/> </interpGrp>
+<pb n="89"/>
+<head rend="h3"><hi rend="i">Dixit Dominus Domino meo.</hi>
+<lb/>
+Psalme. CX.</head>
+<p>Dauid zinghd het Rijcke Christi, d'vvelc van Syon begõst en van daer quam tot de henden der aerden: Ende zal bliuen en achtervolghen tot dat Christus zy al om anghebeden, en̄ al zijn vianden hem zal ondervvorpen hebben.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0047.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>D<hi rend="i">En hooghsten God tot minen God en Heere</hi><note place="margin">Heb. 1. d.</note></l>
+<l><hi rend="i">Sprack: wild zitten tot mijnder rechter hand</hi></l>
+<l><hi rend="i">Tot dat ick dijn vianden stell' en keere Als</hi><note place="margin">Heb. 1. b. en 7. c.</note></l>
+<l><hi rend="i">schabellen dijnder voeten constant.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">God den Heere zal dan uut Syon zenden</hi></l>
+<l><hi rend="i">Den Septer van dijn forts' en groote cracht</hi></l>
+<l><hi rend="i">Om onder zijn vianden an all' henden</hi></l>
+<l><hi rend="i">Theerschappyen med alder vromer macht.</hi></l>
+<pb n="90"/>
+<l rend="; 1tab"><hi rend="i">Vlietich zal u dijn volc ten dienste wezen,</hi></l>
+<l><hi rend="i">Als ghy u zult vertoonen cierlic al,</hi></l>
+<l><hi rend="i">En als den dau, des morghens is gherezen</hi></l>
+<l><hi rend="i">Dijn iueghd in dijn kindren voortcommen zal.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><note place="margin">Heb. 7.c.</note> <hi rend="i">Den Heere die heeft by heede ghezworen</hi></l>
+<l><hi rend="i">(D'welc hem niet rauwen zal) en heeft ghezeyt:</hi></l>
+<l><note place="margin">Heb. 5. b. en. 7.</note> <hi rend="i">Naer d'orden van Melchizedech vercoren</hi></l>
+<l><hi rend="i">Zijt ghy een Priester in der eeuwicheyt.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">God es t'uwer rechter hand t'allen stonden</hi></l>
+<l><hi rend="i">Als een recht hulper in al dynen nood,</hi></l>
+<l><hi rend="i">En zal (wanneer hy zeer gram werd bevonden)</hi></l>
+<l><hi rend="i">De boose Coninghen brijnghen ter dood.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Hy zal ooc ouer d'heydenen doen wrake</hi></l>
+<l><hi rend="i">Haer vullen med doode Lichaemen gh'eel</hi></l>
+<l><hi rend="i">En zal slaen (van zonde nemende oorzake)</hi></l>
+<l><hi rend="i">Thooft van een zeer groot Land, en̄ zijn deel.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Hy zal moghen drijncken van die bloed bekē</hi></l>
+<l><hi rend="i">Te wylent hi ouer den wegh zal gaen,</hi></l>
+<l><hi rend="i">Daerom zal hy ooc zijn hooft rasch vp steken</hi></l>
+<l><hi rend="i">Als verwinder zijnder vianden zaen.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="heer001psal01_0032"/> </interpGrp>
+<head rend="h3"><hi rend="i">Laudate pueri Dominum.</hi>
+<lb/>
+Psalme. CXIII.</head>
+<p>Dauid vervvect <hi rend="sc">God</hi> te louen, van vveghen dat hy alle zaken bevvaert, en bevveeght naer zijn voorzienicheyt, altijt d'oodmoedighe verheffende en d'ellendighe oprechtende.</p>
+<pb n="91"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0048.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>G<hi rend="i">Hy dienaeren des Heeren goet, Looft hem</hi></l>
+<l><hi rend="i">prijst zijnen name zoet Die daer ghebene-</hi></l>
+<l><hi rend="i">dijt moet wesen Van nu voort, en̄ t'alder tijdt:</hi></l>
+<l><hi rend="i">Van oost tot west breet ende wijt Zoo is zij-</hi></l>
+<l><hi rend="i">nen name gheprezen.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Hoogh is verheuen God den Heer</hi></l>
+<l><hi rend="i">Bouen alle gheslachten zeer,</hi></l>
+<l><hi rend="i">En zijn eere die strect haer mede</hi></l>
+<l><hi rend="i">Ouer alle d'Hemelen rijck,</hi></l>
+<l><hi rend="i">VVie is ons Heere God ghelijc</hi></l>
+<l><hi rend="i">VVonende in d'alder hooghste stede?</hi></l>
+<pb n="92"/>
+<l rend="; 1tab"><hi rend="i">Die verneert en booght hem om zien</hi></l>
+<l><hi rend="i">Hemel eerde en ooc alle lien</hi></l>
+<l><hi rend="i">Die d'ellendighe helpt wt den sande,</hi></l>
+<l><hi rend="i">En den aermen wt den dreck snoot,</hi></l>
+<l><hi rend="i">Doende hem zitten by Princen groot</hi></l>
+<l><hi rend="i">Heeren van zinen volck en lande.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Hy eyst die huusghezinne iont</hi></l>
+<l><hi rend="i">Die ontvruchtbaer was langhe stondt,</hi></l>
+<l><hi rend="i">Haer maekende, deur zijn ghenade</hi></l>
+<l><hi rend="i">Dat zi diuersche kinders baert</hi></l>
+<l><hi rend="i">Dies zi verblijdt, die was beswaert:</hi></l>
+<l><hi rend="i">Looft dan den Heere vrouch en spade.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="heer001psal01_0033"/> </interpGrp>
+<head rend="h3"><hi rend="i">Laudate Dominum omnes.</hi>
+<lb/>
+Psalme. CXVII.</head>
+<p>Vervveckinghe tot alle volcke om <hi rend="sc">God</hi> te louen, om de goedheit hemlien bevvesen en de vvaerheit diese bevvaert altijdt.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0049.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>A<hi rend="i">Ll' Heydenen den Heere prijst, Alle volck</hi></l>
+<l><hi rend="i">hem eere bewijst: VVant zijn bermhertich</hi>-</l>
+</lg>
+<pb n="93"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0050.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">eit zeer groot Is ouer ons ghebleken bloot:</hi></l>
+<l><hi rend="i">En zijn waerheit eeuwelic blijft Dies God dē</hi></l>
+<l><hi rend="i">Heere lof toe schrijft.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="heer001psal01_0034"/> </interpGrp>
+<head rend="h3"><hi rend="i">Beati omnes qui timent dominum.</hi>
+<lb/>
+Psalme. CXXVIII.</head>
+<p>Dauid zeghd, dat zy, die ten rechten <hi rend="sc">God</hi> vreesen en beminnen, zaligh zijn, en beschrijft de vveldaden des huwelics.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0051.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>Z<hi rend="i">Aligh is hy bevonden Die vreest den Heere</hi></l>
+<l><hi rend="i">goed, En wandelt t'allen stonden In al zijn</hi></l>
+<l><hi rend="i">weghen zoet. Die al zulck zijt, zult leuen.</hi></l>
+</lg>
+<pb n="94"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0052.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">By dijn handwerckē zaen, En zaligh hier be-</hi></l>
+<l><hi rend="i">neuen Zullen dijn zaecken gaen.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">VVant dijn huusvrau' al voren</hi></l>
+<l><hi rend="i">Zal wezen zo vruchtbaer</hi></l>
+<l><hi rend="i">Als den wijngaert vercoren</hi></l>
+<l><hi rend="i">Hem vutspreende hier en daer.</hi></l>
+<l rend="; 1tab"><hi rend="i">Ghy zult zien staen en blijuen</hi></l>
+<l><hi rend="i">Rontsom dyn Tafel bloot</hi></l>
+<l><hi rend="i">Als plantgens van Olijuen</hi></l>
+<l><hi rend="i">Dijn kinders cleen en groot.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Sied dit zijn de weldaden</hi></l>
+<l><hi rend="i">De welck' hy hebben zal</hi></l>
+<l><hi rend="i">Die (vliedende alle quaden)</hi></l>
+<l><hi rend="i">Den Heere vreest voor al.</hi></l>
+<l rend="; 1tab"><hi rend="i">Van Syon zal u d'Heere</hi></l>
+<l><hi rend="i">VVeldoen en zult deur hem</hi></l>
+<l><hi rend="i">Zien al uwen tijd zeere</hi></l>
+<l><hi rend="i">VVelvaeren Ierus'lem.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">En ghy zuld ooc anschauwen</hi></l>
+<l><hi rend="i">Dijn kindskinderen wel,</hi></l>
+<pb n="95"/>
+<l><hi rend="i">En pays in alder vauwen</hi></l>
+<l><hi rend="i">Ouer gheel Israël.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="heer001psal01_0035"/> </interpGrp>
+<head rend="h3"><hi rend="i">De profundis clamaui.</hi>
+<lb/>
+Psalme. CXXX.</head>
+<p>Hertelicke ghebeden, van die deur zijn zonden, veel aenstoots heeft: nochtans deur vaste hope ghetroost hem, van verghef zijnder zonden t'ontfanghen, en verlossijnghe van zijn quaden.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0053.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="b">W</hi><hi rend="i">T tdiepste mijnder herten D'welck is ver</hi></l>
+<l><hi rend="i">laden nu Met ellendigher smerten Roup'</hi></l>
+<l><hi rend="i">ick Heere tot u, Aenhoort my hier beneden</hi></l>
+<l><hi rend="i">Buughende u ooren snel Tot mijn clacht'</hi></l>
+<l><hi rend="i">en ghebeden, O God van Israël.</hi></l>
+<pb n="96"/>
+<l rend="; 1tab"><hi rend="i">Maer zijdy gade slaende</hi></l>
+<l><hi rend="i">S'menschen zonden gheheel</hi></l>
+<l><hi rend="i">VVye zal toch bliuen staende</hi></l>
+<l><hi rend="i">In u oprecht oordeel?</hi></l>
+<l rend="; 1tab"><hi rend="i">Nu is by u waerachtich</hi></l>
+<l><hi rend="i">Verghef tot ons gherief</hi></l>
+<l><hi rend="i">Vp datmen u eendrachtich</hi></l>
+<l><hi rend="i">Vrees' ende oock hebbe lief.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Ick verbeyde den Heere</hi></l>
+<l><hi rend="i">Alzoo mijn ziel' ooc doet,</hi></l>
+<l><hi rend="i">En in zijn woord oft leere</hi></l>
+<l><hi rend="i">Heb ic hoep' ende moed.</hi></l>
+<l rend="; 1tab"><hi rend="i">Mijn ziel'vp God alleene</hi></l>
+<l><hi rend="i">VVacht, merct, ende ooc aenschaut</hi></l>
+<l><hi rend="i">Van den morghenstont cleene</hi></l>
+<l><hi rend="i">Tot dat den dagh verflaut.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Dat Isr'el vrough en spade</hi></l>
+<l><hi rend="i">Rust'vp den Heere bloot:</hi></l>
+<l><hi rend="i">VVant by hem is ghenade,</hi></l>
+<l><hi rend="i">En verlossijnghe groot.</hi></l>
+<l rend="; 1tab"><hi rend="i">Tis die in tijd en stonden</hi></l>
+<l><hi rend="i">Zijn volc Israël zal</hi></l>
+<l><hi rend="i">Verlossen van de zonden</hi></l>
+<l><hi rend="i">En haer boosheden al.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="heer001psal01_0036"/> </interpGrp>
+<pb n="97"/>
+<head rend="h3"><hi rend="i">Ecce quam bonum.</hi>
+<lb/>
+Psalme. CXXXIII.</head>
+<p>Daer en is niet dierbaerder noch bequaemer dan vrede en eendracht, als zy in den naeme <hi rend="sc">Gods</hi> worden ghehouwen.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0054.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>O<hi rend="i">Ch ziet hoe schoon lieflick en anghename</hi></l>
+<l><hi rend="i">Eyst t'anschauwen dat in accord bequame</hi></l>
+<l><hi rend="i">Broeders tsamen wonende zijn! Tis als een</hi></l>
+<l><hi rend="i">vutghestorte zalue fijn Op Aarons hooft,</hi></l>
+<l><hi rend="i">die van den baerd vloyt voort Tot in de</hi></l>
+<l><hi rend="i">cleeren, en den boort.</hi></l>
+</lg>
+<pb n="98"/>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Dit is ooc by den dau wel te ghelijcken</hi></l>
+<l><hi rend="i">Die op den bergh Hermon valt alst magh blijckē</hi></l>
+<l><hi rend="i">En op die berghen Syon daelt.</hi></l>
+<l rend="; 1tab"><hi rend="i">Daer al zulck' eendrachticheyt niet en faelt</hi></l>
+<l><hi rend="i">Heeft den Heere zijnen seghen gheleyt</hi></l>
+<l><hi rend="i">Om leuen inder eeuwicheyt.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="heer001psal01_0037"/> </interpGrp>
+<head rend="h3"><hi rend="i">Ecce nunc benedicite Domine.</hi>
+<lb/>
+Psalme. CXXXIIII.</head>
+<p>Hy vermaent de Priesters heurlieder beste te doene in haren dienst, hemlieden verzekerende van de ionste <hi rend="sc">Gods</hi>.</p>
+<p><figure>
+<p><xptr to="heer001psal01ill0055.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>N<hi rend="i">V wel an God den Heere prijst Ghy alle</hi></l>
+<l><hi rend="i">die hem dienst bewijst, Die snachts (als</hi></l>
+<l><hi rend="i">oocsdaegs) bid en waect In het huus des Hee</hi></l>
+<l><hi rend="i">ren volmaect.</hi></l>
+</lg>
+<pb n="99"/>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Heft op dyn handen alle gaer,</hi></l>
+<l><hi rend="i">Looft verheft ende danct eenpaer</hi></l>
+<l><hi rend="i">God den Heere van grooter macht</hi></l>
+<l><hi rend="i">In zinen temple heligh gheacht.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Den Heere die daer schiep expres</hi></l>
+<l><hi rend="i">Hemel eerde en al datter es</hi></l>
+<l><hi rend="i">Gheue u van Syon (zoo hy zal)</hi></l>
+<l><hi rend="i">Sijn weldaden en ghoeden al.</hi></l>
+</lg>
+<p>❧ Hende der Psalmen. ☙</p>
+</div>
+<div type="chapter">
+    <interpGrp> <interp type="song" value="heer001psal01_0038"/> </interpGrp>
+<head rend="h3">De thien Gheboden Gods,
+<lb/>
+zoo die in Exod. staen.</head>
+<p><figure>
+<p><xptr to="heer001psal01ill0056.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="b">H</hi><hi rend="i">Eft op dijn hert' doet open d'ooren</hi></l>
+<l><hi rend="i">En ontfanght de gheboden goet Van u Heer'</hi></l>
+<l><hi rend="i">en God en alvooren Op dat ghy die we-</hi></l>
+<l><hi rend="i">tende doet.</hi></l>
+</lg>
+<pb n="100"/>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Ic ben zeyt hi, dijn God almachtich</hi></l>
+<l><hi rend="i">Die u van slauen maecte vry,</hi></l>
+<l><hi rend="i">Ende brocht wt Egypten crachtigh:</hi></l>
+<l><hi rend="i">Hebt gheen vremde Goden voor my.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Ghy zult u gheene beelden maken</hi></l>
+<l><hi rend="i">Van yet watmen ooc nommen can,</hi></l>
+<l><hi rend="i">Om t'anbidden tzy in wat zaken,</hi></l>
+<l><hi rend="i">VVant zeer ialours ben ic daer van.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Ghy en zult minen Naem' ghepresen</hi></l>
+<l><hi rend="i">Niet nommen in ydelheyt groot:</hi></l>
+<l><hi rend="i">VVant hy zal niet ontsculdigh wesen</hi></l>
+<l><hi rend="i">Die hem ghebruucken zonder nood.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Zes daghen zuldy doen u wercken</hi></l>
+<l><hi rend="i">Den zeuensten dagh rust en viert:</hi></l>
+<l><hi rend="i">VVant desen dagh (zoo ghy mooghd mercken)</hi></l>
+<l><hi rend="i">Heeft God zelfs med rusten verciert.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">VVilt Vader Moeder eere gheuen</hi></l>
+<l><hi rend="i">Dat is die mindt helpt en vernoughd</hi></l>
+<l><hi rend="i">Op dat ghy mooghd hier langhe leuen</hi></l>
+<l><hi rend="i">Op der aerden daer God u voughd.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">Slaet niet dood in eenigher vauwt</hi></l>
+<l><hi rend="i">Vliedt all' hoeri' en ouerspel.</hi></l>
+<l><hi rend="i">Steelt ooc niet, noch doed gheen ontrauwe.</hi></l>
+<l><hi rend="i">En zijt gheen valsch ghetuughe fel.</hi></l>
+<pb n="101"/>
+<l rend="; 1tab"><hi rend="i">Ghy en zuld ooc gheensins beghaeren</hi></l>
+<l><hi rend="i">Eens anders wyf, huus, ghoed noch knecht</hi></l>
+<l><hi rend="i">Dienst-maeghd, noch niet dat hem mach daeren</hi></l>
+<l><hi rend="i">VVant dat begaren is onrecht.</hi></l>
+<l>&nbsp;</l>
+<l rend="; 1tab"><hi rend="i">O Heere zijt ons zoo ghenadigh</hi></l>
+<l><hi rend="i">Dat wy uut dijnder liefde altijt</hi></l>
+<l><hi rend="i">Naer dyne wet leuen ghestadigh</hi></l>
+<l><hi rend="i">T'uwer eeren, en t'elx profijt.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0039"/> </interpGrp>
+<head rend="h3">¶ De xij. Articulen des Christen gheloofs.</head>
+<p><figure>
+<p><xptr to="heer001psal01ill0057.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>I<hi rend="i">Ck gheloof' vast in God den Vader goet</hi></l>
+<l><hi rend="i">Die Schepper is, almachtigh ende vroet</hi></l>
+<l><hi rend="i">Van Hemel, aerde, en al dat wonder werck.</hi></l>
+<l><hi rend="i">Ick ghelooue oock in Iesum Christum sterc,</hi></l>
+</lg>
+<pb n="102"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0058.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">Sijn eenigh Zone onsen Heere, die daer</hi></l>
+<l><hi rend="i">Ontfanghen is van d'heylighen Gheest: maer</hi></l>
+<l><hi rend="i">Gheboren uut de Maeghd Maria reyn.</hi></l>
+<l><hi rend="i">Benautt, ghecruust, onder Pylatus treyn.</hi></l>
+<l><hi rend="i">Die starf de doot, begrauen werd expres.</hi></l>
+<l><hi rend="i">Ne'erdaelde in d'hell', en we'er op ghestaen es</hi></l>
+<l><hi rend="i">Al vander doot den derden dagh warachtigh:</hi></l>
+</lg>
+<pb n="103"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0059.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">Zitt ter recht' hād zijns Vaders God almachtigh:</hi></l>
+<l><hi rend="i">Van daer dat hy wederom commen zal</hi></l>
+<l><hi rend="i">Om t'ordeelen leuende en dooden al.</hi></l>
+<l>I<hi rend="i">Ck ghelooue in den heilighen Gheest mede</hi></l>
+<l><hi rend="i">Een al ghemeyn' heilighe kerck' Gods stede</hi></l>
+<l><hi rend="i">Daer af Christus thooft is, welck is bevonden</hi></l>
+<l><hi rend="i">Der Heilighē ghemeenschap, daer van zondē</hi></l>
+</lg>
+<pb n="104"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0060.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">Is vergheffenisse, en oock nerghensel.</hi></l>
+<l><hi rend="i">Ick ghelooue oock des vleeschs verrisen snel,</hi></l>
+<l><hi rend="i">En hier naer een eeuwigh leuen en aeruen,</hi></l>
+<l><hi rend="i">Dits mijn ghelooue en daer in wil' ic staruen.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0040"/> </interpGrp>
+<head rend="h3">T'ghebet ons Heeren.
+<lb/>
+Pater noster.</head>
+<p><figure>
+<p><xptr to="heer001psal01ill0061.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>O<hi rend="i">NS Vader die in die Hemelen zijt,</hi></l>
+<l><hi rend="i">Och gheheylicht zy dynen Naem' altijt!</hi></l>
+</lg>
+<pb n="105"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0062.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">Dijn rijck' zy ons toecommende en̄ naer,</hi></l>
+<l><hi rend="i">Ende gheschie'n moet dinen will' eenpaer</hi></l>
+<l><hi rend="i">Op aerderijck' als in des Hemelsch steden.</hi></l>
+<l><hi rend="i">Ons daegh'lics brood, wild ons verleenē heden</hi></l>
+<l><hi rend="i">En vergheeft ons; ons schulden, zoo wy wel</hi></l>
+<l><hi rend="i">Ons schuldenaers de schuld vergheuen snel.</hi></l>
+<l><hi rend="i">En laett ons niet in becoringhen vallen:</hi></l>
+</lg>
+<pb n="106"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0063.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l><hi rend="i">Maer verlost eer, vanden quaden, ons allen:</hi></l>
+<l><hi rend="i">Want u behoort dat rijck' d'eer' en de cracht</hi></l>
+<l><hi rend="i">Van eenwicheit t'eeuwicheit (tsi volbracht.)</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0041"/> </interpGrp>
+<head rend="h3">De Inghelicke groete.
+<lb/>
+Aue Maria.</head>
+<lg type="poem">
+<l>Z<hi rend="i">IIT ghegroett ô Maghet Marie</hi>,</l>
+<l><hi rend="i">Vol van gratien sonder ghetal,</hi></l>
+<l><hi rend="i">Den Heer' is met u t'allen tye,</hi></l>
+<l><hi rend="i">Ghezeghent zidy bouen al</hi></l>
+<l><hi rend="i">Dat vrauwelick heett, en hier beneuen</hi></l>
+<l><hi rend="i">Is ghezeghent heiligh en reyn</hi></l>
+<l><hi rend="i">De vrucht dijns lichaems hoogh verheuen</hi></l>
+<l><hi rend="i">Iesus Christus: dit is certeyn.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0042"/> </interpGrp>
+<head rend="h3">Nunc dimittis seruum tuum Domine.</head>
+<pb n="107"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0064.gif"/></p>
+</figure></p>
+<lg type="poem">
+<l>N<hi rend="i">V laett Heer' uwen knecht In pays rusten</hi></l>
+<l><hi rend="i">te recht Naer dijn woord en belouen: Wāt</hi></l>
+<l><hi rend="i">mijn ooghē(voorwaer) Ghesiē hebbē seer claer</hi></l>
+<l><hi rend="i">Dijn zalicheit van bouen.</hi></l>
+</lg>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Die ghibereedt laett zien</hi></l>
+<l><hi rend="i">Voor t'anschijn alder lie'n,</hi></l>
+<l><hi rend="i">Een licht, lichtende zeere</hi></l>
+<l><hi rend="i">D'heydenen ouer al;</hi></l>
+<l><hi rend="i">En d'welc ooc wesen sal</hi></l>
+<l><hi rend="i">Van dijn volck Isr'ël d'eere.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0043"/> </interpGrp>
+<head rend="h3">De benedictie voor de Maeltijt.</head>
+<p><figure>
+<p><xptr to="heer001psal01ill0065.gif"/></p>
+</figure></p>
+<pb n="108"/>
+<lg type="poem">
+<l>O<hi rend="i">pperste herder, Heere God vul ghenaeden</hi></l>
+<l><hi rend="i">Slaet u ooghen op dees u schaepkins cleen,</hi></l>
+<l><hi rend="i">En oock met u goeden wildse verzaeden:</hi></l>
+<l><hi rend="i">Laett onbetaemlicken lust van ons schee'n,</hi></l>
+<l><hi rend="i">Verleenende ons, onsen noodurft alleen,</hi></l>
+<l><hi rend="i">Bidden wy deur hem, die om ons behoedsel</hi></l>
+<l><hi rend="i">Een lichaem aen nam, oock subiect het voedsel.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0044"/> </interpGrp>
+<head rend="h3">Gratie naer de Maeltijdt.</head>
+<lg type="poem">
+<l>H<hi rend="i">Emelsch Vader die ons leerd in dit leuen</hi></l>
+<l><hi rend="i">Gheen zorgh' t'hebben als de vrecke natie</hi></l>
+<l><hi rend="i">Voor de weldaed, die ghy ons hebt ghegheuen</hi></l>
+<l><hi rend="i">Bedancken wy u ter deser spatie:</hi></l>
+<l><hi rend="i">En naer dient u belieft heeft uut gratie</hi></l>
+<l><hi rend="i">Te verzaene ons lichaem med aerdsche goeden,</hi></l>
+<l>W<hi rend="i">ild ooc met dijn hemelsch brood õs ziel' voedē.</hi></l>
+</lg>
+<p><hi rend="i">Finis.</hi></p>
+<p><figure>
+<p><xptr to="heer001psal01ill0066.gif"/></p>
+</figure></p>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="heer001psal01_0045"/> </interpGrp>
+<pb n="109"/>
+<head rend="h3">Den Pater noster uut gheleyt, naer tverstandt der heylighe Doctoren.</head>
+<lg type="poem">
+<l>O <hi rend="i">Eeuwigh God die ons Vadere zijt</hi></l>
+<l><hi rend="i">Van weghē dijns Zoons onsen Heer' almachtigh,</hi></l>
+<l><hi rend="i">Die uut ghenaden is ter zeluer tijt</hi></l>
+<l><hi rend="i">Ons broeder worden, makende ons warachtigh</hi></l>
+<l><hi rend="i">Van u vianden dijn kinders een drachtigh:</hi></l>
+<l>W<hi rend="i">y bidden dat dijnen heylighen Naem'</hi></l>
+<l><hi rend="i">Van ons gh'eylicht zy, dat u zy bequaem'.</hi></l>
+<l rend="; 1tab"><hi rend="i">V rijck d'welc van de weerelt niet en es,</hi></l>
+<l><hi rend="i">Sy ons toecommende (ô ghenadigh vader)</hi></l>
+<l><hi rend="i">Gheeft dat ghy in ons alder hert' expres</hi></l>
+<l><hi rend="i">Mueght wonen, deur dynen gheest ons berader,</hi></l>
+<l><hi rend="i">Als meester, werckende-in ons teenegader</hi></l>
+<l><hi rend="i">Al dat tot dijns rijcx kinderen behoort</hi></l>
+<l><hi rend="i">Op dat wy vlie'n sviands rijck' vul discoort.</hi></l>
+<l rend="; 1tab"><hi rend="i">Dynen wille heyligh, oprecht ende goed</hi></l>
+<l><hi rend="i">(VVaer zonder men niet goeds en can begheerē)</hi></l>
+<l><hi rend="i">Laett gheschie'n in ons, al wilt vleesch en bloed</hi></l>
+<l><hi rend="i">Daer teghen willende, uwen wille weeren,</hi></l>
+<l><hi rend="i">Om u t'obedieren in alle affairen</hi></l>
+<l><hi rend="i">Op d'aerde, alzoott u is obedient</hi></l>
+<l><hi rend="i">Ghewilligh'lic in s Hemels regement.</hi></l>
+<l rend="; 1tab"><hi rend="i">Gheeft ons heden (want wy en moghen niet</hi></l>
+<l><hi rend="i">Zorghen voorder, ghelijc de vrecke leuen)</hi></l>
+<l><hi rend="i">Ons daghelicx brood, dat is, (naer u bedied)</hi></l>
+<l><hi rend="i">Gheeft al dat onsen noodurft mach ancleuen:</hi></l>
+<pb n="110"/>
+<l><hi rend="i">Maer by zonder wild ons ionnen, en gheuen</hi></l>
+<l><hi rend="i">Tbrood dijns heiligs woorts, d'welc ons õderwijst,</hi></l>
+<l><hi rend="i">En waer by ons ziele magh werden ghespijst.</hi></l>
+<l rend="; 1tab"><hi rend="i">Och God bekennende ons schuld ende quaed</hi></l>
+<l><hi rend="i">Die ons (gheschiede ons recht) zoudē verdommē</hi></l>
+<l><hi rend="i">Bidden wy u, schelt quijt al ons mesdaet</hi></l>
+<l><hi rend="i">Soo wy doen, die wy ons schuldenaers nommen:</hi></l>
+<l><hi rend="i">Maer wilt ons hier ooc in te goede commen</hi></l>
+<l><hi rend="i">Gheuende ons dat wy uut der herten grond</hi></l>
+<l><hi rend="i">Die ons schuldich zijn quijt schelden ter stond.</hi></l>
+<l rend="; 1tab"><hi rend="i">Laett ons niet vallen in verzouckinghe toch</hi></l>
+<l><hi rend="i">Daer wy van naturen zijn toe gheneghen,</hi></l>
+<l><hi rend="i">Daer toe den viand ons treckende is noch,</hi></l>
+<l><hi rend="i">Ooc tvleesch en de weerelt, die ons zijn teghen,</hi></l>
+<l><hi rend="i">Op dat wi niet en vallen van u weghen:</hi></l>
+<l><hi rend="i">Maer verlost ons vanden quaden zeer loos</hi></l>
+<l><hi rend="i">Med al dat hem angaet, ergh ende boos.</hi></l>
+<l rend="; 1tab"><hi rend="i">Met vast betrauwen doen wy dit ghebet</hi></l>
+<l><hi rend="i">VVant uwe behoort toe het rijcke alleene</hi></l>
+<l><hi rend="i">En hebt de macht, om dat te gheuen met</hi></l>
+<l><hi rend="i">Dies b'hoort u ooc toe d'eere groot en cleene</hi></l>
+<l><hi rend="i">Niet alleene nu, maer oock int ghemeene</hi></l>
+<l><hi rend="i">Van inder eeuwicheit, tot eeuwicheit</hi></l>
+<l><hi rend="i">Dies werd van ons Amen gheseit.</hi></l>
+</lg>
+<p><hi rend="i">FINIS.</hi></p>
+<p><figure>
+<p><xptr to="heer001psal01ill0067.gif"/></p>
+</figure></p>
+</div>
+<div type="chapter">
+
+<pb n="111"/>
+<head rend="h3">Den Autheur tot den Lezer, oft zangher.</head>
+<p>BEminde Lezer oft Zāgher, en vvild u niet quetsen an de Synalephe, dat is die e, vvelcke niet gepronunchiert en vvord alsser een vocale naer volgt: ghelijck by exemple in den tvveeden Psalme:</p>
+<p><hi rend="i">Onderwin den de haer een verloren pijne.</hi></p>
+<p>Dit en mueghdy maer voor xj. syllaben langh achten: vvant die e, an d'hende van dvvoord <hi rend="i">onderwindende</hi> en is niet mede ghetelt, om dat zy haren soon verliest deur de naervolghen̄ vocale a, vvant de h en belett de vocale niet. Ende ic hadde lieuer al om de e laeten staen, mids datse al om behoort te staene in zulcker voughe, hadde ic die niet somtijts ghevveert, om de ghene die dese maniere noch niet ghevvone en zijn: Hoe vvel nochtans zulcx med ons ghemeene uutspreken ouer comt, alzoo oock med d'oude ghebruuck der Griecken, ende andere. Van de vvelcke ick ooc gheleert hebbe die vercortijnghe van vvoorden, als stellende qua' voor quade, oock van tvvee vvoorden een te maken, een lettre in den middel uutnemende, als d'heere voor de heere: vvaer op ick een apostrophe ghestelt hebbe, om te tooghen datter niet by versvvijmtheit oft on vvetentheit achter ghelaten en is: maer uut de vryheit die de Poëten toebehoort. Alzoo ooc indien ghy yet anders ghemoett dat u ten eersten niet vvel in d'oore en clijnct, bedijnct eer ghijt berespt voorsichtelick oftet niet beter en zoude moghen verstaē zijn, dant u te vooren comt, op dat ghy u zeluē niet te cort en doed, med te berispen dat in hem zeluen te verontschuldighē is. Voorts dese eenvaudicheit hier in bevvarende, zoo verbetert vry desen mijnē aerbeit, indien ghy meerder gauen van den Heere ontfangē hebt, dē vvelckē zy met u, en̄ met ons allē.</p>
+<pb n="112"/>
+<p><figure>
+<p><xptr to="heer001psal01ill0068.gif"/></p>
+</figure></p>
+</div>
+</body>
+</text>
+
+</TEI.2>

@@ -1,0 +1,2106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "http://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Den Sendtbrief Pauli tot den Romeynen</title>
+                <title type="subordinate">op stichtsanghen gheset</title>
+                <author>Johan Fruytiers</author>
+                    </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Den Sendtbrief Pauli tot den Romeynen, op stichtsanghen gheset</hi> van Johan Fruytiers in de eerste druk uit 1582.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr>fol. A2r: de kop ‘[Mathijs van Creenburch]’ is tussen vierkante haken toegevoegd.</corr>
+                                              
+                        <corr> in het origineel zitten de folia C1v, C2r, D2v en D3r op de verkeerde plek ingebonden. Deze folia zijn hier op de juiste plek geplaatst.</corr>
+                        <corr>fol. B8v: het foutieve strofenummer 14 is verbeterd in 4.</corr>
+                        <corr>fol. D4v: een deel van de tekst is onleesbaarhier is [...] geplaatst: Cortelingh' onder de v[...]en vertreden’.</corr>                            
+                        <corr>fol. D4v: een deel van de tekst is moeilijk leesbaar, het is hier opgelost tussen vierkante haken: ‘Het openbaert hem, en is scho[on o]ntdect.’
+                        </corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan section="1" type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+                <scan type="fol2">
+                    <empty-page>A1v</empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">fruy001send01_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2013 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note>DSOLmetadata:yes</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar universiteitsbibliotheek Leiden, signatuur: 1498 E 16</idno>
+                </bibl>
+                <p>Johan Fruytiers, <hi rend="i">Den Sendtbrief Pauli tot den Romeynen, op stichtsanghen gheset</hi>. Jan Paedts Jacobszoon, Leiden 1582</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Den Sendtbrief Pauli tot den Romeynen</title>
+                <title type="subordinate">op stichtsanghen gheset</title>
+                <author>Johan Fruytiers</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Den Sendtbrief Pauli tot den Romeynen</title>
+                <title type="subordinate">op stichtsanghen gheset</title>
+                <author>Johan Fruytiers</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2012-12-13</date>
+                <respStmt>
+                    <name type="person">RK</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+ <cf>   <div type="chapter">   
+
+
+<p><hi rend="i">Jan Fruytiers</hi></p>
+<p>&nbsp;</p>
+<p><hi rend="i">Den Sendtbrief Pauli</hi></p>
+<p><hi rend="i">tot den Romeynen</hi></p>
+<p>&nbsp;</p>
+<p><hi rend="i">Leiden</hi></p>
+<p><hi rend="i">Jan Paedts Jacobszoon</hi></p>
+<p><hi rend="i">1582</hi></p>
+<pb ed="fol." n="A1r"/>
+<p>&nbsp;</p>
+<p>C Den Sendtbrief </p>
+<p>Pauli tot den Romeynen, op</p>
+<p>stichtsanghen gheset, nemende daer toe</p>
+<p>de bequaemste veerskens ghelijck die by ghe-</p>
+<p>tale besijden aen gheteeckent zijn, ende </p>
+<p>oock de bequaemste voysen der</p>
+<p>Psalmen, seer profijtich</p>
+<p>en<hi rend="i">de</hi> stichtelijck voor</p>
+<p>alle menschen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Nv eerstmael op dicht ghestelt, door Ian Fruytier.</hi></p>
+<p>&nbsp;</p>
+<p>[vignet]</p>
+<p>&nbsp;</p>
+<p><hi rend="i">TOT LEYDEN,</hi></p>
+<p>&nbsp;</p>
+<p>By Jan Paedts Jacobszoon, woonende aen</p>
+<p>de breede straet, in de gulden Paet</p>
+<p>&nbsp;</p>
+<p>Anno M. D. L. X X X I I.</p>
+       </div> </cf>
+
+       
+<div type="chapter">
+    <interpGrp>
+        <interp type="primair" value="cree007"/>
+    </interpGrp>
+    <pb ed="fol." n="A2r"/>
+<head rend="h3"><hi rend="i">[Mathijs va</hi>n<hi rend="i"> Creenburch</hi>]</head>
+<lg type="poem"><l><hi rend="i">Mathijs va</hi>n<hi rend="i"> Creenburch, factoor der Witt' Acoleye</hi>n<hi rend="i">,</hi></l>
+<l><hi rend="i">Inden naem van Rethorica, hy protesteert</hi></l>
+<l><hi rend="i">Tegens de doot, die Jan Fruytiers heeft doe</hi>n<hi rend="i"> verscheye</hi>n</l>
+<l><hi rend="i">Van lichaem en siel, en wt dees werelt gheweert.</hi></l>
+</lg>
+<lg type="poem"><l><hi rend="i">O Onstuerighe doot, moordadich, trots en fier,</hi></l>
+<l><hi rend="i">Ghi die met gevvelt, ons onthaelt hebt, seer subijtelijc</hi></l>
+<l><hi rend="i">De</hi>n<hi rend="i"> vrome</hi>n<hi rend="i"> en vvel geleerde</hi>n<hi rend="i">, Iohan Fruytier,</hi></l>
+<l><hi rend="i">Dan zijn goede faem, hebt ghy moeten laten hier,</hi></l>
+<l><hi rend="i">En zijn geschreuen boecken, die elck zijn profijtelijck:</hi></l>
+<l><hi rend="i">Ick protesteer (teghens v) so verr' 'tnoch is tijtelijck</hi></l>
+<l><hi rend="i">Om te appelleeren, voor het opperste recht:</hi></l>
+<l><hi rend="i">So niet, ick sal my laten reliueren vlijtelijck:</hi></l>
+<l><hi rend="i">En by mandament, of reformatie slecht,</hi></l>
+<l><hi rend="i">Versoecken inhibitie, alsomen plecht</hi></l>
+<l><hi rend="i">Ten Hoof te procederen, en vvel is ghevvone,</hi></l>
+<l><hi rend="i">Of (ist noot) selue compareren in persone.</hi></l>
+<l>&nbsp;</l>
+<l><hi rend="i">VVelcke clauselen, niemant can vverden ontseyt,</hi></l>
+<l><hi rend="i">VVant na rechte, en machmen niet executeren</hi></l>
+<l><hi rend="i">Ten sy eerst een dach van rechte vverde gheleyt,</hi></l>
+<l><hi rend="i">Om te comen verantvvoorden, teghens het feyt</hi></l>
+<l><hi rend="i">Den ghedaechden aen gheteghen, om sustineren,</hi></l>
+<l><hi rend="i">Dit is den stijl, somen behoort te procederen:</hi></l>
+<l><hi rend="i">Maer ghy, o doot, en past op maet, reghel, noch vvet.</hi></l>
+<l><hi rend="i">Ghy ructse na v, ghy hoort na gheen appelleren:</hi></l>
+<l><hi rend="i">Argher dan den Bloetraet, by Duc d'Albe gheset,</hi></l>
+<l><hi rend="i">Of male-spits recht, inden crijch ghebruyct te met,</hi></l>
+<l><hi rend="i">Die op partie, onschult, noch een vveynich passen,</hi></l>
+<l><hi rend="i">VVee tlant, daer tghevvelt is bouen het recht ghevvassen.</hi></l>
+<l>&nbsp;</l>
+<l><hi rend="i">T is vvaer, o doot, ghy meucht nemen tuvver defentie,</hi></l>
+<l><hi rend="i">VVat oyt leuen ontfinck, moet v zijn subiect:</hi></l>
+<l><hi rend="i">VVat gheleerde Oratoren, vol eloquentie,</hi></l>
+<l><hi rend="i">Of Philosophen, Poëten, cloeck van scientie,</hi></l>
+<l><hi rend="i">Ghy sonder sententie, meucht maken suspect,</hi></l>
+    <pb ed="fol." n="A2v"/>
+<l><hi rend="i">Als Demosthenes, een cloeck vvel-spreker perfect,</hi></l>
+<l><hi rend="i">En Caro, Plato, meesters inde Rethorijcken,</hi></l>
+<l><hi rend="i">Cicero, Protagoras, fray ende correct,</hi></l>
+<l><hi rend="i">Met desen al hebt ghy (o doot) henen gaen strijcken:</hi></l>
+<l><hi rend="i">Dan most desen Fruytier, iuyst gheschien van ghelijcken?</hi></l>
+    <l><hi rend="i">Tis (seg ic) ee</hi>n <hi rend="i">quaet la<hi rend="i">n</hi>t, daer niemant ter vverlt voordeel,, heeft,</hi></l>
+<l><hi rend="i">Of daer een streng Rechter, in zijn handen het oordeel,, heeft.</hi></l>
+<l>&nbsp;</l>
+<l><hi rend="i">Daer is (o doot) so menich Momus ruydt en grof,</hi></l>
+<l><hi rend="i">Die alle const verachten, en gheen const en vveten:</hi></l>
+<l><hi rend="i">Haer selfs toe schrijuende alle prijs, eer, en lof,</hi></l>
+<l><hi rend="i">En zijn vanden meel-sack, heel bestouen vol stof:</hi></l>
+<l><hi rend="i">Hadt die met uvven schicht, het herte af ghereten,</hi></l>
+<l><hi rend="i">En hadt den const-rijcken gheest, voor dees reys vergheten,</hi></l>
+<l><hi rend="i">Tot dat hy hadde volleeft Mathusalems Iaren,</hi></l>
+<l><hi rend="i">So hadt ghy v een vveynich eerlicken ghequeten,</hi></l>
+<l><hi rend="i">Dan v inborstighe vvreetheyt, moet zijn cracht baren,</hi></l>
+<l><hi rend="i">Men siet u out, ionck, goet, quaet, rijck of arme sparen,</hi></l>
+<l><hi rend="i">Ghelijct dit vvel reden, of recht, my doch beduyt ,,ris,</hi></l>
+<l><hi rend="i">Dan men mach vvel segge</hi>n<hi rend="i">, als tgevvelt coemt, trecht uyt ,,is.</hi></l>
+<l>&nbsp;</l>
+<l><hi rend="i">VVaerom (o doot) ginct ghi he</hi>m<hi rend="i"> so met uvve</hi>n<hi rend="i"> schicht ,,pra</hi>n<hi rend="i">ge</hi>n</l>
+<l><hi rend="i">Eer by hem volmaect vvas, zijn voor genomen vverck,</hi></l>
+<l><hi rend="i">VVa</hi>n<hi rend="i">t hi Paulus brieue</hi>n<hi rend="i"> (vvaer door vvi ae</hi>n<hi rend="i"> tsgeest licht ,,ha</hi>n<hi rend="i">ge</hi>n<hi rend="i">)</hi></l>
+<l><hi rend="i">Al t'samen sou ghestelt hebben, op schoone sticht ,,sangen,</hi></l>
+<l><hi rend="i">Ghelijck als dese, van dichten en sinne sterck:</hi></l>
+<l><hi rend="i">Maer ghy en neemt op gheen saken, of onschult merck,</hi></l>
+<l><hi rend="i">Tbleeck oock aen den const-rijcken geest, Ian dan den Dale</hi></l>
+<l><hi rend="i">En meer andere gheesten, so meester als cleck,</hi></l>
+<l><hi rend="i">Dien ghy hebt doorschoten, met v veruloeckte strale,</hi></l>
+<l><hi rend="i">Als Biseliscus ooghen, fenijnighe quale,</hi></l>
+<l><hi rend="i">Hier me ick mijn prostestatie concludeer,</hi></l>
+<l><hi rend="i">Tot dat ick dele mijn proces, institueer.</hi>	</l>
+</lg><p><hi rend="b"><hi rend="i">Sijt God beuolen.</hi></hi></p>
+    
+</div>
+
+<div type="chapter">
+    <pb ed="fol." n="A3r"/>
+<head rend="h2"><hi rend="i">Het Eerste Capittel tot den Romeynen.</hi></head>
+<head rend="h3"><hi rend="i">Inhout van het eerste Capittel.</hi></head>
+<lg type="poem"><l>	<hi rend="b"><hi rend="i">Ghy die als arbeyders, in Gods oogst zijt beropen,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Met Paulo het Euangelium recht vercondicht</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Prijst sHeeren mogentheyt, in hem alleen wilt hopen,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Want God salse straffen, die wetens willens sondicht.</hi></hi></l>
+</lg><div type="section">
+    <interpGrp> <interp type="song" value="fruy001send01_0001"/> </interpGrp>
+<head rend="h4"><hi rend="i">Den eersten stichtsanck op de wijse: Het is dat heyl ons comen her, &amp;c.</hi></head>
+    <p><figure>
+        <p><xptr to="fruy001send01ill0001.gif"/></p>
+    </figure></p>
+    <lg type="poem"><l>1 <hi rend="i">I</hi>Ck Paulus Jesu Christi knecht, <note place="margin">Tghetal besijden, wijst v elc veersken des texts.</note></l>
+<l>Geroepen en vercore<hi rend="i">n</hi>,</l>
+<l>2 Te prediken het woort te recht,</l>
+<l>Gepropheteert te voren</l>
+<l>3 Van Jesu Christo onsen Heer,</l>
+<l>Hier nae den vleesche swac en teer,</l>
+<l>Wt Dauids zaet geboren.</l>
+<l>&nbsp;</l>
+<l>4 Seer crachtlijck is hy na den gheest</l>
+<l>Gods sone oock bewesen:</l>
+<l>Die ons heylich maeckt alder meest,</l>
+<l>Na dat hy is verresen,</l>
+    <pb ed="fol." n="A3v"/>
+<l>Des derden daechs weer vander doot,</l>
+<l>Door hem is de ghenade groot</l>
+<l>Op ons [hy sy ghepresen.]</l>
+<l>&nbsp;</l>
+<l>8 VVy dancken van tghelooue al</l>
+<l>Hem diet gheeft menichfuldich,</l>
+<l>Men spreeckt daer van int aertsche dal</l>
+<l>Elck sy Christum ghehuldich,</l>
+<l>Tsgheests gauen deylt en willich werckt,</l>
+<l>14 Den Griecken als Barbaren sterckt</l>
+<l>Ghy zijts' oock alle schuldich.</l>
+<l>&nbsp;</l>
+<l>16 En schaemt v tEuangely niet,</l>
+<l>Een cracht Gods hooch verheuen:</l>
+<l>Gheloouighen het heyl aenbiet,</l>
+<l>Meer wort dan noch ghegheuen:</l>
+<l>Gherechticheyt wort v ontdect,</l>
+<l>17 Want de gherechtighe [perfect]</l>
+<l>Sal wt tghelooue leuen.</l>
+<l>&nbsp;</l>
+<l>18 Den toorne Gods hem openbaert</l>
+<l>Ouer de goddeloosheyt,</l>
+<l>En ouer ongherechten aert</l>
+<l>Der menschen vol van broosheyt,</l>
+<l>19 De ghene die de waerheyt puer</l>
+<l>In ongherechtheyt telcker uer</l>
+<l>Onthouden door haer boosheyt.</l>
+<l>&nbsp;</l>
+<l>20 De moghentheyt en Godheyt goet</l>
+<l>In God hier onsienlijcke,</l>
+<l>Wortmen wt tswerelts schepsel vroet,</l>
+<l>Neemt voorder gheen wijcke:</l>
+<l>Want door de creatueren fijn</l>
+<l>Can de Schepper wel bekent zijn</l>
+<l>Een God van tshemels rijcke.</l>
+<l>&nbsp;</l>
+<l>21 Die hem hier door niet heeft bekent,</l>
+<l>Ghedanckt, noch betoont eere,</l>
+<l>Die is tot ydelheyt ghewent</l>
+    <pb ed="fol." n="A4r"/>
+<l>In zijn ghedachten seere:</l>
+<l>En oock zijn onuerstandich hert</l>
+<l>Daer bouen heel verduystert wert</l>
+<l>[Ons allen tot een leere.]</l>
+<l>&nbsp;</l>
+<l>22 Daer sy hem in hielden voor wijs</l>
+<l>Daer is dwaesheyt ghebleecken:</l>
+<l>23 Gods heerlijckheyt die toe coemt prijs,</l>
+<l>Die hebben sy gheleecken</l>
+<l>By eenen beelde twelck vergaet.</l>
+<l>24 Daerom gaf God haer met der daet</l>
+<l>In tslusts onreyn ghebreecken.</l>
+<l>&nbsp;</l>
+<l>25 Sy hebben zijne waerheyt reyn</l>
+<l>Verandert in de loghen,</l>
+<l>En tschepsel ghedient al ghemeyn,</l>
+<l>En oock de eer ontoghen</l>
+<l>Der Goddelijcker Maiesteyt,</l>
+<l>Die den prijs coemt in eewigheyt</l>
+<l>[Selfs zijn sy meest bedroghen.]</l>
+<l>&nbsp;</l>
+<l>28 Ghelijck sy niet hebben bedocht</l>
+<l>Om Gods kennis te winnen,</l>
+<l>Sijnse door ouergift ghebrocht</l>
+<l>In onbedochte sinnen.</l>
+<l>29 Vol onrechts, hoerdom, giericheyt,</l>
+<l>Nijt, moort en onmaniericheyt,</l>
+<l>Tquaet sachmen haer beminnen.</l>
+<l>&nbsp;</l>
+<l>30 Oorblasers, achterclappers fel,</l>
+<l>Met Gods haet haer te minghen,</l>
+<l>Versmaders, seer hooch int opstel,</l>
+<l>Vinders van boose dinghen:</l>
+<l>Den ouders heel onghehoorsaem,</l>
+<l>31 Verstandeloos en onbequaem</l>
+<l>Om liefde te volbringhen.</l>
+<l>&nbsp;</l>
+<l>32 Sy weten Gods recht: elck verstaet</l>
+<l>Dat dees die haer dus draghen,</l>
+    <pb ed="fol." n="A4v"/>
+<l>Oock waerdich hier zijn al het quaet</l>
+<l>Des doots, en felle plaghen:</l>
+<l>Noch zijnse daerenbouen coen,</l>
+<l>En hebben in de gheen diet doen</l>
+<l>[Int hert] een wel behaghen.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Inhout van het I I. Capittel.</hi></head>
+<lg type="poem"><l>	<hi rend="b"><hi rend="i">Verwijst niemant, so en wert ghi ooc niet verwesen,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Het coemt alleen God toe, om een yeder te rechten,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Sgheests wet int herte, ouertuycht elck God te vresen,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Want d'wtwendighe maect ons al onnutte knechten. </hi></hi></l>
+</lg><div type="section">
+    <interpGrp> <interp type="song" value="fruy001send01_0002"/> </interpGrp>
+<head rend="h4"><hi rend="i">Den tweeden stichtsanck, op de wijse van den xxxvj. Psalm. Des boosdoenders wille, &amp;c.</hi></head>
+    <p><figure>
+        <p><xptr to="fruy001send01ill0002.gif"/></p>
+    </figure></p>
+<lg type="poem"><l>1 <hi rend="i">M</hi>Ensch ghy en zijt onschuldich niet,</l>
+<l>Die ander oordeelt die ghy siet,</l>
+<l>V oordeel werct v swaerheyt,</l>
+<l>Dewijl ghi doet dat ghi verbiet,</l>
+<l>Want ouer haer daer dit gheschiet,</l>
+<l>Oordeelt God nae der waerheyt,</l>
+<l>Meynt ghy te </l>
+    <pb ed="fol." n="A5r"/>
+ <l><figure>
+        <p><xptr to="fruy001send01ill0003.gif"/></p>
+    </figure></l>
+   <l>zijn ooc sonder schult,</l>
+<l>En dat ghi ooc ontuliede<hi rend="i">n</hi> sult,</l>
+<l>Va<hi rend="i">n</hi> het oordeel des Heere<hi rend="i">n</hi>.</l>
+<l>4 Of wort van v hier heel veracht,</l>
+<l><note n="†">De lancmoedicheyt Godes roept ons tot bekeeringhe.</note>Gods goetheyt die lancmoedich wacht,</l>
+<l>En v roept tot bekeeren.</l>
+<l>&nbsp;</l>
+<l>5 Na v hertneckich boose hert</l>
+<l>Den schat des torens vergaert wert,</l>
+<l>Als God hier sal ondecken</l>
+<l>In tstorens dach op groot en smal.</l>
+<l>6 Daer hy elck mensch vergelden sal</l>
+<l>Nae men zijn werck sach strecken.</l>
+<l>7 Die tgoet werck hebbe hier volbrocht,</l>
+<l>En onuerderflijckheyt ghesocht,</l>
+<l>Prijs, eer, en d'eewich leuen.</l>
+<l>8 Den ghenen die daer soecken twist,</l>
+<l>De waerheyt wederstaen met list,</l>
+<l>Die coemt toorne beneuen.</l>
+<l>&nbsp;</l>
+<l>9 Verdriet, benautheyt, ouer haer</l>
+<l>Die het quaet wercken sonder vaer,</l>
+<l>Joden en Griecken mede.</l>
+<l>10 Dan allen die daer wercken tgoet,</l>
+<l>Tsy Jood' oft Grieck, wie sulcx doet,</l>
+<l>Sy eer, prijs, ende vrede.</l>
+<l>11 Ons God op gheen persoonen let</l>
+<l>Want die misdeden sonder wet</l>
+<l>Sullen vergaende wesen</l>
+    <pb ed="fol." n="A5v"/>
+<l>Sonder de wet [en oock goet ront]</l>
+<l>12 Die sondichden int swets verbont</l>
+<l>Verdoemt de wet [midts desen.]</l>
+<l>&nbsp;</l>
+<l>13 Voor God niet gherechtueerdicht zijn</l>
+<l>Die de wet hooren telck termijn,</l>
+<l>Maer diese doen sulcx werden.</l>
+<l>14 De Heydenen [in als niet puer]</l>
+<l>Die sonder wet wt de natuer</l>
+<l>In tswets inhout volherden,</l>
+<l>Dees zijn haer seluen een wet sterck,</l>
+<l>15 Als die betoonen het wets werck</l>
+<l>In haer te zijn gheschreuen:</l>
+<l>Dewijl haer conscienci tuycht,</l>
+<l>Tghedacht beschuldicht, therte buycht,</l>
+<l>[Sulcx wort van God ghegheuen.]</l>
+<l>&nbsp;</l>
+<l>17 Ghy wert een Jode hier ghenoemt,</l>
+<l>Van Gode ghy v oock beroemt,</l>
+<l>De wet dat is v ruste:</l>
+<l>18 Ghy weet Gods wil, het goet ghy prijst,</l>
+<l>Sijnde gheleert ghy onderwijst</l>
+<l>Elck wt de wet met luste.</l>
+<l>19 Te zijn een leytsman ghy betrout</l>
+<l>Van blinden [oock van ionck en out]</l>
+<l>Een licht der duysternissen.</l>
+<l>20 Een leeraer van onwetende</l>
+<l>Hier door de wet wt metende</l>
+<l>Waerheyt die niet can missen.</l>
+<l>&nbsp;</l>
+<l>21 Ghy die daer ander luyden leert</l>
+<l>Tot eyghen leer ghy niet en keert,</l>
+<l>[V selfs gaet ghy besijden]</l>
+<l>Hier niet te stelen ghy beueelt,</l>
+<l>En men siet dat ghy selue steelt</l>
+<l>[Tot veel verscheyden tijden.]</l>
+<l>22 Ghy verbiet oock het ouerspel,</l>
+<l>En doet teghen tselfde beuel,</l>
+    <pb ed="fol." n="A6r"/>
+<l>V gruwelt voor Afgoden.</l>
+<l>23 Ghy rooft dat Gode toe behoort</l>
+<l>Roemende met des Heeren woort,</l>
+<l>En onteert zijn gheboden.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Inhout van het I I I. Capittel.</hi></head>
+<lg type="poem"><l>	<hi rend="b"><hi rend="i">Doort geloof, wt genade, wert de</hi>n <hi rend="i">me</hi>n<hi rend="i">sch rechtueerdich,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">So Heyden als Iode, hy aensiet geen persoon,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Abrahams geloof, maecte hem voor God eerweerdich,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Niet wt verdiensten, maer wt de ghenade schoon.</hi></hi></l>
+</lg><div type="section">
+    <interpGrp> <interp type="song" value="fruy001send01_0003"/> </interpGrp>
+<head rend="h4"><hi rend="i">Den derden stichtsanck op de wijse, Nv looft mijn siel den Heer.</hi></head>
+    <p><figure>
+        <p><xptr to="fruy001send01ill0004.gif"/></p>
+    </figure></p>
+    <lg type="poem"><l>4 <hi rend="i">G</hi>Od wort in als beuonde<hi rend="i">n</hi></l>
+<l>Warachtich hier tot elcker tijt.</l>
+<l>En aller menschen monden</l>
+<l>Leugenachtich, hoe elck hem mijt.</l>
+<l>Daer is nyemant rechtueerdich,</l>
+<l>Daer isser oock niet een</l>
+<l>Verstandich noch meeweerdich,</l>
+<l>Die God soect daer is geen.</l>
+<l>Sy zijn al af geweken.</l>
+
+    <pb ed="fol." n="A6v"/>
+      <l><figure>
+            <p><xptr to="fruy001send01ill0005.gif"/></p>
+        </figure></l>
+<l>12 En zijn alle onnut,</l>
+<l>Daer is niet een gebleken</l>
+<l>Die goet doet ende straf beschut.</l>
+<l>&nbsp;</l>
+<l>13 Haer kelen sy op luycken</l>
+<l>Ghelijck een diep stinckende graf:</l>
+<l>Haer tonghen sy ghebruycken</l>
+<l>Bedrochlijck, gheen goet coemt daer af.</l>
+<l>Den lippen tfenijn wt springt</l>
+<l>Des slanghen boos verwoet,</l>
+<l>14 Den mont oock vloecken voort bringt,</l>
+<l>Den voet stort snellijck bloet,</l>
+<l>15 Vernielingh' in haer weghen</l>
+<l>16 Nyemant op den wech slaet</l>
+<l>17 Des vredes, noch te deghen</l>
+<l>18 Gods vreese voor haer ooghen staet.</l>
+<l>&nbsp;</l>
+<l>19 De wet die hoortmen spreken</l>
+<l>Tot de gheen die daer onder staen,</l>
+<l>Op dat ghestopt [versteken]</l>
+<l>Sy alle mont [met sulck vermaen]</l>
+<l>En oock de werlt ghemeyne</l>
+<l>Voor God verdoemlijck sy:</l>
+<l>20 Daerom gheen vleesch hoe reyne</l>
+<l>En wort door tswets werck vry,</l>
+<l>Maer toont kennis van sonde.</l>
+<l>21 Maer nv is voor gheset</l>
+<l>Gerechtheyt t'deser stonde</l>
+<l>Betuycht van Propheet ende wet.</l>
+<l>&nbsp;</l>
+<l>22 Rechtueerdicheyt is comen</l>
+<l>Door het gheloof in Christo vast,</l>
+<l>En coemt op allen vromen</l>
+<l>Daert werct [en op de liefde past.]</l>
+    <pb ed="fol." n="A7r"/>
+<l>23 Ghesondicht hebbens' allen</l>
+<l>Daer is gheen onderscheyt,</l>
+<l>Daerom sy zijn gheuallen</l>
+<l>Van Godes heerlijckheyt:</l>
+<l>24 Maer twort nv wt ghenaden</l>
+<l>Weder ghebracht om niet,</l>
+<l>Door soeningh' en weldaden</l>
+<l>Jesu Christi aen ons gheschiet.</l>
+<l>&nbsp;</l>
+<l>25 Den welcken God de Vader</l>
+<l>Tot een versoeningh' heeft ghestelt,</l>
+<l>Tsgheloouighen ontlader</l>
+<l>Door zijn bloet: ende hy ontghelt</l>
+<l>Voor de sonden voorleden,</l>
+<l>26 Welck God verdraghen heeft,</l>
+<l>Om zijn gherechticheden</l>
+<l>Te toonen al dat leeft,</l>
+<l>Datmen hem vinden soude</l>
+<l>Gherechtich in zijn saeck,</l>
+<l>En die te recht betroude,</l>
+<l>In Christo hy rechtueerdich maeck.</l>
+<l>&nbsp;</l>
+<l>27 VVaer sal den roem dan wesen ?</l>
+<l>Hy is wech door t'sgheloofs wet recht:</l>
+<l>28 So houden wy door desen,</l>
+<l>Dat de mensche, tsy heer oft knecht,</l>
+<l>Rechtueerdich door tghelooue</l>
+<l>Wort, sonder des Wets werck,</l>
+<l>[Niemant God zijn eer rooue].</l>
+<l>30 Hy is eenich God sterck:</l>
+<l>Wy maken niet te niete</l>
+<l>31 Door het gheloof de Wet,</l>
+<l>Die God door Mosen liete,</l>
+<l>Maer wy verstercken die daer met.</l>
+</lg>
+</div>
+</div>
+<div type="chapter">
+    <pb ed="fol." n="A7v"/>
+<head rend="h3"><hi rend="i">Inhout van het I I I I. Capittel.</hi></head>
+    <lg type="poem"><l><hi rend="b"><hi rend="i">Niemant wert rechtueerdich, wt verdie</hi>n<hi rend="i">st zijnder wercken,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Dan die gheloouen, als dat Jesus Christus bloet,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Ons ghereynicht heeft van sond', als thooft zijnder kercken,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Want door zijn doot, hy swets wercken te niete doet.</hi></hi></l>
+    </lg><div type="section">
+        <interpGrp> <interp type="song" value="fruy001send01_0004"/> </interpGrp>
+<head rend="h4"><hi rend="i">Den vierden stichtsanck op de wijse: O Vader ons in Hemelrijck</hi></head>
+    <p><figure>
+        <p><xptr to="fruy001send01ill0006.gif"/></p>
+    </figure></p>
+    <lg type="poem"><l><hi rend="i">I</hi>S Abraha<hi rend="i">m</hi> [die ic voor noem],</l>
+<l>Door twerc rechtueerdich hy heeft roem,</l>
+<l>Maer niet by Gode [so text seyt],</l>
+<l>Abraham die geloofde God,</l>
+<l>En twert hem na tgodlijck ghebot,</l>
+<l>Gherekent tot rechtueerdigheyt.</l>
+<l>&nbsp;</l>
+<l>4 Den ghenen diemen wercken siet,</l>
+<l>En wert den loon gherekent niet</l>
+<l>Na de ghenade, maer na schult.</l>
+<l>5 Die God ghelooft en niet en werckt,</l>
+<l>Tghelooue hem also versterckt,</l>
+<l>Dat het rechtueerdicheyt veruult.</l>
+    <pb ed="fol." n="A8r"/>
+<l>7 VVant salich zijnse telck termijn,</l>
+<l>Den ghenen die vergheuen zijn</l>
+<l>Haer ongherechticheden quaet,</l>
+<l>En wiens haer sonden zijn bedeckt,</l>
+<l>8 Want salicheyt inden man streckt,</l>
+<l>Die God niet rekent zijn misdaet.</l>
+<l>&nbsp;</l>
+<l>11 Het teecken van besnijdinghe</l>
+<l>Ontfanghen met verblijdinghe</l>
+<l>Van Abrahe des Heeren knecht,</l>
+<l>Is tot een zeghel doen seer net</l>
+<l>Der rechtueerdicheyt in gheset,</l>
+<l>Van het gheloof goet en oprecht.</l>
+<l>&nbsp;</l>
+<l>13 V ooch op de belofte slaet,</l>
+<l>Sy is hem noch oock zijnen zaet,</l>
+<l>Hier toe gherekent door de wet,</l>
+<l>Maer door 't gheloof coemt dat eenpaer,</l>
+<l>14 Want anders t'selfde ydel waer,</l>
+<l>En de beloft te niet gheset.</l>
+<l>&nbsp;</l>
+<l>15 De wet werckt toorne dits ghewis,</l>
+<l>En waer de wet oock niet en is,</l>
+<l>Daer is gheen ouertredinghe:</l>
+<l>16 Maer d'erffenis die coemt ons by</l>
+<l>Wt het gheloof, op dat het sy</l>
+<l>Na t'sghenaden verbredinghe.</l>
+<l>&nbsp;</l>
+<l>	Dat de belofte oock sy vast</l>
+<l>Den zade twelck op tgheloof past:</l>
+<l>17 Want Abraham die heeft gheweest</l>
+<l>Van vele vader in dit perck:</l>
+<l>18 Sijn hoop was bouen hope sterck</l>
+<l>In God [die d'onghesien gheneest.]</l>
+<l>&nbsp;</l>
+<l>19 V gheloof was in hem onghecrenckt,</l>
+<l>Op zijn lichaem hy niet en denckt</l>
+<l>Het welck verstoruen was gheheel,</l>
+<l>De moeder Sara hy vergheet</l>
+    <pb ed="fol." n="A8v"/>
+<l>Als doen verdoruen: [want hy weet</l>
+<l>Dat het gheloof hem doet voordeel.]</l>
+<l>&nbsp;</l>
+<l>20 Gheensins hy oock ghetwijfelt heeft,</l>
+<l>Gheloouende hy d'eere gheeft</l>
+<l>21 Den God die hy in als betrout,</l>
+<l>Als hebbende volcomen macht</l>
+<l>Dat het beloofde wert volbracht,</l>
+<l>Dies hy rechtueerdicheyt aenschout.</l>
+<l>&nbsp;</l>
+<l>23 Dits niet om zijnen wil alleyn,</l>
+<l>Maer twort gherekent ons ghemeyn,</l>
+<l>24 Die daer gheloouen na dees leer,</l>
+<l>In hem die daer is perfect,</l>
+<l>Die wt den dooden heeft verwect</l>
+<l>Den Jesum Christum onsen Heer.</l>
+<l>&nbsp;</l>
+<l>25 De welcke is gheleuert bloot</l>
+<l>Om onse sonden inder doot,</l>
+<l>En op ghewect [na ons bewijs]</l>
+<l>Om onse rechtueerdicheyt [puer,</l>
+<l>Tghelooue blijck dan telcker uer,</l>
+<l>Gheeft desen Christo lof en prijs.]</l>
+</lg></div>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Inhout van het V. Capittel.</hi></head>
+<lg type="poem"><l>	<hi rend="b"><hi rend="i">T geloof is een fonteyn, welc vol goe wercke</hi>n<hi rend="i"> vloeyt,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">T doet elck ghehoorsaem zijn; lieft is tfondament:</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Lijdtsaemheyt baert hope, hope in liefde bloeyt,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">T doet elck volstandich zijn, in tgheloof, totten ent.</hi></hi></l>
+</lg><div type="section">
+    <interpGrp> <interp type="song" value="fruy001send01_0005"/> </interpGrp>
+<head rend="h4"><hi rend="i">Den vijfden stichtsanck, op de wijse van den 130. Psalm. Wt de diepten o Heere.</hi></head>
+    <p><figure>
+        <p><xptr to="fruy001send01ill0007.gif"/></p>
+    </figure></p>
+    <lg type="poem"><l>1 <hi rend="i">S</hi>ijnde rechtueerdich mede // Door het ghe-</l>
+    <pb ed="fol." n="B1r"/>
+     <l><figure>
+            <p><xptr to="fruy001send01ill0008.gif"/></p>
+        </figure></l>
+<l>looue schoon,</l>
+<l>Hebben met God oock vrede,</l>
+<l>Door Christum zijnen soon,</l>
+<l>Door welcken wy vercreghen,</l>
+<l>Ghenaed' door hem bereyt,</l>
+<l>Met vreucht in hoop gheleghen,</l>
+<l>In Godes heerlijckheyt.</l>
+<l>&nbsp;</l>
+<l>3 Ende dit niet alleene,</l>
+<l>Maer wy zijn oock verheucht</l>
+<l>In des lijdens gheweene,</l>
+<l>Wetende dat dees deucht</l>
+<l>Hier lijdtsaemheyt can wercken,</l>
+<l>4 Lijdtsaemheyt proeue raemt,</l>
+<l>Proeuingh doet hoop verstercken,</l>
+<l>En hoop niet en beschaemt.</l>
+<l>&nbsp;</l>
+<l>5 VVant de liefde des Heeren</l>
+<l>Is in ons hert ghestort,</l>
+<l>Door het heylichs Gheests leeren,</l>
+<l>Die God gaf, en ons port.</l>
+<l>6. Want doen wy noch cranck waren,</l>
+<l>Sterf te bequamer tijt,</l>
+<l>Voor onrechte dienaren,</l>
+<l>Christus ghebenedijt.</l>
+<l>&nbsp;</l>
+<l>7 Naulijck sou yemant steruen</l>
+    <pb ed="fol." n="B1v"/>
+<l>Om tsrechtueerdighen wil,</l>
+<l>De liefd' die wy verweruen</l>
+<l>Van God is wijt gheschil:</l>
+<l>8 Christus leedt t'sdoots  beswaren</l>
+<l>Voor ons aen t'hout des cruys,</l>
+<l>Doen wy hier noch sondaren</l>
+<l>Waren [en verdt van huys.]</l>
+<l>&nbsp;</l>
+<l>8 Door dit bloet hooch ghepresen</l>
+<l>Sullen wy dan veel meer,</l>
+<l>Van toorne ghevrijt wesen,</l>
+<l>En gherechtueerdicht seer:</l>
+<l>10 Want creghen wy vyanden,</l>
+<l>Versoeningh' door zijn doot</l>
+<l>Tleuen dat brengt ter handen</l>
+<l>Salicheyt wel so groot.</l>
+<l>&nbsp;</l>
+<l>11. Ende dit niet alleenlijck,</l>
+<l>Maer in God roemen wy</l>
+<l>Door Christum, want certeenlijck</l>
+<l>Den troost die ons quam by,</l>
+<l>Die is door hem vercreghen,</l>
+<l>Versoeningh' is gheschiet,</l>
+<l>[Van Adams sondich pleghen,</l>
+<l>Looft God diet al versiet.]</l>
+<l>&nbsp;</l>
+<l>12 Daerom ghelijck de sonde</l>
+<l>Hier quam door Adams val,</l>
+<l>En door sond' comen ronde</l>
+<l>De doot hier ouer al,</l>
+<l>Ghelijck werdense schuldich</l>
+<l>Door de sond' van Adam,</l>
+<l>Wt welcken menichvuldich</l>
+<l>De sond' op allen quam.</l>
+<l>&nbsp;</l>
+<l>14 Adam is een figuere</l>
+<l>Van Christo door Gods raet:</l>
+<l>15 Maer met der gauen puere</l>
+<l>Ist niet als met misdaet:</l>
+    <pb ed="fol." n="B2r"/>
+<l>16 Wt schult quam ons beneuen</l>
+<l>Verdoemenisse swaer,</l>
+<l>Door Christum wert ghegheuen</l>
+<l>Ghenad' [als middelaer.]</l>
+<l>&nbsp;</l>
+<l>18 Ghelijck de sond' eens menschen</l>
+<l>Verdoemenis hier brocht,</l>
+<l>So is niet om verwenschen</l>
+<l>Rechtueerdicheyt ghewrocht:</l>
+<l>19 Ghelijck door onhoorsaemheyt</l>
+<l>Vele tot sondaers zijn,</l>
+<l>Maeckt Christi aenghenaemheyt</l>
+<l>Veel rechtueerdich en fijn.</l>
+<l>&nbsp;</l>
+<l>20 Voorts is de wet vrymoedich,</l>
+<l>Daer by inne ghekeert,</l>
+<l>Op dat sond' oueruloedich</l>
+<l>Hier soude zijn vermeert.</l>
+<l>Maer waert also ghebeurde,</l>
+<l>Quam de ghenade soet,</l>
+<l>Oueruloedich wt scheurde</l>
+<l>Wt liefden haren gloet.</l>
+<l>&nbsp;</l>
+<l>21 VVant sy heeft heerschappije</l>
+<l>Ghelijck de sonde fel,</l>
+<l>Had in voorleden tije</l>
+<l>Door Adams boos opstel,</l>
+<l>Rechtueerdicheyt tot tleuen</l>
+<l>Quam ons dit vry ghelooft,</l>
+<l>Door Christum hooch verheuen</l>
+<l>Ons Heer ende ons hooft.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Inhout van het V I. Capittel.</hi></head>
+<lg type="poem"><l>	<hi rend="b"><hi rend="i">Die in God ghedoopt zijn, zijn gedoopt in zijn doot:</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Die met hem gestoruen zijn, sullen met hem leuen:</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Want die zijn ghewasschen, met zijnen bloede root,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Door den ghelooue, aen Iesum Christum verheuen.</hi></hi></l>
+</lg><pb ed="fol." n="B2v"/>
+<div type="section">
+    <interpGrp> <interp type="song" value="fruy001send01_0006"/> </interpGrp>
+<head rend="h4"><hi rend="i">Den sesten stichtsanck op de wijse: Ick roep tot v Heer Iesu. </hi></head>
+    <p><figure>
+        <p><xptr to="fruy001send01ill0009.gif"/></p>
+    </figure></p>
+    <lg type="poem"><l>1 <hi rend="i">W</hi>at sal van ons nv zijn geseyt,</l>
+<l>Sullen wy in sond' blijuen</l>
+<l>Op dat genade wert verbreyt,</l>
+<l>Verd' wijck alsulck verstijuen,</l>
+<l>Want die der sond' gestoruen zijn,</l>
+<l>Hoe sullen wy ons gheue<hi rend="i">n</hi>,</l>
+<l>Die t'aencleuen, </l>
+<l>Ende [voor Gods aenschijn]</l>
+<l>In de selfde noch leuen?</l>
+<l>&nbsp;</l>
+<l>3 VVy zijn ghedoopt hier al te hoop</l>
+<l>In Christi doot ['tzijn gauen]</l>
+<l>Oock zijn wy met hem door den doop</l>
+<l>In den doot dan begrauen.</l>
+<l>4 So hy van der doot is verwect</l>
+<l>Door tsvaders heerlijckhede,</l>
+<l>Sal elck mede</l>
+<l>In nieuwicheyt [perfect]</l>
+<l>Wandelen [telcker stede.]</l>
+<l>&nbsp;</l>
+<l>5 Also wy oock werden gheplant,</l>
+<l>In een doot dierghelijcke,</l>
+    <pb ed="fol." n="B3r"/>
+<l>So sullen wy door zijn bystant</l>
+<l>D'opstandingh' [in het rijcke]</l>
+<l>6 Ghelijck zijn: en den mensche out</l>
+<l>Cruycen in onsen gronde</l>
+<l>Telcken stonde:</l>
+<l>Op dat het lichaem stout,</l>
+<l>Hier niet meer dient der sonde.</l>
+<l>&nbsp;</l>
+<l>8 Ist dat wy zijn ghestoruen hier</l>
+<l>Met Christo [waert om louen,]</l>
+<l>So sullen wy door zijn bestier</l>
+<l>Met hem leuen hier bouen.</l>
+<l>9 Hy is op ghewect vander doot,</l>
+<l>Hy en sal niet meer steruen:</l>
+<l>Doot sal deruen</l>
+<l>Haer heerschappie groot</l>
+<l>Ouer hem te verweruen.</l>
+<l>&nbsp;</l>
+<l>10 Der sonde sterf hy teenemael,</l>
+<l>Dat hy leeft, leeft hy Gode:</l>
+<l>Sterft oock de sond' int generael</l>
+<l>11 Leeft Christo: [zijn ghebode]</l>
+<l>12 En laet de sond' gheen ouerhant</l>
+<l>Hebben inden lichame,</l>
+<l>En bequame</l>
+<l>In zijnen lust playsant</l>
+<l>Hier te zijn ghehoorsame.</l>
+<l>&nbsp;</l>
+<l>13 Tot sond' begheeft v leden niet</l>
+<l>In tongherechtheyts wapen:</l>
+<l>Begheeft v Gode, ende siet</l>
+<l>Dat wt den dooden knapen</l>
+<l>Ghy leuendich wort [door Christi bloet,]</l>
+<l>Ende begheeft v leden,</l>
+<l>Hier beneden,</l>
+<l>Tot wapenen seer goet</l>
+<l>Vol van gherechticheden.</l>
+<l>&nbsp;</l>
+<l>14 Onder de wet zijt ghy niet meer,</l>
+    <pb ed="fol." n="B3v"/>
+<l>Maer onder de ghenade,</l>
+<l>Dan sondicht daerom niet te seer,</l>
+<l>15 En bruyckt ghehoorsaem dade:</l>
+<l>Danct God dat ghy voor hebt gheweest</l>
+<l>Sondich hier al ghemeyne,</l>
+<l>Nv certeyne</l>
+<l>Ghehoorsaem, die God vreest</l>
+<l>Na de leer Christi reyne.</l>
+<l>&nbsp;</l>
+<l>18 Ghemaect nv zijnde van sond' vry,</l>
+<l>20 Sijn tsgherechticheyts knechten:</l>
+<l>So ghy wel eer met moede bly</l>
+<l>V leden cost op rechten</l>
+<l>Tot het onreyn, twelck God verbiet.</l>
+<l>21 Elck hem in dees ellende</l>
+<l>Heylich wende,</l>
+<l>Den dienst der sonden vliet,</l>
+<l>Want de doot is haer ende.</l>
+<l>&nbsp;</l>
+<l>22 Sijnde gheurijt niet en beducht,</l>
+<l>Gherechtheyt sal v vueren</l>
+<l>Tot heylichmakingh' is v vrucht,</l>
+<l>V eynd' sal eewich dueren,</l>
+<l>23 Want sonde heeft de doot voor loon:</l>
+<l>Maer Gods gaef oueruloedich</l>
+<l>Brenghet v spoedich</l>
+<l>Tot den eewighen troon</l>
+<l>Door Christi wonden bloedich.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Inhout van het V I I. Capittel.</hi></head>
+<lg type="poem"><l><hi rend="b"><hi rend="i">Daer geen wette</hi>n<hi rend="i"> en zijn, daer en zijn ooc gee</hi>n<hi rend="i"> sonde</hi>n<hi rend="i">,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Door de wet, kennisse van sonden, openbaert</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Gods wet is heylich, tghebot is goet t'allen stonden,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Wel hem die de wet, en zijn woort, te recht bewaert.</hi></hi></l>
+</lg><div type="section">
+    <interpGrp> <interp type="song" value="fruy001send01_0007"/> </interpGrp>
+<head rend="h4"><hi rend="i">Den seuenden stichtsanck, op de wijse van den 143. Psalm: Wilt mijn gebet o Heer, &amp;c.</hi></head>
+    <pb ed="fol." n="B4r"/>
+<p>&nbsp;</p>
+    <p><figure>
+        <p><xptr to="fruy001send01ill0010.gif"/></p>
+    </figure></p>
+    <lg type="poem"><l>1 <hi rend="i">B</hi>Roeders v en is niet vergheten,</l>
+<l>Ick spreeck tot haer die de wet weten,</l>
+<l>Dat de wet heerschappie heeft,</l>
+<l>Ouer den mensche hier geseten,</l>
+<l>En dat so langhe als hy leeft.</l>
+<l>&nbsp;</l>
+<l><note n="‡">2.ende oock ghenoech in het 2.</note> Die eens mans wijf hier wort geuonden,</l>
+<l>Is door de wet aen hem ghebonden:</l>
+<l>Maer sterft de man sy wort gheset</l>
+<l>Weder in vryheyt te dier stonden,</l>
+<l>En is oock vry van des mans wet.</l>
+<l>&nbsp;</l>
+<l>4 So zijt ghy broeders hier ter stede,</l>
+<l>Der wet ghedoot door Christum mede,</l>
+<l>Om zijn te wesen onuertzaecht:</l>
+<l>Die God vander doot op staen dede,</l>
+<l>Op dat ghy goede vruchten draecht.</l>
+<l>&nbsp;</l>
+<l>5 VVant doen wy inden vleesche waren,</l>
+<l>Doen sachmen crachtich openbaren</l>
+<l>Beweginghen met tslusts aenstoot:</l>
+<l>In onsen leden [tot beswaren]</l>
+<l>En droeghen vruchten tot der doot.</l>
+<l>&nbsp;</l>
+<l>6 Nv van wet vry zijn haer ghestoruen</l>
+<l>Die ons hiel onder tot bedoruen,</l>
+<l>So dat wy dienen ongheflout:</l>
+<l>In sgheests nieuwicheyt nv verworuen,</l>
+<l>Ende niet in de letter out,</l>
+    <pb ed="fol." n="B4v"/>
+<l>7 Ick seg niet dat de wet is sonde,</l>
+<l>Maer de sond' ick niet kennen conde,</l>
+<l>Dan door de wet is dit gheschiet:</l>
+<l>Noch het begheeren quaet van gronde</l>
+<l>Ten waer dat sy alsulcx verbiet.</l>
+<l>&nbsp;</l>
+<l>10 Na dat de sonde nam oorsake,</l>
+<l>Tghebot bedrooch my twelck ick smake,</l>
+<l>En tselfde wrocht de doot onsoet.</l>
+<l>De wet seer heylich ick niet lake,</l>
+<l>Noch het ghebot oprecht en goet.</l>
+<l>&nbsp;</l>
+<l>11 Tgoet cost in my de doot niet wercken,</l>
+<l>Maer om de sonde te aenmercken,</l>
+<l>Quam de doot door het goet van God:</l>
+<l>Op dat de sond' in leeck oft clercken</l>
+<l>Seer sondich sou zijn door tghebot.</l>
+</lg></div>
+
+<div type="section">
+    <interpGrp> <interp type="song" value="fruy001send01_0008"/> </interpGrp>
+<head rend="h4"><hi rend="i">Den achtsten stichtsanck wt den selfden Capittel, op de wijse van den 112. Psalm. Wel hem die altijt is begheuen.</hi></head>
+    <p><figure>
+        <p><xptr to="fruy001send01ill0011.gif"/></p>
+    </figure></p>
+    <lg type="poem"><l>14 <hi rend="i">W</hi>Y weten dat de wet van Gode,</l>
+<l>Gheestelijck is inden gebode,</l>
+<l>Vleeschlijck ben ic sondich van state,</l>
+<l>[Maer in de daet leyt het geschille,]</l>
+<l>15 Want ick en doe niet dat ic wille,</l>
+<l>Maer </l>
+    <pb ed="fol." n="B5r"/>
+        <l><figure>
+           <p><xptr to="fruy001send01ill0012.gif"/></p>
+        </figure></l>
+<l>ick doe altijt dat ick hate.</l>
+<l>&nbsp;</l>
+<l>16 Ist dat ick doe t'eenighen tijde,</l>
+<l>Dat ick niet en wil, ick belijde</l>
+<l>De wet voor goet [al ben ick clachtich:]</l>
+<l>17 So doe ict niet meer dan by name</l>
+<l>De sonde in mijnen lichame,</l>
+<l>18 Want gheen goet is in tvleesch woonachtich.</l>
+<l>&nbsp;</l>
+<l>	Ick heb den wille tot veel dinghen,</l>
+<l>19 Maer om het goet hier te volbringhen</l>
+<l>En vind' ick niet: want wil tot goede</l>
+<l>En doe ick niet, tot gheender uren,</l>
+<l>Maer tquaet dat ick niet soud' volvuren,</l>
+<l>Dat doe ick, tvleesch is sulcx niet vroede.</l>
+<l>&nbsp;</l>
+<l>20 Doe ick dan sulcx t'eenighen stonde,</l>
+<l>So doe ick dat niet, maer de sonde,</l>
+<l>[Daer ick hier mede ben ontfanghen:]</l>
+<l>21 Een wet in my can ick beuinden,</l>
+<l>Als ick my tgoet wil onderwinden,</l>
+<l>Datmen my tquade siet aen hanghen.</l>
+<l>&nbsp;</l>
+<l>22 VVant ick heb lust met tsherten wensche</l>
+<l>Aen de wet Godes na den mensche,</l>
+<l>Die my inwendich brengt verblijen:</l>
+<l>23 Maer ick sie in my oock verspreden</l>
+<l>Een ander wet in mijnen leden,</l>
+<l>Teghen tgemoets wet can sy strijen.</l>
+<l>&nbsp;</l>
+<l>	Dees can my hier in seer veel saken,</l>
+<l>Der sonden wet gheuanghen maken,</l>
+<l>Die in mijn leden is niet traghe.</l>
+<l>24 Ick mensche die daer ben ellendich,</l>
+<l>Wie verlost my [ick roep onendich]</l>
+<l>Van sdoots lichaem het welck ick draghe.</l>
+
+    <pb ed="fol." n="B5v"/>
+<l>25 Ick dancke God den vader seere,</l>
+<l>Door Jesum Christum onsen Heere,</l>
+<l>Dien' oock Gods wet met den ghemoede.</l>
+<l>26 Met het vleesch sietmen my aencleuen</l>
+<l>De wet der sonden in dit leuen,</l>
+<l>Ten sy dat my de Heer behoede.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Inhout van het V I I I. Capittel.</hi></head>
+<lg type="poem"><l><hi rend="b"><hi rend="i">Die na den geest wandelt, sal niet sterue</hi>n<hi rend="i">, maer leue</hi>n<hi rend="i">,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Die na den vleesche hem schict, sal steruen de doot:</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Salich zijn die, die den Heer inden gheest aencleuen,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">En in hem hopen, In angst, druck, lijden, en noot.</hi></hi></l>
+</lg><div type="section">
+    <interpGrp> <interp type="song" value="fruy001send01_0009"/> </interpGrp>
+<head rend="h4"><hi rend="i">Den neghenden stichtsanck, op de wijse: Van alle menschen af ghewent.</hi></head>
+    <p><figure>
+        <p><xptr to="fruy001send01ill0013.gif"/></p>
+    </figure></p>
+    <lg type="poem"><l>1 <hi rend="i">D</hi>Aer is nv gheen verdoemenis,</l>
+<l>Hen die in Christo blijuen:</l>
+<l>Niet na den vleesche ongewis,</l>
+<l>Maer die Gods gheest sal drijuen.</l>
+<l>2 De wet des geests die Godlijc smaect,</l>
+<l>Heeft my van der wet vry ghemaect,</l>
+<l>Van sond' en doot door tsgheests inlijuen.</l>
+    <pb ed="fol." n="B6r"/>
+<l>3 VVant als de wet onmachtich was,</l>
+<l>En cranck door tvleesch hier wert gheuonden,</l>
+<l>Heeft God zijn soon, die ons ghenas,</l>
+<l>Int sondich vleesch neder ghesonden,</l>
+<l>In de ghedaent eens knechts voornoemt,</l>
+<l>Voor sond' heeft hy de sond' verdoemt</l>
+<l>Int vleesch: wie mach Gods goetheyt gronden?</l>
+<l>&nbsp;</l>
+<l>4 Op dat doch het recht van de wet</l>
+<l>Veruult wert, in ons groot en cleyne:</l>
+<l>Wy die na tvleesche, twelck besmet,</l>
+<l>Niet leuen, maer na gheest alleyne.</l>
+<l>5 Want diemen vleeschelijck bekint,</l>
+<l>Sijn na den vleesche hier ghesint,</l>
+<l>Gheestlijcke na den gheest Gods reyne.</l>
+<l>&nbsp;</l>
+<l>6 V verstant des vleeschs dat is de doot,</l>
+<l>Tsgheests verstant is leuen en vrede.</l>
+<l>7 Het eerste is vyantschap groot,</l>
+<l>Teghen Gods heerlijckhede:</l>
+<l>Gods wet wort het niet onderdaen,</l>
+<l>Ten can oock niet: die int vleesch staen</l>
+<l>8 Connen God niet behaghen mede.</l>
+<l>&nbsp;</l>
+<l>9 Niet in het vleesch, maer gheest ghy leeft,</l>
+<l>Want Gods gheest in v is woonachtich:</l>
+<l>Die den gheest Christi niet en heeft,</l>
+<l>En coemt niet toe den God almachtich.</l>
+<l>10 So ghy Christum in v verwerft,</l>
+<l>Tlichaem wel om de sonde sterft</l>
+<l>Maer de gheest het leuen is crachtich</l>
+<l>&nbsp;</l>
+<l>11 Door de rechtueerdicheyt: En ist</l>
+<l>Dat in v woont de gheest des ghenen</l>
+<l>Die op ghewect heeft Jesum Christ,</l>
+<l>De selfde sal oock wel verleenen</l>
+<l>Dat v lichaem, twelck den doot smaeckt,</l>
+<l>Weder leuendich wort ghemaeckt,</l>
+    <pb ed="fol." n="B6v"/>
+<l>Oock door dien gheest in v ghemeene.</l>
+<l>&nbsp;</l>
+<l>12 So zijn wy, broeders, schuldenaers,</l>
+<l>Niet het vleesch om dat te aencleuen:</l>
+<l>Want die na tvleesch leeft, naect wat swaer,</l>
+<l>De doot die coemt hem dan beneuen.</l>
+<l>13 Maer so ghy door den Gheest seer sterck,</l>
+<l>Het lichaems lust, en boose werck,</l>
+<l>Doodet, ghy sult [door Christum] leuen.</l>
+<l>&nbsp;</l>
+<l>14 Die door Gods gheest worden gheleyt,</l>
+<l>Sijn kinderen Gods alle gader:</l>
+<l>15 Want den gheest vander dienstbaerheyt</l>
+<l>Wert niet tot vreese v versader,</l>
+<l>Maer ghy ontfangt nv eenen gheest</l>
+<l>Der kinderen vercoren meest,</l>
+<l>Waer door wy roepen Abba Vader.</l>
+<l>&nbsp;</l>
+<l>16 De selfde gheest tuycht met ons fijn</l>
+<l>Gods kinder te zijn [na tbetamen.]</l>
+<l>17 En ist dat wy dan kinder zijn,</l>
+<l>So zijn wy oock Gods erfghenamen,</l>
+<l>Ja mede-eruen Christi recht,</l>
+<l>Is tlijden oock in ons ghehecht,</l>
+<l>Om verheerlijct te werden t'samen.</l>
+<l>&nbsp;</l>
+<l>18 Ick houde tlijden deser tijt</l>
+<l>Alhier gantsch niet te zijn, te weghen</l>
+<l>Met het seer heerlijcke profijt</l>
+<l>Dat ons wert openbaer daer teghen:</l>
+<l>19 Van creatueren wort verwacht</l>
+<l>De openbaringh' van tgheslacht</l>
+<l>Der kindren Gods [tot sulcx gheneghen.]</l>
+<l>&nbsp;</l>
+<l>22 Van creatueren wort ghesucht,</l>
+<l>En zijn benaut tot deser uren:</l>
+<l>23 Oock wy die hebben d'eerste vrucht</l>
+<l>Sgheests, met wachten tselfde besueren.</l>
+<l>Wy wachten d'aennemingh<note n="‡">der kindere<hi rend="i">n</hi> Godes.</note> bequaem,</l>
+    <pb ed="fol." n="B7r"/>
+<l>Verlossinghe van het lichaem,</l>
+<l>[Ende trijck twelck eewich sal dueren.]</l>
+</lg></div>
+
+
+<div type="section">
+    <interpGrp> <interp type="song" value="fruy001send01_0010"/> </interpGrp>
+<head rend="h4"><hi rend="i">Den thienden stichtsanck wt den selfden Capittel, op de wijse van den 72. Psalm: Wilt doch v ghericht, &amp;c.</hi></head>
+    <p><figure>
+        <p><xptr to="fruy001send01ill0014.gif"/></p>
+    </figure></p>
+    <lg type="poem"><l>24 <hi rend="i">W</hi>Y zijn in hoop geworde<hi rend="i">n</hi> salich,</l>
+<l>Maer de hoop diemen siet,</l>
+<l>En is geen hope [hier egalich]</l>
+<l>Want sien can hopen niet.</l>
+<l>25 Maer ist dat hopen ons ghedachten,</l>
+<l>Als sy niet sien de daet, </l>
+<l>Lijtsamelijc sy dan verwachten,</l>
+<l>Dat noch voor handen staet.</l>
+<l>&nbsp;</l>
+<l>26 Desghelijcx coemt de gheest oock mede</l>
+<l>En helpt ons cranckheyt voort,</l>
+<l>Want wy en weten niet de bede</l>
+<l>Te bidden alst behoort.</l>
+<l>Maer de gheest daer elck toe moet vluchten,</l>
+<l>Selue hier voor ons bidt,</l>
+<l>Met onwtsprekelijcke suchten</l>
+<l>Voor elck gheloouich lidt.</l>
+    <pb ed="fol." n="B7v"/>
+<l>27 De gheen die elcx hert can doorsoecken,</l>
+<l>Gheuoelt des gheests gheschil,</l>
+<l>Int bidden can hy hem vercloecken</l>
+<l>Voor ons na Godes wil.</l>
+<l>28 Want Gods liefhebbers alle dinghen</l>
+<l>Ten besten dienen fijn:</l>
+<l>Die na tvoornemen sonderlinghen</l>
+<l>Van God gheroepen zijn.</l>
+<l>&nbsp;</l>
+<l>29 VVant die hy heeft ghekent te voren,</l>
+<l>Die heeft hy arm en rijck,</l>
+<l>Gheordineert als wtuercoren,</l>
+<l>Te werden form-ghelijck</l>
+<l>Tbeelt zijns soons, blusscher vanden toorne,</l>
+<l>Die ons voor gaet so vry,</l>
+<l>Op dat hy de eerste gheboorne</l>
+<l>Onder veel broeders sy.</l>
+<l>&nbsp;</l>
+<l>30 Die hy te voren ordineerde,</l>
+<l>Die riep hy oock voorwaer:</l>
+<l>En die hy riep hy oyt regeerde,</l>
+<l>En hy rechtueerdicht haer.</l>
+<l>Ende die hy door zijn weldade</l>
+<l>Hier gherechtueerdicht heeft,</l>
+<l>Vereerlijct hy [oock door ghenade</l>
+<l>Die hem eewich aen cleeft.]</l>
+<l>&nbsp;</l>
+<l>31 VVat sullen wy dan hier toesegghen,</l>
+<l>So God voor ons nv is,</l>
+<l>Wie is ons teghen? t'ouerlegghen</l>
+<l>Dit woort, men soud' ghewis.</l>
+<l>32 Die zijnen Sone niet en spaerde,</l>
+<l>Maer gaf hem in dit dal</l>
+<l>Voor ons: hoe sou dees God van waerde</l>
+<l>Met hem niet schencken al?</l>
+<l>&nbsp;</l>
+<l>33 VVie sal beschuldighen [oft laken]</l>
+<l>Die God vercoorne noemt?</l>
+    <pb ed="fol." n="B8r"/>
+<l>God ist die rechtueerdich can maken,</l>
+<l>34 Wie is hy die verdoemt?</l>
+<l>Christus sterf voor ons als wy weten,</l>
+<l>Ja hy is op ghewect,</l>
+<l>En aen Gods rechter hant gheseten,</l>
+<l>Daer t'bidden voor ons strect.</l>
+<l>&nbsp;</l>
+<l>35 VVie sal ons van zijn liefde scheyden,</l>
+<l>Benautheyt oft oock druck,</l>
+<l>Veruolgingh' oft naectheyts verbeyden,</l>
+<l>Vaer, swaert oft ongheluck?</l>
+<l>36 Daer is gheschreuen van Gods knapen,</l>
+<l>Hoe haer de doot verstrict,</l>
+<l>Wy zijn gheacht gheweest als schapen</l>
+<l>Tot slachtinghe gheschict.</l>
+<l>&nbsp;</l>
+<l>37 Maer [dat ghijt weet] in alle desen</l>
+<l>So ouerwinnen wy,</l>
+<l>Door hem die ons liefd' heeft bewesen,</l>
+<l>38 [Ende in als staet by]</l>
+<l>Want ick ben seker [oock door reden]</l>
+<l>Dat noch leuen noch doot,</l>
+<l>Noch Enghelen, noch Ouerheden,</l>
+<l>Noch machtighe hoe groot,</l>
+<l>&nbsp;</l>
+<l>	Noch teghenwoordich, noch toecomen,</l>
+<l>39 [Noch gheenderhande werck]</l>
+<l>Hoochte noch diepte, seer om schromen,</l>
+<l>Noch creatuer hoe sterck,</l>
+<l>Ons en can scheyden nemmermeere</l>
+<l>Van Gods liefd' menichfout,</l>
+<l>Sijnde in Christo onsen Heere,</l>
+<l>Hem louende vertrout.</l>
+</lg>
+</div></div>
+<div type="chapter">
+    <pb ed="fol." n="B8v"/>
+<head rend="h3"><hi rend="i">Inhout van het I X. Capittel.</hi></head>
+<lg type="poem"><l><hi rend="b"><hi rend="i">Goet willicheyt toont v broeder, met vreuchde leeft,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Maect geen onderscheyt, tusschen Heyden ofte Iode,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Want elck door den gheloof, zijn beroepinghe heeft,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Gheen goede wercken en maken salich voor Gode.</hi></hi></l>
+</lg><div type="section">
+    <interpGrp> <interp type="song" value="fruy001send01_0011"/> </interpGrp>
+<head rend="h4"><hi rend="i">Den elfsten stichtsanck wt den beginne van den negenden Capittel, op de wijse van den 114. Psalm: Doe Israel Egypten, &amp;c.</hi></head>
+    <p><figure>
+        <p><xptr to="fruy001send01ill0015.gif"/></p>
+    </figure></p>
+    <lg type="poem"><l>1 <hi rend="i">I</hi>Ck seg in Christo Jesu de waerheyt,</l>
+<l>Ick lieghe niet, want heel sonder swaerheyt,</l>
+<l>Can goet getuyge geuen</l>
+<l>Mijn conscientie door Godes geest,</l>
+<l>2 Tis mi int hert droefheyt nv aldermeest,</l>
+<l>En smerte daer beneuen.</l>
+<l>&nbsp;</l>
+<l>3 Ick wensch my selfs verworpen te zijne</l>
+<l>Van Christo, voor de broeders ende mijne</l>
+<l>Maechschap, na den vleesch te spreken.</l>
+<l>4 Israelijten zijnt den welcken stam,</l>
+<l>D'aenneminghe der kinderen toe quam,</l>
+<l>Want desen is ghebleken.</l>
+    <pb ed="fol." n="C1r"/>
+<l>	Heerlijckheyt, wet, en oock de verbonden,</l>
+<l>Godsdienst, beloften seer diep om gronden,</l>
+<l>5 So dat sy zijn de Vaders</l>
+<l>Daer Christus van is, so veel tvleesch aen gaet,</l>
+<l>De welck is te prijsen vroech en laet,</l>
+<l>Sijt hem dan gheen versmaders.</l>
+<l>&nbsp;</l>
+<l>6 Onmoghelijck ist nochtans in desen,</l>
+<l>Dat Gods woort te niete soude wesen,</l>
+<l>Want tzijn niet al te samen</l>
+<l>7 Israels noch Abrahams kinderen</l>
+<l>Die van hem zijn: ten mach niet hinderen,</l>
+<l>Siet Isaac by namen.</l>
+<l>&nbsp;</l>
+<l>8 Ten zijn Gods kinderen niet alleyne,</l>
+<l>Diet na den vleesche zijn int ghemeyne:</l>
+<l>[Segt ghy dat wy versprekent]</l>
+<l>De kinderen v hier nv af ghemaelt,</l>
+<l>Vander beloften dit seer selden faelt</l>
+<l>Worden in tzaet gherekent.</l>
+<l>&nbsp;</l>
+<l>9 Dit is twoort der beloften seer blijde</l>
+<l>Ick sal hier comen: ten seluen tijde</l>
+<l>Sal Sara hebben eenen soon,</l>
+<l>10 Dit niet alleen op dat ghy niet en ducht,</l>
+<l>Rebecca wort van Isaac beurucht</l>
+<l>So de schrift ons leert seer schoon.</l>
+<l>&nbsp;</l>
+<l>11 Haer kinderen zijnde ongheboren,</l>
+<l>Die goet of quaet en deden te voren,</l>
+<l>Op dat hier Gods voornemen</l>
+<l>Na zijn verkiesingh' soude blijuen staen</l>
+<l>12 Niet wt de wercken van de mensch ghedaen,</l>
+<l>Waren tsberoepers temen.</l>
+<l>&nbsp;</l>
+<l>	De meeste sal den minsten int leuen</l>
+<l>Dienen, want van hen staet gheschreuen:</l>
+<l>13 Tot Jacob had ick liefde</l>
+<l>Ende tot Esau so had ick den haet,</l>
+    <pb ed="fol." n="C1v"/>
+    <l>14 Nochtans is rechtueerdich in zijne daet,</l>
+    <l>Die ons dit woort verbriefde.</l>
+    <l>&nbsp;</l>
+    <l>15 Hy seyt ick sal hen hier zijn ghenadich</l>
+    <l>Die ickt ben: en ontferme ghestadich</l>
+    <l>Die ickt doe doort beschermen.</l>
+    <l>16 So gaet het dan hier niet na yemants wil</l>
+    <l>Noch lopen [in dit seer groote gheschil]</l>
+    <l>Maer na Godes ontfermen.</l>
+</lg></div>
+
+        <div type="section">
+            <interpGrp> <interp type="song" value="fruy001send01_0012"/> </interpGrp>
+            <head rend="h4"><hi rend="i">Den twaelfden stichtsanck wt den selfden Capittel, op de wijse van den 115. Psalm: Niet ons, niet ons: maer v, &amp;c.</hi></head>
+            <p><figure>
+                <p><xptr to="fruy001send01ill0016.gif"/></p>
+            </figure></p>
+            <lg type="poem"><l>17 <hi rend="i">S</hi>Iet wat de schrift van Pharo ons ontdect,</l>
+                <l>Daer toe heb ick v, seyt de Heer, verweckt,</l>
+                <l>Om mijn macht te bewijsen,</l>
+                <l>Op datme<hi rend="i">n</hi> mijnen nae<hi rend="i">m</hi> ghebenedijt,</l>
+                <l>Vercondige int lant breet ende wijt,</l>
+                <l>En ouer al soud' prijsen.</l>
+                <l>&nbsp;</l>
+                <l>18 Die hy dan wilt, ontfermt hy telcker stont,</l>
+                <l>En die hy wil, verhart hy oock [goet ront.]</l>
+                <l>19 Nv mach hier yemant vraghen,</l>
+                <l>Waerom beschuldicht God ons dan daer aen,</l>
+                <l>Wie heeft doch zijnen wil weder ghestaen?</l>
+                <l>Nyemant tot gheenen daghen.</l>
+                <l>&nbsp;</l>
+                <pb ed="fol." n="C2r"/>
+                <l>20 O me<hi rend="i">n</hi>sche wie zijt ghi die daer antwoort God,</l>
+                <l>Sal tot den maker segghen hier den pot,</l>
+                <l>Hoe maect ghy my? [wilt leeren.]</l>
+                <l>21 Oft heeft de potte-backer hier gheen macht</l>
+                <l>Dat wt een leem een vat werde ghebracht</l>
+                <l>Tot eer, en oock t'oneeren.</l>
+                <l>&nbsp;</l>
+                <l>22 God willende dat hier werde ghetoont</l>
+                <l>Sijn toorne die wel straffelijck beloont,</l>
+                <l>Machtich in alle dinghen:</l>
+                <l>Heeft tstorens vaten tot verderf bereyt,</l>
+                <l>Ende met seer grooter lanckmoedicheyt</l>
+                <l>Cost hijse oock voort bringhen.</l>
+                <l>&nbsp;</l>
+                <l>23 Oock op dat kenlijck wert den grooten schat</l>
+                <l>Der heerlijcheyt van elck ghenadich vat,</l>
+                <l>Daer toe bereyt te voren:</l>
+                <l>24 Ons die hy riep, alleen de Joden niet,</l>
+                <l>Maer oock de Heydenen diemen nv siet</l>
+                <l>Te zijn Gods wtuercoren.</l>
+                <l>&nbsp;</l>
+                <l>25 Ozea seyt dat mijn volck niet en was,</l>
+                <l>Sal ick mijn volck noemen al op dat pas,</l>
+                <l>Van liefd' salt hem beroemen.</l>
+                <l>26 Ter plaetsen daermen eertijts sprac daer van,</l>
+                <l>Ghy zijt mijn volck, niet salmen hen alsdan</l>
+                <l>Kinderen Godes noemen.</l>
+                <l>&nbsp;</l>
+                <l>27 En Esaias roept ouer hen snel,</l>
+                <l>Al waer ontallijck als zant Israel,</l>
+                <l>So sal blijuen behouden</l>
+                <l>28 Het ouerblijfsel: en van Gode wort</l>
+                <l>Voleynt een saeck rechtuaerdelijck becort,</l>
+                <l>Op aerden wijt aenschouden.</l>
+                <l>&nbsp;</l>
+                <l>29 Noch sprack de selfde oock tot onser baet,</l>
+                <l>Hadt ons de Heere Zebaoth gheen zaet</l>
+                <l>Hier laten ouer blijuen:</l>
+                <l>So waren wy, die van God namen wijck,</l>
+    <pb ed="fol." n="C2v"/>
+<l>Sodoma en Gomorra heel ghelijck,</l>
+<l>[Door hertneckich verstijuen.]</l>
+<l>&nbsp;</l>
+<l>30 De Heydenen die de rechtuaerdicheyt</l>
+<l>Niet na en volchden als schriftuere seyt,</l>
+<l>Die hebbense vercreghen</l>
+<l>31 Wt het gheloof: Israel die der wet</l>
+<l>Rechtueerdicheyt volchde, die wert belet</l>
+<l>Te comen [tot den seghen.]</l>
+<l>&nbsp;</l>
+<l>32 VVant salicheyt hebben sy niet ghesocht</l>
+<l>Wt het gheloof, maer wt het werck ghewrocht,</l>
+<l>Den hoecksteen sy aen porden,</l>
+<l>33 Aen de steenrotz der erghernis [ons hooft].</l>
+<l>Stieten sy hen: en wie in hem ghelooft</l>
+<l>Dese sal salich worden.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Inhout van het X. Capittel.</hi></head>
+<lg type="poem"><l><hi rend="b"><hi rend="i">Door tgheloof in Christum, wy vercrijghen rechtuaerdicheyt,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">De wet is voleynt, en door hem te niet gemaect,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Wt ghenade alleen, comen wy totter waerdicheyt,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Niemant door wercken totter salicheyt gheraect.</hi></hi></l>
+</lg><div type="section">
+    <interpGrp> <interp type="song" value="fruy001send01_0013"/> </interpGrp>
+<head rend="h4"><hi rend="i">Den derthienden stichtsanck, op de wijse vanden 8. Psalm: O onse God en Heer seer hooch, &amp;c.</hi></head>
+    <p><figure>
+        <p><xptr to="fruy001send01ill0017.gif"/></p>
+    </figure></p>
+    <lg type="poem"><l>1 <hi rend="i">B</hi>Roeders mijns herten wensch ende gebeden,</l>
+<l>Die zijn door Israel ter salicheden,</l>
+<l>2 Ic gheef ghetuych dat sy vierigen brant,</l>
+<l>Tot God </l>
+    <pb ed="fol." n="C3r"/>
+        <l><figure>
+            <p><xptr to="fruy001send01ill0018.gif"/></p>
+        </figure></l>
+<l>hebben, maer niet met recht verstant.</l>
+<l>&nbsp;</l>
+<l>3 Dewijl sy Gods rechtuaerdicheyt niet kende<hi rend="i">n</hi>,</l>
+<l>En haer tot eyghen rechtuaerdicheyt wenden,</l>
+<l>So en zijn sy Godes rechtuaerdicheyt</l>
+<l>Niet onderworpen, maer sy zijn misleyt.</l>
+<l>&nbsp;</l>
+<l>4 Teynde der wet, is Christus onse Heere,</l>
+<l>Rechtueerdich voor hen die gheloofden seere.</l>
+<l>5 Moyses beschreef rechtuaerdicheyt der wet,</l>
+<l>En seyt, de mensch leeft hout hy haer gheset.</l>
+<l>&nbsp;</l>
+<l>6 Maer de rechtuaerdicheyt wt den ghelooue</l>
+<l>Die spreect aldus, en zijt hier in niet dooue:</l>
+<l>Segt niet int hert, wie climt hier wt het graf</l>
+<l>Ten Hemel: dat is Christum brenghen af.</l>
+<l>&nbsp;</l>
+<l>7 Oft oock wie sal inden afgront door dringen,</l>
+<l>Dat is Christum vanden dooden op bringhen:</l>
+<l>Oft wie sal inden afgront varen neer,</l>
+<l>Dats Christum vander doot op bringhen weer.</l>
+<l>&nbsp;</l>
+<l>8 VVat seyt de schrift [vande<hi rend="i">n</hi> nieuwe<hi rend="i">n</hi> verbonde]</l>
+<l>Het woort dat is na by in uwen monde,</l>
+<l>En in v herte isset oock na by,</l>
+<l>Dits twoort des gheloofs, en dit preken wy.</l>
+<l>&nbsp;</l>
+<l>9 Ist dat ghy Christum mondich cont belijden,</l>
+<l>En met v hert ghelooft tot allen tijden</l>
+<l>Dat God hem vander doot heeft op ghewect,</l>
+<l>Ghy wort behouden [dit voldoeningh' strect.]</l>
+<l>&nbsp;</l>
+<l>10 Therte ghelooft tot rechtuaerdicheyt pure,</l>
+<l>Den mont belijt salicheyt telcker ure,</l>
+<l>11 Want de schrift seyt van Christo alst betaemt,</l>
+<l>So wie in hem ghelooft, blijft niet beschaemt.</l>
+<l>&nbsp;</l>
+<l>12 Daer is geen onderscheyt tussche<hi rend="i">n</hi> den Joden</l>
+    <pb ed="fol." n="C3v"/>
+<l>Oft Griecken: want hy die haer gaf gheboden,</l>
+<l>Ons alder Heer is, rijcke ouer al</l>
+<l>13 Want die hem aenroept hy behouden sal.</l>
+<l>&nbsp;</l>
+<l>14 Hoe sullense hem dan aenroepen moghen,</l>
+<l>Daer sy niet en gheloofden [onbedroghen]</l>
+<l>Gheloouen oock sonder te hooren: want</l>
+<l>Hoe salmen hooren sonder predicant?</l>
+<l>&nbsp;</l>
+<l>15 Hoe sullen sy prediken onghesonden,</l>
+<l>Ghelijck daer is Esayas vermonden:</l>
+<l>Hoe lieflijck zijn de voeten en tghemoet</l>
+<l>Der gheenre die daer preken vreed' en goet.</l>
+<l>&nbsp;</l>
+<l>16 Niet al waren sy twoort Gods gehoorsame,</l>
+<l>Want hy seyt, wie gheloofde dat bequame:</l>
+<l>17 So coemt het ghelooue als wert ghehoort,</l>
+<l>Ende het ghehoor door des Heeren woort.</l>
+<l>&nbsp;</l>
+<l>18 Hebben sy nv niet ghehoort met verstande,</l>
+<l>Voorwaer tgheluyt dat ginck in elcken lande:</l>
+<l>Ende haer woorden die zijn oock bekent</l>
+<l>[Seer opentlijck] tot aen des werelts ent.</l>
+<l>&nbsp;</l>
+<l>19 Bent Israel God niet door dit ontdecken,</l>
+<l>Moyses seyde, ick sal v gaen verwecken</l>
+<l>Tot navolgingh' door hen die niet en zijn,</l>
+<l>Door dit volck gheschiet v toorne en pijn.</l>
+<l>&nbsp;</l>
+<l>20 Esayas woorden oock dit voort brochten,</l>
+<l>Sy vonden my die my hier niet en sochten:</l>
+<l>Ick ben gheworden hen lien openbaer,</l>
+<l>Die hier na my niet en vraechden voorwaer.</l>
+<l>&nbsp;</l>
+<l>21 Tot Israel seyt hy [haer lien ter schanden]</l>
+<l>Den heelen dach strecte ick wt mijn handen</l>
+<l>Tot het volck twelck daer onghehoorsaem blijft,</l>
+<l>En my teghen spreect, ende quaet bedrijft.</l>
+</lg>
+</div>
+</div>
+<div type="chapter">
+    <pb ed="fol." n="C4r"/>
+<head rend="h3"><hi rend="i">Inhout van het X I. Capittel.</hi></head>
+<lg type="poem"><l><hi rend="b"><hi rend="i">Wonderbaerlijc is Gods oordeel, ende zijn wercken,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Onuindelijck is zijn wijsheyt, om t'ondersoecken:</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Den boetuaerdigen mensch, wil hy troosten en stercke</hi>n<hi rend="i">,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Den wercheyligen, sal hy doemen en veruloecken.</hi></hi></l>
+</lg><div type="section">
+    <interpGrp> <interp type="song" value="fruy001send01_0014"/> </interpGrp>
+<head rend="h4"><hi rend="i">Den veerthienden stichtsanck, op de wijse van den 9. Psal. Heer ick wil v wt sherten, &amp;c.</hi></head>
+    <p><figure>
+        <p><xptr to="fruy001send01ill0019.gif"/></p>
+    </figure></p>
+    <lg type="poem"><l>1 <hi rend="i">G</hi>Od heeft zijn volck verworpen niet,</l>
+<l>2 Dat hy te vore<hi rend="i">n</hi> kende: siet</l>
+<l>Wat va<hi rend="i">n</hi> Helia spreect schriftuere,</l>
+<l>Bedroeft zijnde ter selfder ure.</l>
+<l>&nbsp;</l>
+<l>3 Heere sy hebben hier ghedoot</l>
+<l>De Propheten: en wt gheroot</l>
+<l>Vwe altaren daer beneuen,</l>
+<l>Ick ben alleen ouer ghebleuen.</l>
+<l>&nbsp;</l>
+<l>4 VVat antwoort is tot hem gheschiet,</l>
+<l>Noch seuen duysent mans ick liet,</l>
+<l>Die haer knien niet hebben gheboghen</l>
+<l>Voor Baals beelt [hooch op ghetoghen.]</l>
+<l>&nbsp;</l>
+<l>5 Diesghelijcx is tot deser tijt,</l>
+<l>Een ouerblijfsel hier gheurijt</l>
+<l>Door God die hen niet en versmade,</l>
+<l>Na de verkiesingh' der ghenade.</l>
+<l>&nbsp;</l>
+<l>6 Ist wt ghenad' so ick aenmerck,</l>
+<l>&nbsp;</l>
+    <pb ed="fol." n="C4v"/>
+<l>So en ist dan niet wt het werck,</l>
+<l>Anders so en can oock door desen,</l>
+<l>Ghenade gheen ghenade wesen.</l>
+<l>&nbsp;</l>
+<l>	Ist dan hier door wercken volbrocht,</l>
+<l>So heeft ghenade niet ghewrocht:</l>
+<l>Anders en is het werck [ghebleken]</l>
+<l>Nv gheen werck alsmen recht sal spreken.</l>
+<l>&nbsp;</l>
+<l>7 Dat Israel hier heeft ghesocht,</l>
+<l>Vercreegh hy niet, maer onbedocht</l>
+<l>Ist van vercoorne hier vercreghen,</l>
+<l>D'ander bleuen verhart daer teghen.</l>
+<l>&nbsp;</l>
+<l>8 Ghelijck schriftuere ons verclaert,</l>
+<l>God gaf haer eenen gheest beswaert,</l>
+<l>Ooghen op dat sy niet en saghen,</l>
+<l>Ooren sonder tghehoor [tzijn plaghen.]</l>
+<l>&nbsp;</l>
+<l>9 Haer tafel werde hen daer op,</l>
+<l>Tot eenen strick en eenen strop,</l>
+<l>Oock erghernisse [diep om gronden]</l>
+<l>En tot vergeldinghe der sonden.</l>
+<l>&nbsp;</l>
+<l>10 Haer ooghen die laet werden hier</l>
+<l>Verduystert [door haer quaet bestier]</l>
+<l>Op dat sy hier niet sien en moghen,</l>
+<l>Den rugghe sy altijt gheboghen.</l>
+<l>&nbsp;</l>
+<l>11 Struyckelden sy hier dan alleen,</l>
+<l>Op dat sy vallen souden? neen:</l>
+<l>Maer door tmisvallen vanden Joden,</l>
+<l>Is salicheyt hier aen gheboden</l>
+<l>&nbsp;</l>
+<l>	Den Heydenen, daer sy op strect,</l>
+<l>Op dat elck Jode wert verwect</l>
+<l>Hen na te volghen int ghelooue,</l>
+<l>[Ende in Gods woort niet sy dooue.]</l>
+<l>&nbsp;</l>
+<l>12 Is haren val der werelt schat,</l>
+        <pb ed="fol." n="C5r"/>
+<l>Doet haer verminderinghe: dat</l>
+<l>Den Heydenen rijckdom can comen,</l>
+<l>Hoe wert veruullingh' dan ghenomen?</l>
+<l>&nbsp;</l>
+<l>13 Den Heydenen seg ick dit claer,</l>
+<l>So verre ick ben hen dienaer:</l>
+<l>Op dat ick mijn <note n="†">De Joden acht hy voor zijn vleesche.</note>vleesch trecken soude,</l>
+<l>En eenighe van hen behoude.</l>
+<l>&nbsp;</l>
+<l>15 VVant ist dat haer verworpingh' hert,</l>
+<l>Tswerelts versoeninghe hier wert,</l>
+<l>Wat is dan t'aennemen en nooden,</l>
+<l>Anders den tleuen wt den dooden?</l>
+<l>&nbsp;</l>
+<l>16 Sijn d'eerstelinghen heylich dan,</l>
+<l>De maffe oock sulcx wesen can:</l>
+<l>Want is de wortel hier nv heylich,</l>
+<l>So oock de tacken [nv onueylich.]</l>
+<l>&nbsp;</l>
+<l>17 Ist dat sommighe tacken zijn</l>
+<l>Ghebroken, en op dit termijn,</l>
+<l>Ghy zijt ghegriffijt in die stede,</l>
+<l>En tsbooms vet zijt deelachtich mede.</l>
+<l>&nbsp;</l>
+<l>18 So en wilt v beroemen niet,</l>
+<l>Want doet ghy dat: dit vry doorsiet,</l>
+<l>Ghy draecht de wortel t'gheenen daghen,</l>
+<l>Maer de wortel die moet v draghen.</l>
+<l>&nbsp;</l>
+<l>19 Segt niet sy braken [tot ghewin]</l>
+<l>Om my te griffien daer in:</l>
+<l>20 Dus cost hier onghelooue treffen:</l>
+<l>Vreest, maer en wilt v niet verheffen.</l>
+<l>&nbsp;</l>
+<l>21 Spaerde God niet tsnatueren aert,</l>
+<l>Siet toe dat ghy niet wert ghespaert.</l>
+<l>22 Daeromme siet wel in met vroetheyt,</l>
+<l>Gods strengicheyt ende zijn goetheyt.</l>
+<l>&nbsp;</l>
+<l>	Strengicheyt op den Joden nv,</l>
+        <pb ed="fol." n="C5v"/>
+<l>En goedertierenheyt op v,</l>
+<l>So verd' ghy blijft in vast betrouwen,</l>
+<l>Anders wort ghy oock af ghehouwen.</l>
+<l>&nbsp;</l>
+<l>23 Ende sy sullen niet der daet</l>
+<l>Verlatende tongheloof quaet,</l>
+<l>Weer inghegriffijt worden crachtich,</l>
+<l>Want diese griffijt is almachtich.</l>
+<l>&nbsp;</l>
+<l>24 So ghy van eenen boome wilt,</l>
+<l>Ghehouwen zijt: en goetheyt milt</l>
+<l>V stelt inden olijfboom pure,</l>
+<l>Hoe veel meer diet zijn van natuere.</l>
+</lg></div>
+
+
+<div type="section">
+    <interpGrp> <interp type="song" value="fruy001send01_0015"/> </interpGrp>
+<head rend="h4"><hi rend="i">Den vijfthienden stichtsanck, op de wijse van den 50. Psalm: God die der Goden, &amp;c.</hi></head>
+    <p><figure>
+        <p><xptr to="fruy001send01ill0020.gif"/></p>
+    </figure></p>
+    <lg type="poem"><l>25 <hi rend="i">I</hi>Ck en wil niet dat v sy onbekent,</l>
+<l>Dese verborghentheyt mijn broeders ient,</l>
+<l>Op dat ghy daer door niet hoochmoedich zijt,</l>
+<l>Hier by v seluen tot eenigher tijt,</l>
+<l><note n="†">Israels</note> t'Joden verhardingh' is eensdeels ghecomen,</l>
+<l>Tot dat sHeydenen volheyt wort vernomen.</l>
+    <pb ed="fol." n="C6r"/>
+<l>26 Ende also sal theele Israel</l>
+<l>Ghesalicht worden als de schrift tuycht wel:</l>
+<l>Siet de Verlosser coemt wt Sions [tent]</l>
+<l>Die der godloosheyt hier van Jacob went.</l>
+<l>27 Dit is tverbont van my met hen verbonden,</l>
+<l>Als ick heb wech ghenomen al haer sonden.</l>
+<l>&nbsp;</l>
+<l>28 So zijn sy dan vyanden na Gods <note n="‡">Euangelium.</note> woort,</l>
+<l>Om uwent wille als nv rechte voort:</l>
+<l>Maer na tverkiesen [siet weer dit gheschil]</l>
+<l>So zijn sy lief om der Vaderen wil:</l>
+<l>29 Want Godes gauen ende roep vol trouwen,</l>
+<l>En connen hem doch nemmermeer berouwen.</l>
+<l>&nbsp;</l>
+<l>30 Ghelijck ghy voortijts onghehoorsae<hi rend="i">m</hi> waert,</l>
+<l>Ende ghenade v nv openbaert</l>
+<l>Door onghehoorsaemheyt seer onbequaem,</l>
+<l>31 So werden sy oock hier onghehoorsaem,</l>
+<l>Op dat sy door v onbermlijcke dade,</l>
+<l>Oock weder souden crijghen Gods ghenade.</l>
+<l>&nbsp;</l>
+<l>32 VVant God die alle menschen heeft bereyt,</l>
+<l>Beslootse al onder ghehoorsaemheyt,</l>
+<l>Op dat hy allen sou barmhertich zijn.</l>
+<l>33 O diepe rijckdom, wijsheyt, kennis fijn,</l>
+<l>Hoe onbegrijplijck ist oordeel gheleghen,</l>
+<l>Hoe onbeuindelijck zijn uwe weghen?</l>
+<l>&nbsp;</l>
+<l>34 VVie heeft hier oyt bekent des Heeren sin,</l>
+<l>Oft wie was zijn raetsman van aen begin,</l>
+<l>35 Oft wie heeft hem hier oyt ghegheuen yet</l>
+<l>Het welcke dat hy onuergolden liet?</l>
+<l>36 Want tis al wt hem, door hem, tot hem mede,</l>
+<l>Hem sy de heerlijckheyt in eewichede.</l>
+</lg>
+</div></div>
+<div type="chapter">
+    <pb ed="fol." n="C6v"/>
+<head rend="h3"><hi rend="i">Inhout van het X I I. Capittel.</hi></head>
+<lg type="poem"><l><hi rend="b"><hi rend="i">Offert v God, tot een leuende offerhande,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Bewijst v naesten liefde, vernieut inden gheest:</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Dient d'een den anderen, met wijsheyt en verstande</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Sijt niet wraecgierich, v vyant spijsende weest.</hi></hi></l>
+</lg><div type="section">
+    <interpGrp> <interp type="song" value="fruy001send01_0016"/> </interpGrp>
+<head rend="h4"><hi rend="i">Den sesthienden stichtsanck, op de wijse van den 11. Psalm: Ick betrou op God, &amp;c.</hi></head>
+    <p><figure>
+        <p><xptr to="fruy001send01ill0021.gif"/></p>
+    </figure></p>
+    <lg type="poem"><l> <hi rend="i">I</hi>Ck bid v broeders, door Godes genade,</l>
+<l>Dat ghy v lichamen Gode begheeft,</l>
+<l>Tot offerhande leuendich [van dade]</l>
+<l>Heylich waer in de Heer behagen heeft,</l>
+<l>Twelc is den Godsdie<hi rend="i">n</hi>st nut en bequame,</l>
+<l>Ende ooc redelijc desen aen cleeft,</l>
+<l>Want bouen maten is sy aenghename.</l>
+<l>&nbsp;</l>
+<l>2 Ghelijck dees werelt en wilt v niet draghen,</l>
+<l>Verandert door vernieuwingh' van tghemoet,</l>
+<l>Op dat ghy meucht beproeuen Gods behaghen,</l>
+<l>Ende zijnen volmaecten wille goet.</l>
+    <pb ed="fol." n="C7r"/>
+<l>3 Want door ghenade die my gaf de Heere,</l>
+<l>Gheschied' ick yeghelijck wat dat hy doet,</l>
+<l>Hy en gheuoel niet bouen rechte leere.</l>
+<l>&nbsp;</l>
+<l>	Tgheuoelen sy matich alst hoort door reden</l>
+<l>Na datmen door tgheloof ghedeylt aenmerck</l>
+<l>4 Want so wy int lichaem hebben veel leden,</l>
+<l>Ende elck lidt heeft zijn bysonder werck:</l>
+<l>5 So zijn wy oock veel in eenen lichame</l>
+<l>In Christo, maer wy zijn hier in dit perck</l>
+<l>Elck tsanders lidt, tot hulpe al te same.</l>
+<l>&nbsp;</l>
+<l>6 Hebbende na ghenad' gauen verscheyden,</l>
+<l>7 Die prophecie hier van God vercreech,</l>
+<l>Na tsgheloofs maet wilt v daer toe bereyden:</l>
+<l>Hebt ghy bedieningh', dient, en zijt niet leech,</l>
+<l>Ende die leert, int leeren sy ghebleuen:</l>
+<l>8 Die daer vermae<hi rend="i">n</hi>t, vermane als hy pleech,</l>
+<l>Ende die gheeft, die sal eenuoudich gheuen.</l>
+<l>&nbsp;</l>
+<l>	So wie regeert, sy naerstich ende spoedich,</l>
+<l>Die barmherticheyt doet in al v daet,</l>
+<l>Laet dat gheschieden hier altijt blymoedich:</l>
+<l>Liefde sy ongheueynst, en haet het quaet,</l>
+<l>9 Aenhangt het goede als ick v vermaende,</l>
+<l>10 Tot broederlijcke liefde vroech en laet,</l>
+<l>D'een den ander zijt niet eer hier voor gaende.</l>
+<l>&nbsp;</l>
+<l>11 Sijt niet traech int voornemen [maer sorchuuldich]</l>
+<l>12 Verblijt in hoop, en lijdet druck gheduldich,</l>
+<l>Gheduerich zijt int ghebet [alder meest.]</l>
+<l>13 Den nootdruftighen deylt, zijt niet verbolgen,</l>
+<l>Herbercht oock gheern, ende den Heere vreest,</l>
+<l>14 Seghent die v veruloecken en veruolghen.</l>
+<l>&nbsp;</l>
+<l>15 VVilt v hier ooc verblijde<hi rend="i">n</hi> met den blijden,</l>
+<l>Diesghelijcke met den weenenden weent:</l>
+<l>16 Weest onder v eensins tot allen tijden,</l>
+    <pb ed="fol." n="C7v"/>
+<l>Gheuoelt niet hooch, maer v seluen vercleent,</l>
+<l>Voecht v by verneerde in huys en velden,</l>
+<l>Acht v niet cloeck, of v God gaef verleent:</l>
+<l>17 Niemant en wilt hier quaet met quaet v<hi rend="i">er</hi>gelde<hi rend="i">n</hi>.</l>
+<l>&nbsp;</l>
+<l>	Besorcht dat eerlijck is int smenschen ooghen,</l>
+<l>18 Soot moochlijck is, hebt vred' met alle man</l>
+<l>So veel in v is, wilt gheen twist ghedooghen.</l>
+<l>19 En wilt v seluen hier niet wreken: dan</l>
+<l>Geeft hier de<hi rend="i">n</hi> toorne plaets, en leeft eendrachtich,</l>
+<l>Want daer staet, de wrake is mijn, ick can</l>
+<l>En salt verghelden, spreect de Heer almachtich.</l>
+<l>&nbsp;</l>
+<l>20 Hongert dan v vyant, so wilt hem prijsen,</l>
+<l>Dorst hy, gheeft hem te drincken, en ghelooft</l>
+<l>21 Dat v God van alsulcken daet sal prijsen:</l>
+<l>Ende ghy sult vergaren op sijn hooft</l>
+<l>Vyerighe colen [dus zijt coel van sinnen:]</l>
+<l>22 Tquaet ouerwin v niet, twelc deucht berooft,</l>
+<l>Maer wilt het quaet met goede ouerwinnen.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Inhout van het X I I I. Capittel.</hi></head>
+<lg type="poem"><l><hi rend="b"><hi rend="i">D'ouerheyt is van God, dus weestse ghehoorsaem,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Die haer wederstaet, wederstaet des Heeren woort:</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Hebt malcander lief, veruult Godes wet bequaem,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Heyliget zijnen naem, en schout svleesch luste</hi>n<hi rend="i"> voort.</hi></hi></l>
+</lg><div type="section">
+    <interpGrp> <interp type="song" value="fruy001send01_0017"/> </interpGrp>
+<head rend="h4"><hi rend="i">Den seuenthienden stichtsanck, op de wijse van den 23. Psalm: Mijn God voedt my, &amp;c.</hi></head>
+    <p><figure>
+        <p><xptr to="fruy001send01ill0022.gif"/></p>
+    </figure></p>
+    <lg type="poem"><l>1 <hi rend="i">E</hi>En yegelijck sy onderdanich mede,</l>
+<l>De Ouerheyt en macht in elcker stede,</l>
+<l>Wa<hi rend="i">n</hi>t daer en </l>
+    <pb ed="fol." n="C8r"/>
+        <l><figure>
+            <p><xptr to="fruy001send01ill0023.gif"/></p>
+        </figure></l>
+<l>is hier geen macht da<hi rend="i">n</hi> van Gode,</l>
+<l>Ende diet zijn die zijnt door Gods gebode,</l>
+<l>2 Wie haer da<hi rend="i">n</hi> wederstaet met daet oft woorden,</l>
+<l>Die is hier wederstaende Godes oorden.</l>
+<l>&nbsp;</l>
+<l>	[Bysonder] diese wederstaen seer dwalen,</l>
+<l>Want doordeel Gods op hen seluen sy halen.</l>
+<l>3 Voor d'Ouerheyt doruen hen niet verschricken</l>
+<l>Die goet doen, maer die hen qualijck aen schicken:</l>
+<l>Daerom en wilt ghy hier de macht niet vreesen,</l>
+<l>Doet goet, ghy wert als dan van haer ghepresen.</l>
+<l>&nbsp;</l>
+<l>4 VVant sy is Gods dienersse tot den goede,</l>
+<l>Doet ghy het quaet, vreest en zijt op v hoede,</l>
+<l>5 Want sy en sal tswaert niet vergeefs hier drage<hi rend="i">n</hi>,</l>
+<l>Sy wreect en straft de ghene diet quaet waghen:</l>
+<l>Sijt ghehoorsaem niet om de straf alleyne,</l>
+<l>Maer oock om de conscientie reyne.</l>
+<l>&nbsp;</l>
+<l>6 Hierom betaelt ghy schot in uwe iaren,</l>
+<l>Want sy hanthauen dit als Gods dienaren.</l>
+<l>7 Gheeft dan eenen yeghelijck hier gheduldich,</l>
+<l>Schattinghe die ghy hier den schat zijt schuldich</l>
+<l>Tol, en vreese gheeft na Christus leere,</l>
+<l>Oock eerende die ghy schuldich zijt eere.</l>
+<l>&nbsp;</l>
+<l>8 VVeest niema<hi rend="i">n</hi>t sculdich, da<hi rend="i">n</hi> d'ee<hi rend="i">n</hi> d'ander lieue<hi rend="i">n</hi></l>
+<l>Want liefd' veruult de wet, sy can gherieuen,</l>
+        <pb ed="fol." n="C8v"/>
+<l>9 Touerspel laten, dootslaen daer beneuen,</l>
+<l>Niet stelen oock, noch valsch ghetuyghe gheuen,</l>
+<l>Oft yet begheeren, begrijpt dit van binnen,</l>
+<l>V naesten wilt als v seluen beminnen:</l>
+<l>&nbsp;</l>
+<l>10 Daer liefd' in is, dese gheen quaet doe<hi rend="i">n</hi> sullen,</l>
+<l>So is liefde dan hier des wets veruullen:</l>
+<l>11 Wetende hoe den tijt nv is gheleghen,</l>
+<l>Vanden slaep op te staen, tis tijt ghecreghen,</l>
+<l><note place="margin">Te wete<hi rend="i">n</hi>, doen wy onder de verdoemenisse der Wet stonden.</note>Want salicheyt is nv naerder t'oorboren,</l>
+<l>Dan doen wijt hier ghelooft hebben te voren.</l>
+<l>&nbsp;</l>
+<l>12 Den nacht die is vergaen en wech genomen,</l>
+<l>Ende den dach die is ons by ghecomen:</l>
+<l>So laet ons nv der duysternissen wercken</l>
+<l>Af legghen, ende om ons te verstercken,</l>
+<l>Ons nv met wapenen des lichts becleeden,</l>
+<l>Niet slachtende den godloosen en wreeden.</l>
+<l>&nbsp;</l>
+<l>13 Laet ons eerlijck te wandelen hier passen,</l>
+<l>Als inden dach, niet in dronck of in brassen,</l>
+<l>Niet in slaepcameren of wulpsch bedrijuen,</l>
+<l>Noch oock in nijdicheyt oft eenich kijuen,</l>
+<l>Oft om tvleeschs lust hier te sorghen so seere,</l>
+<l>14 Maer aen doen Jesum Christum onsen Heere.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Inhout van het X I I I I. Capittel.</hi></head>
+<lg type="poem"><l><hi rend="b"><hi rend="i">Niemant maect onderscheyt, ouer spijs ofte dranck,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Nuttichtse by maten, tot stichtinghe ws naesten:</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Quetst haer consciencie niet, laetse vry en vranck,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Gheeft gheen ergernisse, maer om hoede</hi>n<hi rend="i"> wilt haesten.</hi></hi></l>
+</lg><div type="section">
+    <interpGrp> <interp type="song" value="fruy001send01_0018"/> </interpGrp>
+<head rend="h4"><hi rend="i">Den achthienden stichtsanck, op de wijse van den 12. Psalm: Doet ons bystant, &amp;c.</hi></head>
+    <p><figure>
+        <p><xptr to="fruy001send01ill0024.gif"/></p>
+    </figure></p>
+    <lg type="poem"><l>1 <hi rend="i">D</hi>En crancken int gelooue hier ghese-</l>
+    <pb ed="fol." n="D1r"/>
+        <l><figure>
+            <p><xptr to="fruy001send01ill0025.gif"/></p>
+        </figure></l>
+<l>ten</l>
+<l>Neemt op niet tot samen gesprec van twist,</l>
+<l>2 D'een gelooft datmen alle dinc mach eten,</l>
+<l>En die cranck is eet moes, [en vliede twist.]</l>
+<l>&nbsp;</l>
+<l>3 VVie eet die en sal hem oock niet verachten,</l>
+<l>Ende die niet en eet, niet en verdoem</l>
+<l>Den etenden, [die oueruloet can wachten]</l>
+<l>Want hy nam hem aen, die ick eewich noem.</l>
+<l>&nbsp;</l>
+<l>4 VVie zijt ghi die oordeelt de<hi rend="i">n</hi> knecht ws naeste<hi rend="i">n</hi>,</l>
+<l>Hy staet oft valt, den Heere hy betrout:</l>
+<l>En hy wort op ghehouden noch ten laesten,</l>
+<l>Want God is machtich die hem staende hout.</l>
+<l>&nbsp;</l>
+<l>5 D'een acht dan den eene<hi rend="i">n</hi> dach meerder blijcke</l>
+<l>Dan d'andere, ende hy blijft daer by,</l>
+<l>D'ander acht alle daghen hier ghelijcke,</l>
+<l>Elck hier verseeckert int gheuoelen sy.</l>
+<l>&nbsp;</l>
+<l>6 VVie den dach acht, die achte hem de<hi rend="i">n</hi> Heere,</l>
+<l>Wiet niet en doet, achten den Heere niet:</l>
+<l>Wie eet, die eet den Heer, en gheef hem eere,</l>
+<l>Van beyden gheeft God danck hoe het gheschiet.</l>
+<l>&nbsp;</l>
+<l>7 Nyemant van ons leeft noch en sterft he<hi rend="i">m</hi> selue<hi rend="i">n</hi>,</l>
+<l>Leuen wy, steruen wy, het is in God,</l>
+<l>Oftmen ons siet leuen oft onder deluen,</l>
+<l>So zijn wy dan des Heeren Zebaoth.</l>
+<l>&nbsp;</l>
+<l>9 VVant hier toe so is Christus nv gestoruen,</l>
+<l>En wederom leuendich op ghewect,</l>
+<l>Om dat de heerschappy van hem verworuen,</l>
+<l>Ouer de leuende en doode streckt.</l>
+</lg>
+</div>
+
+
+    
+
+<div type="section">
+    <pb ed="fol." n="D1v"/>
+    <interpGrp> <interp type="song" value="fruy001send01_0019"/> </interpGrp>
+<head rend="h4"><hi rend="i">Den negenthienden stichtsanck wt den selfden Capittel, op de wijse vanden 14. Psalm: De dwaes die spreect in zijn, &amp;c.</hi></head>
+    <p><figure>
+        <p><xptr to="fruy001send01ill0026.gif"/></p>
+    </figure></p>
+    <lg type="poem"><l>10 <hi rend="i">M</hi>Ensch waerom oordeelt ghy, veracht en schelt,</l>
+<l>Hier uwe<hi rend="i">n</hi> broeder met seer schimpich blamen,</l>
+<l>Denct dat wy namaels sulle<hi rend="i">n</hi> al te samen,</l>
+<l>Voor Christi rechterstoel eens zijn ghestelt,</l>
+<l>Als schrift vermelt.</l>
+<l>&nbsp;</l>
+<l>11 Ick leue seyt de Heer, die eewich leeft,</l>
+<l>Voor my buycht alle knie tot allen tijden,</l>
+<l>En alle tonghe sal den Heer belijden,</l>
+<l>12 Past dat ghy van thgeen dat ghy hier bedreeft</l>
+<l rend="; 2tab">Rekenschap gheeft.</l>
+<l>&nbsp;</l>
+<l>13 Laet ons den anderen cleyne noch groot,</l>
+<l>Niet meer hier oordeelen, dan nv zijn broeder,</l>
+<l>Maer oordeelt lieuer, het welck uwen broeder</l>
+<l>Gheen oorsaeck gheeft tot valle oft aenstoot,</l>
+<l rend="; 2tab">[Helpt hem in noot.]</l>
+<l>&nbsp;</l>
+<l>14 Ick weet in Jesu Christo wel certeyn,</l>
+<l>Datter als nv ter tijt en can door desen</l>
+<l>Hier in hem seluen niet onreyns meer wesen,</l>
+    <pb ed="fol." n="D2r"/>
+<l>Dan den ghenen die sulcx hier meynt alleyn,</l>
+<l rend="; 2tab">Dien ist onreyn.</l>
+<l>&nbsp;</l>
+<l>15 In uwe spijs een broeder droefheyt doet,</l>
+<l>Ghy hebt gheen liefd', dus wilt he<hi rend="i">m</hi> niet verdoruen,</l>
+<l>Met v spijs daer Christus voor is ghestoruen:</l>
+<l>16 Op dat oock voor den laster sy behoet</l>
+<l rend="; 2tab">Ons schat en goet.</l>
+<l>&nbsp;</l>
+<l>17 VVant Godes Conincrijck [in dit foreest]</l>
+<l>En is in spijse noch in dranck gheleghen,</l>
+<l>Maer tot rechtvaerdicheyt te zijn gheneghen,</l>
+<l>Vred' en blijschap door den heylighen Gheest,</l>
+<l rend="; 2tab">[Dits van het meest.]</l>
+<l>&nbsp;</l>
+<l>18 VVie hier in Christo dient die is verlicht,</l>
+<l>Aengenaem voor God, hy behaecht den mensche<hi rend="i">n</hi>.</l>
+<l>19 Soect da<hi rend="i">n</hi> tgee<hi rend="i">n</hi> dat tot vrede die<hi rend="i">n</hi>t, wilt wensche<hi rend="i">n</hi></l>
+<l>Daer ghy hier onder een wort door ghesticht,</l>
+<l rend="; 2tab">[Schout valsch ghedicht.]</l>
+<l>&nbsp;</l>
+<l>20 Om spijs verderft Gods werc niet, ouerdinct</l>
+<l>Dat al reyn is: maer aenstoot dient verbeten:</l>
+<l>Want het waer beter hier gheen vleesch te eten,</l>
+<l>21 Oft yet anders, oft datmen oock wijn drinct,</l>
+<l rend="; 2tab">Ist saeck dat crinct.</l>
+<l>&nbsp;</l>
+<l>22 Hebt ghy tgheloof by v seluen hebt dat</l>
+<l>Voor Gode: nochtans wilt niet te seer roemen:</l>
+<l>Salich zijnse die hen selfs niet verdoemen</l>
+<l>In tghene dat van hen wort aen gheuat</l>
+<l rend="; 2tab">Door tsgheloofs schat.</l>
+<l>&nbsp;</l>
+<l>23 Maer die daer twijfelt, en mijt het tsgheests cracht</l>
+<l>Is v<hi rend="i">er</hi>oordeelt, dees spijs die valt he<hi rend="i">m</hi> sure,</l>
+<l>Want hy eet niet wt den ghelooue pure:</l>
+<l>24 En al wat wt tgheloof niet wort volbracht</l>
+<l rend="; 2tab">Wort sond' gheacht.</l>
+    </lg></div></div>
+    <div type="chapter">
+        <pb ed="fol." n="D2v"/>
+        <head rend="h3"><hi rend="i">Inhout van het X V. Capittel.</hi></head>
+        <l>&nbsp;</l>
+        <lg type="poem"><l><hi rend="b"><hi rend="i">Ghi die sterc zijt, helpt de</hi>n<hi rend="i"> swacke</hi>n<hi rend="i"> haer swacheit drage</hi>n<hi rend="i">,</hi></hi></l>
+            <l><hi rend="b"><hi rend="i">Wilt eendrachtich de</hi>n<hi rend="i"> Heer met mont en herte prijsen:</hi></hi></l>
+            <l><hi rend="b"><hi rend="i">Sijt vierich int ghebet, helpt den droeuighen claghen,</hi></hi></l>
+            <l><hi rend="b"><hi rend="i">Schept een behaghen, in v broeder t'onderwijsen.</hi></hi></l>
+        </lg><div type="section">
+            <interpGrp> <interp type="song" value="fruy001send01_0020"/> </interpGrp>
+            <head rend="h4"><hi rend="i">Den twintichsten stichtsanck, op de wijse van den 27. Psalm: God is mijn licht, &amp;c.</hi></head>
+            <p><figure>
+                <p><xptr to="fruy001send01ill0027.gif"/></p>
+            </figure></p>
+            <lg type="poem"><l>1 <hi rend="i">W</hi>Y die sterck zijn, zijn schuldich hier te drage<hi rend="i">n</hi>,</l>
+                <l>Der swacker cra<hi rend="i">n</hi>cheyt met lijtsae<hi rend="i">m</hi> gemoet,</l>
+                <l>Ons selue<hi rend="i">r</hi> toe te geuen t'geene<hi rend="i">n</hi> dage<hi rend="i">n</hi>,</l>
+                <l>Maer onsen naeste<hi rend="i">n</hi> tot stichting' en goet,</l>
+                <l>Wa<hi rend="i">n</hi>t Jesus Christus onse Heere soet,</l>
+                <l>He<hi rend="i">m</hi> selue<hi rend="i">n</hi> hier niet toe en geeft voor waer,</l>
+                <l>Maer so van he<hi rend="i">m</hi> geschreuen is hy doet,</l>
+                <l>En des versmaders smaet leyt op hem swaer.</l>
+                <l>&nbsp;</l>
+                <l>4 VVant al wat ons te voren is gheschreuen,</l>
+                <l>Is tot onser leer en stichtingh' gheschiet,</l>
+                <pb ed="fol." n="D3r"/>
+                <l>Op dat wy door des lijtsaemheyts aencleuen,</l>
+                <l>En des schrifts troost, hoop souden hebben siet.</l>
+                <l>5 De God des lijtsaemheyts daer troost va<hi rend="i">n</hi> vliet,</l>
+                <l>Gheeft dat ghy onder een tot alder tijt,</l>
+                <l>Eensins gheuoelt [in tgheen dat hy ghebiet]</l>
+                <l>In Christo onsen Heer ghebenedijt.</l>
+                <l>&nbsp;</l>
+                <l>6 Op dat ghy Gode, ende oock den vader</l>
+                <l>Ons Heeren Christi prijst wt eenen mont.</l>
+                <l>7 Daerom neemt d'een d'ander aen alle gader,</l>
+                <l>So Christus ons aen nam die ons by stont,</l>
+                <l>Tot Godes heerlijckheyt [en wert goet ront]</l>
+                <l>8 Een dienaer der besnijdinghe met last,</l>
+                <l>Op dat hy de beloften, en tverbont</l>
+                <l>Der Vaderen hier soude maken vast.</l>
+                <l>&nbsp;</l>
+                <l>9 Op dat de Heydenen aen alle zijden,</l>
+                <l>God souden prijsen wt ghenade hier:</l>
+                <l>Daer staet, hierom so sal ick v belijden</l>
+                <l>Onder den Heydenen met sanghe' fier.</l>
+                <l>10 Sijt Heydenen nv vrolijck van manier,</l>
+                <l>Met zijnen volcke hem nv eer bewijst,</l>
+                <l>Den Heere die daer is seer goedertier</l>
+                <l>11 Looft nv alle, en zijnen name prijst.</l>
+                <l>&nbsp;</l>
+                <l>12 Daer sal een wortel wt Jesse hier wesen,</l>
+                <l>Ende die daer wt is, in hem verheucht:</l>
+                <l>Heydenen werden gheregeert door desen,</l>
+                <l>In hem hopen sy, door zijn groote deucht.</l>
+                <l>13 De God der hope veruull' v met vreucht,</l>
+                <l>En vrede int ghelooue met eendracht,</l>
+                <l>Op dat ghy oueruloedich hier zijn meucht</l>
+                <l>In het gheloof door tsheylighen Gheests cracht.</l>
+            </lg></div>
+    
+
+        <div type="section">
+            <interpGrp> <interp type="song" value="fruy001send01_0021"/> </interpGrp>
+            <head rend="h4"><hi rend="i">Den eenentwintichsten stichtsanck wt den selfden Capit. op de wijse vanden 44. Psalm: Heer v wonder wercken, &amp;c.</hi></head>
+            
+<pb ed="fol." n="D3v"/>
+<p>&nbsp;</p>
+            <p><figure>
+                <p><xptr to="fruy001send01ill0028.gif"/></p>
+            </figure></p>
+            <lg type="poem"><l>14 <hi rend="i">B</hi>Roeders ic be<hi rend="i">n</hi> seker door vroetheyt,</l>
+<l>Dat ghy nv ooc vol zijt va<hi rend="i">n</hi> goetheyt,</l>
+<l>Met alderley ke<hi rend="i">n</hi>nis veruult,</l>
+<l>En machtich oock nv wesen sult,</l>
+<l>D'een d'ander hier te doen vermaen,</l>
+<l>15 En dat ic dus stout heb geschreuen,</l>
+<l>Heeft Gods genade meest gedaen,</l>
+<l>Die my van hem hier is gegeuen.</l>
+<l>&nbsp;</l>
+<l>16 Ick ben des Heeren Christi dienaer,</l>
+<l>Voor v ghy Heydenen openbaer,</l>
+<l>Om te prediken Godes woort,</l>
+<l>En te bedienen alst behoort:</l>
+<l>Op dat v offerhande meest</l>
+<l>God aenghenaem sy [int volbringhen]</l>
+<l>Ende gheheylicht door Gods gheest,</l>
+<l>17 Ick roem in Christo in dees dinghen.</l>
+<l>&nbsp;</l>
+<l>18 VVant ick en sou niet derren spreken</l>
+<l>Van eenich dinck van my ghebleken,</l>
+<l>Door Christum die twerck heeft ghewrocht</l>
+<l>Aen Heydensche van my besocht,</l>
+<l>Also met woorden ende twerck,</l>
+<l>19 Teeckenen ende wonderheden</l>
+<l>Door de cracht van Gods gheest seer sterck,</l>
+    <pb ed="fol." n="D4r"/>
+<l>Int Euangeliums verbreden.</l>
+<l>&nbsp;</l>
+<l>20 Ick ben gheweest also eergierich,</l>
+<l>Om twoort te prediken seer vierich,</l>
+<l>Niet daer Christus wel was bekent,</l>
+<l>21 Op dat ick op het fondament</l>
+<l>Eens anders en timmerde niet:</l>
+<l>Ende die schrift bleeck als wy lesen,</l>
+<l>Diet onuercondicht is die siet,</l>
+<l>Diet niet en hoorde weet van desen.</l>
+<l>&nbsp;</l>
+<l>30 Ick bid v broeders door den Heere,</l>
+<l>En door de liefde des gheests seere,</l>
+<l>Strijt tot God met tghebet voor my,</l>
+<l>31 Op dat ick in Juda werd' vry,</l>
+<l>En mijnen dienst sy aenghenaem</l>
+<l>T'Jerusalem en in veel steden,</l>
+<l>32 Tot dat ick weder keer bequaem,</l>
+<l>33 So sy met v de God des vreden.</l>
+            </lg></div></div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Inhout van het X V I. Capittel.</hi></head>
+<lg type="poem"><l><hi rend="b"><hi rend="i">Weest wijs in het goede, en onnoosel int quade,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Wacht v voor twistmakers, die de simple</hi>n<hi rend="i"> veruleyen,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Groet en eert malcander, wandelt der wijsen pade</hi>n<hi rend="i">,</hi></hi></l>
+<l><hi rend="b"><hi rend="i">Volcht de ghenade, die v ter waerheyt sal leyen.</hi></hi></l>
+</lg><div type="section">
+    <interpGrp> <interp type="song" value="fruy001send01_0022"/> </interpGrp>
+<head rend="h4"><hi rend="i">Den tweentwintichsten stichtsanck, op de wijse van den 74. Psal. Hoe coemt dat ghy ons verstroyt.</hi></head>
+    <p>&nbsp;</p>
+    <p><hi rend="i">Tot den Sangher.</hi></p>
+<p>&nbsp;</p>
+<p>Aengesien dat dit laetste Capittel ten beginsele meesten deel in groetenissen bestaet, soo ist, beminde Sanger, dat wy alhier beginnen van het 17. versken, tvoorgaende met opset wt latende.</p>
+<p>&nbsp;</p>
+    <p><figure>
+        <p><xptr to="fruy001send01ill0029.gif"/></p>
+    </figure></p>
+    <lg type="poem"><l>17 <hi rend="i">I</hi>Ck bid v broeders hebt op dese acht,</l>
+
+    <pb ed="fol." n="D4v"/>
+        <l><figure>
+            <p><xptr to="fruy001send01ill0030.gif"/></p>
+        </figure></l>
+<l>Die tweedracht ende ergernissen maken,</l>
+<l>Teghen de leer die ghy leert, en sy laken,</l>
+<l>Wijct van hen, hebt Gods woort in v ghedacht.</l>
+<l>&nbsp;</l>
+<l>18 Sy dienen Christo niet [na mijn aduijs]</l>
+<l>Maer hare<hi rend="i">n</hi> buyc, twelc haer namaels can smerte<hi rend="i">n</hi>,</l>
+<l>Ende veruoeren d'eenuoudighe herten</l>
+<l>Door het schoon spreken ende haren prijs.</l>
+<l>&nbsp;</l>
+<l>19 VVant v gehoorsaemheyt tot allen staet,</l>
+<l>Daerom ben ick ouer v bly van moede:</l>
+<l>Maer ick weet dat ghy wijs zijt in het goede,</l>
+<l>Ende onnoosel [als duyfkens] int quaet.</l>
+<l>&nbsp;</l>
+<l>20 De God des vreden sal des Duyuels macht</l>
+<l>Cortelingh' onder de v[...]en vertreden.</l>
+<l>21 By v in God met zijn barmherticheden,</l>
+<l>24 Ende zijnes heylighen Gheestes cracht.</l>
+<l>&nbsp;</l>
+<l>25 Die v versterct na Gods woort onbeulect,</l>
+<l>Het welck seer langhe is gheweest verborghen</l>
+<l>Ende versweghen, maer wilt nv niet sorghen,</l>
+<l>Het openbaert hem, en is scho[on o]ntdect.</l>
+<l>&nbsp;</l>
+<l>26 Door der Prophete<hi rend="i">n</hi> schrift, seer hooch v<hi rend="i">er</hi>maert</l>
+<l>Na ghehoorsaemheyt en tgheloof in Gode,</l>
+<l>Is het hier door des eewighen ghebode</l>
+<l>Alle den Heydenen gheopenbaert.</l>
+<l>&nbsp;</l>
+<l>27 Der eewigher Godlijcker maiesteyt,</l>
+<l>Den wijsen Gode inden hoochsten troone,</l>
+<l>Die sy door Christum zijnen lieuen sone,</l>
+<l>Lof, prijs, en heerlijckheyt in eewicheyt.</l>
+</lg><p>Amen.</p>
+
+</div>
+</div>
+
+
+</body>
+</text>
+</TEI.2>

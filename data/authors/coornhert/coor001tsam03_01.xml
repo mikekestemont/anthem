@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "http://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Tsamensprake of de quade willich quaat zijn of onwilligh: tusschen Peter ende Jan</title>
+                <author>D.V. Coornhert</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Tsamensprake of de quade willich quaat zijn of onwilligh: tusschen Peter ende Jan</hi> van D.V. Coornhert in de eerste druk van een uitgave uit 1630, getiteld <hi rend="i">Wercken. Deel I</hi>. Het jaar van de eerste druk van het oorspronkelijke werk is onbekend.
+                </edition>
+                <respStmt>
+                    <resp>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">coor001tsam03_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2011 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="clarin-edite">yes</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Universiteitsbibliotheek Amsterdam, signatuur: Cat. Ned. Lett. UBA 195</idno>
+                </bibl>
+                <p>D.V. Coornhert, ‘Tsamensprake of de quade willich quaat zijn of onwilligh: tusschen Peter ende Jan’, uit: D.V. Coornhert, <hi rend="i">Wercken. Deel I</hi>, Jacob Aertsz. Colom, Amsterdam 1630</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Tsamensprake of de quade willich quaat zijn of onwilligh: tusschen Peter ende Jan</title>
+                <author>D.V. Coornhert</author>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Tsamensprake of de quade willich quaat zijn of onwilligh: tusschen Peter ende Jan</title>
+                <author>D.V. Coornhert</author>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2011-12-07</date>
+                <respStmt>
+                    <name type="person">JV</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+    <div type="chapter"><interpGrp><interp type="primair" value="coor001tsam01"/></interpGrp>
+<pb ed="fol." n="158r"/>
+<head rend="h3">Tsamensprake of de quade willich quaat zijn of onwilligh: tusschen Peter ende Jan.</head>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">Peter.</hi></p>
+<p>Wel: wat beduydt dit voorby gaan? kendy my niet? Of zijdy alsiende blint.</p>
+<p><hi rend="i">jan.</hi> Mijn gedachten waren soo bezigh, dat ick selfs nauwelijcx en wiste waar ick was, als my u spraeke (als uyt een swaere droome ontweckt) verschrickte. Maar wat wildy daar inde Sonne sitten baekeren, laat ons gaan wanderen, t’is doch stil lustigh Sonne Schijn weder.</p>
+<p><hi rend="i">p.</hi> Ken doe niet lievers, zonderlingh met sulck gheselschap, doch met voorwaarden, dat ghy my segghen zult (indiendt niemants secreet is) wat u soo diepelijck dede peynsen als ghy aanquaamt?</p>
+<p><hi rend="i">jan.</hi> Hadt ghy’t my niet ghebeden te zeggen ick zoudes u ghebeden hebben te willen hooren, als dien ick (boven my) verstandigh kenne omme mijn twijfelige strijdende ghedachten met Redene te konnen vereenighen.</p>
+<p><hi rend="i">P.</hi> Dats niet gheseydt, Godt kent de verstandighste. Niet te min, want twee Ooghen beter sien dan een (alsmen seyt) so mooghdy op segghen (believet u) ick sal’t gaarne hooren.</p>
+<p><hi rend="i">jan.</hi> Herwaardts komende om te wanderen, las ick by der Poorten voor een Huys geschreven met Gulden Letteren, het vermaarde <hi rend="i">Oraculum Apollinis, Kent u zelven.</hi> Ick nam’t ter Herten, ende verstondt het my gheseyt te zijn terstont my zelfs besiende, en vant ick niet alleen mijn voorleden leven vol quaden ende ongherechticheyden, maar oock mijn teghenwoordighe nergens nae vry. Welck treurigh bevinden my een sware sucht, dructe, ende ancxtigh Perste uyt het innerlijckste mijnder herten. Doe daght ick, is my mijn quaatheyt dus leet, waarom en laat icks niet? T’is immers swaar om ghelooven, dat de goede Almoghende Godt (buyten welck ende zonder wien gheen kracht noch maght is) den Mensche tot quaatheydt soude dwinghen. Maar of ick dan door een boose Gheest, of door mijn verdorven Naetuere ten quaden ghedwongen werde, wat wil ick my self dan wroeghen, quellen ende bedroeven om t’gheen bat niet anders zijn en magh, ende dat gheheel buyten mijn schult gheschiet, want Sonde ende quaat moetwillig sijn of ten magh gheen Sonde zijn. Doe seyd’ic voorts, ben ick willigh quaata: hoe kan’t my bedroeven, want te wesen soomen wil zijn, en mach niemant droevich maeken. Wederomme indien icks onwilligh ben, wie mach my doch dwinghen? In dit verwonderen zijnde, hoorde ick u spreken.</p>
+<p><hi rend="i">P.</hi> Saeghen uwe immerlijcke Ooghen op zulcken verborghen (nochtans soo nutten ende heylsamen) questie, soo wondert my niet, dat u uytwendighe (al siende blindt) my niet en Zagen. Seker my en quam noyt materie voor daar af ick liever spreecke, zonderlinghe niet u, die ghewoon zijt met u zelven omme te gaan, om u selfs wesen, doen, ende laeten te leeren verstaan. Daar dit boven al rechts weghes toestreckt, ende en is nochtans (dat my voorstaadt) van niemandt klaar beschreven. Dus willen wy die (indien’t u belieft) op’t grondtlijckste ondersoecken, want sy ist waardich. Ons en ontbreeckt geen tijdt, t’is noch wel drye uren voor Middach, oock ist lieflijck weder, daar en boven is de wegh lustigh, ende soo langhe als wy willen.</p>
+<p><hi rend="i">Ian.</hi> Ghy secht altemale waar, dus laat ons beginnen.</p>
+<p><hi rend="i">p.</hi> Den gront van uwen twyfele is dit: <hi rend="i">Of de Quaeden willigh Quaat syn, of onwilligh, </hi>ist niet soo?</p>
+<p><hi rend="i">Ian.</hi> Recht.</p>
+<p><hi rend="i">p.</hi> Oock ist van noode te verklaeren wat wy hier quaat sijn noemen, wat willigh, wat onwilligh.</p>
+<p><hi rend="i">Ian.</hi> T’is waar.</p>
+<p><hi rend="i">p.</hi> Quaat zijn (inden Menschen) is anders<note place="margin">Quaat zijn wat.</note> willen dan Godt wil, ghelijck ter contraerien die hooghste Deughde der Menschen is, een te wesen met de Godtlijcke wille.</p>
+<p><hi rend="i">Ian.</hi> Soo ist oock.<note place="margin">Willich zijn wat.</note></p>
+<p><hi rend="i">p.</hi> Willigh zijn willen wy hier noemen een vrye verkiesinghe ende voornemen om yet te doen ofte laeten. Maar onwilligh zijn een weygheringhe, bedwongen teghen haren sinne yet te doen of laten.</p>
+<p><hi rend="i">Ian.</hi> T’schijnt wel soo.</p>
+<p><hi rend="i">p.</hi> Laat ons dan dees voorseyde dinghen eens tsamen voeghen, ende besien wat daar uyt vallen sal.</p>
+<p><hi rend="i">jan.</hi> Gaat te wercke.</p>
+<p><hi rend="i">p.</hi> Is quaadt zijn anders willen dan Godt wil, soo en kan de goede Godt (die de Goetheydt self zijnde, niet dan goet willen en magh) niemandt tot het quaadt te willen dwinghen, soo ghy voor in uwen twijfele te recht quaelijck ghelooven conste, want anders moeste die Godtlijcke wille ghedeylt, oneens, ende hem selven tegen zijn.</p>
+<p><hi rend="i">jan.</hi> Tis waar:</p>
+<p><hi rend="i">p</hi> Kan dan de Almoghende Godt den Mensche tot geen quaatheydt dwinghen, hoe sal’t eenich Kreatuere moghen doen? byzonder zoo sy alle goet gheschaepen zijn van de Godtlijcke goedtheyt?</p>
+<p><hi rend="i">Ian.</hi> T’zoude qualijck luyden, maar gaat voort.</p>
+<p><hi rend="i">p.</hi> Is dan oock de willigheydt een vrye verkiesen (soo wy geseyt hebben) soo en kanse ooc k seecker van Godt noch Creatuere ghedwongen werden, (te weten willigh blijvende) wandt die willigheydt haar naetuere dan soude verliesen en in Moeten veranderen. Hier en boven<note place="margin">Onwilligheyt wat.</note> is onwilligheydt een weygheringhe die bedwonghen werdt met mishaeghen yet te doen of te laeten. Daar teghen de rechte eyghenschap van willigheyt is van sich selfs ende van niet vreems gheport te werden. Ghemerckt dan de quaeden anders willen dan Godt wil ende alle t’gheene dat wil of willigh is, van sich selfs gheporret wert, soo en moghen zeker de Quaede niet onwilligh quaadt zijn noch ghedwonghen werden tot het gundt dat hun mishaagt ende dat sy weygeren.</p>
+<pb ed="fol." n="158v"/>
+<p><hi rend="i">Ian.</hi> Maar secht my dan, is alle t’geen dat willigh is, niet aangenaam ende lustich?</p>
+<p><hi rend="i">p.</hi> Iaa’t.</p>
+<p><hi rend="i">Ian.</hi> Quaat zijn is pijnlijck ende verdrietigh, ist niet?</p>
+<p><hi rend="i">p.</hi> Onghetwijfelt.</p>
+<p><hi rend="i">jan.</hi> Zijn de Quaede willugh quaat, ist’t geen dat willigh is lustich, is quaadt zijn verdrietigh, zoo schijnt quaar zijn lustich ende verdrietich nae u reden, hoe kan dat bestaan?</p>
+<p><hi rend="i">P.</hi> Dat de quaede vry ende onbehinderdt willen mogen alle dat zy willen of dat hen lust, is alleen d’eenighe luste der Quaden, zonder welcke lust (want de Doot begheerlijck is alle den ghenen die in onlusten Leven, zonder lust te hopen) sy de Doot begeeren souden, ende hebben dees luste van vry te moghen willen metten Goeden gemeen, doch met sulcker onderscheyt, dat de luste der goeden niet alleen nae haar goede daeden blijft, maar vermeerdert ende vergroot altijt. Daar tegen de lusten der quaden door de onghesonde Hoerderije, de Dolle Dronckenheyt, D’onversadelijcke, Gierighheydt, ende deser ghelijcker quaden in een eeuwigh gequel verkeeren, ende dat terstont nae der daat, oock inder daat selfs, Ia dat noch meer is voort bestaan in d’ooghenblick als de wille besloten wert, ende dat door’t beschelden ende straffen haarder Conscientien ende naetuerlijcke Redene, die nemmermeer in’t quade verwilligen en mach. Hier uyt is wel te mercken, al ist soo dat willicheyt, of de macht van vry te moghen willen t’zy goet of quaadt, in sich selfs altijt lustich ende aanghenaam is, soo blijft daar teghen het quaadt zijn dies niet te min verdrietich, oock vry ende geheel onbedwongen.</p>
+<p><hi rend="i">jan.</hi> Dat zy zoo, maar secht my: Soecken de Quade in alle haar wercken niet soo wel het vernoeghen ende den rust haars ghemoedts, als de Goede?</p>
+<p><hi rend="i">p.</hi> Ia zy trouwen.</p>
+<p><hi rend="i">jan.</hi> Vinden zy die?</p>
+<p><hi rend="i">p.</hi> Geensins quaat blijvende.</p>
+<p><hi rend="i">Ian.</hi> Derven sy dees ruste ofte ghenoeghen willigh of onwilligh? Tis seecker wel te dencken dat het haars ondanckx is, Wandt watmen gaarne heeft, dat derftmen noode, Nu bewijst haar soecken wel dat zy’t gaarne hadden.</p>
+<p><hi rend="i">p.</hi> Sy verlaeten de ruste niet onwilligh zoo ghy’t waant, maar vrywilligh, ende dat om een grooter verbeelde lust, als d’Esopische Wolf, wiens scheet hem goet avontuere (zoo hy’t verstont) beduyde, door welcken waan hy veelreley goede avontuerkens verzuymde ende verachte op hope van beters, dies hy achter na (hem selfs bedrooghen hebbende, veel slaghen daar voor kreech.) Of die op hoopen van Wijn te gekrijghen, t’Bier dat voor hem staat, weyghert ende lijdt willigh Dorst, of die Pasteykens verwachtende, willigh Hongher lijt tot het wech-draghen der spijsen toe. So gaat het oock met den quaeden te wercke, dien d’edelheydt des rusts (die sy niet uyt kennisse en begheeren, maar uyt naetuerlijcke porringe ende genegentheydt blindeling zoecken) noch onbekent is, welcke ruste haar de Deughde (door haar arbeydelijcken schijn henluyden mishagelijck) belooft. Hier teghen schijnt haar luste lieflijck, soet, ende licht om verkrijghen. Dees behaaght hun, d’ander mishaaght dus volghen zy willigh dat hun behaaght, ende verlaeten oock willigh dat hun mishaaght, te weten die Deuchde, buyten welck gheen ruste of ware luste verkregen en wert.</p>
+<p><hi rend="i">jan.</hi> Hier is dan bedrogh, ende werden de Quaden van haar lusten verleyt ende bedrogen.</p>
+<p><hi rend="i">P.</hi> Gewislijck.</p>
+<p><hi rend="i">jan.</hi> Worden zy willigh of onwilligh bedrogen.</p>
+<p><hi rend="i">p.</hi> Bedrogh en mach niet onwilligh gheschieden, of ten soude gheen bedroch, maar kracht en gewelt zijn. Men vint nau kinders die niet lievers van haar Vrunt-schijnende Vyanden (door een Leven na lust ende willeken in Eeten, Drincken, Kleederen, Spelen, &amp;c.) bedrooghen, ende om haar eer ende goet (die zy niet en kennen) gebracht werden: dan sy hun van een streng schijnende Vaeder door dervinghe haarder lusten (uyt vreese van de Roede) ghetrouwelijck in Deughden ende Eere ghevoert zijn. Soo’t hier metten Kinderen toegaat zoo vaart oock met alle de Werelt, daaromme en seyt het gemeen spreeckwoort niet, dat de Weerelt teghen haar danck bedroogen wert, of datse moet bedrooghen sijn. Maar tseyt <hi rend="i">de VVerelt wil bedrogen zyn, Vult decipi.</hi> Maar al wil elck bedroghen zijn, soo en lijdt nochtans niemant de schade des bedroghs willigh, neen trouwen: Dese lijden onwilligh met klagen ende treuren, t’welck d’eenighe straffe der quaden is, want waar dees onwille wegh, zoo derfde misdaat straf, overmits nerghens ghequel noch verdriet en mach zijn in’t ghemoedt (van wiens zaken (ende niet des Vleeschs) wy nu spreken) daar geen onwille en is, ende dit moest onrecht zijn, zou de misdaadt ongestraft blijven, want Deucht moest dan oock zonder loon zijn.</p>
+<p><hi rend="i">jan.</hi> T’sy nu soo, dat de Quaede als de Kinderen, soo ghy segget, willigh bedroogen werden, maar dat komt door haar onverstandt, ist niet soo?</p>
+<p><hi rend="i">p.</hi> Door geen saeck anders.</p>
+<p><hi rend="i">jan.</hi> Ick koom dan weder op t’oude: zijnse willigh onverstandich, of zijn sy’t onwilligh.</p>
+<p><hi rend="i">p.</hi> Ghelijck niemandt willigh noch onwilligh ghebooren en wert, zo en is niemant inder Ionckheyt (dien besoghticheyt ontbrekende, altijdt onverstandt verseldt) willigh onverstandigh noch onwilligh, maar t’is al gheleghen in’t onverstandigh blijven, alsmen magh ende behoort verstandigh te wesen, ghelijck als een jonghelinf noch kindtsch is, of een Man, ja de Grijsaart dickwils nau kintsch verstant en heeft.</p>
+<p><hi rend="i">Ian.</hi> Dat dan de quaden onverstandigh blijven, ist willens of onwillens?</p>
+<p><hi rend="i">P.</hi> Willens, want niemandt en derft onwilligh dat hy niet en begheert. De Quade en begheeren gheen verstandt, t’welck sy in haar niet anders dan tot een beschaamtheydt, ghequel, Straf ende Verdoemenisse en ghevoelen, ende sy haten t’Licht, want hare wercken quaadt zijn. Dit is t’gunt dat den Dronckaarts (van haar Conscientie of Redene smorghens beschuldight ende ghewroeght werdende) porret ende veroorsaackt by-tijts weder na t’hayr van den hondt te loopen om haar Swaerigheydt ende Melancolye (soo sy segghen) te verdrijven. My ghedenckt nu dat ick eertijdts een groot Cader (wiens leven niet heyligh en was) hebbe hooren antworden tot eenen, vraghende waaromme hy nemmermeer Preken, maar alle daghe Misse hoorde. Wat soud’ ick (seyde hy) daar anders halen dan meer wroeghens? Dit is d’oorsake dat de Quade so traghe, langsaam ende onlustigh zijn tot alle goede Leeringhen. <pb ed="fol." n="159r"/>Dit doet haar den Ouderen ende verstandighen (die hun gaarne tot deuchden aanwijsen souden, rebel, wederspannigh ende onghehoorsaam zijn. Dit maackt dat wijse, kloecke Redenen henluyden een walginghe, verdriet, ende onlust zijn, dat sy arbeyt schouwen, kennisse vlieden, Waarheyt versuymen, ende in summa, alle aangheboden goede onderwijsinghen weygheren, vander handt slaan ende haten, t’welck haar oock in’t onverstant houdt. Wat dunckt u, gheschiet dit al niet met haar selfs vrye quaede wille? Comender dan guychelaars, Landtloopers, of Lapsalvers, Ghemaackte Sots of diergelijcke Beuselaers, die niet dan Adelheyt, Loghen, Overstandt, ja puere Sotheydt en hanteren: Help Godt, hoe lustigh, hoe zoet, hoe aanghenaam ende behaeghelijck zijn hun dees dinghen? Hoe snel ende wacker beweghen hun haar krachten derwaarts, welcken arbeyt, naarstigheydt ende woelinghe is daar, elck voor ander dees dwaasheyden immers wel te moghen hooren ende zien als haar luyden hoochste luste. Dit sietmen t’allen tijden, t’allen plaetsen in elck soo veele, dat het geen bewijzinge en behoeft. Sijnse dan zoo onlustich ende onwilligh tot het Verstant: daar teghens dus lustigh ende willigh tot Sotheyt ende Onverstant, zoo oock aan <hi rend="i">Demostenes</hi> bleeck, als hy d’onlustighe hoorders nae zijn nutte ende ernstelijcke Redenen met de kluchte van des Ezels schaeduwe lustich maeckte: wie twijfelt sy en zijn ende blijven moetwillens onverstandigh?</p>
+<p><hi rend="i">Ian.</hi> D’oorsaeke die ghy daar segt haar in’t onverstandt te houden, en is der Waarheydt niet onghelijck, te weten dat sy die ghenesende Waarheydt ende Verstandigheydt vlieden als een bijtende Corozijf in haar smertighe Wonden. Daar teghen zy de verdervende verdoovende Loghene ende Sotheyt als een zoet Fenijn beminnen ende volghen. Maar ick soude gaarne hooren wat haar in die Sodtheydt hout, dat zy niet en mercken dat haar pijne niet alleen niet en mindert noch en betert door haar Sodtheydt (soo sy’t wanen ende hopen) maar daghelijcx verarghert ende vermeert, dat zy noch lust moghen hebben met dees Catte te spelen om de wellust van haar lecken voor, die achter soo smertelijcken krabbet.</p>
+<p><hi rend="i">P.</hi> Dats wel gevraacht, ende is (mijns bedunckens) de gront deser saacken. Merct daaromme op mijn segghen. Wat grooter kraght dat Waan (voortkomende uyt persuasie of Vroet maaken) by den Menschen heeft, en is niet noodich met redene te bewijsen, ghemerckt men die blijckelijcken siet in alle dees verscheyden Secten die nu ter Werelt loop hebben. Onder alle welcke, men niet een en kan vinden, die niet alleen niet heel eens en is met een ander in allen stucken: maar (dat noch meer is) gheen isser die niet in veel stucken strackx teghen den anderen en is. Want seyt Menno, datmen zelfs moet gelooven eermen ghedoopt wert: Swinglius seyt daar teghen: Noemt dees de vrome Heydens metten Christenen Salich: Luter noemtse (ende hem daarom mede) Godloos: Wil dees dat Christus lijflijck int Sacrament des Altaars is, d’ander loochent dat: Ghelooft dees wederomme de Verrijssenisse des Vleesch, Loops gheloovet niet, maar een Gheestelijcke: Houdt dees dan Christum den alder-oppersten Priester Herder, ende Leeraar, <hi rend="i">H.N.</hi> of <hi rend="i">D.I.</hi> isser teghen, ende hout hem, of den Geest die in hem is, meerder ende hooger. Nu vindtmer genoech (leyder te veel) onder alle dese Secten, die opten Waan ende Persuasie die zy hebben haar Secte of Leeringhe (soo zy’t noemen) in alles oprecht ende warachtich te wesen, hen zelven willig hinder Doodt gheven. Waar uyt dan klaar als de Sonne blijckt dat Persuasie, Waan, of Opine den Menschen lijf ende Leven willigh kan doen verliesen om een waar ghewaande Loghen. Wat wonder ist togh dan dat alle de Werelt, ghepersuadeert zijnde ende hartneckigh wanende dat het hier nemmermeer volmaackt sijn en zal, dat wy altijdt zondighen, ende <hi rend="i">(per consequens)</hi> altijt een knaeghende Conscientie ende beschuldighent ghemoet hebben moeten, dat dese (segh ick) in haar onvrede (soo sy best konnen) Vrede, ende in hare onruste ruste hebben? Want niemant en begheert noch streckt zijn sinne om te verkrijgen dingen die hy onmogelijck waandt te verwerven ende onverkrijgelijck. Nu waenen alle quaden dat het onmogelijck is op aarden een goede Heylige ende gesonde Conscientie<note place="margin">Prov. 15, 15</note> (die by een eeuwige Waarschap geleken wert) te moghen verkrijghen, dus en begeeren zy’t niet, ende derven daeromme oock willigh dat zy niet en begeeren, ende zijn, ende blijven oock willigh quaat. Dit bewijst oock onwedersprekelijck haar eeuwigh wroeghen ende knaeghen, t’welck u eerst twijfeligh tot dees questie bracht, want indien sy’t ghedwongen ende onwilligh zijn, waeromme wroeght het hun, want sy’t dan buyten haar schult zijn, ghelijck of men eenen niet een treghter gheweldigh door te veel in-gietens van Wijn droncken maakte, of dat een stercker met eens swacker Handt teghen de swackers wille een Mensch doot staake, zoude zulcken dronkene of doodtslagher oock rechtelijck van zijn Conscientie moghen beschuldicht werden?</p>
+<p><hi rend="i">Ian.</hi> In geenderley wijse. Verstae nu oock wel dat nyemant buyten sijn schult met wroeghen ghequelt en wert. Heb oock mede d’onderscheydt grontlijck ghemerckt, dat de quaeden willigh quaat zijn ende blijven, maar datse onwilligh quaadtheydts straff ghenieten. Daaromme ick my nu niet meer (als eerst) ende verwondere dat de quaden willigh quaadt zijnde, droevich zijn: want zy niet (soo ick eerst waande ende daar’t al aan leydt) en treuren om haar quaadtheydt, die willigh is: maar om haar straffe ende gequel dat zy haars ondancx hebben, van welcken onderscheyt ick u hertelijcken dancke. Siet wy zijn aan der Poorten eer ick half wech waande te wesen, de Sonne is oock in’t Suyden gheloopen, den wegh ende ons praat komt effen uyte metter tijt, want het is maaltijt. Dus wil ick u dancken ende Gode bevelen.</p>
+<p><hi rend="i">P.</hi> Hoort noch een Woort of twee dat ick om segghen voor hadde, ten sal niet langhe duyren.</p>
+<p><hi rend="i">Ian.</hi> Secht vry, ten magh my niet te langh duyren, want ick snooder spijs om beter versuyme, als ick u hoor spreken.</p>
+<p><hi rend="i">P.</hi> Wie t’goet wil ende begheert, diens wille moet gheschieden, ende hy moet het verkrijghen, want diet goet wil, die wil zoo de Wille Godts wil, die altijt geschiet. Waren de quaden nu onwilligh quaat, zoo wilden sy goet zijn ende zouden ongetwijfelt, het ghewilde of begheerde verwervende, goedt worden. Nu en verkrijgen die quaden, quaadt blijvende, het goet niet. Dus blijckt dat sy’t niet en willen noch en begheeren. Willen zy dan <pb ed="fol." n="159v"/>t’goet niet, soo en moghen zy oock gheenderley wijse onwilligh quaat zijn. Ergo <hi rend="i">worden,</hi> sijn, ende blijven de quade willigh quaat, verstady’t nu wel?</p>
+<p><hi rend="i">Ian.</hi> Bet dan ick oyt sake verstont, dat zuldy hier uyt wel mercken. Sijn de quaden onwilligh quaat, dat moet hun aan maght om goet te moghen werden, ghebreken. Ist niet soo?</p>
+<p><hi rend="i">P.</hi> Anders nergens aan.</p>
+<p><hi rend="i">Ian.</hi> Dees macht derven sy willigh of onwilligh.</p>
+<p><hi rend="i">P.</hi> Tmoet een van beyden zijn.</p>
+<p><hi rend="i">Ian.</hi> Derven sy die willigh, sy en moghen niet onwilligh quaat zijn.</p>
+<p><hi rend="i">P.</hi> Neen sy.</p>
+<p><hi rend="i">Ian.</hi> Derven sy die dan onwilligh, soo moghen sy niet quaat zijn, want sy dan (soo ghy voor van den onwilligen dronckene ende dootslagher bewesen hebbet) ghedwonghen zijn teghen haar sin ende wille sulcx te wesen: daarom dan oock noch quaat noch schuldt in haar zijn en mochte. Dus versta ick wel dat sy willig quaar zijn ende niet onwilligh. Want die niet quaat en is, en mach’s oock niet onwilligh zijn.</p>
+<p><hi rend="i">p.</hi> T’is al t’samen wel verstaan. Adieu Ian, wort ghy eens onwilligh quaat, ghy sult (door de Godtlijck ghenade) haast willens goet zijn.</p>
+<p>&nbsp;</p>
+        <p>Eynde. </p><interpGrp><interp type="end" value="coor001tsam01"/></interpGrp>
+</div>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "http://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Oft gheloove saligh maeckt sonder wercken</title>
+                
+                <author>D.V. Coornhert</author>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Oft gheloove saligh maeckt sonder wercken</hi> van D.V. Coornhert in een uitgave uit 1630. De eerste druk dateert van 1584.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr>fol. cc xcviiv: Een deel van de tekst is moeilijk leesbaar. Dat is hier tussen vierkante haken opgelost: ‘ende die wech daer deur alleen [m]en komt totten Vader’.</corr>
+                        <corr>fol. cc xcviiv: geleove → geloove: ‘datter eenich mensche op aerden door't geloove wert gerechtvaerdicht’.</corr>
+                        <corr>fol. cc xcviiir: augstust → august: ‘August. Serm. de temp. 207’.</corr>
+                        <corr>fol. cccv: onveranderlijckc natnere → onveranderlijcke natuere: ‘niet inde veranderlijcke wille, maer inde onveranderlijcke natuere’.</corr>
+                        <corr>fol. cccv: 27. 28. 29. 27. 28. 29 → 27. 28. 29: ‘Deu. 1. 26. 27. 28. 29. 30. 31. 35.’.</corr>
+                        <corr>fol. cccv: Re.g → Reg.: ‘4. Reg. 5. 7.’.</corr>
+                        <corr>fol. ccc iv: wottel → wortel: ‘zynen vasten gront-vest ende wortel Christus’.</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan section="1" type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+                <scan section="1" type="fol2">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">coor001oftg02_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2013 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note></note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Universiteitsbibliotheek Amsterdam, signatuur: Cat. Ned. Lett. UBA 195</idno>
+                </bibl>
+                <p>D.V. Coornhert, <hi rend="i">Oft gheloove saligh maeckt sonder wercken</hi>. Jacob Aertsz Colom, Amsterdam 1630 (uitgave)</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Oft gheloove saligh maeckt sonder wercken</title>
+                <title type="subordinate"></title>
+                <author>D.V. Coornhert</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Oft gheloove saligh maeckt sonder wercken</title>
+                <title type="subordinate"></title>
+                <author>D.V. Coornhert</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2013-05-14</date>
+                <respStmt>
+                    <name type="person">RK</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+    <interpGrp><interp type="secundair" value="calv003"/></interpGrp> 
+<body>
+<div type="chapter">
+    <interpGrp><interp type="primair" value="15830815"/></interpGrp>
+<pb n="fol. cc xcvir"/>
+<head rend="h2">Oft Gheloove saligh maeckt sonder Wercken.</head>
+<p>Bedenckinghe.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">D. V. COORNHERT.</hi></p>
+<p>&nbsp;</p>
+<p><hi rend="i">Romeyn. 3. 28.</hi></p>
+<p>&nbsp;</p>
+<p><hi rend="i">Soo houden wy dan, Dat de mensche gerechtvaerdight wort door't Geloove sonder de wercken des Wets.</hi></p>
+<p>&nbsp;</p>
+<p><hi rend="i">Iacob. 2. 24.</hi></p>
+<p>&nbsp;</p>
+<p>Soo siedy nu, dat de Mensche gerechtvaerdight wort door de wercken, ende niet door't gheloove alleen.</p>
+<p>&nbsp;</p>
+    <div type="section">
+<head rend="h3"><hi rend="i">Voor-reden.</hi></head>
+<p><hi rend="i">NIet van een onnutte of onnoodighe, maer van een seer nutte ende hooghnoodige sake, lieve Leser, wert hier in dit boecxken ghehandelt, namentlijck, hoe't geloove saligh maeckt. Over beyde zyden dolen, sorghlijck die schijn-deughden, ende roeckeloosen: Die wanen heure goede wercken groot ende vele te zijn: Maer sy bemercken oock haer gheloove seer kleyn, jae by na niet altoos te wesen. Dit maeckt dat zy om hen selfs te rusten, segghen dat de mensche wert saligh door zyne wercken, sonder vele te spreecken van't geloove, dat zy niet en hebben. Maer dese, te weten die roeckeloosen werden oock van haer gheweten overtuycht, dat zy vele quade ende gheen goede wercken en hebben. Ende want zy daer by vele waens hebben van heure gheloovicheyt: soo soecken zy oock heure gemoet te bevredigen met het gene zy wanen te hebben, dat's met het gheloove: segghende daeromme dat het gheloove alleen saligh maeckt sonder goede wercken. Alsoo betrouwen dese beyde op't gene zy wanen te hebben, te weten die op heure goede wercken, ende dese op heuren gheloove: niet teghenstaende dat inder waerheyt geen goede wercken, noch dit gheen geloove en is. Het rechte middel tusschen beyden is het levende gheloove dat hier door die liefde werckt. Dit is een gave Godes die Godt gheeft, ende de mensch ontfanght die gave. Hoe dit nu in zyn wercke gaet, te weten, soo dat door des menschen werck van begheerlijck dese gave te ontfanghen die eere vande Godlijcke miltheydt in't alderminste niet vermindert, ende over d'ander zyde die verderffelijcke traegheydt der menschen niet vermeerdert en wort, suldy moghen lesen int boecxken selve tot Godes eere ende u luyder heyl gheschreven. Daer leest, dat oordeelt ende gebruyckt: Desen arbeydt daer toe gaerne ghedaen, Opten 23. Augusti, Duysent vijf hondert drie ende tachtich. Door </hi></p>
+<p>&nbsp;</p>
+<p><hi rend="i">V. E. Dienst-schuldighe </hi></p>
+<p>&nbsp;</p>
+<p><hi rend="i">D. V. Coornhert.</hi></p>
+</div>
+</div>
+<div type="chapter">
+<pb n="fol. cc xcviv"/>
+<head rend="h3"><hi rend="i">Datmen misbruyckt die woorden des Apostels Rom. 3. 28.</hi></head>
+<head rend="h4"><hi rend="i">Capittel 1.</hi> 
+    <lb/>I.</head>
+<p>DIe daer leeren dat het geloove salich maeckt sonder wercken, misbruycken daer toe des Apostels woorden, houdende aldus: <note place="margin">Rom 3. 28.</note> <hi rend="i">So houd</hi>en<hi rend="i"> wy dan, dat de mensche gerechtvaerdicht wort door't gelove sonder wercken des wets.</hi> Dat ick segge, dat zy die misbruycke<hi rend="i">n</hi>, bewijse ic aldus: Alle so wie yet toe of afdoet, tot, of vande heylige schrift: <note place="margin">Apoc. 22. 18. 19. Deut. 4. 2.</note> die valt onder de<hi rend="i">n</hi> vloecken daer inne begrepen, en<hi rend="i">de</hi> misbruyckt de H. Schrifture. </p>
+<p>Die voorschreven luyden doen hier toe dat woordeken <hi rend="i">alleen,</hi> 'twelck d'Apostel hier noch nergens en seyt, Jae oock de gantsche Bybel nerghens. Dus misbruycken zy de H. Schrift: Ende dit noch niet alleen in't toe voegen, maer oock in't afdoen.</p>
+    <p>&nbsp;</p>
+<div type="section">
+<head>II.</head>
+<p>Want daer d'Apostel seyt: <hi rend="i">sonder de wercken des Wets,</hi> (te weten, de ceremoniale uytterlijcke Godts diensten, die niet en hadden <note place="margin">Rom. 3. 29.</note>die Heydene<hi rend="i">n</hi>, welcker God de Heere al mede is, als die oock hebbende des herten besnijdinge, <note place="margin">Rom. 2. 29.</note>wel int verborge<hi rend="i">n</hi> Joden waren) laten dese luyden achter blijven die woordekens <hi rend="i">des Wets,</hi> rechts of d'Apostel die te vergeefs daer by gevoecht hadde, en<hi rend="i">de</hi> besnoeyen alsoo met afdoen van die woorden, des Apostels sinnen. Mach nu oock yemant lochene<hi rend="i">n</hi> sulcx te zijn openbaer misbruyck der Godtlijcker Schrifture<hi rend="i">n</hi>? Wat mach uyt sulc misbruyck, uyt sulck toe en<hi rend="i">de</hi> afdoen, uyt sulck raeybrake<hi rend="i">n</hi> der Godtlijcker Schriftueren, doch anders volgen: <note place="margin">Rom. 16.</note> dan't vreemde vyer inden wieroocxvaten, ick meyn een vreemt verstant of een valsche sinne te brengen inde H. Schrifture.</p>
+</div>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Is niet Abraham onse Vader uytte wercken gerechtvaerdicht als hy zynen Sone opten altaer geoffert hadde Jacob. 2. 21.</hi></head>
+<head rend="h4"><hi rend="i">Capittel 2.</hi> 
+    <lb/>I.</head>
+<p>DAt het een valsche sinne is, die zy uyt sulcken misbruyckten spreucke trecken, <note place="margin">Mat. 7. 31. Item Joa<hi rend="i">n</hi>. 13. 17.</note>betoone<hi rend="i">n</hi> meer dan hondert clare tuychnissen der Godtlijcker Schriftueren naecktelijck, oock (om maer een oft twee te stellen) die woorden Christi, daer hy seyt: Niet alle die tot my seyt Heere, Heere, en sal innegaen int rijcke Godes, maer die daer doet den wille mijns Vaders die inde Hemelen is sal inne gaen. Is dan het doe<hi rend="i">n</hi> van des Vaders wille so noodich tot het inne gaen, datmen sonder sulcx buyten moet blijven: soo en machmen niet seggen dat het gelove sonder wercke<hi rend="i">n</hi> salicht: sonder Christum die self de waerheyt is, te logen-straffen. Dat en betaemt geen Christen mensche.</p>
+    <p>&nbsp;</p>
+<div type="section">
+<head>II.</head>
+<p>Immers d'Apostel Jacobus, die mede de<hi rend="i">n</hi> geest Christi heeft gehad, seyt opentlijck het platte tegendeel va<hi rend="i">n</hi> dese nieuwe leere, te weten, dat Abraham gherechtvaerdicht is geweest uyten wercken. Ic en meyne niet dat sy willen segge<hi rend="i">n</hi> dat Paulus oock den Geest Christi hebbende daer plat tege<hi rend="i">n</hi>, en<hi rend="i">de</hi> die Geest Christi dat's des waerheyts so ope<hi rend="i">n</hi>tlic 'teen tegen't ander ('twelck een werck des logengeests is) geschreven soude hebben gehadt.</p>
+    <p>&nbsp;</p>
+</div>  
+<div type="section">
+<head>III.</head>
+<p>Om dese swaricheyt te ontsluype<hi rend="i">n</hi> wenden dese nieuwe Leerare<hi rend="i">n</hi> voor dat d'Apostel Paulus handelt van een waerachtich gheloove: <note place="margin"><hi rend="i">Calvin. C</hi>om<hi rend="i">ment. Iac. 2. 19.</hi></note> maer dat Jacobus hier in alle dese disputatie handelt niet van ee<hi rend="i">n</hi> waerachtig gelove, &amp;c.</p>
+<p>Ja voorwaer? soude dat een ontbindinge van dese knope wesen? dat kan ic niet mercken. Ick mercke wel dat Jacobus in desen capitule oock handelt van een ydel en<hi rend="i">de</hi> duyvels geloove: maer daer beneven handelt hy hier oock van een waerachtigh ende rechtvaerdichmakende geloove. Of hadde Abraham de vader des geloofs geen waerachtig geloove? vrylijck ja. Of handelt d'Apostel in dese woorden niet van Abrahams geloove? gewisselijck. Want Abraham selve ist exempel des geloofs, by Jacobum hier inne ghevoert. Hy spreeckt dan op dese plaetse van een waerachtich geloove. Ende is mitsdien dese glose onwaerachtich.</p>
+    <p>&nbsp;</p>
+</div>  
+<div type="section">
+<head>IIII.</head>
+<p>Ick sie oock dat eenige deser nieuwe Leerare<hi rend="i">n</hi> tot stijvinge haerder opinien inne voeren dese bewijsinge: Nemmermeer en gaet het gevolge voor zijnen oorsake: Dat waer <note place="margin"><hi rend="i">Calvin. C</hi>om<hi rend="i">ment. Iac. 2. 19.</hi></note> die vrucht voor den boom geseyt te zijn. Nu allegeert Jacobus Moysi tuychnisse uyt het xv. Capitt. Genes. Dese imputatie, daer af Moyses spreeckt, gingh wel dertich Jaren voor dit werck, door welcke zy segghen dat Abraham gerechtvaerdicht is geweest. Na dien nu den Abraham zijn geloove gerekent was tot rechtvaerdicheyt wel vijfthien jaren voor Isaacx geboorte: soo sietmen immers wel dat hy sulck goedt niet en heeft mogen verwerven, door die opofferinge die hy dede van zijnen Sone.</p>
+    <p>&nbsp;</p>
+</div>  
+<div type="section">
+<head>V.</head>
+<p>Dese list is te grof om grove, swijge, subtijle verstande<hi rend="i">n</hi> te bedriegen: want eerst staet al de kracht van sulcke bewijs-reden daer inne: Dat dese menschen uyt heure menschelijcke onwetenheyt spreken vande Godlijcke alwetenheyt. Ick laet henluyden geerne toe dat geen mensche, oock Abraham selve niet en mochte wete<hi rend="i">n</hi> (ten waer dan door openbaringe Godes) dat Abraham vijfthien jaren na die voorsz imputatie dat werc va<hi rend="i">n</hi> opoffere<hi rend="i">n</hi> soude doen: Volgt daer uyte dat het Gode diens alwetende voorsichticheyt niet altoos en is verborge<hi rend="i">n</hi>, in wiens wijsheyt geen voor noch na en is, als inder menschen weten, en<hi rend="i">de</hi> voor wiens eewige al-siende oogen teffens verschijnen alle dingen die geschiet zijn, die geschieden, en<hi rend="i">de</hi> die noch geschiede<hi rend="i">n</hi> sullen, verborge<hi rend="i">n</hi> mochte zijn dat Abraham vijfthien jaren na die imputatie zijnen Sone soude op offeren? dat sal geen Christen derre<hi rend="i">n</hi> dencken.</p>
+    <p>&nbsp;</p>
+</div>  
+<div type="section">
+<head>VI.</head>
+<p>Ofte soudet so vreemt zijn vande Goddelijcke wijsheyt, dat God yet doet of belooft uyt zijne ontwijffelijcke voorwetenheydt? geensins, want dit sietmen opentlic geschiet te zijn, oock Abraham selve.</p>
+    <p>&nbsp;</p>
+</div>  
+<div type="section">
+<head>VII.</head>
+<p>Soude ick (seyt God) Abraham moge<hi rend="i">n</hi> verbergen 'tgene ick wil doen? men siet daer ter plaetsen neen. Waerom niet? Nadien (seyt
+
+<pb n="fol. cc xcviir"/>
+Godt daer op voort reden ghevende) hy sal <note place="margin">Gen. 18. 17.</note>worden in een groot ende machtich volck, ende alle volcken der aerden sullen in hem ghebenedijt worden. Dats een reden, daer by voecht God noch de tweede, segghende:Want ick weet dat hy zijnen kinderen sal bevelen, ende zijne<hi rend="i">n</hi> huyse naer hem, dat sy den wech des Heeren sullen bewaren, ende dat sy oordeelende gherechticheydt doen.</p>
+    <p>&nbsp;</p>
+</div>  
+<div type="section">
+<head>VIII.</head>
+<p>Wie siet hier niet dat Godt daer voorsach die toecomende dinghen? het was immer al langhe na Abrahams offerhande dat hy wert in een groot volck: dat alle volcke<hi rend="i">n</hi> der aerden in hem gebenedijt worden: dat hy zijne kindere<hi rend="i">n</hi> beval in des Heeren wegen te wandelen. Wast dan God onmogelijck dat toecomende werck van Abrahams offerhande te voorsien? Immers het was onmoghelijck dat het die alwetende Godt niet en soude voorsien.</p>
+<p>God wilde hier Abraham niet verbergen 'tgene hy in voornemen was te doe<hi rend="i">n</hi>, maer openbaerde hem dat. Waerom? om dat hy doe al wiste (dats geen twijffelijck voor-weten) die toecomende vermenichvuldiginge zijnes zades, die alghemeyne benedijdinge ende die Godsvruchtige onderwijsinghe Abrahams aen zijnen kinderen ende huyse, wat ongheschicktheyt machmen daer dan uyt nemen, dat Godt voor wetende dat Abraham hem int op-offeren zijn soons soude gehoorsamen, hem daerom al voor't gheschieden die rechtvaerdicheyt toerekende.</p>
+    <p>&nbsp;</p>
+</div>  
+<div type="section">
+<head>IX.</head>
+<p>Wie sal sulcx verstaende me mogen seggen datmen gheloovende die klare woorden des Apostels, dat Abraham gerechtvaerdicht is geweest uyt dat werck van op-offeren, soude moeten seggen dat die vrucht voor den boom of 'tghevolge voor zijnen oorsake ware geweest? Voorwaer niemant anders dan mensche<hi rend="i">n</hi> die Gode na heure onvoorsienicheyt ooc maken onvoorsienich: en<hi rend="i">de</hi> na heur tijtlijcheyt, den eeuwigen God sulcx tijtlijck maken, dat by hem voor en<hi rend="i">de</hi> na is als by den menschen: ooc daerom so onwetende, dat hy't gene noch toecomende is, niet sekerlijck en weet: en<hi rend="i">de</hi> dat hy daeromme niet wetende dat Abraham hem gehoorsaem soude zijn, sonder daer op te letten, hem gerechtvaerdicht soude hebben. Dat waer lasterlijck van Gode en<hi rend="i">de</hi> schandelijck vande<hi rend="i">n</hi> Apostel Jacobo gevoelt. Wantmen soo doende Godt maken moeste niet alwetende, ende d'Apostel logenachtich.</p>
+    <p>&nbsp;</p>
+</div>  
+<div type="section">
+<head>X.</head>
+<p>Dit laetste heeft oock een vande<hi rend="i">n</hi> nieuwen Leeraren niet seer duysterlijck derre<hi rend="i">n</hi>  seggen. Want dese niet willende Gode beroove<hi rend="i">n</hi> van zijne voorsienicheyt, en<hi rend="i">de</hi> derhalven wel verstaende dat het voorsz argument zijns mebroeders ydel is, neemt ee<hi rend="i">n</hi> ander wech vore, bestae<hi rend="i">n</hi>de wat schalcker doch ooc wat onschameler dese sake te handele<hi rend="i">n</hi>, en<hi rend="i">de</hi> berispt opentlijc de<hi rend="i">n</hi> Apostel in zijn schrijve<hi rend="i">n</hi>, seggende also.</p>
+    <p>&nbsp;</p>
+</div>  
+<div type="section">
+<head>XI.</head>
+<p><note place="margin"><hi rend="i">Musc. loc. de justifi. fo. 5. 88.</hi></note>Daeromme heeft Sanct Jacob dit Exempel Abrahams impertinenlijc daer onder gevoecht, en<hi rend="i">de</hi> noch stracx daer aen: Daeromme confondeert hy (d'Apostel) dat woort gelove. en<hi rend="i">de</hi> noch wat voorder schrijft de selve aldus: Daeromme soude hy (Sa<hi rend="i">n</hi>ct Jacob) beter gecolligeert hebben op dese wijse etc. en<hi rend="i">de</hi> brengt daer wat anders voort dan S. Jacob. seydt.</p>
+    <p>&nbsp;</p>
+</div>  
+<div type="section">
+<head>XII.</head>
+<p>Nu mach de Leser (duncket hem goet) met dese nieuwe Leeraer geloove<hi rend="i">n</hi> dat de<hi rend="i">n</hi> H. Geest der wijsheyt door desen Apostel impertinentelijcken leert: hy mach met my gevoele<hi rend="i">n</hi> dat dese mensche, welcks geest men niet en kent voor de<hi rend="i">n</hi> H. Geest als Jacobi geest, so impertinentelijck als vermetelijck den H. Gheest heeft derren berispen. Soude dan oock dese konst-gheleerde eygentlijck konnen spreken van't geloove, 'twelck de heylige Gheest (so hy seyt) soude confundere<hi rend="i">n</hi>, of sal dese mensche den heyligen Geest het colligeren leeren.</p>
+</div>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Abraham gheloofde Gode ende het wert hem gerekent tot gerechtigheyt. Gen. 1. 5. 7.</hi></head>
+<head rend="h4"><hi rend="i">Capittel 3.</hi> 
+    <lb/>I.</head>
+<p>ELck werck heeft zijn selfs werck-man die sulck werck werckt. In dese sproke zijn tweederley wercken: waer af het eene is gelooven, maer het ander is, rekenen tot gerechticheyt. Dit laetste is Godes, ende niet Abrahams, maer't eerste Abrahams, en<hi rend="i">de</hi> niet Godes werck: want soo weynigh als God, die't al weet, mach gelooven: so weynich mocht Abraham, die een mensche was, sich self gerechticheyt toe-rekenen.</p>
+    <p>&nbsp;</p>
+    <div type="section">
+<head>II.</head>
+<p>d'Apostel selve tuygt (so oock de gantsche Schrift doet) dat Abraham gheloofde, maer niet dat God of dat het gheloof geloofde, so machmen oock nu niet meer loochenen dat Abraham niet sonder, maer men moet bekennen dat hy door dit middel, te weten zijn werck van ghelooven, gerechvaerdight is geweest. en<hi rend="i">de</hi> blijckt mee al mede dat het geloove niet saligh en maeckt sonder wercken.</p>
+</div>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Dat het lasterlijck schijnt te ghelooven, dat het geloove alleen rechtvaerdigh maeckt.</hi></head>
+<head rend="h4"><hi rend="i">Capittel 4.</hi> 
+    <lb/>I.</head>
+<p>WAt yemant alleen doet, dat en doet niemandt anders met, noch sonder hem. <note place="margin">Rom. 3. 30 Isa. 53. 11</note> Maect het gelove alleen rechtvaerdig, so en maeckt noch God noch Christus rechtvaerdich. Dit waer lasterlick te vermoede<hi rend="i">n</hi>, maer de Apostel tuycht daer tegen dat God, en<hi rend="i">de</hi> de Propheet dat Christus rechtvaerdig maect. Soo blijckt valsch te zijn dese nieuwe leere, dat het geloove allee<hi rend="i">n</hi> rechtvaerdich maeckt.</p>
+<p>Seytmen my hier dat zy daer met meynen dat God den mensche rechtvaerdiget, maer dit alleen door't middel van't geloove: Ick sal antwoorden, datmen sulck heur meynen uyt heure woorden, plat anders met brengende, niet en mach verstaen. Want daermen seydt dat yemant alleen wat doet, daer sluytmen alle anderen uytte.</p>
+    <p>&nbsp;</p>
+<div type="section">
+<head>II.</head>
+<p>Maer alsmen hen dese meyninghe onder sulcke woorden al toelaet, so is noch gelijcke wel die meyninge onwaerachtich. Want oft schoon waer dat yemandt sonder't gheloove komt tot Christum: so is nochta<hi rend="i">n</hi>s Christus, </p>
+
+<pb n="fol. cc xcviiv"/>
+<p>ende niet het geloove alleen sulcks het eenighe wesentlijcke en<hi rend="i">de</hi> waerachtige middel tot die rechtvaerdichmakinge: dat alle die Christum in sich heeft woonende, maer niet alle die geloovich is (al versette hy oock bergen, ende gave zijn lichaem in brande, etc.) gherechtvaerdigt worden. Christus alleen is de <note place="margin">Joan. 10. 1.</note> deure ende die wech daer deur alleen [m]en komt totten Vader, totten welcken wy geenen <note place="margin">Joan. 14. 6.</note> toegangh en hebben dan door Christum. Dit is het eenighe middel daer <note place="margin">Rom. 5. 2.</note> door wy vanden toorn Godes ghevrijt worden, <note place="margin">Rom. 5. 9.</note> door welck wy met Gode versoent worden, <note place="margin">Rom. 5. 10.</note> ende door wiens ghehoorsaemheyt wy <note place="margin">Rom. 5. 19.</note>gherechtvaerdicht worden.</p>
+    <p>&nbsp;</p>
+</div>  
+<div type="section">
+<head>III.</head>
+<p>Of nu schoon al't gheloove het middel is daer door men komt tot Christum: machmen daeromme seggen dat het geloove alleen het middel is daer door wy gherechtvaerdicht worden? of is het geloove meerder dan Christus selve? of behoortmen door't minste het meeste uyt te sluyten? Dat doen dese nieuwe Leeraren met sulcke heure nieuwe leere dan noch in allen gevalle, alsmen die woorde<hi rend="i">n</hi> dat het geloove alleen rechtvaerdich maeckt, al schoon tegen heur eygentlijcke<hi rend="i">n</hi> sinne noch al neemt na een gedraeyde en<hi rend="i">de</hi> onnatuerlijcken buyginge die zy tot verschooninge van sulcke hare leelijcke Leere voortbrengen.</p>
+    <p>&nbsp;</p>
+</div>  
+<div type="section">
+<head>IIII.</head>
+<p>Siet daer nu die lasterlijcke ongheschicktheden nootlijck volgende alleenlijck uyt dat versierde gedroomde en<hi rend="i">de</hi> toegevoechde woordeken, <hi rend="i">alleen</hi>: van welck toedoen tot die heylige Schriftuere ick nu kome tot het afdoen vande selve gee<hi rend="i">n</hi> minder noch kleynder lasterlijcke ongheschickthede met sich brengende.</p>
+</div>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Of het gheloove den mensche rechtvaerdicht sonder werck.</hi></head>
+<head rend="h4"><hi rend="i">Capittel 5.</hi> 
+    <lb/>I.</head>
+<p>VOor is geseyt dat die nieuwe Leeraren afdoen van de woorden des Apostels. Want daer die seyt: <hi rend="i">Sonder die wercken des Wets</hi> (Rom. 3. 28.) daer seggen dese: <hi rend="i">Sonder die wercken:</hi> Achterlatende ende afdoende Pauli woorden, dese woorden: <hi rend="i">des Wets.</hi></p>
+    <p>&nbsp;</p>
+<div type="section">
+<head>II.</head>
+<p>Sonder te aenmercken dat d'Apostel met sulcke woorden: <hi rend="i">des Wets,</hi> een beduydelijcke onderscheyt steldt, tusschen die ceremoniale ende tusschen die morale, of sedelijcke wercken. So elck nu licht mach verstaen datmen wel sonder besnijden, offeren ende andere ceremonien des wets, maer gheensins sonder liefhebben, bermherticheydt pleghen ende meer andere sedelijcke wercken mach rechtvaerdich worden.</p>
+    <p>&nbsp;</p>
+</div>  
+<div type="section">
+<head>III.</head>
+<p>Dit alles ter zijden gestelt zijnde om kortheyts wille, so behoeft het geen bewijs, datter niet en geschiet of wert ghedaen, sonder een werck. 'tGeloove (seggen zy) rechtvaerdicht sonder werck. So volcht wt dit heur segghen, dat het gheloove wat doet, sonder werck of sonder wat te doen. Yemandt te rechtvaerdighen is een werck of wat doen. So rechtveerdicht dan't geloove, sonder dat het gheloove wat doet dat is sonder dat het rechtvaerdicht. Wie mach dit gelooven.</p>
+    <p>&nbsp;</p>
+</div>  
+<div type="section">
+<head>IIII.</head>
+<p>Jae wie mach dese nieuwe Leere gheloovende inder waerheyt ghelooven datter eenich mensche op aerden door't geloove wert gerechtvaerdicht? want die hout dat het geloove rechtvaerdicht sonder werck: Sonder werck geschietter niet of wort niet gedaen. So en geschiet het oock niet dat yemant ter werelt wort gherechtveerdicht.</p>
+    <p>&nbsp;</p>
+</div>  
+<div type="section">
+<head>V.</head>
+<p>Maer laedt ons hier versieren met dese nieuwe Leeraren, datter yet sonder werck mocht geschieden of gedaen worden, 'twelck opentlijck onmogelijck is: so moeten zy bekennen, dat inden dingen die sonder werck geschieden, niemant en werckt. Het gelove, segghen zy, maeckt alleen rechtvaerdich sonder werck. Soo volcht noodtlijck uyt dese nieuwe leere, dat niet alleen de mensche niet, maer oock Godt niet, jae oock het gheloove selve niet en werckt in de rechtvaerdichmakinghe der menschen: ende dat mitsdien de menschen sonder des menschen, ja oock sonder Godes, immers oock sonder des geloofs werck selve wert gherechtvaerdicht, mach men wel sotter, ick swijge lasterlijcker, meyninghe voortbrenghen.</p>
+    <p>&nbsp;</p>
+</div>  
+<div type="section">
+<head>VI.</head>
+<p>Want heure leere dat het gheloove alleen rechtvaerdicht sonder wercken, sluyt opentlijck int algemeyn uytte alle wercken. Daer alle wercken werden uytgesloten int alghemeyn, daer werden niet minder Godes ende des geloofs, dan der menschen wercken uytgesloten. Of souden Godes wercken gheen wercke<hi rend="i">n</hi> zijn? het zijn wel die alder beste treflijckste en<hi rend="i">de</hi> krachtichste wercken. Hier voor <note place="margin"><hi rend="i">Cap. 3. ij.</hi></note> is oock gebleken in Abraham, dat het geloove den mensche niet rechtveerdicht sonder des menschen werck selve. Dus blijckt dese nieuwe leere opentlijcke<hi rend="i">n</hi> te strijden tegen die oude waere Apostolische Leere die is waerachtich. So is dese nieuwe Leere valsch.</p>
+</div>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Of de m</hi>en<hi rend="i">sche gerechtveerdicht wert sonder het werck des geloofs.</hi></head>
+<head rend="h4"><hi rend="i">Capittel 6.</hi> 
+    <lb/>I.</head>
+<p>WOlfgangh Musculus Dusanus schrijft hier af alsoo. <note place="margin"><hi rend="i">In locis comun. de justifi. cap. 5.</hi></note> <hi rend="i">Het is wat anders alleen te zijn, of alleen rechtvaerdich te maken. Dat het gheloove alleen soude zijn, sonder die vruchte der goeder wercken, en seggen wy niet , maer hoewel het geloove niet alleen en is, so maeckt het doch alleen rechtvaerdich.</hi></p>
+    <p>&nbsp;</p>
+<div type="section">
+<head>II.l</head>
+<p>Dits de selve schrijver, die (soo gesien is) den H. Gheest in d'Apostelen Sanct Jacob <note place="margin"><hi rend="i">cap. 2. xj. xij.</hi></note> heeft derren berispen, ja onderwijsen hoe hy behoorde geseyt te hebben. Hier derf hy met zijn contrarie schrijven wel opentlijcken logen straffen, den Geest der waerheyt inden selve<hi rend="i">n</hi> Apostel, die wel uytdruckelijck schrijft: <note place="margin">Jac. 2. 24.</note> <hi rend="i">Dat de mensche wert gherechtvaerdicht door die wercken ende niet door't gheloove alleen.</hi> Want Musculus plat daer teghen seyt, dat het gheloove alleen rechtvaerdich maeckt. Wie is hier de gheloof-waerdichste? Musculus of d'Apostel Sanct Jacob, jae de Geest der waerheyt selve in den Apostel.</p>
+</div>
+<div type="section">
+<pb n="fol. cc xcviiir"/>
+<head>III.</head>
+<p>Behalven dat soo schrijft een van de ouden boven al d'andere ouden by dese nieuwe Leeraren selve hooch gheacht, daer teghen aldus: <hi rend="i">Het geloove mach ons niet salich maken sonder wercken. </hi><note place="margin"><hi rend="i">August. Serm. de temp. 207</hi></note> Ende noch: <hi rend="i">Wie ist die niet en gelooft dat Iesus is Christus? die niet en leeft nae Christi bevel. Vele seggen dat zy gelooven: maer 'tgeloove maeckt niet salich sonder wercken. </hi>Machmen dese nieuwe Leere oock platter tegenspreken van hier wort gedaen van den genen diens schriften zy meest voorthalen, als zy wanen die voor henluyden te wesen?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>IIII.</head>
+<p>Beroerende nu des selven Musculi ghesochte onderscheyt in desen, tusschen allee<hi rend="i">n</hi> te zijn, of alleen rechtvaerdich te maken, vinde ick die (dat bekenne ick) so subtijl, maer daer by oock (dit betoone ick) soo kranck, als een spinne-web. <note place="margin"><hi rend="i">Cap. 5. iij.</hi></note> Want rechtvaerdich maken is (soo voor al is geseyt) selve een werck. Sonder dit werck en maeckt het gelove niemant rechtvaerdich. So en maeckt oock het gelove niemant rechtvaerdich sonder werc. Anders moestme<hi rend="i">n</hi> segge<hi rend="i">n</hi> datter sonder werck wat gewrocht, en<hi rend="i">de</hi> sonder make<hi rend="i">n</hi> wat gemaect wort. Maer wie kan dat gelooven? so maeckt dan ooc 'tgelove niet rechtvaerdich sonder werc.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>V.</head>
+<p><hi rend="i">Daer wt wort geseyt, dat het geloove rechtvaerdich maeckt, om dat het ontfangt e</hi>nde<hi rend="i"> omhelst</hi><note place="margin"><hi rend="i">Insti. x. 8.</hi></note><hi rend="i"> die rechtvaerdicheyt die inden Euangelio wert aengeboden.</hi> Dat schrijft Calvijn. Het ontfangen en<hi rend="i">de</hi> omhelsen vande aengheboden rechtvaerdicheyt is een werck. Dit is des geloofs werck. Wert oock eenich mensche, ter wereldt gherechtvaerdicht sonder sulck werck des geloofs? dat sal niemant seggen. So moet dan elck seggen dat het geloof niet en rechtvaerdicht sonder werck.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>VI.</head>
+<p>Dat nu Musculus schrijft dat het geloof niet en is, maer dat het rechtveerdich maect sonder werck, blijckt wt het voorschreven Calvijns schrijven onwaerheyt: het en is in sich self ooc niet anders, dan of yemant seyde: die sonne en is niet sonder het werck van de lucht te verlichten: maer zy verlicht de lucht wel sonder het werck van verlichten. Machme<hi rend="i">n</hi> oock yet segge<hi rend="i">n</hi> dat ongeschickter luydet?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>VII.</head>
+<p>Ick meyne niet dat my yemant sal lochenen, dat het betrouwen op Gode een werck is des geloofs. Laet nu Musculus seggen dat het geloove den mensche rechtvaerdicht, sonder dit haer werck van't betrouwen op Gode. Of, waer dit te grof, laet hem ende de zijne bekennen dat het gheloove sonder werck niet en rechtvaerdicht.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>VIII.</head>
+<p>De voornoemde Musculus ter voorschreven plaetsen noch voortvarende in sulcke zijne niet kleyne dolinghe, schrijft alsoo totten Romeynen Catholijcken. <hi rend="i">Als ghyluyden segt dat het geloove niet alleen, maer gesamentlijck metten goeden wercken, rechtvaerdicht: soo doet ghy rechts of ghy seyde dat des booms goetheyt niet alle</hi>en<hi rend="i"> maer gesamentlijck met des booms vrucht</hi>en<hi rend="i">, den boom vruchtbaer maeckt.</hi></p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>IX.</head>
+<p>By den boom gelijck't Musculus hier den mensche, by haer vruchtbaerheyt het geloove, ende by de vruchten des booms, des geloofs wercken. In dit derde ende laetste stuck leyt die dolinghe. Want wat anders zijn des booms, oock geloofs wercken, ende wat anders zijn die vruchten.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>X.</head>
+<p>Van een vruchtbare boom wert hier ghesproken. Die brenght hare vruchten tot zijnder tijt. Die boom is dan al vruchtbaer voor <note place="margin">Psal. 1, 3.</note>dat zy vruchten draegt. So is die vruchtbare boom oock wel sonder vruchten. Sijn nu dese vruchten die wercken des geloofs, soo Musculus dat hier verstaet (maer qualijc) so mach die vruchtbaerheyt des booms (d'welc hy hier voor't gelove stelt) wel wesen sonder wercken des geloofs, dat is, sonder vruchten, die t'zijnre tijt navolgen. Maer dit wederspreeckt hier voor Musculus selve naectelijc <note place="margin"><hi rend="i">Cap. 6. 1.</hi></note>daer hy seyt dat het gelove niet alleen en is sonder die vruchte der goeder wercke<hi rend="i">n</hi>. Heeftmen oock reden om te ghelooven 'tseggen van een mensche, die soo dicht aen een, hem selve so opentlijcken tegen spreeckt.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XI.</head>
+<p>Daer ick nu segge by Musculum gedoolt te zijn, daer inne, dat hy die vruchten ende wercken des gheloofs voor een dingh hout, blijckt naecktelijck inde H. schrifture. Wa<hi rend="i">n</hi>t dese verclaert ons dat het werc des geloofs is, Christum aen te doen, daer door hy wo<hi rend="i">on</hi>t in onse herten. Maer des gheloofs vruchte is de kindtschappe Godes in Jesu Christo.<note place="margin">Gal. 3. 27. Ephes 17. Gal. 3, 26. Joan. 12.</note> Mach oock yemant een kint Godes worde<hi rend="i">n</hi>, sonder Christum aen te nemen, ende aen te doene? dit aennemen en<hi rend="i">de</hi> aendoen is des geloofs werck. en<hi rend="i">de</hi> sonder dit werck en mach geen mensche rechtvaerdigh gemaeckt worden. Hoe mach dan waer zijn deser nieuwer Leeraren opinie, dat het gelove den mensche rechtvaerdich maeckt sonder werck.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XII.</head>
+<p>Immers die woorden deser gelijckenissen Musculi, strijden opentlijck tegen zijn eyge<hi rend="i">n</hi> opinie. Want hy met al de zijne, houden, dat alle mensche<hi rend="i">n</hi> voor die toekomste des geloofs niet anders en zijn dan quade en<hi rend="i">de</hi> onvruchtbare boomen. Nu maeckt het geloove (so zy qualick seggen, maer God door't geloof, so icks houde) den onvruchtbaren boom of me<hi rend="i">n</hi>sche vruchtbaer. Dit vruchtbaer maken is self een werck. Hoe mach nu waer zijn dat het geloove den mensche vruchtbaer en<hi rend="i">de</hi> dien volgende rechtvaerdich maect, sonder werc? of wil hy leeren dat het geloove de<hi rend="i">n</hi> mensche maeckt vruchtbaer en<hi rend="i">de</hi> rechtvaerdich, sonder dat hy vruchtbaer en<hi rend="i">de</hi> rechtvaerdich wordt? dat waer spottelijck. Nochtans kompt dit wel over een met henluyder toerekentlijcke gherechtigheyt.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XIII.</head>
+<p>Want die maeckt henluyder gheloovigen hier rechtvaerdig, sonder dat zy immermeer hier rechtvaerdich worden. So soude 'tgheloove hier sulcke bomen vruchtbaer maken, sonder dat die boomen vruchtbaer worden na der waerheydt, maer wel inde toerekentlickheydt: wat is dat doch anders dan een gedroomde, een gewaende, ende een valsche vruchtbaerheyt ende rechtvaerdigheyt.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XIIII.</head>
+<p>Maer laet ons weder komen totte<hi rend="i">n</hi> onderscheyt tussche<hi rend="i">n</hi> des booms wercke<hi rend="i">n</hi> en<hi rend="i">de</hi> vruchte<hi rend="i">n</hi>, die Musculus hier niet en heeft gemerct.
+
+    <pb n="fol. cc xcviiiv"/>
+Die vruchten des booms zijn Appelen, Peren, Note<hi rend="i">n</hi>, Kersen, en<hi rend="i">de</hi> meer diergelijcke ooft. Maer des booms werckinghe is het inneswelgen van vetticheyt der aerden, het opwassen, het uyt schieten van tacken, bladen, bloemen, en<hi rend="i">de</hi> ten laetste<hi rend="i">n</hi> vruchten, die zy noch door toeschietende vochticheyt doet vermeeren en<hi rend="i">de</hi> rijp worden. en<hi rend="i">de</hi> dit alles door cracht ende werckinghe vander Sonnen wermte. Men moet immers onlochbaerlijck bekennen, dat dese wercke<hi rend="i">n</hi> des booms wat anders zijn dan die voorsz vruchten des booms.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XV.</head>
+<p>Sonder sulcke wercken des booms, en mach geen boom, hoe goet oock, vruchtbaer zijn. Het zijn dan oock dese wercken des booms, die gesamentlijck met die goetheydt des booms den boom vruchtbaer maecken. Dan volgen ten laetsten nae sulcke wercken des vruchtbaren booms, voorkomen zijnde vande hetten der Sonnen, ende vette douwe des Hemels die goede vruchten, diemen niet en mach lochenen wat anders te zijn, dan des booms wercken.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XVI.</head>
+<p>Hier uyt blijckt nu ontwijfelijck, dat die nieuwe Leeraren t'onrecht beschuldige<hi rend="i">n</hi> anderen, daer inne, als zy seggen, dat het gelove niet salig maeckt, sonder goede wercken, dat zy niet anders en seggen, dan of zy seyde<hi rend="i">n</hi> dat des booms goetheyt niet alleen, maer gesamentlick met die vrucht, den boom goet maken. Want men dat eerste segghende, dit laetste (so hy't dichtet) niet en seyt, maer wat anders, te weten, dat des booms goetheydt den boom niet vruchtbaer en maeckt (ick swijge vruchten en doet dragen) sonder des booms werck voorsz van't inswelge<hi rend="i">n</hi> vande vetticheyt der aerden, van't opwassen, etc.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XVII.</head>
+<p>Dit heeft nu gheheel een ander verstant, ende dit uyt die ghelijckenisse Musculi self, dan hy daer onbescheydelijck uyt pooght te trecken. Ende hier blijckt nu dat zijn eygen gelijckenisse zijn eyghen opinie vernielt: die hy daer met meynde te bevesten tot vernielinge van een anders verstant: 'twelck door sulcke zijne gelijckenisse opentlijck wort gestijft ende bevestight.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XVIII.</head>
+<p>Beroerende noch de<hi rend="i">n</hi> onderscheyt tusschen die wercken en<hi rend="i">de</hi> vruchten des geloofs: so houden wy alle haer eyntlijcke en<hi rend="i">de</hi> uyterste vrugt te wesen die eewige salicheyt. Alle die nieuwe Leeraren houden oock self mede dat het geloove salich maeckt. Dat saligh maken is het werc, die salicheyt is die vruchte des geloofs. Machmen lochenen dat salich maken wat anders is, da<hi rend="i">n</hi> die salicheyt selve? machmen oock lochenen dat niemant saligh wort sonder dat werck van salig maken? even so weynich also een kint mach worden sonder het werck van kinder-maken. Het kint is de vrucht, het kinder-maken is het werck.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XIX.</head>
+<p><note place="margin"><hi rend="i">Institut. x. 48.</hi></note> <hi rend="i">Der menschen salicheyt is voornemelick gelegen</hi> (schrijft Calvijn) <hi rend="i">in Godes bermhertigheyt e</hi>nde<hi rend="i"> Christi verdienste alleen. Als't gelove sulcx aenneemt, soo wert het ghenaemt rechtvaerdigh maken. </hi><note place="margin">Quæsti. &amp; resp. Pag 69.</note> en<hi rend="i">de</hi> Beza hier met over een stemmende schrijft also: <hi rend="i">Het geloof wert geseyt toegerekent te worden tot gerechticheyt, overmits het geloof 'tgereetschap is </hi>(oft middel) <hi rend="i">waer mede wert aengenom</hi>en<hi rend="i"> die onderdanicheyt, door welcks toerekeninge wy rechtvaerdig worden: op welcke wijse wy oock geseyt worden, door't geloof gerechtvaerdigt te worden, te weten, voor so vele het Christi ghehoorsaemheyt aenneemt, door wiens toerekeninge wy rechtvaerdigh worden geacht.</hi> Dit aennemen des geloofs is een werck des geloofs. Sonder dit werc des geloofs, en wert niemant rechtvaerdig gemaect. So besluytme<hi rend="i">n</hi> hier mede vastelijck, dat het gelove niet rechtvaerdig en maect sonder werck: en<hi rend="i">de</hi> dit uytten woorden der hoofden vande nieuwe Leeraren selve, die zy voortbrengen tot bewijs van dese heure opinie die heur eyghen woorden vernielen en<hi rend="i">de</hi> onwaer doe<hi rend="i">n</hi> blijcken.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XX.</head>
+<p>Dat het geloove niet en mach zijn sonder goede wercken, seyt Musculus selve so voor (Cap. 6. 1.) is gesien. So is dan het ware gheloof (daer af spreecktmen hier) nemmermeer sonder goede wercken te wercken, soo weynich als de sonne sonder te lichten, ende het vuyr sonder heet te maken. Maeckt nu 'tgelove salig sonder goede wercke<hi rend="i">n</hi> te wercken, dat is, sonder in des Heeren paden nae de Stadt Godes te wandelen: So moetmen seggen dat het gheloove nemmermeer en is sonder te wandele<hi rend="i">n</hi> na de Stadt Godes: maer dat nochtans het gheloove brenght tot de Stadt Godes sonder derwerts te wandelen. Sijn dat niet ongelooflijcke dingen.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XXI.</head>
+<p>Seytme<hi rend="i">n</hi> my hier dat het genoeg is ter salicheyt, dat de boom (de mensche) vruchtbaer (geloovig) zy, al en bracht zy ooc geen vruchten voort: Ic sal't Euangelie en<hi rend="i">de</hi> Christi menichvuldige klare en<hi rend="i">de</hi> ware woorden moeten geloven bove<hi rend="i">n</hi> sulcke bedriechlijcke, duystere, en<hi rend="i">de</hi> logenachtige menschelijcke versieringe.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XXII.</head>
+<p>Want sonder herbooren te zijn, mach niemant salich worden. In dese wedergeboorte werdt Christus inden mensche gheboren door't middel van't gheloove. 'tgeloove is dan al voor die wedergheboorte inden mensche. Daer't geloove in is, die is geloovich. Die gelovich is, die is ee<hi rend="i">n</hi> vruchtbare boom. Soo is de mensche al een vruchtbare boom of aerde, voor dat Christus in hem geboren, of tzaet des Godlijcken woorts in hem gezaeyt is. <note place="margin">Mat. 13. 8.</note>Ist nu soo, dat het gheloove (die vruchtbaerheyt des booms) den mensche salig maeckt, al en bracht zy die salichmakende vrucht (Christum) niet voort, soo maeckt het geloove alleen saligh oock sonder Christum: luyt dat oock Euangelisch.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XXIII.</head>
+<p>Is't gheloove of des booms vruchtbaerheyt, sonder't werck van vrucht te draghen alleen genoegh ter salicheyt: wat van noode is dan dit werck des geloofs van vrucht te dragen, te weten, van Christum te ontfangen, ende vande gheboorte Christi in ons, te weten vande wedergeboorte? wat vrouwe is so sot dat zy haer vruchtbaerheyt alleen, sonder het werck van vrucht te ontfangen, te dragen, te voeden ende te baren, genoeghsaem soude achten, om moeder van een vrugt of kindeken te worden.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XXIIII.</head>
+<p>Wt alle 'tgene voorsz staet dat is uyte eygen woorden deser nieuwe Leeraren selve nu
+
+    <pb n="fol. cc xcixr"/>
+vastelick betoont hebbende onwaerachtigh te zijn het seggen der nieuwe Leeraren, van dat het gheloove den mensche soude rechtvaerdigh maken sonder wercken, kome ick nu op't geschille selve te weten.</p>
+</div>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Oft geloove den mensche rechtvaerdigh maeckt sonder des menschen werck.</hi></head>
+<head rend="h4"><hi rend="i">Capit. 7.</hi> 
+    <lb/>I.</head>
+<p>MAeckt het gheloove den mensche rechtvaerdigh (mach yemant hier dencken) door't werck des geloofs: so en geschiet dat niet door 'smenschen werck. So moetmen hier noch in allen gevalle bekennen, dat het geloove den mensche rechtvaerdigh maeckt sonder des menschen werck.</p>
+
+<div type="section">
+<head>II.</head>
+<p><hi rend="i">Antwoorde.</hi> 'tGeloove self en is noch en werckt niet, als oft eenig personagie op sich selve waer, buyte<hi rend="i">n</hi> den mensche: dus en kan't hem sonder des menschen werck oock niet salig maken. Wat anders is een instrument of gereetschap daer door ee<hi rend="i">n</hi> werck-man zijn werc werckt, wat anders is de werck-man selve. Sonder bijle en timmertmen gheen huys: maer daerom en is de bijle niet de maker des huyses: neen, dat is de timmerman.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>III.</head>
+<p>Dat nu 'tgeloove een instrument ter salicheydt is, leeren die nieuwe Leeraren selve. <hi rend="i">Wy seggen</hi> (schrijft Calvijn) <hi rend="i">dat het gheloove rechtvaerdigh maeckt. </hi><note place="margin"><hi rend="i">Institut. x. 48. e</hi>nde<hi rend="i"> 44.</hi></note><hi rend="i">Niet om dat het door zyne waerdigheyt die rechtvaerdigheydt voor ons verdient: maer om dat het een instrument is, daer door wy die rechtvaerdigheyt Christi om niet ontfangen.</hi></p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>IIII.</head>
+<p>Geen instrument en ghebruyckt sich self, maer het wert gebruyckt van Gode of van menschen. Dit instrument des geloofs, en gebruyckt Godt niet, als die al wetende is, en<hi rend="i">de</hi> daerom niet en mach gelooven. De mensche gebruycket dan, gelooft God daer door, en<hi rend="i">de</hi> ontfangt daer door die rechtvaerdicheyt Christi. Wy doen dit. so Calvijn selve hier wel seyt, ende niet het geloove. Sonder dit ons werck van te ontfangen die rechtvaerdicheyt Christi, en wort niemant rechtvaerdich. So en maeckt dan oock 'tgeloove niemandt rechtvaerdigh sonder des menschen werck. Want wat de mensche doet, en doet het geloove niet, maer de gelovige mensche, door't instrument des geloofs.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>V.</head>
+<p>Voort is waerachtich, of schoon de mensche die gave des gheloofs mochte hebben, sonder die recht te gebruycke<hi rend="i">n</hi>: so en is nochtans niet moghelick dat yemandt dese gave mach hebben, sonder die ontfangen te hebben. Dit ontfanghen is der behoeftighen menschen, maer geensins des milden Godes werck. Want die gheeft elck, maer en ontfanght van niemande. Mach dan de mensch het rechtvaerdichmaeckende gheloove niet hebben: hoe kanmen gelooven dat het geloove den mensche soude rechtvaerdighen sonder des menschen werck? Immers wie moet niet het tegendeel gelooven.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>VI.</head>
+<p>Daer staet geschreven (machmen seggen) 'tgeloove verwint de werelt. <note place="margin">1. Joan. 5. 7.</note> Wat het gheloof doet, en doet de mensche niet. Nu leyt in dese verwinninghe des menschen salicheyt. Het gheloof ist dan dat den mensche saligh maeckt of rechtvaerdigh. Wat doet de mensche hier toe?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>VII.</head>
+<p><note place="margin">Joan. 16. 33.</note>Daer staet oock geschreven dat Christus die werelt verwint of verwonnen heeft: wat doet dan't geloof hier toe? want wat Christus doet, dat en doet het geloove niet. Immers aen die spreucke, 1. Joan. 5. 4. voor ghemelt, volght in't naeste verset, dat die de werelt verwint, die daer gelooft dat Jesus is de Sone Godes. Dat en is nu oock <note place="margin">1. Joan. 5. 4.</note> Christus selve niet, dat en is het gheloove selve niet, maer dat is de mensche selve die geloovigh is. Dese verwint de werelt, door't instrument oft middel des geloofs. So machmen oock eenighsins (doch niet eygentlijck) seggen, het ooge siet, ende het oore hoort, hoe wel dit eyghentlijck des menschen wercken zijn, die siet door t ooge ende die hoort door't oore. Mach yemants ooghe of oore sien of horen, op sich self sonder den mensch? dat sal niemant seggen. So mach't geloof niet gelooven op sich self sonder den mensche. De mensche mach oogen ende ooren sluyten en<hi rend="i">de</hi> niet willen sien of hooren. Daer over klaegt God oock so ernstlijck, als dickmael, dat die hartneckige Joden oogen en<hi rend="i">de</hi> ooren hebbende, niet sien noch hooren en wilden.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>VIII.</head>
+<p>Ghelijck nu dit hooren ende sien wercken zijn des menschen, die door zijn ooghen ende ooren siet ende hoort, als door instrumenten hem daer toe gegeven zijnde: soo ist oock de mensche die door't instrument des gheloofs hem gegeven zijnde ghelooft ende de werelt verwindt. Wilmen sien wat meer andere wondere dade<hi rend="i">n</hi> die mensche door zijn geloove (niet het geloof sonder den mensche) werckt, men lese het II. Cap. totten Hebreen, overvloedelijck daer van handelende.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>IX.</head>
+<p>Wat wercken (seytmen) dede de moorder aen't kruys? nochtans wert die salich alleen door't gheloove sonder zijn eyghen werck. <hi rend="i">Antwoorde</hi>. Hy dede vier treflijcke wercke<hi rend="i">n</hi>, namentlijck des geloofs, des rechtvaerdicheyts, der liefden, ende des gebedts. Want dat hy in Christum geloofde, was des moorders werck door't geloof, ende niet des gheloofs werck (soo nu al is bewesen in andere voorgaende saken) sonder den moorder. Dat hy sich self beschuldighde, en<hi rend="i">de</hi>  Christum ontschuldighde was des moorders werck van rechtvaerdicheyt. Dat hy zijn mede-moorder ernstlijck berispte tot zijnre beteringhe, was een werck der broederlijcker liefden: en<hi rend="i">de</hi> dat hy den Heere badt zijnder te gedencken, was een werck des gebets. Wie mach ontkenne<hi rend="i">n</hi> dat alle dese vier daden des moorders wercken waren? wie mach oock lochenen, dat gelove<hi rend="i">n</hi>, rechtvaerdicheyt hanteren, <note place="margin"><hi rend="i">In libello quæstionum &amp; resp</hi>on<hi rend="i">sionum Christi. pag. 96.</hi></note>zijn naesten lief hebben, ende God bidden goede wercke<hi rend="i">n</hi> zijn? Immers oock Beza selve niet: so en mach nu oock niemant seggen, dat de moorder sonder goede wercke<hi rend="i">n</hi> behouden is geweest. Het geloove en maeckt dan oock niet salig sonder des menschen werck.</p>
+</div>
+<div type="section">
+    <pb n="fol. cc xcixv"/>
+<head>X.</head>
+<p>Hier toe segge<hi rend="i">n</hi> die nieuwe Leeraren neen. Sy pogent te bewijsen met Schriftuerlijcke spreucken, en<hi rend="i">de</hi> neven anderen oock met dese. <note place="margin">Hebr. 11. 6.</note> Sonder gheloove ist onmoghelijck Gode te behagen: nu en begifticht God niemant hem door zijn ongeloove, noch mishaghende met die salichmakende gave des geloofs. Ende want het alles sonde is wat niet en geschiet wtten geloove: so en machmen niet gelooven <note place="margin">Rom. 14. 13</note> dat eenich mensch sonder't geloove door zijn sondighen yet soude mogen doen, dat voorderlijck zy tot verkrijginghe van die hoochwaerde gave. Dus wert de mensche geloovich sonder zijn toedoen of werck.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XI.</head>
+<p>Daer op staet te seggen also. Kranckheyt ende ongeloovicheyt is in allen menschen na deser nieuwe Leeraren opinien selve, voor en<hi rend="i">de</hi> al eer yemant ghesont wert of gheloovigh. Kranckheyt ende ongheloovigheyt en mach God niet behagen. So en mogen dan oock geen krancke ende ongheloovigen Gode behagen. Nadien nu alle menschen (so zy leeren) sulcx eerst zijn, so en mach geen mensche Gode behagen. So en wert dan oock geen mensche ter wereldt van Gode begiftight met die gave des geloofs. Ende blijven nae dese nieuwe Leere alle menschen, niemandt uytghenomen, altijdt ongheloovigh ende in heure kranckheyt.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XII.</head>
+<p>Dit is opendtlijck valsch, want om die krancken te genesen is Christus ghekomen. <note place="margin">Luce 4. 18. Rom. 5. 5. Rom. 5. 8. Rom. 5. 10.</note> Ende gestorven. Immers doe wy noch sondaren, ja vyande<hi rend="i">n</hi> waren, zijn wy Gode versoent, door den doodt zijns Soons. Waer blijft hier nu het mishagen Godes? mishage<hi rend="i">n</hi> zy Gode, die met hem door zijn Sone versoent zijn? of soude God niet begiftigen willen metten geloove, sodanigen den welcken hy zijnen beminden Sonde en<hi rend="i">de</hi> met hem alles heeft gegeven?<note place="margin">Isa. 9. 6.</note></p>
+<p><note place="margin">Rom. 8. 32.</note> wil God den krancken noch kranck zijnde niet genesen: so dede Christus die krancken die belast en<hi rend="i">de</hi> beladen waren tot sich roepende om te verlichten ende te genesen, tegen Godes wille, en<hi rend="i">de</hi> heeft gesondicht. Dit is valsch. Want hy gekomen is om den wille zijns Vaders te doen, die hy oock ghehoorsaemt heeft tot inder doot.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XIII.</head>
+<p>Maer laet ons dese sake van grooten gewichte zijnde uytten gront opnemen, en<hi rend="i">de</hi> sien eerst wat menschen zy houden voor ongeloovige, dat is die't geloove noch niet en is gegeven: souden't niet wel zijn (in heuren sinne) alle onbekeerde sondaren, noch wesende buyten haren kercke? ick achte zy jae sullen seggen. Achten zy die stemmelijcke predicatie oock nut om den ongeloovige<hi rend="i">n</hi> te brengen ten geloove? niet alleen nut, maer nootlijck salmen seggen. en<hi rend="i">de</hi> dat bestaen te bewijsen met Pauli woorden: hoe sullen zy hem geloven <note place="margin">Rom. 10. 14.</note>dien zy niet en hebben gehoort.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XIIII.</head>
+<p>Hoe sullen dese nieuwe Leeraren oock predicken <note place="margin">Rom. 10. 15.</note> soo zy niet en zijn gesonden: heur sendinge hebben zy tot noch toe niet konnen bewijsen: hoe sullen heure leerlingen dan mogen gelooven ende geloovige zijn? Dat ter zijden gestelt, indien hier yemant sou willen seggen, Pauli meyninge te zijn geweest, dat God niet anders da<hi rend="i">n</hi> door't instrument vande predicatie zijn kennisse den mensche en mach geven. Calvijn self in zijn Commentarien op dese plaetse sal daer neen toe seggen. <note place="margin"><hi rend="i">Calv. co</hi>m<hi rend="i">ment. Rom. 10. 14.</hi></note></p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XV.</head>
+<p>Maer daer moet elck jae toe segghen, dat sonder het werc van hooren, het zy dan van de uytterlijcke predicatie metten lijflijcken ooren, ofte oock vande<hi rend="i">n</hi> insprake Godes metten ooren der zielen, niemant gheloovigh en wort. Want alle spreken en<hi rend="i">de</hi> predicken te vergheefs is, daermen niet met aendachtigh op mercke<hi rend="i">n</hi> en hoort. Dit horen van Gode (waer <note place="margin">Joan. 6. 46</note> door men komt tot Christum) of van menschen op Christum tuygende, is des mensche<hi rend="i">n</hi> werck, die wijle hy noch ongeloovigh is, en<hi rend="i">de</hi> daeromme ooc niet Godes noch des geloofs werck. So blijckt nu dat niemant geloovig en wort sonder zijn selfs werck.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XVI.</head>
+<p>Watmen (seggen zy) des menschen werck toe schrijft, dat beneemtmen de eere Godes: Doet de mensche self mede yet tot verwervinge van't geloove, ende mitsdien oock tot zijn saligheyt: wie mach lochenen datmen in de salichmakinghe des menschen Gode van zijn eere berooft, also watmen den mensche daer inne toeschrijft?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XVII.</head>
+<p><hi rend="i">Antwoorde.</hi> Al ist sulcks dat de mensche doende 'tghene hy vermach Godes gaven ontfanght ende met zijn pondekens getrouwelijck woeckert, derhalven eenichsins prijsens weerdich is (so die sulcx weygerde oock stantwaerdich zijn) by den menschen: wat eere moge<hi rend="i">n</hi> wy ontfangende bedelaers doch behalen by de<hi rend="i">n</hi> milden en<hi rend="i">de</hi> gaef-rijcken Gode.<note place="margin">Rom. 4. 2.</note></p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XVIII.</head>
+<p>Godt selve heeft eerst Adam in sodaniger vrijheyt ghestelt, dat hy Adam niet en heeft willen beschencken met d'onsterffelijckheyt, sonder Adams bewillinge self: wast daeromme een verminderinge van de Godlijcke eere, dat Adams werck van bewilliginghe nodich was tot zijn onsterfljckheyt? waeromme soudet nu meer dienen tot verminderinge van Godes eere, dan doe ter tijt: dat Godt ons sonder onse werck van bewilliginge of toe-stemminghe tot zijn woort niet en wil salich maecken?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XIX.</head>
+<p>Mach d'eere Godes ooc vermindert worden int volbrenghen zijnre beloften? dat sal niemant seggen. Nu getuycht de H. schrift doorgaens dat God sich tot ons sal keeren, dat wy ons tot hem bekeeren, ende so wy zijne woorden gelooven ende volbrengen, dat hy ons sal salich maken. Als God den soecker doet vinde<hi rend="i">n</hi>, den bidder geeft, en<hi rend="i">de</hi> den aenklopper opent: wat oneere is hier inne voor Gode gelegen, die so doende waerachtelijck volbrenght 'tgene hy genadelijck belooft? <note place="margin">Deut. 30. 2. 6. Isa. 45. 22. Matt. 8. 13 Isa. 57. 13. Joan. 3. 15. 16. 6. 40. Ezech. 18. 21. Mat. 7. 26. 24. 12. 50. Joan. 13. 1.</note></p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XX.</head>
+<p>Nu zijn dese wercken van soecken, bidden ende aenkloppen menschelijcke wercken: die welcke geschieden voor't vinden, voor't geven ende voor't openen: ja het zijn sodanige wercken der menschen, dat Godt sonder die niet en heeft willen doen vinden, gheven of openen. Wat verminderinge is hier van de Godlijcke eere? gheen altoos.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XXI.</head>
+<p>Alsoo dient dit mijn ghevoelen tot grootmakinge van de eere Godes. Want hier by
+
+<pb n="fol. cccr"/>
+blijckt God milt, getrou ende waerachtich. Maer na deser nieuwe Leeraren glosen soude God onmilt, ongetrou en<hi rend="i">de</hi> onwaerachtich moeten zijn. Want dan de menschen die nae Godes beveelen heur werck daer toe doen van soecken, van bidden ende van aenkloppen, alle sulcks vergeefs doen, ende niet vinden, verkrijgen noch innegaen souden: ende souden daer tegen die mensche<hi rend="i">n</hi> die niet altoos daer toe en doen met soecken, met bidden of aenkloppen, buyten al haer werck vinden, verkrijgen ende innegaen. Soude sulcx oock diene<hi rend="i">n</hi> tot groot-makinge vande eere Godes?</p>
+</div>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Van de gevaerlijckheyt gelegen daer inne datmen den mensche toeschrijft te veele of te luttel vrijheyts ende vermoghens.</hi></head>
+<head rend="h4"><hi rend="i">Capittel 8.</hi> 
+    <lb/>I.</head>
+<p>IOannes Calvinus wel vernemende wat swaricheyt datter is gelegen, so men den mensche te vele of te luttel toeschrijft, seydt alsoo. <note place="margin"><hi rend="i">Institut. ij. 16.</hi></note> <hi rend="i">Maer op dat die waerheyt van desen geschille ons te klaerder verschijne, soo laet ons ter loop voor oogen stellen het wit, daer na die gantsche sake is te richten. Maer dan sal't sich toonen op wat wit ofte eynde gemerct te worden, ist dat die ghevaerlijckheydt die sich aen beyden zijden over't hooft hanghen, worden geaenmerckt. Want daer de mensche gebloot wert van alle oprechticheyt: neemt hy terstont daer uyt een oorsake van traecheyt. E</hi>nde<hi rend="i"> daer hy wert geseyt niet altoos van sich self te vermogen tot een opset ter rechtvaerdicheyt: so laet hy dat gantschelijck ongeacht henen gaen, niet anders dan oft hem niet aen en ginghe. Wederomme en machm</hi>en<hi rend="i"> hem 'talderminste deelken niet toe schryven, of Gode wert zyn eere berooft, ende de mensche vervalt door een vermetel betrouwen.</hi></p>
+
+<div type="section">
+<head>II.</head>
+<p>Daer, als oock tot meer andere plaetsen, heeft dese geleerde man meer konst gehadt om die voorschreven ghevaerlickheyden te ontdecken, dan verstandts om daer in een wijs raets-man te verstercken, so men hier terstont sal mogen sien.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>III.</head>
+<p>Daer Calvijn seydt datmen den mensche het alder-minste deelken niet en mach toeschrijven, of God en wert berooft van zijne eere, en<hi rend="i">de</hi> de mensch vervalt door een vermetel betrouwen: Is hier naest voor onwaerachtigh te zijn bewesen, ghemerckt sulcx geensins nootlick en volght. Want dat waer geseyt also. <note place="margin"><hi rend="i">Lib. 2. cap. j. vj. x.</hi></note>Wie daer seyt dat de mensche moet bidden, soecken ende aenkloppen, sal hy verkrijgen, vinden ende ingaen: die schrijft den me<hi rend="i">n</hi>sche wat toe, daer door God wert berooft van zijn eere. Dit doet Christus, so schrijft Christus den mensche wat toe, ende berooft Gode van zijn eere. Daer sietme<hi rend="i">n</hi> nu dat dese leeringhe Calvini valsch is: of dat Christi Leere Gode berooft van zijn eere. Dit en doet dese Leere Christi geensins, want wat eere mach een bedelaer doch behalen met bedelen, geen altoos. So is dan niet Christi, maer Calvijns leere valsch in desen. </p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>IIII.</head>
+<p>Over dese zijde is dan voor geen hovaerdigen roem te vreesen, maer wel ootmoedige danckbaerheyt te verhopen. Men mach wel by zijn weten die Godtlijcke gaven hebben, sonder sich daer door te verhovaerdige<hi rend="i">n</hi>. Hoe vele Heyligen, wel wetende wat hooger gaven zy van Gode hadden ontfanghen, zijn daer door niet verhovaerdicht, maer hebben Gode den prijs ghevende, daer over danckbaer geweest? Immers wie mach te recht danckbaer zijn sonder kennisse van Godes weldaden in't genieten zijnre gaven?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>V.</head>
+<p>Maer wat mach doch wt Calvijns voorschreven leere, berovende den mensche gantschelijck van alle dat goet is, voortkomen? die seyt de gantsche natuere (des menschen) te zijn eenrehande zaet der sonden. Immers <note place="margin"><hi rend="i">Institu. ij. 12. 13.</hi></note> dat de gantsche mensche wt sich self niet anders en is, dan begeerlickheydt, welcke begeerlickheyt hy seyt te wesen sonde. Is dese Leere niet een vruchtbare baer-moeder van <note place="margin"><hi rend="i">Institut. ij. 64. 65. 66.</hi></note> de quaet-blijvende traegheydt? ende vande Libertijnsche vryheyt? Wie mach arbeyden om verlost te worde<hi rend="i">n</hi>, dat hy waent hem aengeboren en<hi rend="i">de</hi> zijn natuere te wesen? wie mach sich oock met ernst beschuldigen over't geen hy buyten zijn wille, kenne of toe-stemmen nootsakelijck moet doen?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>VI.</head>
+<p>Calvijn selve wel siende welcken vastbondighen lijm vander sonden aenklevelickheyt hy met sulcke zijne traeghmaeckende Leere den onwijsen voor geleyt hadde, bestaet dat te willen versachten met een raedt niet min spotlijck dan sorchlijck wesende en<hi rend="i">de</hi> seyt also: <hi rend="i">Op dat wy ons nu niet en stoten aen dese klippen, moet dese loop ghehouden zijn, dat de mensche onderwesen zijnde datter niet goedts altoos in hem en is overghebleven, ende dat hy aen alle kanten met d'alder allendigste nootsaeckelickheyt omringht wesende, des niet te min geleert werde, dat hy nae't goede, daer af hy ledigh is, e</hi>nde<hi rend="i"> nae de vryheyt, daer af hy berooft is,  stae of trachte. Ende hy sal wackerlicker vande traegheyt opgheweckt worden, dan ofmen hem versierde met d'opperste deughde voorsien te zijn.</hi></p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>VII.</head>
+<p>Dats geleert vliegen sonder vlogelen, en<hi rend="i">de</hi> een slot inde lucht bouwen. Want verkrijgt de quade mensche 'tgoede sonder daer nae te staen: wat noodt ist datmen hem (so Calvijn hier leert) leere om daer na te stae<hi rend="i">n</hi>? verkrijgt men dan oock het goede niet sonder dat de mensche daer na staet: hoe mach hy en<hi rend="i">de</hi> dese andere nieuwe Leeraeren segghende dat de mensch niet altoos daer toe en doet, daer ae<hi rend="i">n</hi> die waerheyt leere<hi rend="i">n</hi>? of is na't goede te staen, niet een werc des menschen? of vermach't de mensche niet? is dit also: so is alle het leeren om daer nae te staen, niet minder vergheefs dan voor een blinde een kaerse te ontsteken, ende hem te leeren dat hy behoort te sien.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>VIII.</head>
+<p>Wilmen niet lijden dat sulck leeren ende vermane<hi rend="i">n</hi> so vergeefs, ja oock niet min spotlijck is, men sal moeten toelaten dat de mensche noch wat goets in sich heeft, daer door hy vermaent zijnde na't goede te staen, sulcx mach willen doen. Want hoe mach hy nae't goede staen, die niet goedts in sich heeft? of
+
+<pb n="fol. cccv"/>
+mach yemant na't goede stae<hi rend="i">n</hi> met ernst, sonder het goet te kennen? sonder lust te hebben ten goeden? sonder begeerte ende wille om't goede te verkrijge<hi rend="i">n</hi>? Neen, dats onmogelijck. Sulck staen na't goede, sulcke kennisse des goets ende sulcken lust, begeerte, ende wille ten goeden, moetmen immers bekennen goet te zijn. Is sulck al goet inden mensche voor dat hy nae't goedt staedt: hoe mach hy soo gantsch bloot en<hi rend="i">de</hi> ydel zijn van alle goet, als Calvijn daer leert? is sulcx of die mogelijckheyt van dien dan oock niet meer in de mensche, dan't in een gheboren blinde is om zijn oogen te openen en<hi rend="i">de</hi> 'tlicht hem voor gestelt, te sien: wie mach ontkennen dat sulck leeren om na't goede te staen aen sulcke luyde<hi rend="i">n</hi> spotternije jae openbare sotternije? siet daer den schoonen raet Calvini in so wichtigen sake.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>IX.</head>
+<p>By dese argerlijcke spottelijckheydt van de Leere Calvini, kompt noch die sorchlijcke traegheyt, houdende den menschen in sonden. Want niemant en mach volbrengen 'tgene hy nimmermeer met ernst en bestaet te doene. Oock mach niemant met ernst bestaen yet te doene, 'tgene hy voor hem gelooft onmogelijck om doene. Wie daer gelooft dat hy van selfs geen vermogen altoos en heeft, om een opset te maecken totte rechtvaerdicheydt, die en mach nemmermeer sulck opset daer toe maken, of dat verkrijgen. Maeckt dan dese Leere Calvini den menschen niet trage? immers zy hout heur gheloovers in ee<hi rend="i">n</hi> blyvende onrechtvaerdicheyt. Want of hy schoon raet datme<hi rend="i">n</hi> den menschen gantsch ledich zijnde van alle goet, en<hi rend="i">de</hi> mitsdien oock van de macht en<hi rend="i">de</hi> vryheyt tot het goet opset, ('twelck vrijelijck wat goets is,) vermanen sal na't goede ende vryheyt te staen: sal dat niet veele meerder een vergheefsche spotternije, dan een wackere opweckinge wesen?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>X.</head>
+<p>Laet ons gaen totten gront ende vragen Calvijn metten zijnen, of de mensche noch macht heeft, ick segge niet om wel te bidden om't geloove, d'welck sonder geloove, niet en mach geschiede<hi rend="i">n</hi>, maer om't gelove hem van Gode aengeboden zijnde, als hy't noch niet en heeft, te ontfangen: Ick weet dat hy sal neen daer toe segghen, als die den mensche oock van dit vermogen en<hi rend="i">de</hi> vryheyt, dat goet is, gantschelijck berooft ende blootet. Dit houden oock alle Predicanten en<hi rend="i">de</hi> menschen dese nieuwe leere aenkleve<hi rend="i">n</hi>de. Sal't voor desen niet een spottelijck werck zijn, of andere<hi rend="i">n</hi>, of sich self te vemanen tot een opset om die aengeboden genade des gheloofs te ontfangen, 'twelck zy gelooven henluyden onmogelijck te zijn? Of salmen nu gelooven mogelijck te zijn dat yemant een ernstich opset make ende waerachtelijck sta om te verkrijgen't gene hy gelooft niet mogelijck om geschieden? even so weynich als yemant sekerlijck wetende datmen niet en mach vliegen sonder vleugelen, ende daer by dat hy geen vleughelen en heeft, een ernstich opset mach maken om inden Hemel te vlieghen.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XI.</head>
+<p>Hier inne is henluyden tegen oock Augustinus selve onder allen vaderen het meeste geloove (daer hy voor henluyden schijnt) by henluyden hebbende. Want die hier plat teghens schrijft alsoo: <note place="margin"><hi rend="i">August. 9. Secun. Manic. cap. 2.</hi></note> <hi rend="i">Wie sal bestaen het goet te doen, die daer waent het quade ghelegen te zijn, niet inde veranderlijcke wille, maer inde onveranderlijcke natuere?</hi></p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XII.</head>
+<p>Het goet dat ons alleen te doen is bevolen, is Gode boven al, ende ons naesten als <hi rend="i">on</hi>s self lief te hebbe<hi rend="i">n</hi>. Vermach dit yema<hi rend="i">n</hi>t ter werelt, hoe heylich oock, nae des Heeren bevelen te volbrenghen? hier toe segghen dese nieuwe Leeraren opentlijck neen. Waerom dat? om dat wy van natueren zijn geneycht Gode ende onsen naesten te haten, seggen zy. Is dan dese quade geneychtheyt (soo zy leeren) gelegen, niet inde veranderlijcke wille, maer inde onveranderlijcke natuere: hoe moghen zy met ernst bestaen sulck onmogelijck ghewaent goet te doene?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XIII.</head>
+<p><note place="margin">Gene. 43. 3. 4. 5.</note> Soo en gheloofden de thien Patriarchen niet, dat zy Josephs aensicht souden mogen sien in Egypten, ende mitsdien Coorn van daer gekrijge<hi rend="i">n</hi>: ten waer dan sake dat Jacob toeliet dat zy Ben-Jamin met sich namen in Egypten. en<hi rend="i">de</hi> waren derhalven onwillich om sonder Ben-Jamin in Egypten te trecken. Soo en geloofde Israel niet mogelijck<note place="margin">Nu. 13. 33. Deu. 1. 26. 27. 28. 29. 30. 31. 35.</note> te zijn dat zy heure vyanden, die zy stercker waenden dan hen self (ja van Godt die met hem was) souden moghen verwinnen, ende mochten daerom geen opset maken om daer tegen op te trecken. So en geloofde de Koningh Israels niet mogelijck te zijn, dat hy <note place="margin">4. Reg. 5. 7.</note> Naamans laserije soude genese<hi rend="i">n</hi>, ende mocht daerom gheen opset maken om sulcks te bestaen. Soo en geloofde Naaman oock selve <note place="margin">4. Reg. 5. 11</note> niet, dat hy door't volbrenghen van Eliser raet beroerende het sevenmael wasschen inde Jordane zijn ghesontheyt soude verwerven, ende en mocht daerom so lange hy't niet mogelijck waende, gheen opset maken ofte bestaen om sich sevenmael in de Jordane te doopen. Ende soo vintmen oock dat by het ongheloof vande mogelijckheyt gheen opset mochten maecken om sulcks te bestaen die voorbarichste van Samarien, ende die Koningh inden Euangelio. Jae men vinter die <note place="margin">4. Reg. 10. 1. 2. 3. 4. 5. 6. Luc. 14. 31. 32.</note> eerst al bestaen hebbende't geen daer door zy mogelijck waenden te sullen worden 'tgene zy begeerden, terstont ophielden van sulcks te doen of te vorderen, als zijt nu voorts onmogelijck geloofden als namelijck Michas <note place="margin">Judicu. 18. 26.</note> om zijn Ephod, etc. weder te ghekrijghen, oock David om zijn Soontgen, ende 'tghesinde Jairi om zijn dochter, levendich te behouden. <note place="margin">2. Reg. 12. 22. 23. Luce 8. 48</note></p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XIIII.</head>
+<p>Even soo onmoghelijck als alle ende elck der voorschreven personen sulcx dochte ende derhalven niet en mochten opset maken, jae oock niet volherden int opset dat nu al ghemaeckt was, om sulcks te doene of te verwerven: even soo onmogelijck ist voor den nieuwen Leeraren, oock voor heur gheloovers, te maken opset om te gaen na't goede, daer af zy ledich zijn, ende nae de vryheydt daer af zy berooft zijn: soo langhe zy gelooven dat die macht om sulck opset te maken niet by henluyden onmogelijck wanen. Ende blijckt daer uyt ende krachtelijck dat dese nieuwe leere spottelijck, vergheefs, jae schadelijck ende verderflijck is, als niet anders vermogende dan den menschen jae on-
+
+<pb n="fol. ccc ir"/>
+willigh te maecken, ten goeden traegh, ende stadelijck te houden int quade, in sonden en<hi rend="i">de</hi> in't verderven.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XV.</head>
+<p>Wilmen dan over d'ander zijde segghen dat Calvijn niet spotlijck is ende vergheefs daer inne: dat hy wil datmen noch sal leeren den mensche, die onderwesen is datter niet goets altoos in hem is overghebleven, maer met nootsakelijckheydt omringhet is, dat hy des niet te min sal staen nae't goede daer af hy ledigh is, ende nae de vryheydt, daer af hy berooft is: so wil ick Calvijn met alle d'andere nieuwe Leeraren vraghen: of sulck menschen werck van staen nae't goede ende nae de vryheydt een goet werck is dan niet? oft een noodich werck is tot het rechtvaerdich worden dan niet? en<hi rend="i">de</hi> of sulck werck des menschen werck is dan niet?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XVI.</head>
+<p>Seytmen dat het geen goet werck is: wie sal't niet voor een ydelheyt ja voor valscheyt houden, datmen den menschen leere doen wercken, die niet goet zijn, die ydel zijn, jae die quaet zijn? want wy zijn hier in der tijt ghestelt niet om niet, maer om wat, jae om wat goets te doen, sulcx dat niet doen, quaet doen is ende sonde te weten die ledige traecheyt. Dit bewijst het niet doen van de quade onnutten en<hi rend="i">de</hi> trage<hi rend="i">n</hi> knecht, die zijn pont en hadde. <note place="margin">Mat. 25. 30.</note> 'tWelcke zijn sonde was ende oorsake zijnre verdoemenisse. Maer seytmen't een goet werck te zijn, wie siet niet dat zy den quaden mensche die (so zy oock Leeren) geen goet werck altoos te doen en vermach, (soo Calvijn leerdt) bevelen wat goets te doen: ende dat sulck bevelen of leeren niet min ydel ende spotlijck is, dan of men een ghebooren blinde wilde leeren of bevelen te sien.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XVII.</head>
+<p>Seytmen dat sulck staen nae't goede ende na de vryheyt geen noodich werck en is tot het rechtvaerdich worden: so moetmen seggen datter gheen werck altoos noodich toe is, of datter sulck of eenich ander werc noodich toe is. Wilmen segghen datter gheen werck noodich toe en is: wie sal Calvijn ende allen anderen Leeraren niet moeten bespotten dat zy hen self bemoeyen ende quellen met leeren van dinghen die onnoodich zijn? zijn dan andere wercken, maer niet dese wercken van na't goede ende na de vryheyt te staen noodich tot het rechtvaerdich worden. Wie mach henluyden prijsen dat zy leerende den menschen te doen onnodige wercken, die noodige daer door doen versuymen? Maer zijn dan oock dese wercken van te staen nae't goede ende vryheydt noodich ter rechtvaerdich worden, soo die Schriftuere so krachtelijck als waerachtelijck doorgaens betuycht: wie sal mogen seggen dat het geloove salich maeckt sonder die wercken die daer toe noodich zijn?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XVIII.</head>
+<p>Eyntlijck nopende het derde, te weten of sulck staen na't goede ende vryheyt, 'twelck Calvijn wil datmen den mensche voorschreven sal leeren doen, des menschen werck is dan niet: moetmen't opentlijck bekennen een sotlijcke ende spotlijcke leeringhe te zijn, datmen den mensche leere doen 'tgheen des menschen werck niet en is. Want dat waer geseyt totten mensche, leert vliegen, 'twelck niet eens menschen, maer eens voghels werck is. Dat waer gheseyt ghelooft, ende hoopt het goede ende die vryheyt te verwerven ende staet daer na: 'twelck niet des menschen is, maer het werck van den gheloove ende hope, welcke gheen van beyde in u zijn. Lieve waer dat niet sottelijck ende spottelijck gheleert?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XIX.</head>
+<p>Wilmen dan bekennen dat sulck staen na 't goede ende nae die vryheydt des menschen werck is, 'twelck niemandt met eenighen schijn van waerheyt en mach lochenen. Insgelijcks mede dat sulck menschelijck werck noodigh is ter salicheyt: hoe salmen mogen ontkennen dat de mensche sonder zijn werck niet en wert salich? Is dit waer, alst onlochbaerlijck is, wie sal moghen ghelooven waer te zijn deser nieuwe Leeraren leere, dat het gheloove sonder wercken salich maeckt? want het gheloove niet alleen niet salich en maeckt sonder Godes, oock niet sonder Christi, sonder des Heyligen Geests, sonder des gheloofs, maer oock mede niet sonder (dat hier voornemelijck 'tgeschille was) des menschen werck?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head>XX.</head>
+<p>Naedien nu by het gheen voorschreven staet onlochbaerlijck blijckt, dat het gheloove niet en saelight sonder des menschen wercken, ende dit niet min wt deser voornaemste nieuwe Leeraren schriften selve, als wt die Goddelijcke Schriftuere: soo wil ick in desen gekomen zijnde tot het eynde mijns voornemens en<hi rend="i">de</hi> mitsdien oock mijns schrijvens, midts desen hier mede eynden: ende allen onpartijdighen Lesers gewaerschouwet hebben in den Heere, voor sodanighen nieuwen leere teghen d'oude Leere Christi, der Propheten ende der Apostelen opendtlijck strijdende, ende den menschen in sonden vreemt van de rechtvaerdicheyt van Gode ende van de salicheydt in een valscher ruste houdende.</p>
+
+</div>
+</div>
+<div type="chapter">
+<pb n="fol. ccc iv"/>
+<head rend="h3">Volght een kort bewijs uytter H. Schriftueren, maer vast ende klaer, dat het gheloove niemanden saligh en maeckt sonder zyne wercken.</head>
+<p>ICk bekenne voor een ontwyselijcke waerheyt uytte getuychnissen der Godlijcker Schriftueren, dat de mensche niet goets mach dencken, veele minder doen sonder de voorkomende genade Godes in Christo Iesu. Want God is alleen selve de ware ende eenige goetheyt. Laet ons nu al nemen dat des redelicken menschen ghedachten zijn als een klaere spieghele ofte siende open ooge, dat daer het licht, niet alleen des redens, maer oock het Godlijcke lichte komende vanden vader des lichts klaerlijck verschijnt voor dat open ende siende ooge des menschen: wat sal hy goets sien mogen of dencken, vermits zijn klaer gesichte int Hemelsche lichte, indien dat God selve met zyne goetheyt als het dingh dat ghesien moet werden, voor dat open ooge in zijn Godlijcke lichte, sich daer niet en vertoont ende openbaert? niet altoos. Want sonder God en mach niet goets (dat hy alleen is) gesien, ghedacht noch verstaen worden. Siet, so en mach de mensche gheen begeerte, geen wil, noch geen werck en mach wesen: wie moet niet bekennen dat de mensch van sich self niet en vermach yet goets te doene?</p>
+    <p>Maer laet ons nu weer stellen dat het licht van seven Sonnen schijne, jae dat Godt sich self naecktelick daer in vertoont voor den mensche, die zyne gedachten van Gode afkeert, de duysternisse bemint, het licht hatet, ende zijn ooghen moetwillens toe hout: wat sal sulck verlichten ende verschynen Godes vorderen, voor sodanighen moetwillighen blinde, om wat goets te sien, te dencken of te doen? niet altoos. Sodanighen nacht-uyl en baet kaers noch bril, als hy doch niet sien en wil. Maer opent de mensch zyne oogen merckt hy op die verschyninge Godes, hy sal int lichte Christi het licht dat God is, dat is, God selve sien, kennen leeren lief hebben ende aenkleven. Dit doen zy alle die een waerachtigh geloove hebben dat Christum aenneemt Gal. 5. 6. Mich. 6. 8. Dit zijn de geloovigen die des Heeren woort hoorende e<hi rend="i">nde</hi> doende opten steen bouwen, Matt. 7. 24. die doende dat Christus henluyden beveelt, Christi vrienden zijn, Ioan. 15. 14. so Abraham Godes vrient was doende Godes wille, Iacob 21. 23. die doende des Vaders wille, Christi broeder, suster ende moeder zijn, Matth. 12. 50. dit zijn wyse menschen bouwende niet op't dryf-sant maer opten steen die Christi is, 1. Petri 2. 4. 5. het eenighe fundament der waerheyt, 1. Corinth. 3. 11. dit zijn vruchtbaer boomen, Ierem, 17. 8. als die gewortelt zijn in Christo self, Coloss. 2. 7. den vruchtbaren boom des levens. Welcke heuren vasten wortel nemmermeer en wort beweeght, Prov. 12. 3. want zy blyven in Christo ende hy in henluyden, Ioan. 6. 56. ende also blijft dese rechtvaerdige in ende op zynen vasten gront-vest ende wortel Christus, als een eeuwige gront-vest oock selve, Prov. 10. 25. eeuwelijck.</p>
+<p>Maer soo en ist niet metten ghenen die daer (metten monde) belyden, dat zy Gode kennen, ende hem met hare daden versaken, Tit. 1. 16. want dese dwase bouwers op't zandt, alleenlick hoorende, maer niet doende den wille Godes met d'eerste storm-wint daer henen vallen, Matt. 7. 26. 27. want dese logenaers hebben Gode lief metter tongen, ende liegen, Psal. 77. 36. volghende alleenlijck woorden nae, ende hebben niet, Prov. 19. 8 ende segghende tot Christum, Heere, Heere, maer doen des Vaders wille niet, Matth. 7. 21. segghende dat zy die doen sullen, en doen zy die niet, Matth. 21. 30. ende belovende vruchten der gherechticheyt, brenghen zy voort geen vyghen maer bladen, Matth. 21. 19. geen gerechticheyt maer geroep, jae ongerechticheyt, Isa. 5. 7. dit zijn spiegelende hoorders, maer geen ware doenders des woorts. Iacob. 1. 23. 24. die daer beminnen niet metter daet inder waerheyt, maer alleenlijck metten woorde e<hi rend="i">nde</hi> metter tongen, 1. Ioan. 3. 18. waer mede zy opentlick liegende derren seggen, dat zy Christum Heere metten monde ende lippen, vanden welcken haer herte wijdt is verscheyden, Isa. 29. 15. hoorende des Propheten woorden, maer en doen die niet. Ezech. 33. 31.</p>
+<p>Nadien dan nu vele luyden niet doende dat Christus ghebiet, Luc. 6. 46. ende mitsdien niet in Christo blyvende, maer verdorrende, Ioan. 15. 6. oock niet anders hebbende dan een ydel, 1. Corinth. 15. 14. een ledigh, Iacob. 2. 20. een liefdeloos, 1. Cor. 13. 2.   1. Ioan. 3. 17. jae een doot, Iacob. 2. 17. 26. geloove, derhalven zy met vele slagen sullen gheslagen werden, Luc. 12. 47. niet int rijcke Godes sullen komen, Matth. 7. 21. maer int vuyr sullen gheworpen worden, so is waerlijck hoochlijck te verwonderen, hen dat zy self so opentlijck bedrieghende noch wel konnen wanen (tegen so vele klare tuychnissen der Schriftueren) dat zy geloovigen zijn, of dat sulck haer ydel, valsch ende waen-geloof henluyden noch wel soude mogen saligh maken sonder wercken? doch nadien de liefde is des geloofs leven, recht als de ziel het leven des lichaems, sonder welck 'tgheloof niet en kan doen noch wercken: ende naedien dese luyden die liefde des waerheyts verwerpen, 2. Thess. 2. 11. so ist niet wonder dat door rechte straffe Godes in henluyden plaetse heeft sodanighe krachtige werckinghe der dolingen, dat zy den logen gelooven, ende meynen konnen, dat zy sonder den wech ter salicheyt (die Christus alleen is, Ioan. 14. 6.) te bewanderen, dat is sonder alle wercken ende oeffeningen der deughden Christi ende sonder zyne heylighe voetstappen nae te volgen, noch sullen komen tot Gode, dat is ter salicheyt, daer dese wech alleen is leydende. Van dese verdoemelijcke dolinghe verlost, ende hier af voorsiet (o barmhertige lieve Godt) allen goetwilligen herten. Amen.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>F I N I S.</p>
+</div>
+</body>
+</text>
+</TEI.2>

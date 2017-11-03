@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "http://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Dattet afsterven vant quade licht valt</title>
+                <author>D.V. Coornhert</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Dattet afsterven vant quade licht valt</hi> van D.V. Coornhert in de eerste druk van een uitgave uit 1630, getiteld <hi rend="i">Wercken. Deel I</hi>. Het jaar van de eerste druk van het oorspronkelijke werk is onbekend.
+                </edition>
+                <respStmt>
+                    <resp>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">coor001datt02_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2011 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="clarin-edite">yes</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Universiteitsbibliotheek Amsterdam, signatuur: Cat. Ned. Lett. UBA 195</idno>
+                </bibl>
+                <p>D.V. Coornhert, ‘Dattet afsterven vant quade licht valt’, uit: D.V. Coornhert, <hi rend="i">Wercken. Deel I</hi>, Jacob Aertsz. Colom, Amsterdam 1630</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Dattet afsterven vant quade licht valt</title>
+                <author>D.V. Coornhert</author>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Dattet afsterven vant quade licht valt</title>
+                <author>D.V. Coornhert</author>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2011-12-06</date>
+                <respStmt>
+                    <name type="person">JV</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+<div type="chapter">
+    <interpGrp><interp type="primair" value="coor001datt01"/></interpGrp>
+<pb ed="fol." n="163v"/>
+<head rend="h3">Dattet afsterven vant quade licht valt.</head>
+<p>Een eerbare <hi rend="i">Matrona</hi> vermaandt zijnde bye enen ouden Man tot geheele af-stervinge van’t quade: antwoorde, dat zy daar weynich hoops toe hadde. Ghevraacht of Godt den Gheloovighen niet en beloofde dat in henluyden te volbrenghen? seyde sy, Ia trouwen. Ghevraacht voorts, of zy dan Godt in sijn beloften hielt voor onwaarachtich? zeyde sy neen. Hoe mooghdy dan, sprack d’oude, weynighs hoop daar toe hebben? Om dat mijn gheloof seer kleyn is (sprack sy) ende den ancxt voor t’quade af te Sterven, seer groot.</p>
+<p><hi rend="i">Oude.</hi> Waarom is dat?</p>
+<p><hi rend="i">Matrona.</hi> Ick gheloof swaarlijcken dat ick zulcken swaren, Pijnlijcken ende Doodtlijcken noot uyt lijden souden moghen.</p>
+<p><hi rend="i">Oude.</hi> Dat is wel recht, dat ghy’t voor u krachten onmoghelijck acht, want die niet alleen kleyn, maar byna niet altoos zijn: maar is dat al recht dat ghy waant dat het die Almoghende Godt niet licht zoude vallen, dat by den Menschen onmogelijck is?</p>
+<p><hi rend="i">Matrona.</hi> Licht vallen, is light gheseydt: sulcken verdoemelijcken ende troosteloosen Helle, Sterven ende bederven uyt te lijden mach bylo niemant licht vallen.</p>
+<p><hi rend="i">Oude.</hi> Hier zijn wy oneens. Want ick houde <note place="margin">Voorstel.</note><hi rend="i">dat het eenen yegelijcken licht valt in die dinghen die hy nu uyt ondervinden ontwijfelijcken kent voor Sonde, voor quaat ende voor verderffelijck.</hi></p>
+<p><hi rend="i">Matrona.</hi> Ende ick houde onmoghelijck te zijn, dat yemanden licht zoude vallen eenighe Zonde of quaatheyt te verlaeten ende te Sterven.</p>
+<p><hi rend="i">Oude.</hi> Spreeckt ghy vanden ghenen, die de Waarheydt dier dinghen noch niet kondt en is, soo moet ick u recht gheven. Ghemerckt soodanighen niet alleen onmoghelijck is dat hy’t licht soude verlaeten of Sterven, maar t’is hem oock onmoghelijck eenighsins te bestaan: Want soo langhe het misverstandt, die Loghen, ende het valsche Oordeel noch leeft in den Mensche, daar door hy t’Quade goedt waant ende Oordeelt, soo langhe moet hy oock dat goet ghewaande Quaadt liefhebben. Nu is het onmoghelijck te verlaeten, te haeten ende te Dooden datmen Lief heeft. Looptmen schoon uytwendelijck metten Lichame daar af (ghelijck de Monicken van den Menschen ende Weerelt in Kloosters loopen) soo draaghtmens noch in der Herten in den Cloosters of by sich zelfs met sich, door die Liefde, die onophoudelijck kleeft aan ’t gheliefde. Of zoudt ghy hier noch willen teghen segghen.</p>
+<p><hi rend="i">Matrona.</hi> Neen ick, want dat schijnt wel soo te zijn: Maar geensins mach ick begrijpen dat het laten ende Sterven van t’quade yemanden (overmits hy Waarheydts kennisse heeft van dien) licht soude moghen vallen. Want Sterven ende Bederven en mach niet gemackelijck toe gaan:</p>
+<p><hi rend="i">Oude.</hi> Wildy my antwoorden, ick wil sulcx spreken dat u moghelijck sal zijn (vermits Godes genade) dat te verstaan!</p>
+<p><hi rend="i">Matrona.</hi> Ia ick trouwen, spreeckt.</p>
+<p><hi rend="i">Oude.</hi> Wie meyndy dat sterft als t’quaede sterft?</p>
+<p><hi rend="i">Matrona.</hi> Wy selve.</p>
+<p><hi rend="i">Oude.</hi> Wie is die wy, onse Ziele?</p>
+<p><hi rend="i">Matrona.</hi> Neen die is onsterffelijck.</p>
+<p><hi rend="i">Oude.</hi> Dats waar. Doch sterft sy het zalighe ende onschuldighe <note place="margin" n="a">Gen. 2. 17.<lb/>Iac. 114. 25</note> Leven als die Zonde gheschiet. Maar als die Sonde sterft, soo begint die Ziele eerst recht te Leven</p>
+<p><hi rend="i">Matrona.</hi> Soo ist.</p>
+<p><hi rend="i">Oude.</hi> Sterft in dese sake de Ziele niet, wie sterft dan; Het sichtbare lijf.</p>
+    <p><hi rend="i">Matrona.</hi> Dat schijnt oock niet. Want men macht t’quaat <note place="margin" n="b">Rom. 6. 2.</note> ghestorven ende t’Vleesch met zijnen lusten ende begeerlijckheyden <note place="margin" n="c">Gal. 5. 34.</note> gekruyst, oock argerende Handen <note place="margin" n="d">Mat. 5. 29. 30.</note> ende Voeten afghesneden hebben, ende dies niet te min noch Gesont Leven in den Vleysche dat sichtbaar is.</p>
+<p><hi rend="i">oude.</hi> Noch andtwoordy: dunckt u dat oock datter yemant anders sterft alsmē t’quade sterft, dan die zonde selve?</p>
+<p><hi rend="i">matrona.</hi> Neen. Die ist alleen.</p>
+<p><hi rend="i">oude.</hi> Dats dan een ander dan wy zijn, te weten die inwoonende <note place="margin" n="e">Rom. 7. 20</note> Zonde.</p>
+<p><hi rend="i">matrona.</hi> Soo ist.</p>
+<p><hi rend="i">oude.</hi> So lijdt oock een ander dan wy selfs, des Doots smerte, Helle ende verderft. Hinckt oock yemant van een ander Mans zeer?</p>
+<p><hi rend="i">matrona.</hi> Men seyt ghemeenlijck neen.</p>
+<p><hi rend="i">oude.</hi> So en is dan het sterven der Zonden den ghenen diese sterft gheen pijn, smert, ofte Helle, so ghy qualijck waande.</p>
+<p><hi rend="i">,atro.</hi> Of dat alsoo waar, daar uyt volght noch niet dat het Sterven van’t quade licht valt ende lustigh voor den ghenen die’t doodet ende sterft, soo ghy wilde segghen.</p>
+<p><hi rend="i">oude.</hi> Dat volght Nu segt my: Mach yemant ware vyandtschap hebben teghen een ander?</p>
+<p><hi rend="i">matrona.</hi> Ghewislijck, men heeft die leyder al te veel.</p>
+<p><hi rend="i">oude.</hi> Wat werckt ware vyandtschap in’t Herte daar hy heerschapt?</p>
+<p><hi rend="i">matrona.</hi> Lust om den vyandt te beschadighen, te bederven ende grondtlijck te vernielen.</p>
+<p><hi rend="i">oude.</hi> So ist. Waar uyt komt sulcke vyantschappe in’t Herte?</p>
+<p><hi rend="i">matrona.</hi> Wt een Waan ofte Weten dat yemant ons quaat wil, en̄ ons bederven in Ziele, in Name, in Bloedt, of in Have benaarstight. Somma dat hy ons quaat doet daar hy mach.</p>
+<p><hi rend="i">oude.</hi> Vermach de Wane sulcx, al waar’t oock niet waar?</p>
+<p><hi rend="i">matrona.</hi> Ghewisselijck.</p>
+<p><hi rend="i">oude.</hi> Maar of yemants voornemen waar ons so in allen te verderven, ende hy’t bestont, maar niet en vermochte, souden sulcken Wane, oock vyandtschap tegen hem in ons baren.</p>
+<p><hi rend="i">matrona.</hi> Ontwijfelijck.</p>
+<p><hi rend="i">oude.</hi> So vermachs oock het weten inder <pb ed="fol." n="164r"/>Waarheyt, dat yemandt ons bestaat te verderven, sulckx vermagh ende oock doet.</p>
+<p><hi rend="i">Matrona.</hi> Wie mag dat ontkennen?</p>
+<p><hi rend="i">Oude.</hi> Alle sulckx bestaat niet alleen, maar volbrenght krachtelijcken de Zonde <note place="margin" n="f">Pro. 24, 34, 20, 29, 21, 25, 22, 8, 23, 29.</note> in allen Zondaren. Dit moghen dan oock alle Zondaeren uyt waere ondervintlijckheydt weten, <note place="margin">Isai. 47, 11</note>ende moghen mitsdien oock waere vyantschap hebben teghen die Sonde, ende die met lusten vernielen, verderven ende Dooden. Ende dit was’t dat ick wilde bewijsen, soo ick nu uyt u eyghen Mont hebbe ghedaan.</p>
+<p><hi rend="i">Matrona.</hi> Eensdeels wel, maar niet gheheel.</p>
+<p><hi rend="i">Oude.</hi> Hoe dat?</p>
+<p><hi rend="i">Matrona.</hi> Sijnder geen Sonden die de Menschen niet en bederven, maar goet doen? Als Hoerderije, Leckerheydt, ende dierghelijcke meer?</p>
+    <p><hi rend="i">Oude.</hi> Neen. Alle Zonde <note place="margin" n="g">Isai. 59, 2.<lb/>Iere. 5, 25</note> scheydet van’t Leven end Zaligheydt, d’welck Godt is, ende Doodet, maackt oock Onsalich de Ziele. Mach dat goet sijn of lustich? Alle Sonde is schande, neemt sy dan niet des Sondaars eere ende goede naeme? Gheen Sonde houdt mate, dus quelt ende Pijnicht sy t’Bloedt ende Lijf: Ende want die onmate of gierighlijcken beswaart of overdadelijcken verdoet, soo maackt sy Arm, so wel hebbende als ontberende. Alle Zonde dan <note place="margin" n="h">Rom. 2, 9<lb/>Sap. 11, 17.<lb/>Spr. 7, 8</note> bederft den Mensche in Ziele, in Name, in Lijf ende in Haeve, zulckx dat de gene die sonde ende boosheyt lieven ende hanteren, <note place="margin" n="i">Psal. 10, 5<lb/>Tob. 12, 10.</note> Vyanden zijn van hare eyghen Zielen ende wel-varen. Dit mach de Mensche, die daar wel acht op slaat, ontwijfelijck in’t ondervinden weten. Soo mach hy dan desen sijnen verderffelijcken Vyandt uyt gantscher Herten ende Zielen warachtelijck haten: vallet dan oock swaar hem te verlaten? Immers vallet niet licht ende lustigh sulcken verderffelijcken ende hatelijcken bekenden Vyandt te verderven ende te Dooden?</p>
+<p><hi rend="i">Matro.</hi> My dunckt ghy waarheyt spreeckt. Nochtans ist teghen alle des Weerelts verstant.</p>
+<p><hi rend="i">Oude.</hi> Dats waar. Maar geensins teghen t’verstant der Waarheydt, die seyt selve: <hi rend="i">Dat sijn Iock soet ende zijn <note place="margin" n="k">Mat. 11, 30.</note> Last licht is.</hi> Soo stae ick nu liever alleen metter Waarheyt, dan in de groote slach-oorden van de gantsche Werelt inde Loghen stekende. Seght my noch, om u immers ghenoech ende vol op te doen. Ist niet lustigh daarmen zijn begheerten verwerft?</p>
+<p><hi rend="i">Matrona.</hi> Dat seyt Salomon, te weten, <note place="margin" n="l">Pro. 13. 19<lb/>. . 12.</note> <hi rend="i">Het begeeren dat vervult wort verlustight de Ziele,</hi> oock <hi rend="i">dat het een Boom is des Levens.</hi></p>
+<p><hi rend="i">Oude.</hi> Wat is de begheerte der Rechtboetvaardigen?</p>
+<p><hi rend="i">matrona.</hi> Dat zy mochten ophouden van zondigen.</p>
+<p><hi rend="i">Oude.</hi> Wat is Sondighen?</p>
+<p><hi rend="i">Matrona.</hi> Het verboden quaat te doen, ende t’gheboden goet te laten.</p>
+<p><hi rend="i">Oude.</hi> Soo langhe het quade noch Leeft in den Mensche, soo langhe doet dat quade noch quaat.</p>
+<p><hi rend="i">Matrona.</hi> Het doet.</p>
+<p><hi rend="i">Oude.</hi> Daar inne het noch quaadt doet en mach dat goede, sulck quaat teghen zijnde, in den Mensche niet ghedaan werden.</p>
+<p><hi rend="i">Matrona.</hi> Neen. Hoe mach hy Soberheydt pleghen, die noch gulselijck leeft?</p>
+<p><hi rend="i">oude.</hi> Ghy segt wel. Maar als dat quade sterft, soo mindert, ende als’t gestorven is, so houdt geheel op het doen van sulck quaat.</p>
+<p><hi rend="i">matrona.</hi> T’is soo.</p>
+<p><hi rend="i">Oude.</hi> Dan leeft en werckt het goede in die plaatse.</p>
+<p><hi rend="i">matrona.</hi> Alsoo.</p>
+<p><hi rend="i">oude.</hi> Daar dan die Gulsigheyt ghedoodet wert of is in den Mensche, daar mindert het werck van Gulsigheydt, ende houdt voorts na haren doode heel op.</p>
+<p><hi rend="i">matrona.</hi> Dat moet zijn. Crancken wercken min krachtelijck, maar dooden doen niet.</p>
+<p><hi rend="i">oude.</hi> Ter contrarien neemt die Soberheyt even soo veel toe als die Gulsigheyt af-neemt of mindert, ende beghint wat Soberheyts te hanteren.</p>
+<p><hi rend="i">matrona.</hi> Ghewis.</p>
+<p><hi rend="i">oude.</hi> Daar die Gulsigheyt doot is, leeft oock die Soberheydt alleen, ende doet haar werck alleen, dats eten ende drincken, &amp;c, </p>
+<p><hi rend="i">matrona.</hi> Dat volght noodtlijcken.</p>
+<p><hi rend="i">oude.</hi> Dit verminderen, sterven, ende laten van de zonde, ende dit toe-nemen, leven, ende hanteren der Deughden, t’welck quaat laten, ende goedt doen is, oock in’t werck selve, ende mitsdien oock op-houden van zondighen, is (so ghy beleden hebt en̄ elck moet belijden) het begheeren van alle rechtboetvaardighe Menschen.</p>
+<p><hi rend="i">matrona.</hi> Dat bekenne ick noch.</p>
+<p><hi rend="i">oude.</hi> Dit verkrijght oock alle rechtvaardighe Mensche altijt.</p>
+<p><hi rend="i">matrona.</hi> Hy doet.</p>
+    <p><hi rend="i">oude.</hi> Soo verkrijght dan alle recht-boetvaardighe Mensche in ende door sulck sterven van t’quade ende leven van t’goede altijt sijn <note place="margin" n="m">Prov. 21. 21, 22. 4, 2. 7<lb/>Psal. 36. 4, 22. 1, 1. 3.<lb/>1. Ioā. 3. 12<lb/>Math. 21. 22, 7. 8.</note> begheerte.</p>
+<p><hi rend="i">matrona.</hi> Men moet dat oock bekennen.</p>
+<p><hi rend="i">oude.</hi> Soo bekent dan mede dat sulcx licht en̄ lustigh is, ooc int werck selve. Of loochent nu dat het verkrijghen der goeder begheerten die Ziele verlustight.</p>
+<p><hi rend="i">matrona.</hi> Dat en mach ick niet loochenen, oock ghetuyghet Godes Waarheydt in de H. Schrift selve.</p>
+    <p><hi rend="i">oude.</hi> So mooghdy dan oock niet loochenen, <hi rend="i">Dat het sterven der Zonden licht valt ende lustigh is.</hi> Men wil immers niet loochenē, dat die Zonde quaadt is? Dat sy den Zondaar vyandt, lastigh, pijnlijck ende verderflijckē is. of dat yemant in den Lichte der Waarheyt, die Zonde voor sulcx mach bekennen Hoe soudet dan lastigh, immers hoe soude niet lustigh <note place="margin" n="n">Pro. 21. 11</note> vallen sulcken quaden ende verderflijcken vyandt te verlaten ende te vernielen, om den soeten, lieven ende goeden Christum, omme Rechtvaardigheyt en̄ Goetheyt na te volgen, aan te nemen ende in te leven. Wie soude niet gaarne minder om meerder have verwerpen? Soudet ooc swaar vallē een Acker te verkoopen, alsmen om ‘tghelt van dien een <note place="margin" n="o">Matth. 13. 46.</note> Paarle die viermalen so veele waardigh waar, konde bekomen? Hoe veele te meer alsmen t’gunt niets waart is, als dreck verwerpt <note place="margin" n="p">Phis. 3. 8.<lb/>Hebr. 11. 25.</note> om t’alderbeste, dat is om Christum? Hoe veele te meer dan noch, alsmen het alderquaatste om t’alderbeste verlaat, namentlijck ons selve, de Zonde ende Doot, om Gode, de Deughde ende t’Leven? Wien soudet swaar vallen, een pijnlijcke sieckte te verwerpen om de lustighe ghesondtheyt?</p>
+<p><hi rend="i">matro.</hi> Ick en machs, noch wils niet meer wederspreken: Nochtans en ist noch alsoo in my niet.</p>
+<p><hi rend="i">oude.</hi> Wy sprekē nu niet wat in u is, maar wat in u mach wesen door onsen Salighma-<pb ed="fol." n="164v"/>ker Iesum, die ghebiedt het quade te laten, ende dat in ons te Dooden. Dit is sijn Gebodt, sijn Iock ende Last. Dit seyt hy selve soet ende licht te wesen: Dies behoort ghy ons Heeren <note place="margin">Mat. 11. 30</note>woorden, die selve Waarheydt sijn, boven u Waan te ghelooven. Ghetuyght d’Apostel <note place="margin">1. Ioan. 5. 3.</note>t’selve niet mede? Die seyt plat uyt: <hi rend="i">Ende zijn Gheboden zyn niet swaar.</hi> Wie mach dan zegghen dat het quade <hi rend="i">te laten</hi> (t’welck ons die Heere ghebiedt) swaar of lastigh zy, sonder daar mede openbaarlijck den Heylighen Geest in desen Apostel, ja die Waarheydt selve in Christo te loghen straffen?</p>
+<p><hi rend="i">Matrona.</hi> Nochtans doet sulcx meest elck.</p>
+<p><hi rend="i">Oude.</hi> Dat is also. Maar dese worden oock van den Psalmist hieromme aanghetast met <note place="margin">Psal. 93. 20</note>dese woorden: <hi rend="i">Sal dan u luyden, die daar arbeyt verlieren in den Gheboden, die stoel des boosheyts niet aankleven?</hi> Dat saghmen waarlijck geschieden in al Israel, uytghenomen Iosue ende Caleb, overmits sy die valsche<note place="margin">Num. 13.</note> versieringhe van de thien Mannen die swaerigheydt, <note place="margin">Num. 14.</note>ja onmoghelijckheydt, van in’t Beloofde Landt te komen dichteden, meer gheloofden dan des Waarheydts tuyghenisse van Iosue ende Kaleb. Welcke twee oock alleen ende gheen van alle d’andere ongheloovighe hoope in’t Beloofde Landt ende inde begheerde Ruste quamen.</p>
+<p><hi rend="i">Matrona.</hi> Ick mach daar niet tegen seggen. Ick en kan mijn meyninghe soo licht niet veranderen, maar ick mach dese saeke, daar veel aan is gheleghen, wel met ernst nae-dencken, ende dat wil ick met Godes hulpe bestaan.</p>
+<p>&nbsp;</p>
+<p>Eynde.</p>
+    <interpGrp><interp type="end" value="coor001datt01"/></interpGrp>
+</div>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "http://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Levende kalck.</title>
+                <title type="subordinate">VVaer mede Dirck Coornharts Seepe lichtelijck te niet wert ghemaeckt, ende als eenen Roock verdwijnt</title>
+                <author>D.V. Coornhert</author>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Levende kalck. VVaer mede Dirck Coornharts Seepe lichtelijck te niet wert ghemaeckt, ende als eenen Roock verdwijnt</hi> van D.V. Coornhert in een uitgave uit 1630. De eerste druk dateert van 1583.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr>fol. ccc lviir: Christelijick → Christelijck: ‘sonderlinge als dat geschiedt Christelijck’.</corr>
+                        <corr>fol. ccc lviiv: dot → dat: ‘ongeschickt ende ongeleert is, dat hy in zijne schriften’.</corr>
+                        <corr>fol. ccc lviiv: Coornherr → Coornhert: ‘Coornhert 8.’.</corr>
+                        <corr>fol. ccc lviiir: versoncben → versoncken: ‘sinneloos, ende versoncken inde stinckende Secte der Libertijnen’.</corr>
+                        <corr>fol. ccc lviiir: keeckroover → kerckroover: ‘Want ghy scheldt my voorts te wesen een Wolf een Kerckroover’.</corr>
+                        <corr>fol. ccc lviiir: Prinre → Prince: ‘Maer waer mede bewijsdy dat ick der Libertijnen Prince ben’.</corr>
+                        <corr>fol. ccc lviiiv: ntet → niet: ‘U leere houde ick meest voor menschen, niet voor Godes woort’.</corr>
+                        <corr>fol. ccc lixr: gheensius → gheensins: ‘Maer na mijne achtinghe en hebben gheensins ghedoolt’.</corr>
+                        <corr>fol. ccc lixr: Een deel van de tekst is moeilijk leesbaar. Dat is hier tussen vierkante haken aangegeven: ‘of gaet u dat niet aen? [...]aet ghy sulcx niet over?’.</corr>
+                        <corr>fol. ccc lixv: eyntlijtk → eyntlijck: ‘ende eyntlijck dat wy die Heylighe Schrift niet en verstaen’.</corr>
+                        <corr>fol. ccc lixv: dot → dat: ‘door u eerst moste weten dat ick Griecx noch Hebreeusch kan’.</corr>
+                        <corr>fol. ccc lxr: ende ende → ende: ‘nu niet meer u getrouwe ende geleerde Oversetter’.</corr>
+                        <corr>fol. ccc lxv: warrheyt → waerheyt: ‘die ick met waerheyt ontkenne, ende die ghy niet en vermeucht’.</corr>
+                        <corr>fol. ccc lxv: sonde → soude: ‘ende believen eenigh schrift int licht soude gheven’.</corr>
+                        <corr>fol. ccc lxv: uu → nu: ‘Daer siedy uwen Calumnie nu naeckt bestaende’.</corr>
+                        <corr>fol. ccc lxv: Een deel van de tekst is moeilijk leesbaar. Dat is hier tussen vierkante haken opgelost: ‘al-hoe-wel de alderbeste Mannen ver[r]e zijn verscheyden’.</corr>
+                        <corr>fol. ccc lxir: uoch → noch: ‘nochtans van die tijdt af niet beter noch wijser gheworden’.</corr>
+                        <corr>fol. ccc lxir: ijy → gy: ‘Hier inne volchdy wel na u Meester Calvijn, als gy poochde’.</corr>
+                        <corr>fol. ccc lxiv: alergeleerste → allergeleerste: ‘niet en wiste te antwoorden op die allergeleerste bewijs-redenen der Evangelische ministeren’.</corr>
+                        <corr>fol. ccc lxiir: wordeu → worden: ‘Ten laetsten de dach soude my te cort worden’.</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan section="1" type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+                <scan section="1" type="fol2">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">coor001leve02_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2013 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note></note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Universiteitsbibliotheek Amsterdam, signatuur: Cat. Ned. Lett. UBA 195</idno>
+                </bibl>
+                <p>D.V. Coornhert, <hi rend="i">Levende kalck. VVaer mede Dirck Coornharts Seepe lichtelijck te niet wert ghemaeckt, ende als eenen Roock verdwijnt</hi>. Jacob Aertsz Colom, Amsterdam 1630 (uitgave)</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Levende kalck.</title>
+                <title type="subordinate">VVaer mede Dirck Coornharts Seepe lichtelijck te niet wert ghemaeckt, ende als eenen Roock verdwijnt</title>
+                <author>D.V. Coornhert</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Levende kalck.</title>
+                <title type="subordinate">VVaer mede Dirck Coornharts Seepe lichtelijck te niet wert ghemaeckt, ende als eenen Roock verdwijnt</title>
+                <author>D.V. Coornhert</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2013-05-14</date>
+                <respStmt>
+                    <name type="person">RK</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+
+<div type="chapter">
+    <interpGrp><interp type="secundair" value="calv003"/></interpGrp>
+<pb n="fol. ccc lvir"/>
+<head rend="h2"><hi rend="i">Levende-kalck</hi></head>
+<p><hi rend="i"> </hi>VVaer mede Dirck Coornharts Seepe lichtelijck te niet wert ghemaeckt, ende als eenen Roock verdwijnt.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Geschreven door <hi rend="sc">Lambert</hi> <hi rend="sc">Danevs</hi> Theologus.</hi></p>
+<p>&nbsp;</p>
+<p><hi rend="i">Psal. 84. 8. 10. Psal. 139. 20. 21.</hi></p>
+<p>&nbsp;</p>
+<p><hi rend="i">Vertaelt uyt Latijn in neder-Lants</hi></p>
+<p>&nbsp;</p>
+<p>Door</p>
+<p>&nbsp;</p>
+<p><hi rend="i">D. V. COORNHERT,</hi></p>
+<p>&nbsp;</p>
+<p><hi rend="i">Die daer by heeft gestelt een korte antwoorde, </hi></p>
+<p>&nbsp;</p>
+<p><hi rend="i">Psalm. 25. 1. 4. 9.</hi></p>
+<p>&nbsp;</p>
+<p><hi rend="i">Waer by ghevoecht is een korte berispinghe (soo't schijnt) Castellionis van Iohannis Calvini Leere, vande voorsienigheydt Godes.</hi></p>
+    <p>&nbsp;</p>
+    <div type="section">
+    <head rend="h3"><hi rend="i">Aen den Vromen Leeser.</hi></head>
+<p><hi rend="i">OP eenen mijnen Sendt-brief door anderen in druck gegeven vrome Leser, had Lambertus Daneus in druck laten uytgaen, eenige onbedachte aentekeninghen, al was nu die selve brief nameloos, soo stont ick die bekent voor de myne, beantwoorde die aentekeningen daer op ghedaen ende noemde die selve myne antwoorde, Zeepe. Want die alleen diende tot afwasschinge van mijne onschuldige, ende niet tot ontdeckinge van desselven Danei schuldige vlecken. Hier op schrijft nu Daneus desen Calck, voorwaer soo recht Calck in bitsige bitterheyt, dat ick tegen my selve een Phalaris of Nero soude moeten zijn, soo ick met geen koel water die brandende Calck en bluschte ende met myn daer toe stille swijgen sulckx scheen te bewilligen, want hy in dese zijne Calck my opentlyck opdicht sodanighe schandelijcke, godloose, ja dootwaerdige stucken, dat ic, so hy waerheyt seyde, onwaerdigh ware dat my d'aer-
+
+<pb n="fol. ccc lviv"/>
+de soude dragen, ende so ick daer toe swege wel waerdich ware dat my elck daer voor achte. Het is waerachtich (des is God mijn tuyge) dat ick mijnenthalven Danei oneere niet en begeere, daeromme ick my oock van alle schantnamen sal wachten: maer ick ben door hem in die noot gestelt, dat hy door dese mijne nodighe ende vvettige verantvvoordinge bekent moet vvorden voor geen Christen man: of ick (soo ick hem verschone int ontdecken van zijn onvvaerheyden) voor sodanigen heylosen Ketter, Godloos ende Rebelle tegen d'Overheyt, als hy Daneus my hier met mijnen name ende toename so grouvvelijck als onvvaerachtelijc beschrijft, ende dit al sonder een eenich vvoort bevvysens. Ic versta vvel dat ick tot zijn onbevvesen aensegghen niet meer antvvoordende dan 't is onvvaerachtich, by vveynich verstandige menschen, die onpartijdich zijn, daer mede genoech gedaen soude hebben: maer geensins by menichten van partijdigen of onvvijse menschen, die eer een quaet aenseggen op yemant, sonder dan een goet lof met bevvijs, gevvoone zijn te gelooven. Also hebbe ick voor in desen (so veele aen my staet) eenen yegelijck ghenoech te doen. Daer toe sal ick ghebruycken soo eenvuldich als vvaerachtich bevvijs. Waer van? van Danei oprechtigheydt, waerachtigheyt, ende Christelijckheyt, by hem tegen my in dese Calck betoont? dat is so verde hier te soecken dat ick so doende calumnieren, liegen ende onchristelijck soude moeten handelen. Maer dat hy alhier doorgaens also tegen my handelt, moet blijcken: sal ick niet my self valschelijck door mijn niet bewijsen beschuldighen ende t'onrecht in alle-mans oogen d'alderbooste mensch ter werelt doen blijcken. Of dan yemant uyt dese mijne ware verantwoordinge ende Danei onware calumnieuse ende onchristelijck wroeginge wilde besluyten, dat Daneus een logenaer, een Calumniateur ende een godloos ware: dat sal die schulde zijn, niet van mijn waerachtige ende onlasterlick besmetten mijnder name<hi rend="i">n</hi> hem selve sal hy't mogen wijten ende niet my, die my sal wachten van hem een eenige schantname te geven, maer ick moet niet wachten van zijn schantwaerdigh schrijven voor sulcx kondt te maken met waerheyt: so ick niet voor een dootwaerdigh rebelle ende verachter der hoger Overheyt t'onrecht gehouden wil worden, vvant het my onmogelijck is my selve met waerheyt te verantvvoorden sonder zijn onwaerheyden met waerheyt voor onwaerheyden bekent te maken. Gebruyckt hy nu sulcx tot opmercken van zijn grove mishandel tegen my, om sich metten Heere Christo derhalven te versoenen, soo gheschiet dit mijn schrijven hem te nut: of neen; het sal mogen anderen te nut dienen om
+
+<pb n="fol. ccc lviir"/>
+henluyden te wachten voor 'tnavolgen van sodanigen leytsman:  immers het is mijn selve niet alleen nut, maer oock nootlijck tot een wettige bescherminge mijns naems, want daer toe ben ic tegen sodanige beschuldigers met meerder reden verbonden, dan tot bescherminghe mijns lijfs tegen een moordenaer, ghemerckt my mijn name waerder is dan mijn leven. Int nootlijck verweeren mijns levens en soude gheen politijck man my beschuldigen mogen: maer int verantwoorden mijns naems en sal my oock gheen Euangelisch mensch konnen beschuldigen, ick hoore wel dat eenige my willen afschricken van dese mijne verantwoordinge, als of mijnen E. E. ende vermogende Heeren Staten van Hollant my sulcx qualijck af souden nemen. Maer dat is my van haer Hooch-achtbare E. E. onmogelijc te geloven. Ist niet een Wet der naturen geweldt met gewelt te mogen wederstaen? Is dit inde beschreven Keyserlijcke rechten niet toegelaten? vryelick ja, mach dat zijn int snootste, waerom niet int edelste? mach dit geschien met wapenen: waerom niet met woorden? sonderlinge als dat geschiedt Christelijck, dat is sonder schelden met schelden te beschelden of te vergelden, so hope ick te doen ende my vant schelden te wachten. Ghy Leser (gelievet u) moocht u wachten te geloven, sonder eenigh bewijs te sien, sodanige onchristelijcke lachteringen tegen alle waerheyt uyt eenen grimmigen, maer onvvijsen yver becladdet opten name van </hi></p>
+<p>&nbsp;</p>
+<p><hi rend="i">V. E. alderdienst schuldige D. V. Coornhert: die om te dienen sulck loon genietende is.</hi></p>
+</div>
+</div>
+<div type="chapter">
+    <head rend="h3">Lambertus Daneus den Godtvruchtigen Leeser. </head>
+    <head><hi rend="i">Daneus 1.</hi></head>
+<p>MY is onlancx van de alderliefste broeders behandet een boecxken dat geheel schandelijck is ende Godloos, door die selve uyt Hollantsche tale overgeset in Latijn, ooc mede een pluymstrijckige brief, niet soo t plach te geschieden ghestelt voor, maer met veranderinghe vander dinghen schickinghe aengehecht aen 't boecxken eens namelosen ende spotvogels ende was die (brief) oock uyt Hollandtsche tale Latijnsch ghemaeckt.</p>
+<p>&nbsp;</p>
+
+<div type="section">
+<head><hi rend="i">Coornhert 1.</hi></head>
+<p>Pluymstrijkerye ist in desen daer men den onbaetvaerdigen vrede predickt, imputative gerechtigheyt toe schrijft ende in een sondigh leven verstijft. Dit doet mijn brief nergens. Maer wijst ernstlijck aen tot locheninge van ons selfs ende oock van allen menschen, ende tot navolging Christi.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Danaeus. 2.</hi></head>
+<p>Welcke beyde gheschriften (al hoe wel opt hoochste ongheschickt ende sich selfs wedersprekende) ick ter liefden der geenre die my des baden, beleefdelijck hebbe beantwoort.</p>
+</div>
+<div type="section">
+<pb n="fol. ccc lviiv"/>
+<head><hi rend="i">Coornhert. 2. </hi></head>
+<p>Nergens en wederspreeckt mijn brief haer selve. Dit seghdy nochtans? waer bewijsdijt? nergens. Maer wel te recht doorgaens dat ghy niet beleefdelijck antwoort.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Danaeus. 3. </hi></head>
+<p>Maer als de gene die de schrijver was des aengehechten briefs (so ick geseyt hebbe) sach dat zijn kevelen van my uyten woorde Godes, als metten lichte des alderklaerste sonneschijns verdreven waren, en heeft hy soodanighen kracht des waerheyts niet mogen verdragen.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 3. </hi></head>
+<p>Daer zijn in als xxiij. Annotatien by u ghestelt. In drie vande welcke alleenlijck ghy schriftuere verhaelt. D'eerste is so nergens inde Bybele, die tweede gants ondienlijck ter saken, ende die derde voerdy inne plat tegen die meninghe Christi, de rest is onvernuftigh vernuft. Vermach dat yet teghen klare Schriftuere by my inden brief meest doorgaens ghesteldt: soo heeft mijn heldere waerheyt uwe duystere nevelen niet moghen verdraghen.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Danaeus 4. </hi></head>
+<p>Maer heeft sich op de wijse van soodanige Moordenaren ende booswichten, die gesamentlijck met alle schaemte oock alle vreese Godes ende der menschen afgheleyt hebben, sigh selve vertoont, ende afghetoghen zijnde het momaensicht dat hy so langhe hadde gedragen, ten laetsten geopenbaert is. Dit is Dirick Coornhert.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 4. </hi></head>
+<p>Die mijnen brief lesen, sullen die so vreemt bevinden van moordt, booswichterye, ende Godloose onschamelheden: als die leser van dese uwe Calck, die selve sullen sien vol bitterheyt, niet ghemeens hebbende met een gesonde tonghe, die ghesonde leere predickende.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Danaeus 5. </hi></head>
+<p>a Nu en heeft hy dat niet ghedaen uyt oprechtigheydt eens vryen ghemoets (als die sigh soo langhe hadde <hi rend="i">b</hi> verholen) nochte ooc niet uyt liefde des waerheydts, alsoo hy die oock aen <hi rend="i">c</hi> te vechten heeft voorghenomen maer door eenrehande <hi rend="i">d</hi> dwerlgeest ghedreven zijnde ende door sulcken verwoetheyt als die Godloosen door 't rechtvaerdigh oordeel Godes ghepijnicht worden, ende dit nochtans op't hoochste ten goeden zijnre kercken.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 5. </hi></head>
+<p>a God, geen mensch weet mijn gedachten ende voornemen: dit beduyt ghy int aldererchste. Sulck doet die liefde niet.</p>
+<p>b Voor sulck Godloos opset, als ghy my hier op dicht, sal my die lieve God bewaren, die (toondy gheen waerachtigh leedtwesen) u door zijn waerheyt eens sal beschuldighen waerchtelijck, om dat ghy den onschuldighen soo onwaerachtelijck als stoutelijck beschuldight.</p>
+<p>c Lelijcke saken schrijft ghy hier van my, die, Gode lof, so weynigh in my zijn, als ghy hier sulcx weynigh bewijst. 't En waer dan dat yemant u simpel seggen voor dubbelt bewijs hielt.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Danaeus 6. </hi></head>
+<p>Want al openbaert sich soodaniger luyden verwoetheyt, het geschiet nochtans de kercke ten goeden. Op dat  die voormaels leefden als verborghen vyanden Christi ende velen bedorven, nu sich self ontdecken, op dat sy in toekomende tijden niemanden onverhoets en bedriegen. Daeromme of schoon alle die Hollantsche Kercken Gods uyt mijne antwoorde geen ander <hi rend="i">a</hi> vrucht en ontfangen, dan dat ick dien ouden <hi rend="i">b</hi> vos (te weten Coornhert tot Haerlem in zijn hol so langhe schuylende) door Godes hulpe sulcx uyt zijne alderstinckenste schuylhoecxkens hebbe ghetoghen, dat hy sich nu openbaerlijck belijdt te wesen <hi rend="i">c</hi> vyant Godes, ende aller warer Kercken Christi, soo is die vrucht voorwaer die alder overvloedichste.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 6. </hi> </head>
+<p>a Alle die ghelesen hebben het besluyt van de drie boecxkens vande toelatinghe ende decrete Godes, by my al over thien jaren in druc uyt gegeven, weten naectelijc dat ghy, Danee neghen jaren te late op zijt, om my voor den Hollantschen Kercken te openbaren, ende dat sulcke uwe roem by uwe aenhangeren, alhier niet seer geroemt sal werden, sulcx dat sy dese uwe schandaleuse vrucht veele vruchtbaerlijcker hadden moghen ontberen.</p>
+<p>b Soo weynigh als u imputatijf saligh spreecken den onboetvaerdighen maeckt tot kinderen Gods: even soo weynigh maeckt u onrecht schelden my, die een mensche ben tot een Vos.</p>
+<p>c Dits u dichtinghe Danee, niet mijne belijdinghe: Maer acht ghy dat sy sich al openbare vyanden Gods te zijn belijden, die eenighe Kercke in haer leere berispen? hoe sullen alle die uwen, so opentlijc des Roomschen kercks leere lasterende hier af vry moghen blijven? of meyndy datmen uwe kercken daer voor mach houden, al eer ghy Leeraren niet alleen u leere oprecht, maer oock u sendinge wettelijck sult hebben bewesen?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Danaeus 7. </hi></head>
+<p>Want het is gheen cleyne arbeyt die wolven Kerckrovers eenen yegelijck metten vinger te hebben aenghewesen, gemerckt sy sich ghelijck als hyprcrijten ende Phariseen op't alderschalckste onder 't Schaepvacht verberghen.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 7. </hi></head>
+<p>Het is geen groote welsprekenheyt onverschulde laster-woorden yemanden te geven. Hoeren en boeven konnen dese quaetsprekens Retorijck, die doorgaens eerlijcke vrouwen ende mannen met haer eygen vuyl stoutelijck bekladden, sonder sulcx warachtelijck te bewijsen. Wat doet ghy hier anders? Ist u gheen kleyne arbeyt gheweest, ten is voor u Kercke geen reyne arbeyt.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Danaeus 8.</hi></head>
+<p>Want dese Coornhert (so <hi rend="i">a</hi> Calvinus opt waerachtighste int wederlegh eens Hollantsche boefs, nu al over langhe heeft gheschreven) so ongeschickt ende ongeleert is, dat hy in zijne schriften niet anders en heeft, dan een rechte snapperye ende gheruysch van woorden soo uyt alle zijne schrijveryen meer dan ghenoech blijckt. Maer in zijn ghemoedt en toont hy niet te zijn dan ydele verwaentheyt, een beestelijcke Sotheydt ende een onvoorhoofdelijcke onschamelheydt daer mede hy sigh selve een spot steldt oock voor den kinderen.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 8. </hi></head>
+<p>a Onder alle vrunden Calvini (die sich meest al zijnenthalven van dit scheltboecxken tegen
+
+<pb n="fol. ccc lviiir"/>
+my gheschreven te hebben, hoochlijck schame) zijt ghy Danee d'eerste die ick vernomen hebbe dat schantlijcke boecxken te prijsen. Soude sulckx wel komen om die gelijckheyt vanden aerdt uwer schriften met dat schrift Calvini? want dat is mede (als dese u Calc) ydel van alle bewijsinghe, ende tot overloopens toe vol van alle scheldinge, soo dat ghy schijnt grooten arbeyt te doen, om in desen u Meester te willen over 't hooft leeren. In dat lelijcke boecxken Calvini zijn meest dusdanighe schoone argumenten. Spotter Godes, eerwaerdighe Theologien. Nieuwe, behendighe, ende subtijle Doctor. Snappaert, verachter Godes, ende meer dan een onschamele Logenaer. Daer noemt u Meester in dese qualijcksprekende konste my noch oock een zot, een vilain, een guychelaer, een loer, bedrieger, fantastijck, een arme blinde, een Rabbaut, ende dootlijcke Pestilentie. Dats niet genoech? want hy seyt daer mede (maer bewijst soo luttel als ghy hier doet) dat ick ben geck, bot, stout, sinneloos, ende versoncken inde stinckende Secte der Libertijnen. Met al die schantnamen noch niet versaedt zijnde bestaet hy (soo ghy in dese Calck mede doet) my te metamorphoriseren uyt een mensche in een beest, een wilt beest, ja in een rasent beest: Ja oock in een hont, niet in een haeswint spangol, of ander eel-hont, maer in een Rekel. Doch hope ick dat sulck onverschult schelden, aen my niet meer en sal gelden, dan Circes dranck den ghenen treften die dat cruydeken moly over sich droech. Daer siedy nu by een die bloemkens van de vaste bewijsinghen uwes voorsz. Meesters, by u alleen ghepresen, ende hier meesterlijck naghevolcht. Sieter nu hier een deel uyt dese uwe bitsighe Calck, niet beter, maer wel so bitter als die voorschreven van uwe veel sprekende meester in dese laster conste: van alle welcke niet van een warachtigh en is, te weten daer ghy my noemt ongeleert, want ongeleert ben ick, so datmen met recht mach twijfelen of uwe, dan uwe voorsz. meesters loghen  ende laster pijlen, dit wit van schantlijck spreken naest treffen. Want ghy mede in plaetse van schriftlijcke of redelijcke argumenten) dier niet een en is in dese uwe Calck) voort brenght dese schant-namen. In den eersten ghelijckt ghy my hier mede by een rasende hont, by een onbesneden Goliath, een Moordenaer, ende desgelijcx meer. Ghy scheldet my nu versaecht, dan weder stout, hier een Oude Vos, daer weder bot: ende doorgaens ongheschickt, onverstandigh, onsinnigh, verwoet ende Libertijnsch. Boven sulcke hatelijcke namen maeckt ghy noch van my een boeve, een aldoender, een hypocrijt ende een versufte hont, in welck gemoet niet en is dan een beestelijcke sotheyt, een ydele verwaentheyt, daer mede ick my te spot stelle oock voor den kinderen. Dit alles is noch al lijdelijck, ghemerckt d'overheyt soodanich volck hier noch al eenighsins lijdet. Maer voorts van u tonghe een swaert maeckende, gheefdy inde dootlijcke schantnamen hier na volgende niet duysterlijck te kennen, wat oordeel ghy tot Gheneven. (haddet ghy my daer in banden) over my soudet gheven. Want ghy scheldt my voorts te wesen een Wolf een Kerckroover, een rebelle, een ketter. Ja een die ghegoten is (waer haeldy doch dese woorden?) uyt die rasernye vande alder erchste ketteren. Hier mede en was dese laster mate noch niet vol genoech in uwen sinne, maer hebt die noch willen ophopen met die schrickelijcke schantnamen van een aenblaser Sathans, een helwagen des menschelijcken gheslachts, ja oock een Prince der Libertijnen.</p>
+<p>Alle sulckx seghdy my op in druck voor allen menschen, van alle sulcx en bewijsdy uyt mijnen woorden schriften of wandel niet een tittelken, voeget dan oock een Christen, een Leeraer, ja een Doctor inder ghodtheydt sulcken ongodlijcken Libel fameus, niet min onwaerachtigh dan lichtvaerdigh ja argerlijck voor u kercken selfs wesende in druc te saeyende onder den menschen? of weet ghy niet wat straf hy na de Wet Christi verschuldet, die zijnen broeder maer dwaes noemt? of soudy u selve (om dese uwe onghelijckheydt metten aert der kinderen Godes) wel niet willen houdende voor mijn broeder? Nu dat sy soot wil, ick wensche dat u God dit vergeve, 't welck sal gheschieden alst u recht leet is. </p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus 9. </hi></head>
+<p>Ende des niet teghenstaende en craeckt dese mensche met zijne opgheblasen woorden niet dan liefde, vernederinghe des gemoedts ende heyligheydt inde warschappen ende by den ommestanderen der zijnen.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 9. </hi></head>
+<p>Waert ghy sodanigh Danee, dat het my eerlijck waer van u ghepresen te worden (als neen) so soude ick dit u ghetuych tot mijnen voordeele aennemen, behalven die by-ghevoechde vlecken van opgheblasen woorden. Want selde<hi rend="i">n</hi> zijn waerschappe<hi rend="i">n</hi> vry van naemschendryen, spreke ick daer niet dan van liefde, van nederheydt ende van heyligheyt: hoe moocht ghy dit mijn welspreecken, met u qualijck spreken te recht bespotten? Laet ick dan oock het namenschenden by die glipperighe wijn waeromme pleecht ghy t hier met te voordachte penne?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Danaeus 10. </hi></head>
+<p>Seker soo wie naerstelijck aenmerckt den valschen Leeraren by den Apostel voorseyt, te sullen wesen inde laetste tijden, sal verstaen soo dat de gantsche hef deser Libertijnscher menschen, als oock sonderlinghen dat dese Coornhert henluyder Prince eygentlijck beschreven is gheweest van Petro, met dese woorden.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 10. </hi></head>
+<p>Die Libertijnen self en kennen my niet voor een van der heuren, maer haten my dootlijck, dats verde van heur prince te zijn. Maer wie ghy zijt, dient liber of vry is my soo schantlijcke saken op te dichten, sonder wroeghen daer over te maken, suldy self best weten, als ghy wat meer u eygen ende wat minder een anders gebreken na speurt. Maer waer mede bewijsdy dat ick der Libertijnen Prince ben? mette H. Schriftuere? noemt die Coornherts name neen (suldy segghen) maer die beschildert u so ghy zijt. Dat sullen wy sien.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus. 11.</hi></head>
+<p>Dit zijn (seyt Petrus) Fonteynen sonder 'twater, welcken van dwerlingen ommegeswiert, voor den welcken die nevel der duysternissen inder eeuwigheydt is bewaert.
+
+<pb n="fol. ccc lviiiv"/>
+Want sy seer opgheblasen, ydelheyt sprekende, locken aen door die geyle begeerlijckheyden des vleeschs den ghenen, die nu al waerlijck waren ontvlucht den ghenen die in dolinghen verkeren, henluyden vryheydt belovende.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 11.</hi></head>
+<p>Daer laet ghy't by blijven. Soude dat bewijs zijn: soo slechtelijck en beduyden die Roomsche Catholijcken desen sproken op u luyden niet, maer poghen te betoonen dat elck deser stucken is in Calvino, in Besa, in u ende den uwen. Bewijst met waerheydt een dier stucken in my te wesen, ick sal met openbare boet in druck druckigh mijn schult bekennen. Dit doedy hier niet, dit bestady hier niet, heet dit met u Schriftuere ghebruycken: wie verbiedt my oock soo slechtelijck te segghen dat d'Apostel Petrus daer eyghentlijck af maelt Lambertum Daneum: Maer dit is mijn voornemen soo weynigh, alst wel in mijn vermogen soude zijn.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus 12. </hi></head>
+<p>Also is nu te voorschijn ghekomen die Autor des briefs vyant alder Kercken Gods, te weten Coornhert.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 12. </hi></head>
+<p>Dat seydt Daneus, ende dat ontkendt Coornherdt. Daneus bewijst niet een eenigh woordt van sulck zijn segghen. Coornhert ontkent dat hy een eenighe ware kercke Godes vyandt is of teghen spreekckt. Dat most Daneus doen wettelijck blijcken, wil hy gheloove hebben in dit zijn seggen by den oprechten. </p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus 13. </hi></head>
+<p>Nu blijcket wie die selve is, die so vele hy mach den menschen af weert ofte af drijft, vande ghenade Gods, diemen in Hollandt mach deelachtigh worden door die vercondiginghe des woorts. Wie die hel-wagen is des menschelijcken gheslachts, wie die meeste aenblaser Satans is in dese Landen, die nochtans voormaels latiteerde (of schuylde) met verswijghinghe zijns namens.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 13.</hi></head>
+<p>U leere houde ick meest voor menschen, niet voor Godes woort. Derhalven ic doende soo ick wilde datmen my dede, anderen daer voor waerschouwe, daer ick middel sie. Dit schame ick my niet. Ende uwe scheltwoorden en treffen my niet. Ben ic dan noch buyten mijn weten een hel-wagen ende Satans aenblaser, doet dat blijcken door warachtigh bewijs, ende niet door onwarachtigh lasteren, ghy sult een siele winnen. Maer schelden is by my soo weynigh bewijsen, als dese uwe onware beschuldiginghen van mijn Latiteeren. Want soo naeckt als ghy uwe onchristelijckheydt met dit ydel naemschenden nu voor elck laet mercken: soo naeckt heb ick mijn Christelijck ghevoelen: al eermen van u name hier wist, in druck al laten mercken.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus 14. </hi></head>
+<p>Al hoe wel hy vande sake selve ende leeringe zijnre secten (die in mijn antwoorde gantselijck uyten woorde Godes omgheworpen is, niet en heeft derren spreken. Want hy bekent selve dat hy niet en heeft, dat hy my inde leeringe selve soude antwoorden.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 14. </hi></head>
+<p>Secte en hebbe ick niet, dus moocht ghy die niet omwerpen. Wat woort Gods ende hoe ghy dat teghen my hebt ghebruyckt, is hier voor (tal. <hi rend="i">3</hi>.) geseyt, ende het beken by u hier ghestelt is enckel dichtinghe. Dit is u al vry of liber.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus 15.</hi></head>
+<p>Maer hy klaecht eerst dan ic eenige plaetsen der Heyligher Schriftueren corrumpere in mijn aentekeninghe op zijnen brief. Alle Godvruchtighe Leesers moghen oordeelen wie van ons beyden die beter verhaelt na der schriftueren sinne selve. Daeromme hebbe ick alle zijnen brief willen daer stellen, op dat ick niet en soude schijnen der lesers ooghen te willen bedrieghen, ofte desselvens sinne ofte woorden verkorten ende t'onrecht voort brengen, daerom sy het oordeel by den Godvruchtighen Lesers vanden tuychnissen der Heylighe Schriftueren teghen hem verhaelt.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 15.</hi></head>
+<p>Dat klaghe ick niet, maer bewijse u dat daer alsoo, dat wonder is by u dit verhaelt te derren worden, sonder mijn bewijsinghe te wederlegghen. Maer die eere roemdy u te recht, dat ghy mijne woorden onghevalscht hebt ghestelt by de uwe. Ende hier inne zijdy vromer dan u Meester Calvijn, die in 'tvoorschreven zijn lasterboecxken teghen my hem sulcx wel heeft weten te wachten.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus 16. </hi></head>
+<p>Ten tweeden beschuldight hy my, dat ick Calumnieuselijck zijn meyninghe uytlegge. Maer uyt het lesen vande gheheele brief sal mijne uytlegginghe blijcken waer te zijn, ende dat ick daer toe niet en hebbe versierdt, al wat uytvluchten hy oock soeckt van zijne uytlegginghe, om dat zijne Ketterye ontdeckt is.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 16. </hi></head>
+<p>Daer inne beschuldighe ick u te recht in mijne antwoorde tot mijne onschults verantwoordinghe. Want dat ghy daer mijne woorden verdraeyt, ende my opdicht dat ick noyt en seyde, bewijse ick u daer soo vast, dat u beter heeft ghedocht aldus daer af te sluypen, dan u te verantwoorden ende mijne dolinghen (die in my moghen zijn) te ontdecken.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus 17.</hi></head>
+<p>Ten derden verwijt hy my dat ick zijnen brief niet recht en hebbe verstaen, die somme der hooftstucken van zijne beschuldiginghe op my verhale ick hier om kortheydts willen.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 17.</hi></head>
+<p>Ick verwijte u dat niet, immers ick legghe tot uwer verschooninghe sulcke fauten opten oversetter of drucker. Wat eerbaerheyt bruyckt ghy dan in dit versieren?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus 18.</hi></head>
+<p>Also wondert hy sich dat ick een Theologische Doctor zijne meyninghe niet verstaen en hadde. Soude dat wonder zijn: Coornhert, of dijne schriften. Segghe ick die du selve self niet en verstaetste van anderen niet verstaen en worden? want du over al dy selve verwertste ende terstont lochenste, 'tgene du voor hadtste gheaffirmeert. Ende du vernielste self dijne dinghen in dijn brief alsoo, dattet niet van noode en was dan mijne aen-
+
+<pb n="fol. ccc lixr"/>
+tekeninghen, maer gheen rechte wederlegginge, soo du sietste.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 18.</hi></head>
+<p>Daer inne en verwondere ick my niet, teghen my selve verwert en ben ick niet. Dit seghdy vast, maer en bewijst sulcx niet, oock met een eenighe letter niet.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus 19.</hi></head>
+<p>En wat was van noode dit met veelen te wederleggen na dien du ons niet weder voor en brochste dan ydele walginghe nu al over lang by Heer Calvijn verworpen? want andermael te verhalen 't gene du in dijne stinckende Zeepe, dat is in dijne antwoorde aen my blaffte, soude zijn het ghedaen te herdoen. Also du daer niet dan enckele boeselinghen en snapste. Ende soo du yet voortbrenghste uyt die Heylighe Schriftuere, dat was oock al overvloedelijck af gheweerdt door (mijn) wederlegginghe int Boecxken.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 19.</hi></head>
+<p>Was sulckx by Calvijn verworpen, wat behoefdet u verwerpen? of luste u 'tghene by Calvijn wel wederleyt was, nu qualijck te wederlegghen? maer wat hebdy daer wederleyt? niet altoos. Of acht ghy u slecht segghen voor bewijs? met soo vele rechts als ghy mijn Zeepe stinckende scheldet, soude die crenghe der Sonnen wermte wel stinckende moghen noemen.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus 20.</hi></head>
+<p>Daeromme behoordest du aen te tasten die mijne antwoorde op u Libertijnsche Boecxken, indien du dy dapper hadtste willen bewijsen, ende niet te schuylen ende staen te blijven in desen brief, soo die sulcx niet en behoefde, als in mijn vorighe schrift al eensdeels verblasen zijnde.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 20.</hi></head>
+<p>Dat het boecxken Libertijnsch soude zijn en weet ick niet, maer dat het Boecxken niet, ende die brief immers mijn werck is, weet ick wel. Mijn ende niet anders werck behoorde ick te verantwoorden. Dit hebbe ick soo ghedaen, dat ghy die u roemt mijn brief al verblasen te hebben, noch geen middel en siet om die aen te tasten, swijge te verblasen ende te schanden te maken. Ten waer dan dat schandelijck schelden vastelijck bewijsen, ende pocherlijck blasen, klaerlijck doen blijcken mocht heten. Want dan waer midtsdese uwe schelooghlijcke Calc my brief te schanden ghemaeckt.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Danaeus 21.</hi></head>
+<p>Maer du boeve schuylste inde doornliesen. 'tGene wat aen is ghelegen slady over, dat niets waert is, houdy op aen.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 21.</hi></head>
+<p>Dat ick alleen mijn ende niet een anders werck verantwoorde, heet ghy hier schuylen: wat name salt hebben dat ghy met een eenigh woort u werck niet en verantwoort? waer verantwoort ghy het verdraeyen mijnre woorden ende het calumnieren by u ghepleecht te zijn in mijn Seepe, niet (soo ghy doorgaens doet) alleenlijck gheseyt maer vastelijck bewesen? of gaet u dat niet aen? [...]aet ghy sulcx niet over? daer teghen staet ghy al voor aen, op 'tgene dat niet en is, dat onwaerdigh is, ende dat niets waert is, namentlijc versierde scheldinghe mijnder namen. Wat is u daer aen gheleghen? Niet wat ghy of ic zijn, maer wie van beyden recht schrijft, is 'tgeschille ende daer aen is gheleghen. Merct nu kondy of ghy hier oock anders doet dan my te beschuldighen van 'tgene ick gants onschuldigh inne ben, ende ghy selve opentlijck schuldigh in zijt?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Danaeus 22.</hi></head>
+<p>Maer of (so du oock seghste) dijn brief by my niet recht verstaen en ware, dat sal daer by zijn ghekomen, dat sy niet te recht ende na dijne meyninghe niet, en is uytghedruckt, 'twelck voorwaer niet mijn, maer veel eer mijn oversetters schult is. Want ick hebbe wederleyt 'tgene my van hem is aenghegheven. Daerom behoordeste nu niet met my, maer metten <hi rend="i">b</hi> Oversetter self te handelen, ende op hem die dyne waghen vol <hi rend="i">c</hi> scheldtwoorden te stieren. Want soo eenen wijslijck plach te segghen, ick hebbe geantwoort op 'tghene voor ghesteldt was, soo dat ick in dijne beschuldiginge niet van mijnre, maer van een anders misdaet beticht werde. Wat, of die selve vertaelder dy mijne meyninghe oock niet ghenoech en heeft verklaert of daer ghesteldt? soude dat dan oock mijne ende niet veel eer zijne schult geacht moeten werden? Maer na mijne achtinghe en hebben gheensins ghedoolt die Oversetters van dit Boecxken ende van die Brief, als wesende gheleerde mannen ende beyder talen, soo die uwe als die Latijnsche wel condigh. Ende seker soo yemant om die ghedaen oversettinghe is te beschuldighen, soo bistu Coornhert selve <hi rend="i">d</hi> derhalven te beschuldighen, dat du wesende alsoo onwetende alder dinghen, also onverstandigh alderschriften, alsoo onversocht des geleertheyts, my metter Doctoren tonghe schrijvende niet en hebste konnen verstaen, dat is gheen tale en hebste geleert dan dijn moeders <hi rend="i">e</hi> Hollantsche tale, gheen Latijnsche, gheen Griecksche, noch gheen Hebreeusche, al hoe wel du nu biste een versufte aldoender, ende vande Goddelijcke saken, die of in Hebreeusche of in Grieckse tale zijn beschreven een veel schrijver gheacht wilste wesen, na 'tspreeckwoort niemant en vernoecht met het zijne. Maer du seghste moghelijck dat ick den oversetter van dijn Schrifte niet gelooft en behoorde te hebben, noch dat ick die Ketterye die in dijn tale van dy wert ghehandelt niet en mocht wederleggen, also ick des taels oncondigh ben. Want dat is my oock van een ander dijn broederken, die du hier kenste, seer schoontghens teghen gheworpen: als ick hem int Middelburghsche Synodo wedersproken ende stommer dan een visch is ghemaeckt hadde. Maer dy beyden, dat is hem ende dy Coornherdt antwoorde ick. Ist dat ghy u Ketters waent gheoorloft te zijn, dat ghy vande saken inde Heylighe Schrift begrepen, die ghy door een oversetter alleen verstaet, des niet te min schrijft, spreeckt, twist, disputeert, ja oock besluyt. Die nochtans niet dan in Hebreeuscher talen (als 't Oude Testament) of in Grieckse tale alst nieuwe Testament en zijn beschreven ende voort ghebracht ende niet in Hollantsche, welcke alleen ghy beyde bekent te verstaen, waeromme soudet my oock niet <hi rend="i">h</hi> gheoorloft zijn gheweest vande Leere des gheloofs van u gheschreven ende 
+<pb n="fol. ccc lixv"/>
+door een gheleerdt oversetter my vertaelt, te handelen, te schrijven, te spreecken, ende te disputeren, want veyligher heb ick moghen gheloven eenen ghetrouwen oversetter uwer boecxkens in Hollantsch gheschreven: dan ghy den Hollantschen oversetter der Heylige Schriftueren die niet in Hollantsch en zijn ghegheven. Alsoo ick met minder sorchlijckheyt der sielen ende der godlijcker eeren in uwe schriften (door den Hollantschen oversetter vertaelt) handele: dan ghy handeldt inde Grieckse ende Hebreeusche Heylighe schriftuere, die ghy hebt gheleert alleenlijck door een Hollantsche, ende dat noch dickmael (soo yeghelijck weet) die alderongeschickste ende onbequaemste oversetter. Behalven datte, soo bekenne ick vrymoedelijck ende waerachtelijck, dat ick in uwe sprake (hoe wel my by na gheheel onbekent) meer hebbe gheleerdt, dat ghy weet inde spraken of schriften, inde welcke alleen beyde Testamenten door den geest Godes inde penne is ghesproken, ende vande Propheten ende Apostelen is besegelt. Want gheen van u beyden (op dat ghy hoedanigh ghy zijt uyt my moocht hooren) en kent oock d'eerste letter niet met welcke het Oude ofte Nieuwe Testament is gheschreven. Ende nochtans zijn dit die luyden, die God wonts sich selfs uyt gheven voor Doctoren van beyden Testamenten, voor leytsluyden der blinden, voor onse uytleggers ende Meesters der Heylighe Schriftueren. Maer die ons ende alle Godvruchtighe ende gheleerde mannen soetelijck verachten ende versmaden, blaffen dat wy niet en weten, ende eyntlijck dat wy die Heylighe Schrift niet en verstaen, want so blindt zijn sy ofte meynen dat sy dese dingen roemen onder den blinden.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 22.</hi></head>
+<p>Hier toondy immers opentlijck u self schuldigh in 'tgene ghy my t'onrecht in beschuldicht, namentlijck int overslaen van saken daer u so hooch aen is ghelegen, ende int aenhouden op saecken die niets niet waert en zijn. Want in dit gheheele uwe schrift en bruyckt ghy niet een letters bewijs tot wederlegh vande bewijsinghe by my in mijnen Zeepe ghesteldt: ende in dese plaetse het vierendeel van dit u schrift behelsende en houdy nergens op aen, dan op saecken des niets niet waert en zijn.</p>
+<p>a Waer beschuldighe ick u van't niet verstaen mijns briefs? nergens. Wat behoefdy dat dan te verantwoorden?</p>
+<p>b Ick selve heb den oversetter of drucker eenige grove fauten opgheleyt tot u verschoninghe: wat noot wast dan u daer af te verschoonen?</p>
+<p>c Een eenigh scheltwoordt en is in mijne antwoorde niet: wat port u een waghen vol daer inne te versieren? Maer wat zijde van dese uwe Calck is vry van Scheldtwoorden?</p>
+<p>d Hebben mijne ongheleerde ooren uwen Doctoorlijcken tonghe niet konnen verstaen: dat soude u beter ghevoecht hebben Doctorlijck te bewijsen, dan spotlijck te dichten?</p>
+<p>e Int verhael van mijne ongeleertheydt in spraken hebdy recht, maer wat doet dit tot bewijs dat u Annotatien op mijn Brief recht zijn ende mijn antwoorde onrecht?</p>
+<p>f Wat gaet my aen, wat u een ander tegen werpt?</p>
+<p>g Ende of ghy hem al stommer dan een Visch mocht ghemaeckt hebben (soo ghy u roemt, moghelijck met ghelijcke onwaerheyt als ghy u niet en schroomt doorgaens in desen Calck te roemen) volght daer uyt dat ghy sonder ander bewijs dan scheldtwoorden voort te brenghen, my hier Stom maeckt?</p>
+<p>h Nerghens segghe ick u ongheoorloft te zijn te schrijven op 'tgeen ick geschreven hebbe in Hollantscher talen u oncondigh zijnde: siet nu wat veelwoordigher spinneweb ghy daer af weeft.</p>
+<p>i Wat noot wast u hier mijn droom te vertellen? of meyndy dat ick door u eerst moste weten dat ick Griecx noch Hebreeusch kan: neen daer coomdy te late toe, ick hebt al over vijftigh jaren geweten. Maer dat soude ter saken ghedient hebben, soo ghy haddet connen vastelijck bewijsen dat niemandt sonder Griecx of Hebreeus te konnen verstaen, eenighe waerheyt in Godlijcke saken en mach verstaen.</p>
+<p>k Dat ick gheleerde mannen verachte als gheleerde mannen, seghdy al mede sonder bewijs. Maer wat dient dit tot verantwoordinge van uwe onbedachte Annotatien: maer ghy moocht voor u sien dat ghy aldus navolghende het hovaerdighe misbruyck der gheleertheyt uwer meesteren, int stoute ende vermetele verachten van allen anderen minder gheleert zijnde dan syluyden, den menschen gheen oorsake en gheeft tot verachtinge vande gheleertheydt als een sorchlijcke besittinghe, ende tot een besegelinghe van't oude spreeckwoort door sulck misbruyck in der menschen monden ghekomen, houdende: hoe geleerder hoe verkeerder.</p>
+<p>l Roeme ick my onder den blinden, soo ben ick daer inne al een omsichtiger vos dan ghy zijt u teghen openbare waerheyt onder den sienden komende, siet nu self condy, of ghy self hier ooc anders hebt ghedaen, dan 'tgene aen is gheleghen over te slaen, ende aen te houden op 'tgene niet altoos aen is gelegen. Lieve wat is doch aen alle dese voorschreven afwijckincxkens, ydelheyden ende beuselinghen gheleghen: dit bewijse ick u hier. Dat seghdy my aen, ende bewijst niet een woort. Moet ick dan doorgaens de schande van u misdoen draghen?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Danaeus 23.</hi></head>
+<p>Want dat du ontkentste dy oyt voor een Leeraer uyt ghegheven te hebben, wordestu wedersproken van dy selve, die hier ende daer dickmael schrijfste, ende die dyne schriften uytgheefste. Want wat is een Leeraer te wesen, dan of schrijvende of opte Predickstoel te leeren?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 23.</hi></head>
+<p>Mijne woorden in mijne verantwoordinghe houden also. Noyt en was ick Leeraer van ghemeynten. Ick bens oock niet, daer aen heb ick waerheyt gheschreven. Wil nu Daneus my hier loghenachtigh maken, soo is hem nodigh te bewijsen dat ick over eenige ghemeynte of versaminghe Leeraer ben:
+
+<pb n="fol. ccc lxr"/>
+of hy moet bewijsen dat het een selve sake is, te weten, dat yemant als een verbondene leeraer aen eenighe sichtbare gemeynte schrijve of predicke: ende dat yemant sonder alle autoriteyt niet eenighe bysonder gemeente, niet als een Doctor of Predicant, maer als een gemeen mensche int algemeen of int hondert, waerheyden spreecke of schrijve tot zijnen naesten, 't welck die Delfsche Predicanten (doort schrijven van T. Tilio selve aen my) seggen elck mensche toe verbonden te zijn, als hy dolinge sien sluypen inde Kercken zijnre tijden, ende die Leeraren der selver daer af zijnde vermaent, daer na niet en willen luysteren.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus 24.</hi></head>
+<p>'t Gene nu, dat du bestaetste tegen die wederlinge mijns schrijfts, is gantselijc so bot, ende soo ydel, dat gheen wederlegginghe en verdient, ten waer dan dat ick mijne tijdt wilde misbruycken. Want ick sende alle de lesers, tot onser beyder, dat is: tot mijne ende dijne schriften. Want ooc kinderen oordeelen mogen, dat du onsinnich biste gheworden.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 24.</hi></head>
+<p>Beter soude u gevoecht hebben met blijckende waerheyt mijn sotheyt te tonen: dan dus mijn schrift bot te schelden sonder alle bewijs. Dit is geen subtijle afwijckinge. Maer wat volck sendy tot uwe ende mijne schriften om daer af te oordeelen? de Nederlanders? vele der selver die uwe ende mijne schriften in Duytsch hebben ghelesen, en konnen gheen Latijn. Of meyndy Franchoysen, Italianen, Hoochduytschen, ende Enghelschen? Die konnen veel al gheen Neerlantsch ende en hebben alsoo onse schriften niet ghelesen. So trect ghy my nu voor een rechter die my (u partye zijnde) niet en hoort noch en verstaet. Dats niet oprechtelijck gehandelt, of betroude ghy nu niet meer u getrouwe ende geleerde Oversetter?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus 25.</hi></head>
+<p>Maer du een Reuse na de woeste grootheyt dijns lichaems, ghelijck als een tweede onbesneden Goliath, verhoopte sege te behalen van my, als van David, die kleyn ben van gedaente. Du biste bedrogen: want God gheeft altijdt den zijnen die aldersalichste seghe, teghen u kinderen Enachin. Maer du Idiot, soutstu my, dien du soo dickmael schamperlijck Doctor noemste) overwinnen, so du dy vroet maeckste. Te weten dat sulck dijn gheloove, nu Sebastiaens Castellions, ende niet meer als voormaels met Castellions dolinge onderstut zijnde, ooc nu buyden die Barbarische uwe miraculen ende logenen soudet voort brengen.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 25.</hi></head>
+<p>Mijn lichaems grootheyt is my so luttel sonde, als u cleynheyt u deuchde is, want dat beyde sulcx is buyten ons toedoen. So maect my mijns lijfs grootheyt so luttel een onbesnede<hi rend="i">n</hi> Goliath, als u kleynheyt u een gelovige David. Onse twist is niet wat ghy of ic syn, wie groot of cleyn is van lijve, maer of ghy dan ic waerheyt schrijven. Doch segt nu, oft ooc u deuchde is dat ghy Goliatiserende u meer behelpt met syne lastertonge dan met waerheydt der gheloovighen eenighe wapen? Mochten u hier te lande Sauls wapenen te wille gebeuren, o hoe haest sont ghy my die ghy nu een onbesneden Goliath scheldet) een gesneden Goliath maken.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus 26.</hi></head>
+<p>Maer so vele aengaet dijne scheltwoorden, Coornhert acht het so, datse van my werden veracht alst geblaf eens rasende honts, die wel gaerne soude, maer niet en mach op my woeden, om syn onverstandigheyt ende swacheyt der tanden. Want du biste sulcken versuften hont, dat ick dijne tanden niet en vrese: du biste soo versaecht dat du niet dan aengehetst zijnde van anderen, die ick wete, en hebste derren komen ten strijde.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 26.</hi></head>
+<p>Hier doedy wijslijc Danee, daer inne, dat ghy niet en acht die dinghen die niet en zijn, in mijn antwoort en zijn geen scheltwoorde<hi rend="i">n</hi>. Dus behoordy oock voor niet te achten dat niet en is, maer ghy behoort ooc niet te seggen dat niet en is. Waert so met dese uwe Calck, ick hadde geswegen, maer daer zijn uwe scheltwoorden soo menichvuldigh ende soo doodtlijck, dat ick die niet en mocht verachten. Ghy beschuldicht my van scheltwoorden die ghy niet en mocht bewijsen: maer die uwe vervullen, dit schrijft doorgaens so vinnichlijc: dat ic die niet en behoeve te bewijsen, siet maer te rugge tal. <hi rend="i">8</hi>. en<hi rend="i">de</hi> verstaet dat u sonde alhier mede mijn boete moet syn.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus 27.</hi></head>
+<p>Daeromme neemt van my voor dijne alder onschamelste bescheldinghen dese mijne drie vermaningen. Eerst dat du ernstlijc bedenckste wat grooter boosheyt du hebste bedreven teghen my met dese dijne schrijverye.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 27.</hi></head>
+<p>Nergens heb ick u bescholden: ghy doet het my doorgaens: ende noch gebiet ghy my te bedencken mijne groote boosheyt tegen u bedreven? dorst ghy u gebet voor den Heere wt sulcken herte noch op te offeren? vreesdy dan niet dat sulck u gebedt een vloecke voor u sy? Ist u Danee vry ende Liber dat ghy mijnen name in openbaren, drucke so schandelijck als onverdiendelijck bevleckt, so behoede my de lieve God voor die sinnen van my te begheven in een Kercke, welcker voorstanders soo liber of vry zijn van conscientie, dat hem (als u hier) sulck valsch naemschenden ende achterklap int brede vry staet, ja een deuchde is. Hadt ghy Danee my tot Geneven, ghy sout (so dese uwe handel teghen my betoont) met my leven, als gheleeft werde met het Schaep, dat stont ende dranck beneden aen een riviere, 'twelck vande Wolf boven hem staende, bescholden was, als of het des wolfs water vuyl maeckte, daer toe het Schaep neen segghende, alsoo 'twater van boven, te weten vande Wolf af nederwaerdts tot het Schaep, ende niet  vant schaep totten Wolf op waerts dreef, werdt de wolf toornigh ende seyde ja, derfstu noch die stoute boosheyt tegen my bedrijven, dat du dy verantwoordeste? sulcken booswicht was dijn vader mede, die heb ick daerom verslonden, so sal ic dy mede. Die daet volchet woort ende hy verslont het schaep. Wat dunckt u nu Danee?
+
+<pb n="fol. ccc lxv"/>
+is dese mijne boosheyt (soo ghy dat booslijck noemt) teghen u oock anders dan der ghelijcke billijcke verantwoordinge van mijne ware onschult, teghen uwe onwarachtighe beschuldigingen? wee allen vromen menschen, soot weder daer toe soude komen, dat het recht ende wettelijck verantwoorden teghen der gheleerden Calumnieren, weder voor boosheydt ende Crimen lese Majestatis gheacht soude worden. </p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Danaeus 28.</hi></head>
+<p>Want alhoewel ick dy wete te wesen vande luyden, die ick nu verhaelt hebbe uyt Petro, ende die daer stout zijt u self behagende, dat selve belijt, dat ghy die heerschappe veracht, noch die digniteyten niet en vreest, of die Magistraet die van God zijn te versmaden, nochtans staet te beduchten dat dy dat niet onghestraft soude mogen wesen.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 28.</hi></head>
+<p>Die lasteren die ghy my teghen waerheyt opdicht, die ick met waerheyt ontkenne, ende die ghy niet en vermeucht noch en bestaet te bewijsen, seghdy stoutelijck dat ick selve belijden. Waer belijde ick dat ick die Magistraet versmade: brenght dat bewijs met waerheyt aen den dagh, ende ick sal die verschulde straf niet af bidden.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Danaeus 29.</hi></head>
+<p>Want der grootachtbarer Hollantscher Staten versch Placcaet, aldermeest vercondight zijnde om dijnen wille tot Haerlem (daer du in dijnen drekhol schuylste) dat is dat niemant sonder des Magistraets toe laten ende believen eenigh schrift int licht soude gheven, ende alle man die Placcaet (soo't behoort) ghehoorsaemdt: bistu die eerste ende alleen bevonden, die deses alderheylichsten wet der Staten. Met dit dijn schrift sonder eenige toelatinge des overheyts uytgegeven, hebste overtreden, die alder eerste hebste willen opentlijck gheacht zijn voor een rebelle, ende die d'Overheyt onghehoorsaem is, die met dijnen exempele d'andere voor soutste gaen, omme te wederstaen die alderbeste ende hoochste Overheyt van Hollant, entlijck die de Staten self by na van heuren stoel soutste verstoten.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 29.</hi></head>
+<p>Soude, ghy Danee oock wel een zijn geweest uyten secreten Rade der Consistorien die te dien eynde sulck verbodt gaerne ghesien hadden, dat ghy dit aldus weet te seggen? so hatelijck zijn dese uwe wroegingen, dat ick sonder ghevaerlijckheydt mijns levens, ja sche<hi rend="i">n</hi>dinge mijns naems daer toe niet en mach swijgen. Sy zijn wederom so valsch ende onschristelijck dat ick die sonder u te vertoornen niet en mach beschamen. Calumnieert ghy hier niet (naer u gewoonte) weder openbaerlijck? Ghy seght des Placcaets inhouden te zijn, dat niemant sonder toelaten ende believen des Magistraets eenighe schriften uyt soude gheven. Dit schijnt waerheyt, ende is doch niet dan een halve waerheyt, ja gheen waerheyt, overmidts u verswijgen van 't gene daer by staet int Placcaet, te weten argerlijcke, oproersche ende schandaleuse boecxkens. Daer siedy uwen Calumnie nu naeckt bestaende int besnoyen ende afbreck van des Placcaets woorden: ende siedy dat ghy my calumnieuselijck wroecht van overtredinghe des Placcaets. Want sodanighe boecxkens en hebbe ick niet gheschreven, vele min uytgegeven. Maer hebbe my op uwe woeste ende onbedachte annotatien (hier wringht u de Schoe) ter noodt ende sedelijck verantwoort. Na dien ghy nu van sulcke mijne nootlijcke verantwoordinghe teghen u bestaet te maken een verachtinghe des magistraets, die my noch niemande<hi rend="i">n</hi>  sulcx en heeft verboden, meuchdy u oock eenighsins verschoonen van teghen my te handelen (so veel aen u staet) als de wolf tegen 't Schaep hier voren gheroert? Maer doet eens wel Danee, ende besiet so naerstelijck u rugghe sack, ghy sultse desen aengaende vinden so vol warachtigh ghebreck my op te dichten. Want behalven dat de Catholijcken, de Confessionisten, ende Doperen sulcke uwe onghegronde ende onchristelijcke lasteringen op mijnen name in druck uytghegheven zijnde, sich daer aen stoten sullen ende argheren, soo sullen oock vele vrome luyden onder den uwen (die daer al zijn) sich daer aen argeren ende over bedroeven. Immers en is dit u schrift niet alleen argerlijck ende midtsdien ghy selve daer over strafbaer na de klare woorden des voorschreven Placcaets, maer oock van selfs strafbaer met poena talionis als een schantlijck libel fameus, na den beschreven Rechten selve, soo ghy vernemen sout, indien ick so gierich waer na u wel verschulde, als ghy zijt na mijn onverschulde straf. Of duncken u rebellie ende d'overheyt uyt heur stoel te willen stoten kleyne saken te zijn?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus 30.</hi></head>
+<p>Met wat ghelijckmoedigheyt die hoochachtbare Heeren Staten sulck diin boosheyt so stout ende soo versch sullen verdraghen, moghen, moghen sy toe sien: maer nochtans sie stu wel in wat gevaerlijckheyt du dy selve hebste ghestelt, ende wat straf du verdienste.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 30.</hi></head>
+<p>Na u Gheneefsch oordeel de vlammen om dat ick van u qualijck beclaecht zijnde, met mijne wel ende wettigh verantwoorden onwaerheyt doe blijcken, ende also een verstoorder ben van uwe ende der kercken uyterlijcke vrede, o groote ende dootwaerdige boosheyt.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus. 31.</hi></head>
+<p>Seker al-hoe-wel de alderbeste Mannen ver[r]e zijn verscheyden van alle staetsucht en<hi rend="i">de</hi> wreetheyt: nochtans en sullen sy om voor alle verachtinge te beschermen haer opperste autoriteyt die sy van Gode hebben ontfangen) sulcke boosheyt, also icx achte, niet laten ongewroken, sonderlingen overmidts du door de goedertierenheyt vande hoochachtbaer ende opperste overheydt niet en verbeterste, maer alle daghe verarchste.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 31.</hi></head>
+<p>Ghy ghevoelt vande Heeren Staten dat sy sulcke mijne wettige nootweer niet ongewroken, maer als boosheydt door u oprecht beschuldigen straffen sullen. Ick ghevoele dat de selve Heeren door u niemants calumnieren my om dat met recht ende na behooren (soot is) gedaen te hebben geensins misprijsen sullen, maer recht daer inne geven. Wie van ons beyden heeft hier het loflijckste ende eerlijckste ghevoelen van die alderbeste mannen?</p>
+</div>
+<div type="section">
+<pb n="fol. ccc lxir"/>
+<head><hi rend="i">Daneus 32.</hi></head>
+<p>Want du weetste (noch ten is my niet nodigh sulcx dy te verhalen) om wat oorsaecke, als du eertijdts der selber Staten Secretarius waertste, door henluyden afgheset biste vande State ende dienste des Secretariaetschaps, op dat eenen goeden man in dijne plaetse ghestelt soude worden ende en biste nochtans van die tijdt af niet beter noch wijser gheworden.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 32.</hi></head>
+<p>Dat ghy Danee, dit uyt u eygen hooft soudet versieren, en gheloove ick niet: maer dat ghy dit segghende my een openbare logen na seght: is niet min den Heeren Staten selve, dan oock my kenlijck. So komense nochtans te schanden die vande ghenen die sy haten gaerne quaet gheloven ende na segghen. Hier inne volchdy wel na u Meester Calvijn, als gy poochde van Castellio een dief te maken. Neen Danee de Heeren Staten en hebben my van mijnen dienste niet afghelset: dus en moghen hare E. E. d'oorsake daer af niet weten. Want wat niet en is, en heeft gheen oorsake. Maer ick selve ging van selve wech, ghenootsaeckt door drie wichtighe saken. Waer van ick (hier toe nu door u gedrongen zijnde) u ghewaerdigen sal d'eene (mijns lijfs berginge beroerende) opt cortste hier te ontdecken: maer d'ander twee mijn conscientie ende eere beroerende, niet dan voor den ooren van mijnen E. H. de Staten, alst die selve sal gelieven my daer op te hooren.</p>
+<p>Het hadde den E. H. Staten ghelieft door my heure E. E. Secretaris wesende, informatie te doen nemen uyten Schouten ende Regenten vande Dorpen in Kennemerlant, daer toe voor my tot Haerlem beschreven zijnde vande brantschattingen, exactien, ende berovinghen inden selven Dorpen ghedaen by eenighe Capiteynen staende onder 'tgebiet des Heeren van Lumee. Ten eynde sulckx den selven strecken soude betalinghe ende afslach heurder besoldingen die sy onmatelijck waren eyschende vande Heeren Staten, also 'tselve was bedonghen in seker accoort derhalven tusschen den selven Heeren Staten ende den Capiteynen voorschreven, waer inne ick met twee andere Commissarisen by den Heeren Staten oock ghebruyckt was gheweest, nu wisten eenigen vande voorschreven Capiteynen seer wel wat sy inden voorschreven Dorpen hadden bedreven. Dit vreesden sy nu aen den dach te sullen komen. Door de voorschreven mijne commissie van't aentekenen des aenghevens der Schouten ende Regenten der voorsz. Dorpen. 't Welck nochtans niet en geviel also het selve in Haerlem was als ick wegh gingh. Daer ick last ghelaten hadde om die mijne besomminghe te bestellen na den Heeren Staten, maer was behindert doort besluyten vande stede Haerlem terstondt daer op ghevolcht, alwaer die stucken verlooren zijn. Maer dit en mochte niet voorweten worden vanden Captiteynen, welcker anckxste door valsche versieringhen my soo hatelijck beschilderde inden opinien van Lume voorsz. dat hy doe ter tijdt het Crijchsvolck sulcx noch aende hant hebbende dat oock zijne Excell. selve gheen middel en hadde my, of icx al gheklaecht hadde te beschermen (hooch ghesworen, ja oock sulcker Capiteynen eenighe last ghegheven hadde om my te doen doorschieten. Nu en waren eenighe van die Capiteynen nu doot zijnde, nerghens na de beste luyden, maer sodanighe dat sy om haer wel verschulde schande te ontgaen, my gaerne van kant soude hebben doen helpen, daer toe sommighe also binnen der Steden, swijge de wegen opten velden gants onveyligh waren. Wat mocht ick doch anders doen dan den noodt wijcken? Of nu dat stuck alleen (ick swijghe d'ander hier niet verhalijcke zijnde) oorsaeck ghenoech was om te vertrecken, gheve ick te bedencken den ghenen die den handel ende macht doe ter tijdt by Lumee ende zijne Capiteynen wesende keulijck is. Al 'twelck ic hier hebbe willen verhalen tot een overtallich bewijse in desen. Ghemerckt alle man kondigh is, immers niemant badt dan den H. Staten selve onwaerachtigh te zijn, dat haer E my af souden gheset hebben van Secretariaetschap, dien hier by oock niet verborghen mach zijn u kleyne schaemte in my soo grooten als kenbaren onwaerheyt opentlijcke in drucke op te dicken of na te segghen. Dat en voecht geen Christen man, veel minder een soo vermaerden Doctor inder Godheydt.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Danaeus 33.</hi></head>
+<p>Seght nu, als over weynigh maenden de Requeste inden name der Papisten om de Misse weder te hebben van dy gheschreven, ende met een Commentario vermeert, ende du daeromme gheroepen waertste, ende sy luyden 'tghene du daer teghen d'Overheydt hadtste gheschreven detesterende: waerom werde de selve dijne Requeste in dijn tegenwoordigheydt, maer door des Overheydts beveel, om der schanden wille ghebroocken ende ghescheurt?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 33.</hi></head>
+<p>Het en was niet mijne, maer des Catholijcken Requeste, hier dooldy ten eersten. So mede datse gheschoorde werde, want sy bleef heel, maer mijne minute werde gheschoort, niet van anderen (dits de derde dolinge maer van my selve, doch door bevel der H. Commissarisen, maer merckende henluyder meyninghe te zijn dat ick daer met het stellen van der Catholijcken Requeste soude detesteren, hebbe ick opter daet verclaert dat ic geensins sulcx en hadde ghemeynt met het schooren vande selve minute, maer wel dat sy voorts onnut waren ende van selfs by my geschoort soude zijn geweest. Derhalven ick oock aenhielt aen den Commissarisen dat sulckx gheschreven soude worden in henluyden verhael, midtsgaders mijne voorder verklaringe doe daer ghedaen, namentlijck dat ick bereydt waer te bewijsen recht gheschreven te zijn in de voorsz requeste, alle 'tghene mijn werck ende stellinghe daer inne was, te weten 'tgene beroerde den dwang inde conscientien, 'twelcke oock sulcx  worde aengetekent. Siet daer is de waerheydt van dese geschiedenisse: wat dient alle sulckx doch mede ter saken? volcht hier uyt dat u of mijne schrift in geschille zijnde recht of onrecht is?</p>
+</div>
+<div type="section">
+<pb n="fol. ccc lxiv"/>
+<head><hi rend="i">Daneus 34.</hi></head>
+<p>Du weetste als du met d'aldergrootste onschamelheyt des ghemoets tot Leyden (daermer nochtans vint die dy gheloven) aenghenomen hadste in een openbaer disputatie die Kercke Christi te bevechten, ende du nochtans niet en wiste te antwoorden op die allergeleerste bewijs-redenen der Evangelische ministeren, dat du die vlucht naemste. Want als du smorghens ter disputatien werdeste verbeyt, du dijnre sake verontrouwende hebstu mit d'aldergrootste bevreestheyt der sake (die du seyde Godes te zijn) verradelijck verlaten, alleenlijck te rugghe heymelijck latende een gheschrifte, ick en weet niet welck, meer zijnde een getuych dan een verantwoordinghe dijnes vluchtens.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 34.</hi></head>
+<p>Ick weet dat ick doe ter tijdt tot Leyden teghen het beschrijven der Heeren Staten, gans vreemdelijck ghehandelt werde, soo ick by der Delfsche Predicanten selfs hande ende Copye autentijck vande Missive der Heeren Staten mach ontwijfelijck betonen. Ic weet hoe onbillich datmen daer tot Leyden met my handelde, niet alleen in besloten Camere, maer oock ten aensien: ende aenhoren vanden volcke, daerom oock aldaer onder die selve noch al zijn (soo ghy oock selve segt) die my hier inne gheloven. Ick weet mede dat ick door die groote onbillickheyt desselven handels, oock die kleyne vrucht die ick derhalven daer uyt mochte verhopen ten aenhooren van alle den volcken totten Commissarisen seyde, dat ic dacht na Haerlem te reysen, sonder weder in die vergaderinghe te komen: daer op my een der Commissarisen ten antwoorde gaf, dat staet aen u, ende ick weet dat voor mijn vertreck Arnoldus (die al door ghesproken hadde) van half thien tot elven toe smorghens in zijn eyghen laghen verstrickt zijnde openbaerlijck voor al den volcke verstomde. Sulcx dat zijn gheleertheyt het seggen van my ongheleerde (soo ghy my recht noemt) niet en konde verantwoorden. Dit weet ick en honderden met my, hoe moocht ghy dan weten dat ick uyt bevreestheydt die vluchte nam, placht oock die verwinner versaechdelijck voor zijn verwonnen vyandt te vluchten?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus 35.</hi></head>
+<p>Du weetste als alle goede ende Godvruchtighe mannen veel ghedoochden ende leden om niet Christum met Belial, den waren God metten Afgod godloofelijck te vermenghen: hoe dat du doe ter tijdt der menschen conscientien met dijne Satanissche versieringen bestontste af te trecken, 'twelck ick segghe op dat alle menschen souden mogen verstaen, dat du biste d'alderoutste vyant Christi ende zijnes cruyces, ende een monstrum ghegoten uyt de raseryen vande aldererchste Ketteren (te weten) der Symonianers der Manicheen ende Priscianisten.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 35.</hi></head>
+<p>Ick weet nu al te wel dat ghy my alle dese lelijcke stucken Calumnieuselijck op dicht. Maer ick en weet niet dat ick met Satanissche versieringhen yemanden hebbe willen aftrecken, versta oock niet wat ghy hier mede meynt. Ick wete mede onwarachtigh te zijn uwe injurien van dat ick zijn soude een d'alder oudtste vyandt Christi, of sulcken monstrum, als uwe Calck hier van my alchimistiseert, daer aen ghy oock al mist. Soo weet ick mede wel dat ghy wat min seggende ende wat meer bewijsende wat meer gheloofs (dan ghy dus doende bekoomt) hebben soudet by alle vrome ende omsichtighe menschen. Ende na dien 'tghene niet en is wel valschelijck gheseyt, wel lichtvaerdelijck gelooft, maer gheensins warachtelijck gheweten mach worden, dat dese uwe monstrose calumnien wel van lichtvaerdighe luyden ghelooft, maer by u noch by niemande ter werelt gheweten en moghen worden.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus 36.</hi></head>
+<p>Du weetste dat du het eygentlijcke Pelagianismum, dat is die verdoemde versieringhe Satans van des menschen vrye wille metten dijnen vernieuste, ende wederomme brenghste uyter Hellen in Hollant.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 36.</hi></head>
+<p>Ick wete dat u leere (indien die oock Geneefsch is vande eyghen wille) onwaerachtigh is. Ick houde voor vast dat die leere van de vrye wille oprecht is niet Pelagiaensch, maer Christelijck, voort ghekomen niet uyt de Helle, maer uyt helle ende klare Godlijcke schriftuere. Daer uyt ick vanden Heers middelen hebbe ende ghetroost ben (niet siende op mijn ongheleertheyt, noch op u geleertheyt, maer op de waerheyt der saken) teghen u ende teghen allen den uwen in ghedruckte schriften Christelijck, Godlijck, ende vastelijck met naeckte Schriftuere, de vryheyt van des menschen wille te verantwoorden. Hebdy nu so vele waerheyts in desen, als lust om my te schanden te maken, soo bestaet desen camp teghen my Idioot, die ghy hier inne (met Godes hulpe) niet soo onvoorsien van waerheyt, als ongeleert in talen, bloot van alle consten, ende stom in scheltwoorden sult bevinden.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus 37.</hi></head>
+<p>Du weetste hoe du alle religie voor niet hebste gheacht ende noch onlancx als du met den dijnen de alderswaertste geschillen vande Christelijcke religie naemste schaduwe des Esels poppen werck, kintsche dingen, ende bueselingen, want dit zijn uwe woorden ende uwe bloemkens.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 37.</hi></head>
+<p>Dit Calumnieren sie ick dat niet en sal eynden, voor dat dit u gheschrift eyndet. Sulcke uwe onwaerheyden moghen geloven die u tonghe noch niet en kennen: maer geensins die mijn wandel kennen. Want die en is so Godloos niet, als uwe ongodlijcke tonge my beschildert, dus set ick mijn Christelijcke wandel teghen uwe onchristelijcke tonghe. Die ist Liber of vry my soo schandelijcke dinghen op te dichten: maer nemmermeer suldy bewijsen dat het mijne Tonghe vry is soo lichtveerdelijck vande Religie te spreken.</p>
+</div>
+<div type="section">
+<pb n="fol. ccc lxiir"/>
+<head><hi rend="i">Daneus 38.</hi></head>
+<p>Ende de selve Religie bespoudy noch huyden, als du, te weten, soetelijck ende commedelijck bespotste het miracule onses Heeren Jesu Christi den blinden van Jericho ghenesende.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 38.</hi></head>
+<p>In die Comedie heb ick dat miracule Christi waerdelijck ende Christelijck ghehandeldt. Ghy seght bespouwelijck, maer ghy en bewijst dat niet getrouwelijck. Dats mijn maecksel, dats in druck, brengh daer wat uyt voort daer met ghy betoont dat ick dat miracule bespotte. Dits u onmoghelijck, maer 't segghen licht. Suldy dan altijdt meynen datmen u bewijseloos lasteren als oft Evangelie ware gheloove behoort te gheven? ende dat noch in soo schandelijck aentichten? wie merckt noch niet dat u doorgaens bewijsinghen, maer nerghens onchristelijcke Calumnien en ghebreken? in die Comedie hebbe ick niet alleen gheseydt maer vast bewesen dat u Imputative gherechtigheydt argher is dan der Catholijcken meritum. Dit bijt u, dit verantwoort kondy. Maer wildy gheloove hebben soo moet ghy bewijselijcke waerheyt voort brenghen, niet so afgrijselijck schelden.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus 39.</hi></head>
+<p>Ten laetsten de dach soude my te cort worden so ic alle dijne blasphemien eenmael wilde verhalen.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 39.</hi></head>
+<p>Tot het verhael mijnre blasphemien en behoeft ghy niet een ooghenblick tijdts, want in mijne schriften vintmen niet een. Of soudyse daer wel in weten, sonder te seggen daer zijnse?</p>
+<p>Maer soudy alle uwe Copiam van lasterwoorden voort halen, ick gheloove wel dat niet een dach, maer een Jaer u te kort soude worden: om te bewijsen dat Broer Cornelis Gheest niet dubbelvout in u ware verresen. Daer by love ick mede seer wel soo ghy u eygen Tuyntjen eens recht bestont te wyeden, dat u niet veele tijdts en soude overlopen om my ende anderen met u versierde blasphemien te bekladden. 'tGeschil stelt ghy ter zijden, ende arbeyt door u onwaerheyden den menschen vroet te maecken, dat ick d'alderquaetste man ben, ende dit noch al sonder een eenigh stuck te bewijsen. Hier in hebdy u tijdt besteet ja verlooren, wat diende dit ter saken?</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Daneus 40.</hi></head>
+<p>Maer dat is onnodigh want sy (die blasphemien) zijn alderkenlijckste, alhoewel du dijne schriften (als oock dijne broederkens) met dan den dijnen en wilste ghemeen maken.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 40.</hi></head>
+<p>Mijne schriften make ick allen Nederlanders ghemeen: soo maeckt ghy oock uwe onware lasterschrift alle Europianers Latijn konnende ghemeen: 't welck soo ghy wat minder deedt, u wat meer ghemeen soude maken met d'eenvuldige waerheyt selve, die ghevloeckt zijnde zijnen vloeckers benedijde.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Danaeus 41.</hi></head>
+<p>De Heere ontfermt onser ende beschermt de zijnen van alle bedriechlijckheyden door onrustigher wercktuyghen Satans, Amen.</p>
+<p>&nbsp;</p>
+</div>
+<div type="section">
+<head><hi rend="i">Coornhert 41.</hi></head>
+<p>De Heere ontfermt over den ontfermers maer niet over den bloetdorstighen ende wrede faemrovers van haer even mensche. Och of ghy dit wat tijdtlijcker herten naemt, God verbetere u herte, ende stercke mijn ghedult, Amen.</p>
+</div></div>
+</body>
+</text>
+</TEI.2>

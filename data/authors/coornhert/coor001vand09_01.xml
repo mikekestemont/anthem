@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "http://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Vande sendinghe</title>
+                <author>D.V. Coornhert</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Vande sendinghe</hi> van D.V. Coornhert in de eerste druk van een uitgave uit 1630, getiteld <hi rend="i">Wercken. Deel I</hi>. Het jaar van de eerste druk van het oorspronkelijke werk is onbekend.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr>fol. 379: het foutieve folionummer 381 is gewijzigd in 379.</corr>
+                        <corr>fol. 379r: ‘Vrunt.’ → ‘C.’: ‘<hi rend="i">C.</hi> So ist, maer hy en verstondts niet recht.’</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">coor001vand09_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2011 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="clarin-edite">yes</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Universiteitsbibliotheek Amsterdam, signatuur: Cat. Ned. Lett. UBA 195</idno>
+                </bibl>
+                <p>D.V. Coornhert, ‘Vande sendinghe’, uit: D.V. Coornhert, <hi rend="i">Wercken. Deel I</hi>, Jacob Aertsz. Colom, Amsterdam 1630</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Vande sendinghe</title>
+                <author>D.V. Coornhert</author>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Vande sendinghe</title>
+                <author>D.V. Coornhert</author>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2011-12-06</date>
+                <respStmt>
+                    <name type="person">JV</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+<div type="chapter">
+    <interpGrp><interp type="primair" value="coor001vand04"/></interpGrp>
+<pb ed="fol." n="377r"/>
+<head rend="h2">Vande Sendinghe,</head>
+<head rend="h3"><hi rend="i">Eerste ghesprake, Tusschen Vrunt ende Coornhert.</hi></head>
+<p>Sittende inden Schepe op een eensame plaetse alleen verselschapt met een Boecxken gemaeckt by Dirc Philipsz. quam beneven my sitten een man uyt Westvrieslant vanden Volcke (soo ick bemercte) die sich broeders noemen of vrunden: ende dit,  so my dochte, overmidts zijn kennisse van des Boecxkens maecksele ofte bintsele. Ghemerckt hy my ten eersten vraeghde of dat niet en ware het Boecxken van Dirc Philipsz. Ic antwoorde ja,  hy vraegde my voorts of ick dan oock ware vanden vrunden,  ick seyde neen? te wetē niet vande vrunden die ghy meent hoe wel ick my int alghemeyn alder vroomen vrunt houde te zijn. Hier wil ick om te vermyden het  menichvuldigh verhael deser woorden, hy seyde, ic seyde, etc. voorts aen daer hy spreect <hi rend="i">Vrunt,</hi> ende daer ick spreke <hi rend="i">Coornhert,</hi> meynen metten Letteren <hi rend="i">V.</hi> ende <hi rend="i">C.</hi></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Waer toe leest ghy dan dit boecxken?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Omme te verstaen des schrijvers meyninge: die ick van velen hoore schelden, oock van sommighe prijsen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Dats al wat onpartijdelijck ghelesen. Laesdy hem noyt voor nu?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Ja.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>So onpartijdelijck.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Ghewis.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Dat mach ick niet gheloven.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Waeromme niet?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Om dat ghy den schrijver niet en hebt ghelooft, ende u niet begheven in onse ghemeente, dats inden Arcke Noe, ’twelck voorwaer niet en mocht uytghebleven zijn gheweest, soo ghy hem onpartijdelijck gelesen ende recht verstaen haddet ghehadt.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Ick gheloove Gode ende zijn woordt, ende niet allen schrijvers. Het mach oock wel zijn dat ick desen schrijver recht ghelesen ende verstaen, maer groot misverstant in hem ghevonden hebbe, soude ick dan zijn qualijck schrijven moeten toe stemmen?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ghy moocht zijn Schriften qualijck lesen, maer die niet quaedt bevinden, want hy schrijft waerheydt, is die quaedt?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Neen, maer ic acht dat hy onwaerheyt schrijft ende en can hier inne noch zijn schrijven noch u seggen gelooven.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ghy mooght wel onghelovigh zijn.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Hy mach wel onwaerachtigh zijn.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Hoordy huyden zijn stemme, so en verherdet u herte niet.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Die stemme Godes hoore, gheloove, ende volghe ick in Christo onsen Heere: maer die vreemde stemmen deser menschē en kenne noch en geloove ick niet, wie haest ghelooft is lichtvaerdigh. Acht ghy’t goeden man so lichten sake datmen sich begheve tot een ander Kercke? Men behoort in desen immers sekerlijck te weten wiemen ghelooft, te weten Gode of menschen. Soude ick deser luyden leere geloven, men moste my voor al ontwijfelijck bewijsen dat dese Dirck Philipsz. Menno, ende die andere uwe Leeraren van Godt zijn ghesonden. Vergheefs en waerschoudt ons Godt door die Heylighe Schrift niet soo sorghvuldelijck als menighvuldelijck voor den valschen Propheten.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Dat is al recht, siet daer schrijft Dirc Philipsz.<note place="margin"><hi rend="i">D.P. Fol. 244.b.</hi></note> selve: dat niemandt van hem selve sulck Ampt mach aennemen. Sydy dan soo slecht dat ghy meynt dat syluyden so wichtigen handel uyt hem selve sonder ghewisse verseeckertheydt souden bestaen? of acht ghyse voor kinderen?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Voorwaer andere oock menschen zijnde als dese luyden, hebben wel ghewaent dat syluyden van hare Sendinghe seker waren: ‘twelck syluyden selve, swijge andere menschen, namaels anders bevonden, ende selfs opentlijck beleden hebben. Doch na de mael het niet ghenoegh<note place="margin"><hi rend="i">Joā.10.4.</hi></note> en is dat de Leeraer versekert zy van zijne sendinghe, ’ten sy dan sake dat die Leeringhe mede daer af versekert zy, indien dese so veyligh sal hooren als die leeren (‘twelck immers soo behoort), soo mosten uwe Leeraren salt recht toe gaen, haer zendinghe den leerlingen ontwijfelijck doen blijcken.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Die wil ick u tastelijck ende onwedersprekelijck bewijsen. Maer daer toe ist nodigh dat wij’t eerst eens zijn, hoe God yemanden sendet om eenigh ghemeynte te leeren, of anders en moghen wy niet weten wien men moet achten daer toe wettelijck ghesonden te zijn van Gode.</p>
+<pb ed="fol." n="377v"/>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p><note place="margin"><hi rend="i">Hoe God zendet.</hi></note>Daer spreeckt ghy gheschicktelijc of ordentlijck.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Wat is u ghevoelen hier af?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Dat God daer toe sendet op tweereleye wijsen, te weten sonder ende oock door middele.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Dat houde ick mede so, maer hoe sent Godt sonder middele?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p><note place="margin"><hi rend="i">Sendingh Godes sonder middele.</hi></note>Door droomen, door ghesichte, of door openbaringhe, soo men dickmael bevint in den Ouden Testamente, of door onsen Heere Christo, sonder Overheydts toe-doen, als in den nieuwen Testamente, int zenden der Apostelen is gheschiedt.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Noch segdy niet qualijck, verclaert nu oock u meninghe vande zendinghe Godes die daer gheschiedt door middele.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Dat wil ick doen, maer moet noch eerst wat seggen van’t senden sonder middele.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p><note place="margin"><hi rend="i">VVonder daden.</hi></note>Seght dan, ick meynde ghy al volzeydt haddet.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Neen, ick wilde noch segghen dat Godt int zenden sonder middele daer by ooc meest voegt wonderdaden tot bevestinghe van sulcke Sendinghe. Dit heeftmen moghen sien aen Moysem, aen Aaron, aen Eliam, ja oock aen <note place="margin"><hi rend="i">Sendinge door middele.</hi></note>Christum selve ende oock aen zijnen Apostelen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Dat sy so, seght nu voort van d’ander zendinghe.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p><note place="margin"><hi rend="i">D.P. 244.</hi></note>God zendet oock tot Leeraren zijnder Ghemeynten doort middel der Overheydt zijnder Kercken.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Neen, door den Godvruchtighen, so Menno wel schrijft, of soo D.P. klaerder uytdruckt door den Apostelen Ouders metten ghemeynte.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Daerom en wil ic nu niet twisten, maer vraghen of ghy oock weet van eenighe ander zendinghe.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Neen, buyten of behalven dese twee en vintmer gheen meer.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Bewijst nu condy dat uwe Leeraren op een van dese twee wijsen van Gode om een gemeynte te leeren ghesonden zijn gheweest.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Claer ende vastelijck want sy zijn gesonden, namentlijck oock Menno ende Dirck Philipsen door middel der Godvruchtigen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Welcke zijn die?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Die ghemeynte Godes, die daer den Predicanten <note place="margin"><hi rend="i">Of der Doperen Kercke oock sy de ware kercke Godes.</hi></note>verkiest ende ordonneert, daer heb ickx nu bewesen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Sal dese bewijsinghe goedt zijn, soo moet noch eerst bewesen zijn, dat uwe ghemeynte, die henluyden heeft ghesonden, die ware Kercke of ghemeynte Gods sy, want soo dat niet en is, en mach die van Godes weghen gheen Leeraer ordonneren of zenden.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>So ist, maer bekent ghy niet dat het die ware Kercke is, daer by die ware leere zy?</p>
+<p>&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">Coornhert.</hi></p>
+<p>Daer op is veel te seggen, maer wat noemdy<note place="margin"><hi rend="i">VVat de ware leere zy.</hi></note> die ware Leere? den bloten Text der Heylighe Schriftueren comende uyten Geest Godes? seghdy den blooten Text, of die uytlegginghe van dien na den Geest uwer Leeraren? Seghdy den blooten Text, soo moet ghy den Luterschen, den Swinghelschen, ja oock den Catholijcksen Kercken, mede al houden voor ware Kercken, ghemerckt alle dese, soo wel als ghyluyden den blooten Text hebben ende voor loutere waerheydt ghelooven. Dit voeght immers u luyden niet, die alle dese Kercken scheldt voor grouwelijcke of valsche Secten.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Neen, ick versta by de ware Leere niet den blooten Text der Bybelsche Schriften, maer die werachtige uytlegginghe van dien. Dese is by den onsen alleen, ende by gheen van alle d’andere Seckten, by u nu vermeldet.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Dats sterckelijck gheseydt, maer cranckelijck bewesen, seght doch goede man, meyndy d’een onsekerheydt met d’ander te versekeren? waerom doch anders is nu alle ‘tgheschille? roept nu elck niet dat die ware uytlegginghe der Heylighe Schriftueren by henluyden sy?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Dat en ist alleen niet, want al heeft elck de Bybele, soo en is nochtans by niemande die ware Doope, dan by onsen volcke alleen, ende die waer oock alleen ghenoegh tot versekeringhe van onse leerings, ja ooc Kercken oprechtigheyt.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Dats al mede bestaen d’een duysterheyt met d’ander te verlichten. Al d’ander Kercken schelden uwe Doope voor valsch. Doch rust dit bewijst met u ware Doope (soo ghy dat noemt) opt bewijs vande Leere, want sodanigh die leere vande Doope is in eenigh Kercke, sodanigh is oock daer toe die Doope.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ghy sult my immers (meyn ick) wel toestemmen dat die rechte leere daer zy, daer een oprecht Predicant of vermaender leert.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Ja ick gaerne, maer dits al mede gepooght met d’een twijfele d’ander twijfele ontwijfelijck te makē, want waer aen machmen die oprechtigheyt eens Leeraers (ick meyn hier niet simpelijck eens Christens) doch merckelijcker kennen dan aen die oprechtigheydt zijnder Leere of bedieninghe des woorts?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Men mach hem oock kennen aen d’oprechtigheydt zijns Levens. Nu zijn onse Leeraren van leven gants onstraffelijck blijckt dan onse Leere niet goedt?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Dit te bewijsen soude u soo veele werckx gheven, als het bewijs vande Leere self. Voorwaer soo ghy-luyden dien Reghel <pb ed="fol." n="378r"/>wilt stellen, soo hebben die schijn-heylighen ’t Spel al ghewonnen, want henluyden leven dubbelt heyligh schijnt voor den menschen daer der Christenen leven by na zondigh schijnt. Dit sietmen aen die heyligheyt selve, die een gheselle der zondaren, een Wijnsuyper, een Sabbath breker, ja een seditieus man was in der schijnheylighen oogen. Merckt ghy noch niet die ydelheyt der bewijsinghe die uwe Leeraren voor haerluyder zendinge voort brengen? wat houdt ghyluyden doch van u selve? waer voor hout ghy alle andere?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ons selve voor rechte gheloovighen ende allen anderen voor onghelovighen, wereldts ghesinden <note place="margin"><hi rend="i">Liefde Merck.</hi></note>ende verdoolde menschen, der welcker wijsheydt voor Gode een zotheyt is. Maer dit al overgheslaghen, soo moet ghy immers lijden datmen den Iongheren Christi mach kennen aen die Liefde.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Ia ick gaerne, want dat leert die eenighe Meester, maer waer met suldy my doch vroetmaken dat die lanckmoedighe, goedertierene, ende alghedoghende liefde, die niet archs en denckt by u Leeraren zy? Daer mede dat sy niemandts onverstant willen draghen? Niemandts swackheydt willen dulden? noch niemandts doolinghe en willen lijden? maer dat sy over allemans gheloove willen heerschappen, sulckx dat wie niet ja en seydt tot alle henluyden goedt-duncken, dat die zy een waenwijse, een Wereldts ghesinde ende een Godtloos? soude dat heeten niet archs te dencken? soude dat lichtvaerdigh stout ende vermetel, verwerpen, veroordeelen ende verdoemen liefde moeten heeten? Soude dat die minnelijcke aert der liefden, die soete aerdt Christi, ende die vrundelijcke aerdt Godes zijn, die ons allen noch vyanden zijnde al lief hadde? Dat is my om gheloven onmoghelijck. Onmoghelijck ist u oock te lochenen dat u Leeraren dese goedertieren aert der alghemeynder liefden ontberen, ende daer teghen die hatelijcken aert der partijdigheyt hebben. Soudy nu daer met bewijsen dat u Leeraren Iongheren Christi zijn? Immers wat dient crachtigher tot bewijs dat zijt niet en zijn? ontberen zy niet soo opentlijck die liefde het ware merckteken van Christi Iongheren? of wildy segghen dat sulcke uwer leeraren scherpe hatelijckheydt van eender aert is met die soete liefde Christi? blijckt hier nu niet uyte dat sy gheen Ionghers Christi en zijn? is ditte: hoe moghen sy zendtboden Christi zijn? het zijn dan gheen Herders van Christo ghesonden, maer Huyrlinghen, ja noch wat erghers, die van selfs lopen ende niet en comen om wat te brenghen of om levendigh te maken. Hier op moste Dirck Philipsz. niet wel letten, als hy schreef dese woorden: Dat werck looft immers dan Meester, ende een <note place="margin"><hi rend="i">D.P. 269.</hi></note>Christelijcken Leeraer, zijn onstraflijcke leere ende wandel. Nochtans hoe wel die Leeraer in allen onstraffelijck is, soo en wil nochtans die huychelsche ende Phariseeusche aerdt den Euangelio niet ghelooven.</p>
+<p>&nbsp;</p>
+<p>Hoe onstraffelijck hy selve was, die mede allen anderen zijn woort niet gheloovende schelde, lasterde ende veroordeelde weet elck wel. Souden dan dit zijn bittere werck sijns doodtlijcken haedts noch moghen maken datmen zijn Leere (de welcke hy Euangelium derf noemen) soude connen ghelooven? dat dunckt my niet, maer wel eer dat het een crachtighen af keer daer van soude maken, in alle menschen die opter aerdt der vruntlijcker liefden willen mercken. Maer wat vromigheydt ist dat hy daer schrijft? soude Dirck Philipsz. woordt, uytlegginghe of beduydinghe nu het Euangelium zijn gheworden?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Dat treckt ghy wat te verde buyten zijn meyninghe.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Ick mercke dat niet, seydt hy niet dat die Phariseeusche aert den Euangelio niet en wil ghelooven? wat meynt hy daer met dat woordeken Euangelio: zijn uytlegginghe ende leere, of wat anders? Seker meynt hy het Euangelium selve, dat en is niet zijn maer Christi Leere. Meynt hy dan oock zijn eyghen Leere, soo en meynt hy’t Euangelie niet.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ghy moocht immers niet lochenen dat onse Leeraers soodanighen yver hebben tot der menschen saligheydt, dat syluyden sonder alle eyghen ghesoeck van Aertsch ghewin, gemack, of eere, gheen moeyten noch sorghlijckheyden en ontsien, om den verdoolden oprechten Bane te helpen.</p>
+<p>Sijn’t gheen rechte Leeraren die dese Godlijcken yver hebben? ick houde vryelijck ja, hebben d’onse desen yver niet? daer mach niemant neen toe segghen, so zijn onse Leeraers immers oprechte Leeraers, so is henluyder leere oock die rechte leere, soo is by ons oock die rechte Leere, soo is by ons oock die rechte leere, soo is by ons oock die rechte Kercke, ende soo zijn zy vande selve oock wettelijck gesonden. Hebdy nu daer niet claer ende vast bewijs van ’t ghene ghy begeerde? of weet ghy hier noch wat jeghens te segghen?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Al veele meer dan u (soo ick mercke) sal behaghen. Doch doedy hier inne wat vroedelycker dan in dit onvast besluyten, dat ghy wel verstaende by uwen Leeraren niet te wesen die Liefde, daer met ghy tot bewijsinghe voort quaemt, die selve nu so properlijck laet varen, ende inde plaetse vande Liefde voort haeldt desen yver. Dese gheloove ick wel te zijn in uwen Leeraren. Ick gheloove oock gantschelijck dat zijt goedt meynen, Godes eere soecken ende ‘svolckx saligheydt benaerstighen, maer geensins gheloove dat sulcx alles te recht, wijselijck ende met oprechte bescheydenheyt geschiet. Hebdy dan noyt ghelesen datter oock eenen onwijsen<note place="margin"><hi rend="i">Onwyse yver.</hi></note> ende verderflijcken yver is? Was die<note place="margin"><hi rend="i">Nu.16.1.</hi></note> niet in Chore ende Dathan, ende in seer veele<note place="margin"><hi rend="i">Rom.10.2.</hi></note> anderen, oock inden broederen Pauli na den vleesche? was die niet in veel Ioden teghen Christum selve ende in Paulo eerst teghen den Christenen? Is sy oock noch huyden niet in<note place="margin"><hi rend="i">Ioan.16.2.</hi></note> den ghenen die daer meynen Gode eenen dienst te doen als sy den Iongheren Christi dooden? <pb ed="fol." n="378v"/>Seght my nu goede man of dese onwijse yver oock al een ghewis merckteken sy vande ware Leere of Leeraren? Immers of eenighe yver daer van oock een seker merckteken mach zijn, ghemerct men sulcken onwijsen yver oock vindet? Ist Gode al aenghenaem wat uyt een yver ofte goede meyninghe geschiedt buyten Godes uytghedruckten beveele: waeromme scheldens die uwe soo bitterlijck in anderen? Voorwaer dese bitterheydt en comt niet uyt het Godlijcke vuyr der liefden, maer veel eer uyt het vreemde <note place="margin"><hi rend="i">Lov.10.1.</hi></note>vuyr daer mede Nadab ende Abihu, den Heere na henluyden goedtduncken waenden te offeren. Maer hoe aenghenaem Gode dese vreemde ende onwijse, doch vuyrighe yver was, bethoonde des Heeren wraeckvuyr. Nu waren dit noch Priesters van Ampt, ja Aarons Sonen selve. Wat mocht oock beter schijn hebben <note place="margin"><hi rend="i">2.Reg.6.6.7.</hi></note>van een goeden yver dan als Oza siende des Heeren Arcke in sorge van vallen de handt uyt streckte om die te stutten? Noch heeft hem die goede meyninghe ofte yver soo luttel mogen verschoonen voor den Heere, dat die vertoont zijnde in veronwaerdinghe teghen Ozam hem gheslaghen heeft metter doodt, ende dat om syne vermetelheyt soo die schrift naecktelijc uytdruckt: sulcx dat David selve wijs gheworden zijnde met een anders verderf, vreesde den Arcke des Heeren te doen comen tot hem inde stadt Davids. Daer mooghdy vrunt nu mercken wat treffelijcke bewijsinghe ghy hebt ghedaen met desen uwen yver. Neen vrunt, alsoo niet, ’tis niet ghenoegh te bewijsen datter een yver zy, maer die moste verstandigh blijcken, ende dan moste daer oock het derde blijcken, namentlijck <note place="margin"><hi rend="i">Mat.20.7.</hi></note>bevel of zendinghe. Dese vintmen alle drie uyt ghebeeldet inde Wijngaerdenieren die niet alleen een yver hadden om te wercken, maer die oock so verstandigh was dat sy ledig stonden, soo langhe sy niet en waren gesonden: ende ghesonden zijnde inden Wijngaert ginghen wercken. Nadematl elcke Seckte, ja oock Ioden, Turcken, ende Heydenen luyden hebben van soodanighen crachtighen yver dat sy lijf ende goedt laten voor haer Religie: soo condy nu wel mercken wat onsekerder ding die yver sy, als sy niet verstandigh ende ghewisselijck van Gode self ghesonden en zy.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Een wonder dingh, ghy en wildt immers niet lochenen dat God zijn Kercke hier heeft opter Aerden.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Neen gheensins.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>By de ghemeynte der Kercken is macht om wettelijck Leeraren te senden, so moet nu oock volghen dat soodanighe Leeraren, hare zendinghe hebbende vande ware ghemeynte Gides wettelijck zijn ghesonden.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Dat besluyt wel, maer ghy most eerst bewijsen dat uwe ghemeynte zy die ware Kercke ofte Ghemeynte Godes.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Dats licht om doen. Immers ‘tis al voor my gedaen, leest eens dese plaetse.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Hier staedt aldus, ende soo yemandt wilde<note place="margin"><hi rend="i">D.P. 264.b.</hi></note> vraghen waer is dese ghemeynte, antwoorden wy, daer Godes woort recht gheleert, gelooft, ende bewaert wordt. Want die zijn Discipulen Christi, die zijn woordt hebben, ghelooven ende bewaren.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Hoort nu goede man, betrout nu doch boven u menschelijck vernuft die Godlijcke Schrift, zijn dat niet Christi woorden selve? ghelooft nu, niet Dirck Philipsz. maer Christum selve. Seydt Christus niet ist dat ghy in mijnen woorden blijft, soo suldy mijne Ionghers zijn?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Nu gheefdy’t u self schoon ghewonnen, ghy laet het bewijsen varen, ende comt aen’t vermanen, niet teghenstaende ghy niet een Letter noch en hebt bewesen. Seght lieve Man hebt ghy dat in Christi woorden blijven, daer men sulcken hatelijcken Banninghen ghebruyckt? dar men gheen liefde en speurt? daer barmhertigheydt noch trouwe en werdt ghevonden. Maer u zeden overslaende, soo bekenne ick u gaerne dat daer die rechte ghemeynte Christi is, daer zijn Woort recht gheleerdt, ghelooft, ende bewaerdt werdt: maer volght daer uyte dat in u ghemeynte sulckx gheschiedt? Dit moeste klaer ende vast bewesen zijn, dit bestady niet, noch dat en vermooghdy niet. Wat seydt Dirck Philipsz. hier doch anders, dan dat hy uyten woorden Christi verclaerdt hoedanigh die ware ghemeynte Christi zy? Alsoo beschrijft de Heere Christus mede hoedanigh zijn Liefhebbers zijn, segghende: soo wie<note place="margin"><hi rend="i">Ioa.14.23.</hi></note> my lief heeft, die houdt mijn woordt. Of ick daer nu wilde uyt besluyten dat ick soodanigh ware: soudt ghy sulck bewijs oock voor ghenoeghsaem willen achten? moghent oock bescheyden hoofden zijn, uyt welcke sulcke onbescheydene bewijsinghen voort komen? Bewijst eerst dat uwe Kercke die rechte Leere heeft, ghelooft, ende bewaert, dat is dat sy die doet: ende ick sal u Ghemeynte voor die waerachtighe bekennen. Maer te segghen, soodanigh is die rechte Ghemeynte, daer uyt volght dat wy’t zijn, is loutere Sotheydt.</p>
+<p>Weet ghy nu eenighe ander bewijsinghe vande ware Zendinghe uwer Predicanten by te brenghen, soo haeltse voort, ick wil die hooren ende beantwoorden.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ick hebbe meer gheseydt dan noodigh was, dan ghy condt of wilt begrijpen, ende dan my bevolen is soodanighen Peerlen te stropen.</p>
+<pb ed="fol." n="379r"/>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>So worde ick buyten mijn weten een Varcken ghemaeckt. Meyndy alsoo den hongherighen menschen met Draf, met ghedroomt Eten, of met geschilderde spijse te versaden? stont u niet toe te bewijsen dat uwe Leeraren van Gode zijn ghesonden? hebdy dat met eenighe waerschijnlijcke redenen bestaen, ick swijghe ghedaen? ghy moet hier immers self den neen bekennen. Al-hoe-wel nu hier niet een woordt meer behoeft tot wederlegh vande sendinghe uwer Leeraren alsoo uwe bewijsinghe oock henluyder selfs ydel versierdt ende onwaer is ghebleken: soo wil ick nochtans om uwen willen (die eerst om mijnen willen my aenspraeckt) noch spreecken saecken tot bewijs dat uwe Predicanten onghesonden van selfs lopen, zoo vast ende naeckt wesende, dat ghy (wildy’t onpartijdelijck hooren) sult moghen verstaen dat ick eenvuldighe waerheydt verhale, ende dit marghen als wy wederomme Scheep ghekomen sullen zijn uyter Herberghen, daer af wy nu niet verde en zijn, by soo verde u sulckx te hooren sal lusten.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Die lust om sulcx te hooren en is in my (om waerheyt te segghen) niet seer groot. Maer want ghy my hebt ghehoort wil ick u hooren, ende weder by u comen laedts my de Heere toe.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Eynde van’t eerste Gesprake.</hi></p>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Tvveede t’samensprake tusschen Dirck Volckertsz. Coornhert, ende Vrunt.</hi></head>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">Coornhert.</hi></p>
+<p>Goeden Marghen vrunt.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">Vrunt.</hi></p>
+<p>Een goet Iaer. Saegdy daer wel wat swaerder slagh de Scheepsknecht daer kreegh van de Schippere?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Ia wel, maer saeghdy oock dat de knecht het Schip te vroegh los-makende, ’t Schip ende goet met oock ons alder lijf ende leven in sorghen stelde?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ick sacht met verschrickinghe, maer wats dan? de knecht meyndet recht.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>So ist, maer hy en verstondts niet recht.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ick ben meermalen hier gheweest ende weet datmen ghewoon is soo te doene, als de knecht dede. Immers de knecht heeft sulckx oock den Schipper (wiens swijghen des knechts seggen in zijn aensichte hier inne bevestighde) selve dickmael alsoo sien doen. Wast dan al recht dat hy den knecht soo strenghelijck handelde, ende dit alleen om dat hy navolghde het exempel vanden Schipper selve?</p>
+<p><hi rend="i">C.</hi>De knecht dedet na, buyten zijns Schippers beveelen, ende dit noch onbescheydelijck, dus was dat strafbare vermetelheydt. Dat <pb ed="fol." n="379v"/>ick segghe buyten beveelen, de Schipper en bevaldt hem immers nu niet te doene. Soo en houde ick niet dat de Schipper den Knecht bevolen heeft alles na te doen, dat hy den Schipper oyt heeft sien doen. Dede hy dit dan uyt zijn goedtduncken alleenlijck, sonder gheboot zijns Meesters, soo was hy immers daerom te recht strafbaer. Maer watte? my dunckt dese handel des Schippers met zijnen vermetelen ende onbescheyden Knecht ons te recht aenwijset totter saecken die wy nu voor handen hebben. Want ick beloofde huyden te bewijsen dat uwe Leeraren niet en sijn ghesonden van Gode, maer dat sy van selfs lopen, ist niet also?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ia om dat te hooren ben ick weder hier ghekomen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Int volghen van eyghen goedtduncken sonder Godes bevel te hebben zijn uwe Leeraren desen Scheepsknecht ghelijck: maer ongelijck zijn zy hem int navolghen van’t exempel.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Hoe meyndy datte?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Gaf de Schipper met zijn swijgen niet genoegh tekenen dat hy (soo hem de Knecht seyde) selve ‘tschip alsoo dickmael los ghemaeckt hadde?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ia hy.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>De Knecht volghde dan (hoe wel onbescheydelijck) noch al een exempel na. Maer wat exempel volghen uwe Leeraren doch nu na, int wederoprechten eens vervallen Godsdiensts?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Vraeghdy datte? zy volghen na ‘texempele vande Apostelsche Kercke:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p><note place="margin"><hi rend="i">Geē exēpel inden Apostelen van een vervallen Kercke op te richten.</hi></note>Niet vande Apostelen. Noyt las ick dat d’Apostelen een vervallen Kercke opghericht hebben. Maer seght doch, was der Apostelen Kercke nieu of oudt?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Nieuw, want ten was gheen Ioodsche Kercke.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Was d’Apostelsche Kercke oyt by tijden der Apostelen vervallen?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Sy was te vooren niet gheweest, hoe mocht sy dan vervallen zijn? Men leest oock niet van’t vervallen in heuren tijden. Want al vielen eenighe af vanden gheloove, die Kercke bleef nochtans oprecht.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Na dien dan die Apostelen gheen vervallen Ioodtsche Kercke noch oock gheen vervallen Apostelsche Kercke en hebben opghericht, soo wast immers een nieuwe Kercke van Ioden ende Heydens te samen, noyt te vooren sulckx gheweest zijnde, die sy oprichteden.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Het was een nieuwe Kercke.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Het stichten van een nieuwe, of het wederoprichten van een vervallen Kercke, en is immers gheen een selve werck.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Neen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Soo segghen uwe Leeraren oock qualijck daer aen, dat syluyden int wederoprechten eens vervallen Kercken navolghen het exempel der Apostelen, die sulcx (soo ghy bekent) noyt gedaen en hebben. Moghen uwe Leeraren den Apostelen oock navolghen int doen van een werck dat d’Apostelen noyt en deden?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ghy weet wel dat d’onse niet nieus en doen int wederoprechten eender vervallender Kercken, ghemerckt syluyden daer inne navolghen die wederoprechtinghe des Tempels tot Ierusalem gheschiet door Esdram.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Ick weet dan oock wel dat ghy daer inne navolght gheen Apostolisch exempel, maer een Iodisch exempel. Soo volghdy alst u goedt dunckt het Oude Testamendt, maer alst u teghen is, soo moet het uytghedient hebben ende versleten zijn. Maer laet u dit exempels navolgen (dat u niet is bevolen) noch al schoon toeghelaten zijn. Soo vraghe ick u, hoe ghyluyden dat dan noch soudet moeten navolghen, te weten na u goetduncken? of alleenlijck na dat voorbeelt ende niet anders.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Alsoo als dat gheschiede op dien tijdt. Dit<note place="margin"><hi rend="i">D.P. 161.b.</hi></note> schrijft D.P. oock selve.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Bouwen u Predicanten of Leeraren een Tempel van houdt ende steen als Esdras dede?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Neen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>So volghdy dat voorbeelt anders na. Seght noch, hebben Menno ende anderen u gemeynten opghericht door toelatinge van eenig Keyser of Coning?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ghy weet wel neen, wildy seggen dat Christus een Houten of steenen Tempel heeft ghebouwet? Heeft Christus zijn ghemeynte door toelatinghe van eenigh Keyser of Coningh? Siet doch hoe gantsch onbescheydelijck ghy nu handelt.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Soude ‘tonbescheydt niet wel by u zijn? by u die nu verlatende u inghevoerde exempel van Esdras int wederoprechtē eens vervallē Tempels, van daer swerft opt exempel Christi die een nieuwe Kercke van levende steenen uyt Ioden ende Heydenen te samen stichtede? blijft by den Tempel tot Ierusalem, ende by Esdram, welckx exempel ghy voort haelt, ende merckt of ghy oock mooght segghen dat ghyluyden dat na volgt. Ghy moet neen bekennen, alsoo ghyluyden gheen Houten of steenen Kercke, ende dat noch sonder believen van den Hooghe Overheydt Timmert. Of wildy hier teghen segghen? Nu ghy swijght moet ick voort spreecken dat my wondert waeromme ghy d’exempelen Elie ende Iosue niet voort en haeldt.</p>
+<pb ed="fol." n="380r"/>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Waer inne?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p><note place="margin"><hi rend="i">3.Reg.18.36.</hi></note>Int weder oprichten vande vervallen Ceremonien of Godsdienste ende suyveringhe van de misbruycken: Van Elia leest men dat God met een wonderlijck wercke die zendenghe Elie hier toe dede blijcken voor allen den volcke als Elias ghebeden hadde, segghende: toont huyden Heere dat ghy zijt God in Israel ende ick u Dienaer, ende dat ick alle dit naer mijnen bevelen ghedaen hebbe.</p>
+<p>Dats voorwaer niet uyt eyghen goet-duncken als u Leeraren doen. Soo leestmen oock van Iosue dat God hem groot maeckte voor den gantschen volcke Israel, soo dat sy hem zijn leefdaghen langh als Moysem vreesden.</p>
+<p>Daer op volght int naeste Capittel, dat Godt Iosue gheboodt den Kinderen Israels te besnijden, welcke besnijdenisse wel veertigh Iaren langh inde Woestijne opghehouden <note place="margin"><hi rend="i">Iosue 5.2.</hi></note>hadde. Daer sietmen dat Oisue die stoutigheydt niet en hadde om van selfs weder op te richten die opghehouden besnijdenisse, om datse voormaels ghebruyckt hadde gheweest, maer verwachte daer inne Godes bevel, niet jeghenstaende die besnijdenisse gheboden was op uytgheroeyet te werden uyten volcke alsoo die nerghens gheboden is op verdoemenisse.</p>
+<p>Ende boven dien blijckt noch uyt dese beyde exempelen mede, niet ghenoegh te zijn, dat die Leeraar seecker is van zijn wederoprechtinghe, maer oock het volck seecker moet zijn dat het Godes wil zy dat sulcx sal gheschieden, dat het nu gheschiede, ende dat het door desen of die Leeraer gheschiede.</p>
+<p>Dit alles is voorwaer met u Menno, Dirck P. ende andere uwe Leeraren al verde te soecken.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p><note place="margin"><hi rend="i">D.P. 261.</hi></note>Dirck Philipsz. schrijft, dat God nu ter tijdt alsoo met ons niet en spreeckt door een uytwendighe stemme, noch door ghesichten ende droomen, als inden ouden Testamente gheschiede. Maer hy spreeckt met ons door zijn woordt, ende dat woordt Christi is Geest ende leven. Wanneer nu Christus yemandt zijn levendigh woordt in zijn herte gheeft ende indruckt ende daer door roept, die is sonder eenighe twijfel vanden Heere door sijn woort gheroepen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Hier hoor ick nu een derde maniere van sendinghe, namentlijck door Gods inspreeckende woordt, ende dit opentlijck teghen tghene wy al gister inne waren vereenight, te weten: datter niet meer en zijn dan tweereley sendingen, als een sondaer middele, maer niet sonder wonderdaden, ende een met middele, sonder wonderdaden. Maer dat te rugghe ghesteldt, soo soude ick wel willen uyt u hooren waer gheschreven staet dat het spreecken Godes metten gheloovighen door Ghesichten ende Droomen alleen gheschiede inden Ouden Testamente ende niet int nieuwe? Ick en meyn niet dat u Dirrick Philipsz. dat wil bewijsen metten sproocke, Actor.2.17. Want daer staet plat uyte het teghendeel. Denckt nu of men Dirc Philipsz. hoort te gheloove sonder de Heylige Schrift, ja opentlijck daer teghen. Immers soo uwe Leeraren der Apostelen doen int oprichten der Kercken recht na willen doen, so moeten sy oock mede door ghesichten ende dromen van Gode gheleert worden. Dat scheeldt nu waerlijck veele van dat sulckx nu soude behooren op te houden.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Sout ghy wel derren lochenen dat de Christenen<note place="margin"><hi rend="i">D.P. 261.</hi></note> inder Apostelen tijden Leeraers geroepen ende gheordinneert hebben? of soudy derren segghen dat syluyden sulcx doende onrecht daer aen ghedaen hebben.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Sy hebbens gedaen ende dat rechtelijck.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Alle wat die Christenen in die tijdt te recht<note place="margin"><hi rend="i">D.P. 261.</hi></note> ghedaen hebben, dat en is den Christenen in deser tijdt met verboden noch af geslagen, maer die Christenen moeten heur nu na dat gebruyc der eerster Kercken schicken ende voegen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Nu stracx is bewesen dat ghyluyden der Apostelen exempel in desen qualijck na volght. Wat dien’t dit dan ter saecken? der Apostelen bevel tot sulck henluyden bleeck oock opentlijc: waer blijckt u bevel van henluyden dat na te doen?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Dirck Philipsz. selve heeft wel ghemerckt dat hy hier uyt gheen bevel en mochte spinnen, daerom hy oock niet heeft derren segghen dat hem sulckx bevolen is, maer seydt dats henluyden nu niet en is verboden. Wat behoevet dan meerder bewijs, dat hy ende u Leeraren des gheen bevel en hebben? Hebben syluyden des gheen bevel, soo en zijn sy daer toe oock niet ghesonden.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Al en ist niet gheboden, ’ten is niet verboden.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Acht ghy’t dan alles geboden te zijn dat niet en is verboden?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Dat en segghen wy niet, maer ‘tis een vryheydt der Christenen. Acht ghy’t alles verboden te zijn dat niet gheboden is?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Ia, voor u luyden, die self doorgaens alle sulckx lastert voor werck uyt eyghen goetduncken voortcomende: maer beroerende die vryheydt moetmen segghen dat het ghene vry is, ’twelck soo wel ghelaten als ghedaen mach werden. Seght nu, staet het u luyden oock vry te laten, Leeraers te ordonneren?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Neen, want sonder rechte Leere, etc. en<note place="margin"><hi rend="i">D.P. 262.</hi></note> mach gheen Christelijcke ghemeynte op gherecht ende vergaderdt werden.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Hoe mach u luyden dit Senden ofte Ordonneren der Predicanten dan doch vry zijn? Siedy noch niet hoe ghyluyden u <pb ed="fol." n="380v"/>self verwerret? wel aen. Dese uwe Leeraer belijdt hier selve dat dit na doen van’t ordonneren der Predicanten den ghemeynte nu niet en is bevolen, maer hy voeght daer by dat het den Christenen nu niet en is verboden.</p>
+<p>Alsoo soude u eerst nodigh zijn te bewijsen (om dit den Apostelen wel na te doen) dat ghyluyden die Christenen zijt. Dat valt u even soo moghelijck, als te bewijsen dat ghyluyden die Kercke sout zijn. Daeromme dat over gheslaghen zijnde, vraghe ick u of Godt oock waerdelijck ghedient mach werden uyt menschelijck goet duncken?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Geensins. Leest daer af wat sijns in dit u <note place="margin"><hi rend="i">D.P. 303.</hi></note>boecxken, daer ist: uyt dese woorden ist openbaer dat alle wat God niet gheboden ende met een uytghedruckt woort der Schrift niet ingeset heeft, dat en wil hy oock niet ghedaen hebben, daer mede wil hy oock niet ghedient zijn, wat dunckt u daer af? is dat onrecht?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p><note place="margin"><hi rend="i">D.P. 261.</hi></note>Dit schrijven van D.P. recht wesende, soo ghy’t selve hout, maeckt dat voorgaende zijn schrijven opentlijck onrecht.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Dat mercke ick niet.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Gonst merckt lancksaem ghebreken. Merckt dan nu eens, soo Dirck Philipsz. conde doen blijcken dat God met een uytghedruckt woort hem ende den zijnen bevolen hadde dit werck der Apostelen het zenden aengaende nu ter tijdt na te doen, hy en soudet vryelijck niet ghelaten hebben te doen. Dit heeft hy niet ghedaen, dus heeft Dirck P ooc niet vermogen te doen. Maer scheydende van’t ghebieden, behelpt hy hem met het niet verbieden Godes, ende sluyt daer uyt niet alleen dat het henluyden gheoorloft zy, maer dat zijt oock behooren na te doen. Is dit waer, hoe mach waer zijn dat God niet ghedient wil zijn met het ghene hy niet en heeft geboden? strijdt dat niet plattelijck ‘teene tegen ‘tander? Is henluyden het leeren ende gemeynte te vergaderen met een uytghedruckt woordt der Schrift gheboden? wat noot ist henluyden exempelen uyt henluyden goedtduncken na te volghen? ist henluyden dan oock niet geboden van Gode (soo hy self belyt met dese woorden) so wil immers God met sulck henluyder goetduncken niet ghedient zijn. Noch maeckt D.P. des niet jeghenstaende hem selve gheoorloft, ’tghene uyt dese zijne eyghen woorden blijckt dat God niet gedaen wil hebben. Is dat niet <note place="margin"><hi rend="i">Miraculē.</hi></note>groflijck teghen hem selve gheschreven? Laet ons nu daer af voortcomen opten wonderdaden. Dese achte ick dat u luyder leeraren als wesende nieuwelinghen te recht werden af geeyscht. Wat seght ghy hier op?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p><note place="margin"><hi rend="i">D.P. 266.b.</hi></note>Niet ick maer D.P. in dit u boecxken selve sal u dit beantwoorden aldus. Daer op antwoorden wy dat tekenen te eyschen ende hem aen den woorde niet te laten ghenoegen een teecken des ongheloofs is.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Lieve seght doch wat woort meynt D.P. hier, daer mede men sich soude laten genoegen? meynt hy de H. Schriftuere? of meynt hy zijn eyghen ende Mennons schrijften? meynt hy die Schriftuere so en laet sich niemandt vanden uwen daer mede ghenoegen, ende zijt ghyluyden of u ghemeente dan altsamen self ongelovigh. Want het is seecker dat ghyluyden noch Mennons, noch D.P. schriften ofte woorden niet en sout ghebruycken, soo ghyluyden u metter H. Schriftueren liet ghenoeghen. Souden dan oock D.P. met zijne mede Leeraren soo vermetel zijn dat syluyden souden willen dat alleman sich sal laten ghenoeghen met henluyder woorden of schriften, alleen om dat zijt seggen: wie sal niet verstaen dat syluyden so doende hem self stellen inde Heylighe plaetse? ende wat mensch niet puer zot of dol zijnde, soude die H. Schrift verlaten om deser menschen woort of schriften sonder achterdencken te geloven? Men vraghe alle naem-Christenen of rechte Christenen in wat uyterlijcke ghemeenten het oock zy, of zy die Bijbelsche Schriftueren in allen stucken niet altoos uyt ghenomen waerachtigh houden. Ick ben seker dat d’antwoorde sal zijn ja. Maer vraechtmen die selve of zy alle die woorden van Menno, van D.P. ende van alle uwe andere Leeraren in allen voor waerachtigh houden, men sal gewisselijck voor antwoorde hooren, neen, ende dat wel ende rechtelijck. Ende noch soude het teecken begheren tot bewijs dat D.P. woort (niet de Heylighe Schrift) waerachtigh, of zijn zendinghe van Gode zy, een teken moeten zijn van ongeloof? dese dolinghe is niet cleyn. Maer laet ons versieren of een teken des ongheloofs mochte zijn (als neen) soo vraghe ick tot wat eynde D.P. ende die zijne schrijven ofte predicken?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Dat doen syluyden om het rijcke Christi te vermeeren door winninghe van zielen tot Godes eere.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Wanneer gheschiede dese vermeeringhe des rijcx Christi?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Als door die Predicatie, menschen die ongelovigh waren ghelovigh worden.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+    <p>Merckt nu doch, ick bids u Dierick Philipsz. beschrijvende het hoogh-ghepresen gheloove des Hooftmans seyt daer: indien elck sodanigh gheloof hadde, men soude gheen tekenen begheeren. Neemt nu of elck sulcken geloof hadde: wat mensche soude door Mennons of D.P. predicken ghelovigh mogen worden? die’t al is en macht immers niet worden? soude dan henluyder predicatien ooc eenighen vrucht moghen doen tot vermeeringhe des rijcx Christi? daer opent sich nu die onwijse bewijsinghe in desen van D.P. maer so hy mette zijne dan wettelijc willen arbeyden tot vermeringe van’t Rijcke Christi: waeromme en ghebruyckt hy by den onghelovigen zijnder woorden het middele der wonderdaden niet? die waren den Apostelen bevolen, die hebben wonderdaden ghedaen, daer door namen die van <note place="margin" n="a"><hi rend="i">Act.8.6.</hi></note> Samarien acht opt woort, daer door hebben die menschen Godt <note place="margin" n="b"><hi rend="i">Matt.9.8.4.15.35.<lb/>Mar.2.12.</hi></note> ghepresen, ende daer door zijnder veele ten <note place="margin"  n="c"><hi rend="i">Ioā.2.23.4.11.45.4.12.11.<lb/>Acto.9.35.42.</hi></note> gheloove ghekomen, maer wil D.P. niemanden anders Predicken dan die nu al ghelovigh zijn: wat mensch sal door zijn Predicatie gheloovigh worden.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ons luyden en ist nu niet bevolen miraculen te doene.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Sy waren den Apostelen bevolen: waeromme u leeraren inder Apostelen ampt tredende niet? of ghebreeckt u Leeraren der Apostelen gheloove daer toe nodigh zijnde, waerom <pb ed="fol." n="381r"/>maken en syluyden noch inbequaem zijnde hen <note place="margin"><hi rend="i">D.P. 267.</hi></note>self tot Apostelen?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Al waert schoon (schrijft D.P.) dat zy tekenen saghen, sy souden misschien doen als die Phariseen deden, te weten dat sy mochten den wercken Gods den Duyvel toe schrijven, of een ander oorsaeck soecken om Gods werck te lasteren.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Wil hier D.P. wijser zijn dan de Heere Christus was? Wilt die niet dat die Phariseen zijn wonderdaden den Duyvel souden toeschrijven? voorwaer ja. Liet hy ende zijne Iongheren daerom tekenen te doen? geensins. Maer hadden ware liefde die by den goetwilligen noch al eenigen vrucht daer door verhoopte soo’t oock gheviel. Waeromme toonen dese luyden oock in desen niet, dat sy die liefde hebben, diet al hoopt, die syluyden sich doch te hebben roemen? hier behoorde haer die minnelijcke yver te toonen. Lieve seght my doch, houdt ghyluyden niet voor een lasteringhe teghen die waerheyt welcke is Christus Iesus, als yemāt seydt Christi leeringhe uyten Duyvele te wesen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ia wy trouwen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Houden u luyden haer leere niet voor die leere Christi.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Souden sy niet?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Ia zy doent, immers D.P. hout zijn woort voort woordt Christi of Godes selve soo ick terstondt betoont hebbe. Seggen nu niet wel veele luyden dat u luyder leere uyten Duyvele is?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ia vryelijck al te veele.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Hebben uwe Leeraren dat voor henluyden schrijven of predicken noyt voorsien of beducht?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Souden sy niet?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Beduchten sy dan dese Godslasteringhe der menschen, die daer seggen dat u leere uyten duyvele is, soo weynigh, dat syluyden des al niet jeghenstaende het predicken ende schrijven achter weghen lieten: wat zotheydt dat sy uyt vreese van lasteringhe het doen van wonderdaden soude laten? merckt ghy noch niet dat dese vychbladen te kordt uyt komen om die schantvleck te bedecken? soo wascht men sich met Slijcke, ende soo werdtmen vuylder dan voor voor’t qualijc verschoonen. Seker daer D.P. seyt dat het eyschen van tekenen een teken is des ongheloofs, en mach hy niet bewijsen dat sulcx sonde zy ofte verboden. Maer daer hy mette <note place="margin"><hi rend="i">Mat.17.20.</hi></note>zijnen, die Leeraers willen zijn (immers nieuwelinghen, die wat nieus in dese tijden voortbrenghen, <note place="margin"><hi rend="i">Mat.10.8.</hi></note>sich weygeren tekenen te doen, betonen syluyden opentlijck heurlieder selfs onghelovigheyt ende haer onghehoorsaemheydt. Want den ghelovighen (immers Leeraren die gheloovigh zijn) ist alles moghelijck. Nu is henluyden het tekenen te doen onmogelijc, connen syluyden dan oock gheloovigh wesen? ende den Apostelen is gheboden wonderdaden te doen, daerom ist selve oock dese luyden inder Apostelen ampt tredende geboden: zijn syluyden hier inne oock Christo ghehoorsaem? u Leeraren dan doen hier opentlijck heur eyghen ongheloove ende onghehoorsaemheyt blijcken int niet doen der tekenen. Daer tegen en blijcket noch nerghens datmen niet sonder teken van ongheloove of zonde tekenen soude moghen begheren. Want voorwaer al wast sulcx dat die verkeerde Phariseen sich besondichden int begheren der tekenen als voortcomende uyt een spotlijcke curieusheydt tot terginghe van den Heere: daer uyt en volght niet dat de oprechte Gedion tot versekeringe der saken niet eens, <note place="margin"><hi rend="i">Iudi.6.36. tot 40.</hi></note> maer tweemael een teken begherende hem daer aen besondight soude hebben.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Het teken doen is onsen Leeraren nu niet bevolen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>So en is henluyden het leeren ende gemeynten te stichten oock niet bevolen. Die Commissie der Apostelen was soo wel tot wonderdaden doen als tot predicken. Hebben uwe Leraren dese selve Commissie der Apostelen tot sich genomen, zy zijn oock tot beyden verbonden. Of hebben syluyden een ander Commissie, die niet van wonderdaden hout, maer alleen van Predicken, laet henluyden die toonen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Men moet (schrijft D.P. hier wel) Godts<note place="margin"><hi rend="i">D.P. 267.b.</hi></note> woort meer ghelooven, dan tekenen ende wonderen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Wy ghelooven altsamen die Bybele, maer niet Dirck Philipsz. schriften. Dat houdt ghyluyden, maer niet ick, voor Godts woort. Niemant begeert tekenen om den Bybel te moghen gheloven. Maer men eyscht teeckenen eermen D.P. woort wil ghelooven.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>My wondert uwer hartneckigheydt, zijdt<note place="margin"><hi rend="i">D.P. 269.b.</hi></note> ghy dan wijser dan d’Apostel Paulus was? die beschrijft uytdruckelijck hoe een Bisschop gheschickt sal zijn, maer hy en seyt niet dat hy oock tekenen moet doen. Men leest oock nerghens inde Heylighe Schrift dat Timotheus, Titus, ende meer andere, die oock mannen vol des Heylighen Geests gheweest zijn, eenighe tekenen ghedaen hebben. Daeromme can yemandt wel een Bisschop zijn ende doch geen tekenen doen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Of yemandt tot u luyden sprake alsoo. In de gantsche schrijft en leestmen nerghens dat d’Apostelen ghene kinderkens ghedoopt hebben: daer uyt volght nu dat sy kinderkens ghedoopt hebben: sout ghyluyden sulcke bewijsinghe oock voor oprecht houden?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Neen sy dooght niet. Want alder Apostelen daden en zijn niet beschreven.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Dat is waer, hoe cant ghy dan oock weten of Timotheus, Titus, ende d’andere gheen tekenen ghedaen en souden hebben? Siet op welcke onsekere raminghen D.P. wil voetelen. Niet een hayrken beter is zijn seggen daer, van dat Paulus een Bisschop beschrijft sonder het tekenen doen daerby te stellen, want ic mach van ghelijcken mede vraghen of Paulus daer’t alles, niet uytghenomen dat een Bisschop behoort te zijn, heeft beschreven, wat soudy hier op segghen?</p>
+<pb ed="fol." n="381v"/>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Dat hy alles daer heeft beschreven?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Soo houdy dan dat een Bisschop niet ghehouden is tot yet anders te doen dan daer beschreven staet?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Dat en weet ick niet wel maar ‘tschijnt soo.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p><note place="margin"><hi rend="i">D.P. 270.</hi></note>Vermaent d’Apostel Paulus daer oock een woordt van’t Dopen?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Neen, maer het Doopen is onder ‘tleeren begrepen (soo D.P. hier oock seyt) want oock het eene by ’t ander, namentlijck die Sacramentelijcke tekenen uyt te deelen by het Euangelium te predicken vanden Heere Iesu Christo gheset is ende bevolen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>So is den Apostelen, den welcken dit beyde is bevolen, oock mede bevolen tekenen te doen vanden selven onsen Heere? ende zijn midtsdien alsoo dan oock meerder die tekenen te doen begrepen onder het leeren, dan het Doopen. Siet soo blijven noch al uwe Leeraren even so crachtigh verbonden tot het doen van tekenen, als tot het Predicken ende Doopen. Maer soude uwe Leraren uyt dese beschrijvinge eens Bisschops wille sluyten (soo hier bestaen) dat gheen Bisschop ghehouden zy yet meer te doen ofte wesen dan daer verclaert is: soo moet de Heere Christus selve den Bisschoppen te veele ende eenen onnutten last opgheleyt hebben, daer hy beveeldt <note place="margin"><hi rend="i">Matth.10.16, 24.45.</hi></note>dat sy sullen wesen simpel ende oock ghetrou. Want Paulus hier van simpelheyt ende ghetrouheydt niet en vermaent, ende en soude dan gheen Bisschop of Leeraer ghehouden zijn tot simpelheydt ofte ghetrouwigheyt. Neen soo niet, Paulus meyninghe en is sulcx gheensins. De Heere Christus en beveelt daer niet onnodigs, ende Paulus en schrijft daer niet al dat van een Bisschop gheschreven mach worden, want dat wel een eygen boeck, swijge brief alleen soude behoeven.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p><note place="margin"><hi rend="i">D.P. 268.</hi></note>De Coning Iosia hoorende lesen het ghevonden Wetboeck en begheerde gheen tekenen, maer liet hem metten woorden des Wets wel <note place="margin"><hi rend="i">4.Reg.22.</hi></note>ghenoeghen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Dirck Philipsz. brenghe den Bybel voort, niet Dirck Philipsz. gloosen ende schriften, men sal oock den Bybel ghelooven sonder teeckenen, maer niet zijne schriften, die hy hier mede (als oock voor ende doorgaens) immers van ghelijcken aensien ende gheloofwaerdigheydt bestaet te maken als de Heylighe Schriftuere, en dat dunckt u noch al recht? Wie begeert nu tekenen vande Catholijcken, van dat sy ons de oprechte Bijbelsche schriften ghehandt-reyckt hebben? wat node wast den Coning Iosia om tekenen te begheeren dat het ghevonden Boeck het rechte was? leestmen oock dat daer meer andere Wetboecken van ander inhouden warē? datmen twisteden welck het oprechte Wet-boec was? immer datmer aen twijfelde? nu twijfeltmen niet alleen of u luyder leere de rechte zy: maer meest elck wederspreecktse ende scheldtse voor valsch. Ende of daer noch al schoon yemant anders aen ghetwijfeldt hadde, oft oock het oprechte Wetboeck was (datmer doch niet en leest) soo en mocht Iosias selve gheensins daer aen twijfelen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Hoe condy dat bewijsen?</p>
+<p><hi rend="i">C.</hi>Die bewijsinghe was my onnodigh, maer<note place="margin"><hi rend="i">4.Reg.22.2. ende 2.</hi></note> sy valt my oock so licht als seker, want hy dede<note place="margin"><hi rend="i">Para.34.1.</hi></note> (soo de Schrijft tuyght) dat den Heere behaeghde, ende hy wandelde in alle die weghen zijns Vaders David: sonder af te wijcken ter lincker noch ter rechter zijden. Nu was dit onmoghelijck in hem gheschieden sonder den Geest Godes in hem te hebben. Soo most immers de Geest Gods in hem oock ontwijfelijc betuyghen dat dit ghevonden boeck het rechte Boeck was, gheschreven door ingeven vanden selven Geest Godes die in hem wesende sulckx in hem betuychde. Lieve wat soude dan den niet twijfelenden Coning doch geporret hebbē om teecken te begheeren tot versekeringhe van ’t ghene hy nu al volkomentlijck af was versekert?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ick heb noch al wat meer te seggen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Watte? laet hooren.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Leset daer in dit boecxken selve, hier staet ditte.<note place="margin"><hi rend="i">D.P. 269.</hi></note> Ende so men noch tekenen wil eyschen, soo en moetmen die niet vanden Leeraren alleene, maer oock van alle geloovighen eysschen, want Christus seyt: wie in my ghelooft die sal de wercken doen die ick doe, ende sal noch grooter doen, etc. maer nu en sien wy niet dat yemandt sulcke wercken doet, wie wil daerom segghen dat niemandt gelooft, is dat niet klaer ende onwedersprekelijck bewesen, datmen nu vande Leeraren gheen tekenen en behoort te eyschen? Lieve man beantwoordt dit doch onpartijdelijck.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Gaerne also dunckt my voort eerst dat Dirc Philipsz. dese woorden ons Heeren self niet en heeft verstaen als hy die voort haelde tot deser saecken.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Hoe licht seght ghy dat: maer hoe swaerlijc suldy dat bewijsen.<hi rend="i">C.</hi></p>
+<p>Dat suldy haest hooren wildy wel antwoorden.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Vraeght maer.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Hebdy onder u gheen Leeraren?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Wy hebben.<hi rend="i">C.</hi></p>
+<p>Oock ghemeyne luyden die gheen Leeraren en zijn.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ia.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>V Kercke of ghemeynte bestaet dan in Leeraren ende inde ghemeyne luyden gheen Leeraren wesende.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Sy doet.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Spreeckt de Heere Christus dese woorden vande gantsche ghemeynte der gheloovighen te weten van alle de gheloovighen onder de ghemeynte niemandt uytghenomen, midtsgaders oock van allen Leeraren?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ghy merckt wel dat wy daer neen toe seg-<pb ed="fol." n="382r"/>ghen, ende daer uyt bewijst D.P. wel datmen den teeckenen t’onrecht eyscht vande Leeraren.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Dat sullen wy terstont besien, spreeckt de Heere dese woorden dan vande ghelovighe ghemeynte alleen ende niet vande gheloovige Predicanten?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Noch veele minder, neen, want dan mosten alle die gheloovighe ghemeynten ende niet die Predicanten, sulcke wercken doen: waer gheschiedt doch datte?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>So moet nu nootsakelijck volgen dat Christus sulcx sprack vande gheloovighe Predicanten alleen ende niet vande ghemeen ghelovigen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Neen dat laet ick u gheensins toe, want D.P. wil hier uyt dese selve sproke het platte contrarie bewijsen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Ick gheloove dat ghy’t my sult moeten toelaten, oock dat dese woorden selve, Dirck Philipsz. meninghe crachtelijck wederlegghen: by soo verde ghy niet opentlijck wilt segghen dat de Heere Christus dese zijne woorden vergeefs heeft ghesproken, spottelijck heeft ghesproken, ja gants onwaerachtelijck heeft ghesproken.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ick en sie noch genen noodt die my tot sulcx te segghen mach dringhen:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Merckt ende sietse nu, ghy en sult my immers niet ontkennen so yemant seyt wat te sullen ghedaen werden van yemande, ’t welc van niemande ghedaen en werdt, dat sulck segghen vergheefs, spottelijck ende onwaerachtelijck wert gheseydt.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Neen, dat en ontkenne ick niet.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Ghy seght mede dat die gantsche ghemeynte te samen oock die Leeraren op sich selve, insghelijcx het volck gheen Leeraren wesende op sich selfs? soodanighe wercken Christi niet en doen, veel min meerder.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Dat segghe ick doch.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Soo moet ghy dan immers mede seggen dat sulckx van niemande en wert ghedaen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ia ick trouwen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>So moet ghy oock segghen ende kennen dat uyt u eyghen woorden moet volgen, dat Christus die woorden vergeefs, spottelijck, ende onwaerachtelijck ghesproken soude hebben ghehadt. Luydt dat noch al Christelijck in uwen ooren?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Neen so niet, al en gheschiedt dat nu niet het gheschiede inden Apostelen, op die tijdt als sy nu door den Geest Christi, in ende door Christum selve crachtigher ende klaerder oock by grooter menichten (te weten niet in Iudea alleen, maer over de gantsche wereldt) die mogentheydt, goedtheydt, ende liefde Godes totten menschen in zijnen sone Iesu Christo meer betoonden, int afwesen dan in de teghenwoordigheydt vande menscheydt Iesu Christi.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Dat wil ick u niet wederspreken, maer na dien u Leeraren sich der Apostelen Ampt onderwinden, so moeten sy immers oock verstaen dat nu mede tot henluyden gesproken zy, ’t gene doe ter tijdt totten Apostelen werde gesproken vanden Heere.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Dat schijnt wel so.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Het is so, ende dan ist oock so dat u Leraren nu (ende niet de ghemeyne man) ghelijck doe ter tijdt die Apostelen, nu oock ghehouden zijn te doen die groote wercken ende tekenen, dit connen u Leeraren niet, so nemen syluyden sich nu der Apostelē leer-ampt t’onrecht aen, of (wildy dat niet lijden so) lijt mijn voorgaende segghen, dat de waerheydt spotlijck ende onwaerachtelijck hier aen heeft ghesproken. Dit lest suldy niet toelaten. Laet dan toe dat eerste, <hi rend="i">C.</hi>twelck oock des noch te meer blijckt daer aen, datmen nerghens en leest dat den ghemeynen gheloovighen, maer wel dat den Apostelen het doen der tekenen gheboden zy gheweest. Siet noch hier (om u immers te voldoen) wat u D.P. schrijft, te weten dat die miraculen ende<note place="margin"><hi rend="i">D.P. 167.b.</hi></note> wonderteeckenen des Euangeliums ende des Goddelijcken woorts ghetuychnissen sijn, ende dat selve bevestighen ende becrachtighen, oock dat die miraculen den lieden totten gheloove voorderen, doch met sulcken bescheyde, dat niet die Leere die al aenghenomen ende bevestight is, maer die nieuwe Leere, datse van Godt sy beweert moet worden. Nu was de leere Christi, ten tijden hy dese woorden van grote wercken te doene sprack, noch niet aenghenomen. Die soude noch eerst onder den Heydenen door den Apostelen ghepredickt werden. Daer toe was den Apostelen dan (oock na Dierick Philipsz. eyghen segghen alhier) van noode die macht van miraculen om ’t Euangelium te bevestighen, ende door die miraculen den lieden totten gheloove te voorderen. Alsoo volght nu onlochbaerlijck uyt dese woorden van D.P. selve dat Christus dese woorden van grootere wercken te doene ghesproken heeft, gheensins vande gheloovighe Leerlinghen ofte gemeynte, den welcken soo weynigh macht om tekenen te doen van noode is, als gheboden, maer alleenlijck vande gheloovighe Leeraers, dat is vande Apostelen, die int Predicken vande leere (die doen ter tijdt nieu was) sulcke macht om tekenen te doen nodigh was, ende oock bevolen. Dats nu een grove faute in Dirck Philipsz. segghen van dese woorden Christi bewesen. d’Ander openbaert haer van selfs daer inne dat dese selve sproke opt hooghste wederstrijdet den meyninghe van Dirck Philipsz. die hy daer mede bestaet te bevestighen. Want na dien nu opentlijck is ghebleken dat die tekenen of wonderdaden nodich ende bevolen zijn den Apostelen: wat mach hier doch anders uyt volghen, dan dat sy oock nodigh ende bevolen zijn allen den ghenen die inder Apostelen Ampt treden, ende oock eenighen nieuwen Leere vercondighen?</p>
+<p>Nu doen Menno, Dirck Philipsz. ende andere sulcx oock hebben Michiel Satler ende die eerste beginneren sulcx ghedaen, want het was een nieuwe ende ongheloofde Leere. So wast henluyden, of is u luyden dan oock nodigh ende bevolen tekenen te doene. Wie van u luyden alle heeft die oyt ghedaen? Wie merckt nu oock niet dat u Leeraren rechtelijck mira-<pb ed="fol." n="382v"/>culē werdē af-gheeyscht? niet tot bewijs dat Godes woort waerachtigh zy, daer aen oock geen ghenaemt Christen en twijfelt, maer tot bewijs dat u luyder leere waerachtigh zy: dat u luyder Doope ende Ban die oprechtigheydt, ende dat uwe Leeraren van Gode ghesonden zijn om dese dinghen in desen tijden aen te richten. Tot bewijs van dese ende meer andere derghelijcke wichtighe saken werden u Leeraren nu wettelijck afgeeyscht die tekenen, die henluyden te doen nodigh ende bevolen zijn, na ‘tghetuygh vande Schriftuere self, die u Dirc P. misbruyct tot bewijs van dat sulcx onnodig soude zijn. Is dat niet met zijn eyghen swaert gheslaghen ende in zijn selfs stricke ghevangen te werden, soo weet ick niet watmen sulcx sal heten.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ghy gevet u self al ghewonnen, sonder te bedencken wat ick noch al te segghen hebbe.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Teghen ’t ghene ick nu gheseyt hebbe?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Neen, maer teghen die hooftsake uwer meninghen, te weten daer teghen dat ghy tekenen eyscht tot bewijs der zendinghe onser Leeraren.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Ghy mooght daer teghen niet uytrichten, sonder eerst omghestoten te hebben ’t gene ick nu al uyt uwer eyghen Leeraren woorden bevestighet hebbe, niet te min laet hooren, wat ghy noch weet te segghen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Veel meer dan u of yemanden op aerden moghelijck is te wederlegghen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Ick hoor groot spreken.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Neemt vast bewijsen. Soudet ghy oock derren lochenen dat valsche Propheten mede somtijdts tekenen doen?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Gheensins, want de Heylighe Schrift betuycht sulcx.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Soo en mooghdy oock niet lochenen (als D.P. wel schrijft) dat een Christen niet en mach alleenlijck sien op tekenen, maer veel meer op Gods woordt, want dat altijdt ghewis ende waerachtigh is.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p><note place="margin"><hi rend="i">D.P. 269.</hi></note>Dat altsamen bekenne ick gaerne, alsoo ick daer niet een eenigh woordeken inne en mercke, dat D.P. Menno, ende andere nieuwe Leeraren of oprechters van ghemeynten mach ontlasten van’t doen der af-gheeyschte tekenen. Niemandt eyscht henluyden die tekenen af om daer alleen op te sien, so siet oock elck vele meer op Godes woort, maer men houdt het woort uwer Leeraren gheensins voor Godes woort, soo ghyluyden onbedachtelijck doet. Dit mosten u Leeraren eerst bewijsen, dits hem om doen onmoghelijck, ende dit neemt D.P. niet anders dan oft elcken al condt ware, dat zijn leere Gods woort zy. Hier inne zijdy bedrogen ende bedriegt oock anderen met u luyden. Men twijfelt niet (segghe ick noch al weder) aen de waerheyt vande Canonijcke Bybelsche Schriften: maer men twijfelt, ja men lochent (dats meer) dat D.P. leere Godes woort soude zijn. Daeromme doen syluyden alle recht ende sien wel op Godes woort, dien u Leere niet en willen gelooven, sonder bewijs met tekenen te sien, dat u Leere Gods woort zy ende uwe Leeraren van Gode ghesonden, want Godes woort selve ghebiedt ons sulcx te doene.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Dat en mooghdy niet bewijsen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Dat en moogdt ondersocht niet weten, maer<note place="margin"><hi rend="i">1.Ioā.4.1.</hi></note> sult dat nu haest uyt ondervindingh weten? segt dan: is ons niet verboden allen Geesten te gelooven?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ia door Sint Ian.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Is ons niet gheboden den Gheesten te proeven of zy oock zijn uyt Gode?</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>’t Is op de selve plaetse.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Christus is die waerheydt, soo is Godt<note place="margin"><hi rend="i">Ioan.14.6.</hi></note> mede.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Soo ist.<note place="margin"><hi rend="i">1.Ioā.5.6.</hi></note></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Sal dan eenigh Geest uyt Gode wesen, hy moet waerachtigh wesen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Hy moet.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>De blijcke vande waerheyt is dan het rechte merckteken ofte proeve, of eenigh Gheest uyt Gode zy dan niet.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Soo ist oock.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Als dan comt het ghene voorseyt was dat comen<note place="margin"><hi rend="i">eze.33.33.</hi></note> soude, so blijct des Geests ofte Propheets<note place="margin"><hi rend="i">Ier.28.9.</hi></note> waerachtigheyt, ende midtsdien oock mede dat hy (‘tsy Propheet of Geest door hem sprekende) uyt Gode is.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Dat ghetuyght de Gheest Godes self door den Propheten.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>So blijckt nu oock door sulck spreken vanden Geest Godes selve, dat God ons ghebiedt dat wy sullen mercken op sulcken proeve der Geesten, ende volghens dien mede datmen tekenen vande Propheten moet eyschen eermense ghelooft.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Dat sy schoon also, maer ghy bekent selve dat<note place="margin"><hi rend="i">Deut.13.</hi></note> oock een valsche Propheet waerachtelijc mach voor segghen.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Dat betuyght de Heylighe Schrift selve: ende wil u daer noch breder op antwoorden, maer nu is soo vele al betoont, dat die ghelovigen op Godes woordt sien ende recht doen<hi rend="i">C.</hi>als sy van de nieuwe Leeraren teeckenen verwachten ofte eyschen. Dit was nu onse gheschille, dit moet ghy nu bekennen, ende dit is my hier inne ghenoegh. Aengaende na d’onsekerheydt gelegen daer inne alsmen opten teeckenen alleen wilde sien, bekenne ick u gaerne. Daeromme staet<note place="margin"><hi rend="i">Deu.13.2.</hi></note> daer oock terstondt by, als gheseyt was ende in dien het teecken dat hy (die valsche Propheet) voorseydt hadde gheschiet: ende hy u seydt, komt laet ons vreemde Goden navolghen, etc. Siedy wel dat God selve daer niet en wil datmen alleen opten tekenen sal sien, maer ghesamentlijck oock opten tweeden tuyge, te weten: op Godes woort? wat wil ons God hier an-<pb ed="fol." n="383r"/>ders mede leeren, dan dat wy den eenen getuyghe, te weten, die tekenen, gheensins alleen sullen ghelooven sonder den ander ghetuyghe, te weten het woordt Godes. Want ghelijck Godes wille is in dese beproevinghe der Gheesten dat wy sullen sien op het teken soo dat waeachtelijck volget: So wil hy oock daer by, dat wy zien op het woordt of dat oock waerachtelijck over een stemt met het teecken ’t welck in desen proeve by Moysen ghestelt, sulcx niet en werdt bevonden, maer ’t contrarie. Ghemerckt sulck valsche Propheet, willende met teken betoonen dat hy van Gode is ghesonden, om henluyden tot Gode te leyden: betoont met d’ander ghetuyghe (te weten sijn Woordt) dat hy wil afleeden van Gode. Daer uyt dan sijn valscheydt blijckt, ende hem selve betoont niet gheloofwaerdigh te sijn.</p>
+    <p>Siet soo bekenne ick u nu gaerne dat die eensame ghetuyghe niet ghenoegh en is, soo datmen niet alleen moet sien opten tekenen. Maer volgt daer uyt datmen desen eene getuyge van tekenen te doen als onnoodigh sal verwerpen? Datmense niet en soude behoeden? Datmense niet en soude eysschen in soodanigen wichtigen handel? Dat’s so wijt van daer dat in dese selve plaetse, Deut.13.2. ons selve claer uyt-ghedruckt werdt dat dese twee ghetuyghen met malcanderen moeten gaan, d’een d’ander de handt bieden, ende malcanderen stijven ende stercken. Of dunckt u aldusdanighen bewijsreden goedt: Een ghetuyghe is onseker, want men behoefter twee, daerom behoeftmen den eenen niet, maer men moet den eenen verwerpen. Souden school-kinderen die onwijsheydt <note place="margin"><hi rend="i">D.P. 267.b.</hi></note>niet connen mercken? D.P. bekent selve dat Miraculen ten gheloove voorderen, ende het woordt bevestighen, daer de Leere niet en is aenghenomen (soo die sijne by weynighen is) salmen dan desen eenen voorderlijcken nutten ende bevestighenden ghetuyghe, omdatmer twee te samen behoeft verwerpen? Wanneer salmen dan die beyde ghetuyghen ghesamentlijck teffens gebruycken? Alsmen aen de Leere twijffelt, so behoeftmen ‘tghetuyghnisse der tekenen, so nochtans dat die tekenen die Leere dienen: Ende dat dese twee ghetuyghen elck anderen bevestighen. Want ghelijck die seltsame wonderlijckheydt der tekenen ghetuyghnissen gheeft van een onbekende Leere: Also gheeft oock die waerachtigheydt der Leere getuyghnisse vande oprechtigheydt der tekenen. Hier wil ick maer geroert hebbende, dat die tekenen der ware Zendtboden Godes altijdt overtreffen der valscher Propheten tekenen, somen aen de Slanghe Moysi der Tovenaren Slanghen opslockende, aen der Apostelen ware gheest, den valschen geesten in besetene en̄ Waerseggers die swijghen ende verstommen mosten, zc. heeft moghen zien, ’tselve noch al te rugghe stellen, om lanckheydts vermijdinghe, maer en mach niet laten u hier af noch soo veele te verclaren, dat die Alwetende Godt seer wel wiste als hy den proef eens waren Propheten ons tot voorhoedinghe <note place="margin"><hi rend="i">eze.33.33.</hi></note>voor ooghen stelde (die ick terstondt <note place="margin"><hi rend="i">Ier.28.9.</hi></note>verhaelde) dat oock eenighe valsche Propheten mede tekenen doen souden. So wist de Heere Iesus Christus (als selve sulcx voorsegghende) <note place="margin"><hi rend="i">Mat.24.24.</hi></note>mede wel datter tekenen door valsche Propheten gheschieden, als hy des niet te min sijnen Iongheren bevel ende macht gaf om teeckenen te doene? Wat salmen nu hier toe segghen? Dat dit werck Godes ende Christi int gheven vande Proef eens waren Propheten, ende in’t geven van macht ende bevel om tekenen te doen gantsch onnut, ydel ende vergheefs zy? Dat waer die wijsheydt Godes ende Christi te nae ghesproken. Nochtans moeten die tekenen geheelijck ydel ende vergheefs sijn, indien zy niet altoos en voorderen tot ghetuyghnisse ende bevestinghe vande Leere. Dit schijnt ghy nu niet seer bedecktelijck te willen segghen. Ende dit en heeft u Leeraer Dirck P. self niet derren segghen, maer seyt naecktelijck het jeghendeel, te weten dat die tekenen nut ende voorderlijck daer toe sijn, also zy ten gheloove voorderen, ende het Woordts ghetuyghnissen bevestighen ende bekrachtighen, so men dickmael heeft gezien inden wonderdaeden Christi ende sijne Apostelen, daer veele door tekenen beneven het Woordt ten gheloove sijn ghecomen, so nu al by my is bewesen. Soudemen die Teeckenen<note place="margin"><hi rend="i">D.P. 267.b.</hi></note> dan moghen verwerpen, om dat die oock moghen ghedaen worden van sommighe Valsche Propheten? Dit was nochtans den grondt van u segghen. Wat dunckt u? Weet ghy hier wat jeghens? Nu moest ghy spreken.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Ghy spreeckt te onvernuftigh.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">C.</hi></p>
+<p>Ick spreke te waerachtigh voor u. Vernuft bruycke ick niet, maer Schrifture. Seker soo daer gheen seeckerheydt tot bewijsinghe vande Leeringhe ende Zendinghe en is geleghen int doen van tekenen, so en doogh sodanige bewijsinghe onses Heeren Iesu Christi selve oock niet, maer is dan ydel ende vergheefs, daer hy self spreeckt also. Die wercken die ick doe<note place="margin"><hi rend="i">Ioā.5.36.</hi></note> ghetuyghen van my. Ende elwaerts noch aldus:<note place="margin"><hi rend="i">Ioā.10.3.</hi></note> Wildy my niet ghelooven, so ghelooft die wercken, dats gheseydt: Wildy in den eenen ghetuygh, namentlijck om het Woordt alleen niet ghelooven, soo ghelooft inden tweeden getuygh daer by, namentlijck, die Tekenen. Want anders soude tegen dese woorden Christi gheseydt moghen werden by D.P. aldus: Neen Iesus, wy willen u niet ghelooven om uwe Wercken. Want Tekenen te betrouwen is onseker, overmidts valsche Propheten mede wel wonderen connen doen. Seght nu goede man, moghe sulcx oock met goeden bescheyde teghen gheworpen worden den Heere Christo, wiens Leere sijn Tekenen, ende wiens Tekenen sijn Leere soo onlochbaerlijck elckanderen bevestighden? Meyndy oock dat D.P. so hy dese saecke te recht inne ghesien hadde ghehadt, sulckx oock wel soude hebben derren schrijven? Nochtans zien wy’t by hem beschreven te wesen, dat hy sich van dese grove faute niet en mach ontschuldighen. Ick mach niet ghelooven dat hy ’t soo quaedt ghemeynt mach hebben: Maer ick zie dat hy gheschreven heeft, daer sulcx noodtlijck uyt moet volghen. Soo heeft hem sijn onbescheyden yver veele te wijt afghevoert vande Conincklijcke middel-wegh. Alhoewel het ghene voorsz. is nu meer dan genoegh met brenght, dat uwe Leeraren gheen macht en hebben om sodanighe clare ende vaste bewijsinghe van heure zendinghe te doen, als daer na den getuychnissen der Bybelsche schriften toe werdt vereysschet, ende henluyden noodigh is te doene: So wil ick nochtans nu voort comen op mijne voorghenomen bewijsinghe, van dat die Leeraren van u Luyder, ende van andere nieuwe ghemeynten van Gode niet en sijn ghezonden, maer dat zyluyden van self loopen, ende sich inne dringhen inde Wijngaerdt des Heeren. Welcke moeyten ick ter handen <pb ed="fol." n="383v"/>neme, om dat ick zie hoe seer ongaerne het partijdighe herte yet wil verstaan dat jeghen sijn meyninghe is. Op hopen of sulck so overvloedigh als krachtigh bewijs, u eenigsins moghte aenporren tot een wacker nadencken, ende ernstelijck overweghen deser so seer hoogh-wichtigher saken, ende ghy de selve eenmael in der waerheyt soudet moghen verstaen. ’t Welck u jonne de Menschlievende Godt, Amen. Men begint die spijsen aen te rechten, ’t salder op een eeten gaen, wy willent nu hier by laten rusten totten namiddaghe toe, omme dan (laets ons de Heere toe) voorts te varen met onse voorgenomen sake, ende die te voleynden.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<hi rend="i">V.</hi></p>
+<p>Men roep ons rechts ten eeten, nu onse reden ten eynde loope. Na den eeten wil ick wederomme by u hier comen.</p>
+<p>&nbsp;</p>
+    <p><hi rend="i"><hi rend="spat">FINIS.</hi></hi></p><interpGrp><interp type="end" value="coor001vand04"/></interpGrp>
+</div></body>
+</text>
+</TEI.2>

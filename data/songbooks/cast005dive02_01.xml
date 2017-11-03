@@ -1,0 +1,2159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "http://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Diversche liedekens</title>
+                <author>Matthijs de Castelein</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Diversche liedekens</hi> van Matthijs de Castelein in een herdruk uit 1574. De eerste druk dateert van 1573.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr>p. 16, 28, 31, 37 en 66: het paginanummer is verplaatst om het gedicht binnen de notenbalken goed te kunnen weergeven.</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page>80</empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">cast005dive02_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2011 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note>DSOLmetadata:yes</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Universiteitsbibliotheek Gent, signatuur: BIB.G.002477</idno>
+                </bibl>
+                <p>Matthijs de Castelein, <hi rend="i">Diversche liedekens</hi>. Weduwe Ghileyn Manilius, Gent 1574 (herdruk)</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Diversche liedekens</title>
+                <author>Matthijs de Castelein</author>
+                <idno></idno>
+                <imprint>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Diversche liedekens</title>
+                <author>Matthijs de Castelein</author>
+                <idno></idno>
+                <imprint>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2011-09-27</date>
+                <respStmt>
+                    <name type="person">JV</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+<cf><div type="chapter">
+<pb n="1"/>
+<p>Diuersche Liedekins.</p>
+<lg type="poem"><l>Lustighe gheestkins, Amoureuse zinnekins,</l>
+<l>Ontfanght dees Liedekins tot uwen deele:</l>
+<l>U meen ick, ghy Uenus eertsche Goddinnekins,</l>
+<l>Het schinctse u den wachter vanden Casteele.</l>
+</lg><p>VVacht vvel t’Slot, <hi rend="i">Casteleyn</hi>.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">TE GHENDT,</hi></p>
+<p>By Ghileyn Manilius, ghezworen Drucker, wonende te Putte, in de witte Duyue.</p>
+<p>M.D.L.XXJJJJ.</p>
+<p><hi rend="i">Met Gratie ende Priuilegie.</hi></p></div></cf>
+<div type="chapter">
+
+<pb n="2"/>
+<head rend="h3">Den Drucker tot den goetwillighen zangher, Saluyt.</head>
+<p>Lustighen Zangher die ghenouchte schept int zinghen, hier hebdy <hi rend="i">Casteleyns</hi> Liedekins met de voysen oft wysen daer by ghevought, die ick met groote moeyte, cost ende aerbeyt, deur langhe ende veel zouckens vercreghen hebbe van zommighe liefhebbers binnen ende buyten Audenaerde, ende daer naer op musijck noten ghestelt, op dat, die de voysen niet en weten te beter moghen daer aen gheraken.</p>
+<lg type="poem"><l>Ghenouchlick wilt singhen een liedeken jent</l>
+<l>Hier wt dit boecsken met blyden gheeste:</l>
+<l>Jaeght droefheyt wech, maect vreught bekent,</l>
+<l>Laet blijcken v conste waer ghy zijt ter feeste,</l>
+<l>En coopt elck hier een af minst ende meeste</l>
+<l>Jndient v aenstaet, tsal my wel af staen,</l>
+<l>Niemandt en schame hem bin desen foreeste,</l>
+<l>Maer nemet int goede dit simpel vermaen,</l>
+<l>Alleene wt ionsten is dit ghedaen.</l>
+<l>Maer dit mijn beminde vrienden vercoren</l>
+<l>Jsser wat anders dat ick sal aengaen,</l>
+<l>Lustich om lesen, zinghen en vreught t’oorboren</l>
+<l>Jndien ghy my niet en laet in d’oncost versmoren:</l>
+<l>Van als dat ick mach, hop’ ick int licht te bringhen,</l>
+<l>Spaert my God, moet ick segghen voor alle dinghen.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0001"/> </interpGrp>
+<pb n="3"/>
+<head rend="h3">[RJic God hoe moet ick treuren]</head>
+    <figure>
+        <p><xptr to="cast005dive02ill01.gif"/></p>
+    </figure>
+<lg type="poem"><l>RJic God hoe moet ick treuren,</l>
+<l>Vol drux en vol doleure<hi rend="i">n</hi></l>
+<l>Om haer die ick gheerne zye,</l>
+<l>Nochtans weet ick te veuren,</l>
+<l>S’en mach my n<hi rend="i">yet</hi> gebeure<hi rend="i">n</hi>,</l>
+<l>Nu noch te gheenen tye.</l>
+<l>O Uenus vul envye,</l>
+<l>Twy zydy my zo fel!</l>
+<l>Ghy neemt my mijn amye:</l>
+<l>Maer tis mijn schult dat weet ick wel.</l>
+<l>&nbsp;</l>
+<pb n="4"/>
+<l rend="; 1tab">Fonteynkins laet v spruyten,</l>
+<l>Bly voghelkins laet v ruyten,</l>
+<l>Groen loouers wilt verdwynen,</l>
+<l>Druck opend v conduyten,</l>
+<l>Ghy aerde wilt ontsluyten,</l>
+<l>En brijnght my ter ruwynen.</l>
+<l>Och Zonne laet v schynen,</l>
+<l>Drouft met my int ghequel.</l>
+<l>K’en ha noyt zo veel pynen:</l>
+<l>Maer tis mijn schult dat weet ick wel.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Sy die my hild bevanghen</l>
+<l>Doet my mijn pijn verstranghen,</l>
+<l>Deur haer my thertkin blaecte.</l>
+<l>K’en ben nu gheen verlanghen,</l>
+<l>Een ander cust die wanghen,</l>
+<l>Daer ick zo zeer naer haecte:</l>
+<l>Hoe dat icker naer waecte,</l>
+<l>Een ander heeft mijn spel,</l>
+<l>Jck bleef vul drucks, hoe ict maecte:</l>
+<l>Maer tis mijn schult dat weet ick wel.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Princesse schoon Joncvrauwe,</l>
+<l>U vreucht brijnght my in rauwe,</l>
+<l>Jck ducht ick salt besteruen:</l>
+<l>Laegh ick doch by v schauwe,</l>
+<l>En creegh van uwen dauwe,</l>
+<l>Jck zou veel vreughts verweruen:</l>
+<pb n="5"/>
+<l>K’en weynschte niet meer eruen,</l>
+<l>Dan uwen zoeten rel,</l>
+<l>Nochtans moet icken deruen:</l>
+<l>Maer tis mijn schult dat weet ick wel.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0002"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander. II</hi>.</head>
+    <figure>
+        <p><xptr to="cast005dive02ill02.gif"/></p>
+    </figure>
+<lg type="poem"><l>JC weet dat schoonste Vrauken,</l>
+<l>Dwelc d’zo<hi rend="i">n</hi>ne noyt bescheen,</l>
+<l>Zo aerdigh een cortauken,</l>
+<l>Als onder duysent een,</l>
+<l>Haer oochskins blijncken claerder</l>
+<l>Dan blijnckende Sapphieren,</l>
+<l>Dies ghijnc zy my veel naerder</l>
+<l>Dan yemant can versieren,</l>
+<l>Wat wil ic veel cryhieren,</l>
+<l>De schoonheit haerder oghen </l>
+<pb n="6"/>
+    <l><figure>
+        <p><xptr to="cast005dive02ill03.gif"/></p>
+    </figure></l>
+<l>Heeft heuren eers bedroghen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ick vantse tsauonts late</l>
+<l>Alleen dat weet ick wel,</l>
+<l>Met haer schoon lief op strate</l>
+<l>Secreet in Venus spel.</l>
+<l>Jck zagh daer int secrete</l>
+<l>Haer vriendelick aenschauwen,</l>
+<l>(Het hielp my) deur de splete,</l>
+<l>Dwelck haer noch zal berauwen.</l>
+<l>Wat achtick der ontrauwen,</l>
+<l>De schoonheit haerder oghen</l>
+<l>Heeft heuren eers bedroghen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Haer claeghick niet met allen,</l>
+<l>Jck claghe haer oochskins zoet,</l>
+<l>Die oock staet zonder vallen</l>
+<l>Js vaste vanden voet:</l>
+<l>Jck claegh God vanden throone</l>
+<l>Der ooghen schoon behaghen/</l>
+<l>Want waer zy niet zo schoone</l>
+<l>Zy waer noch wter plaghen.</l>
+<l>Wat willicks veel ghewaghen,</l>
+<l>De schoonheit haerder oghen</l>
+<l>Heeft heuren eers bedroghen.</l>
+<l>&nbsp;</l>
+<pb n="7"/>
+<l rend="; 1tab">Adieu schoone Princesse</l>
+<l>Ghy hebt my wel verduld,</l>
+<l>Dijn opsien voort ick messe,</l>
+<l>Tis dijnder ooghen schuld:</l>
+<l>Ghy hebt niet el dat schoon is</l>
+<l>Dan d’opsien en tghesichte,</l>
+<l>Dies mijn adieu dijn loon is,</l>
+<l>Adieu vrau Venus nichte,</l>
+<l>Van v ist dat ick dichte,</l>
+<l>De schoonheyt uwer oghen</l>
+<l>Heent uwen eers bedroghen.</l>
+</lg></div>
+    <div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0003"/> </interpGrp>
+    <head rend="h3"><hi rend="i">Een ander. III</hi>.</head>
+    <figure>
+        <p><xptr to="cast005dive02ill04.gif"/></p>
+    </figure>
+<lg type="poem"><l>WAer zydy lief wellustich dierken,</l>
+<l>Die vrau Venus vierken cond ontsteken?</l>
+<l>Waer ick by v in dijn vergierken,</l>
+<l>Gheenrande vreucht en zou my ghebreken:</l>
+<l>Schoon lief mocht ick v spreken in v pauwelioen</l>
+<pb n="8"/>
+    <l><figure>
+        <p><xptr to="cast005dive02ill05.gif"/></p>
+    </figure></l>
+<l>Secreet alleene, zo creghic vrede:</l>
+<l>Tquaetste d<hi rend="i">at </hi>ick v zoude doen,</l>
+<l>Dat waer gh’lijc Troylus dede</l>
+<l>Zijn schoon Brisede.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Wat dedy haer, dat moet ick vraghen?</l>
+<l>Dat en sou ghewaghen, niemants keelkin,</l>
+<l>Als zy tsamen vergadert laghen,</l>
+<l>Zy speelden vaerkins en moerkins speelkin,</l>
+<l>Waer ic by v schoon lief, en hulpt mijn liefde voen,</l>
+<l>Wy mochten alsulck spel spelen mede:</l>
+<l>Tquaetste dat ic v zoude doen,</l>
+<l>Dat waer gh’lijc Troylus dede</l>
+<l>Zijn schoon Brisede.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Constick muteren mijn natuere,</l>
+<l>Ofte mijn figuere, my ontverden,</l>
+<l>Van v en waer ick dach noch huere,</l>
+<pb n="9"/>
+<l>Als soudick terstont een muysken werden:</l>
+<l>Ghelijc dat muyske<hi rend="i">n</hi> thol souct zoud’ ick my thuwaert spoen,</l>
+<l>By v te crupen haic stond oft stede,</l>
+<l>Tquaetste dat ic v zoude doen,</l>
+<l>Dat waer gh’lijc Troylus dede</l>
+<l>Zijn schoon Brisede.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Mocht ic verzeylen als Jouis bootkin,</l>
+<l>Die in Danaets schootkin, conste vallen,</l>
+<l>Als gulden dan, dede hy d’explootkin,</l>
+<l>Const ick dat, zo waer ick vry met allen:</l>
+<l>O schoo<hi rend="i">n</hi>ste wt vrau Uenus berch, waric in prisoe<hi rend="i">n</hi>,</l>
+<l>Ghy schuydet niet mijn behendichede,</l>
+<l>Tquaetste dat ic v zoude doen,</l>
+<l>Dat waer gh’lijc Troylus dede</l>
+<l>Zijn schoon Brisede.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Schoon liefken had ick die practijcke,</l>
+<l>Dat ick in v rijcke, mocht vervroyen,</l>
+<l>Noyt iemands vreughd was dies ghelijcke,</l>
+<l>Noch Jasons, noch ooc Paris van Troyen,</l>
+<l>Noyt amoureus en queelt so lodderlick sermoen</l>
+<l>Als ic sou, waerd in mijn mueghenthede/</l>
+<l>Tquaetste dat ic v zoude doen,</l>
+<l>Dat waer gh’lijc Troylus dede</l>
+<l>Zijn schoon Brisede.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0004"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander. IIII</hi>.</head>
+<pb n="10"/>
+    <figure>
+        <p><xptr to="cast005dive02ill06.gif"/></p>
+    </figure>
+<lg type="poem"><l>SChoon lief, hoe valdy my dus obstinaet?</l>
+<l>Daer ick dy minne met herten vry,</l>
+<l>My zeluen en weet ick nu gheenen raet,</l>
+<l>Dijn zinnen zijn elders dan tot my,</l>
+<l>Dies derf ic, laes, der vreuchden cry</l>
+<l>Als ghy op eenen andere<hi rend="i">n</hi> ziet:</l>
+<l>Wa<hi rend="i">n</hi>t als minnic v, ghy en mint my n<hi rend="i">yet</hi>.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Dicwils ben ic inden gheest wech ghevoerd,</l>
+<l>Mijns sellefs werdick dus zeer ontcond:</l>
+<l>Al mijn vijf zinnen maeckt ghy dan beroerd,</l>
+<l>Uul fantasien tot alder stond,</l>
+<l>Schoon lief dit doet dijn rooden mond,</l>
+<l>Jck claeghs Cupido die my dit riet:</l>
+<l>Want als minnic v, ghy en mint my niet.</l>
+<l>&nbsp;</l>
+<pb n="11"/>
+<l rend="; 1tab">De schoon vrau Uenus die dy heeft ghemaect,</l>
+<l>Ende v dijn edel wesen gaf,</l>
+<l>Hoe lietse dy dus troosteloos geraect?</l>
+<l>Naer dijn zuuer ieucht ghy valt te straf:</l>
+<l>Dus lief gheeft troost, curt commes af:</l>
+<l>Maer laes ghy en zult wat mijns gheschiet:</l>
+<l>Want als minnic v, ghy en mint my niet.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Hier met adieu mijn schoon Princesse jent,</l>
+<l>Waren dijn oochskins verlicht soo claer,</l>
+<l>Dat ghy in dijn hert’saecht al mijn torment,</l>
+<l>Mijn pijn waer minder weet ick voor waer,</l>
+<l>Ducht en gheen hope volcht my naer.</l>
+<l>Dies zinghe ick eylaes dit druckich liet:</l>
+<l>Want als minnic v, ghy en mint my niet.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0005"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander. V</hi>.</head>
+    <figure>
+        <p><xptr to="cast005dive02ill07.gif"/></p>
+    </figure>
+<lg type="poem"><l>ONtweckt schoon lief, laet staen u slapen</l>
+<l>Wilt vreucht betrapen, voor slapens ghemack,</l>
+<l>En droomt niet meer, hoort Uenus knapen</l>
+<l>Singhen en gapen, deur der minnen pack:</l>
+<pb n="12"/>
+    <l><figure>
+        <p><xptr to="cast005dive02ill08.gif"/></p>
+    </figure></l>
+<l>Zy claghen tspeer dat hen deurstack,</l>
+<l>Metter minnen lack</l>
+<l>Dat hertkin brack, totten gronde,</l>
+<l>Zy claghend u, lief, met hert en monde.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Schoon lieflick lief reyn wt ghelesen,</l>
+<l>Gheheel dijn wesen, is net ende jent,</l>
+<l>Dijn schoonheyt en was noyt vulpresen:</l>
+<l>Dies is my gheresen, een zwaer torment.</l>
+<l>Gheeft my doch troost blomme excellent,</l>
+<l>Mijn groot grief bekent,</l>
+<l>Oft laes ghy schent, al mijn leden,</l>
+<l>Een troostelick woort maect my te vreden.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Dijn lipkins root, dijn schoon bruyn ooghen,</l>
+<l>U lachenden mont, ende v ghelu haer</l>
+<l>Doen my druck ende pijn ghedooghen,</l>
+<l>Wilt troost vertooghen, ick bids v eenpaer,</l>
+<l>Om troost te cryghen lief eerbaer,</l>
+<pb n="13"/>
+<l>Volghick v oock naer,</l>
+<l>Hier ende daer, tallen plecken,</l>
+<l>Dies biddick schoon lief wilt troost ontdecken.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Troost ghy my niet, so moet ick steruen,</l>
+<l>Mits druck bederuen, al in desen noot.</l>
+<l>Schoon lief, laet my toch troost verweruen,</l>
+<l>Wilt my onteruen, haast van deser doot,</l>
+<l>Oft doedijs niet, schoon rooskin root,</l>
+<l>Jck seght v al bloot,</l>
+<l>Deur swaren stoot, in mijn leuen,</l>
+<l>Sa lick my totter doot toe begheuen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Mocht ick dy spreken ende aenschauwen,</l>
+<l>Jc waer behauwen, maer ten mach niet zijn,</l>
+<l>Waert soo, ick had gheluck van vrauwen,</l>
+<l>Nu moet ick flauwen, deur dat fel ghepijn:</l>
+<l>Haddick doch eens den wille mijn,</l>
+<l>Dijn seer soet aenschijn,</l>
+<l>Bly soudick zijn, sonder treuren:</l>
+<l>Maer laes dit en mach my niet ghebeuren.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Cort mynen druck en mijn verzeeren,</l>
+<l>Tot vraukins t’ eeren, heb ick my ghestelt,</l>
+<l>Schoon lief wilt v te mywaert keeren,</l>
+<l>Troost wilt vermeeren, in dit groot ghewelt:</l>
+<l>Laes doedijs niet, en ghy verfelt,</l>
+<l>Hoe ghy my ghewelt,</l>
+<l>Een woort doch relt, tmijnder baten,</l>
+<l>Jn gheen seysoen en sa lick v laten.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0006"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander. VI</hi>.</head>
+<pb n="14"/>
+    <figure>
+        <p><xptr to="cast005dive02ill09.gif"/></p>
+    </figure>
+<lg type="poem">
+<l>COnst gaet voor cracht</l>
+<l>Lijc d’ ouders ons scholieren,</l>
+<l>Steld u nu op, die ryden noyt began.</l>
+<l>Toogt vroo<hi rend="i">m</hi> dijn vacht</l>
+<l>En<hi rend="i">de</hi> opent tsLeeus ba<hi rend="i">n</hi>nieren,</l>
+<l>Let op tvirtuyt ons welvaert ha<hi rend="i">n</hi>gter an.</l>
+<l>Elck edel man,</l>
+<l>Jnt vechten valt zeer coene,</l>
+<l>Jnt groene, recht dijn tenten gent,</l>
+<l>Maect u bekent, int Urancs conuent,</l>
+<l>Daer is profijt te doene.</l>
+<l>&nbsp;</l>
+<pb n="15"/>
+<l rend="; 1tab">Marchierd gheras,</l>
+<l>Uerbeidt noch tijt noch huere,</l>
+<l>God gheeft v weder puer naer weynschen kies,</l>
+<l>Tis nu rechts pas,</l>
+<l>De vruchten zijn in schuere,</l>
+<l>Gheen Landman crijght by u als nu verlies,</l>
+<l>Gods vriend Andries</l>
+<l>Staet u wel te bevroene,</l>
+<l>Te spoene, pooght, hoept goeden hent,</l>
+<l>Maeckt u bekent, int Urancs conuent,</l>
+<l>Daer is profijt te doene.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Spijt ende orgueil</l>
+<l>Laet op de Lely commen,</l>
+<l>Den Jnghels man steket al omme in tvier</l>
+<l>Bouen Monstrueil,</l>
+<l>Uoort al dees zye der Sommen,</l>
+<l>Mids Terowaen t’rooshuys voor ons onghier,</l>
+<l>Blijft int dangier</l>
+<l>Als nv zijnd’ in seysoene,</l>
+<l>Te goene, dy, ketst ende rent,</l>
+<l>Maeckt u bekent, int Urancs conuent,</l>
+<l>Daer is profijt te doene.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Sluert niet hier op,</l>
+<l>Die zijt van sKeysers soorte,</l>
+<l>Trect altijt voort als vindy wederstoot,</l>
+<l>Biedt fray den crop,</l>
+<l>Tot Parijs voor die poorte,</l>
+<l>Met eeren blijfdy voor den Keyser doot,</l>
+<pb n="16"/>
+<l>Ureest gheenen noot,</l>
+<l>Maer wacht veur Ghuweloene,</l>
+<l>Uoor noene, is tfaict meest excellent,</l>
+<l>Maeckt u bekent, int Urancs conuent,</l>
+<l>Daer is profijt te doene.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">D’hooghste van al,</l>
+<l>Als Prince bouen princen,</l>
+<l>Diet al regiert, en weet al goet en quaet,</l>
+<l>Kent elcs gheual,</l>
+<l>Jn steden en prouincen:</l>
+<l>Dies zal hy u, mits goet recht, gheuen raet,</l>
+<l>Sonder verlaet,</l>
+<l>Js goet recht wel te doene,</l>
+<l>Te bemoene, pijnt zulck accident,</l>
+<l>Maeckt u bekent, int Urancs conuent,</l>
+<l>Daer is conquest te doene.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0007"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander. VII</hi>.</head>
+    <figure>
+        <p><xptr to="cast005dive02ill10.gif"/></p>
+    </figure>
+<lg type="poem"><l>O Slijngher minne,</l>
+<l>Seer wild van zinne,</l>
+<l>Hoe persequeerdy my totter doot:</l>
+<l>Wat heeft dat inne</l>
+<l>Dat mijn vriendinne</l>
+<l>My laet verdwynen inden noot.</l>
+<l>Och lief mijn </l>
+<pb n="17"/>
+    <l><figure>
+        <p><xptr to="cast005dive02ill11.gif"/></p>
+    </figure></l>
+<l>lyden is so groot,</l>
+<l>Schoo<hi rend="i">n</hi> rooske<hi rend="i">n</hi> root ic segt v bloot,</l>
+<l>Mach ic gheene<hi rend="i">n</hi> troost v<hi rend="i">er</hi>weruen,</l>
+<l>Zoo moet ic da<hi rend="i">n</hi> door liefde steruen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">UUien zal ick claghen</l>
+<l>Mijn swaer mishaghen,</l>
+<l>Dan v mijn alderliefste lief:</l>
+<l>Noyt ooghen saghen</l>
+<l>Soo blyde daghen,</l>
+<l>Als dat ghy vluchtet mijn meskief.</l>
+<l>Noyt herte leet sulck ongherief:</l>
+<l>Mijn bitter grief, Dwelck ick besief</l>
+<l>Uan eerst schoon lief om uwen wille,</l>
+<l>Dat claghe ick heymelijck en stille.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ick ben versteken</l>
+<l>Deur valsche treken,</l>
+<l>Die my helas fortune doet,</l>
+<l>Mijn ooghen leken</l>
+<l>Uloedich als beken,</l>
+<l>Dat ick moet blyuen onder voet:</l>
+<l>Jck claeghs datt aldus wesen moet.</l>
+<pb n="18"/>
+<l>O beelde soet,</l>
+<l>Ghy zijt zoo goet,</l>
+<l>Ueel beter dan my magh aencleuen:</l>
+<l>Dies ducht ic suldy my begheuen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Mijn schoon Princesse,</l>
+<l>Deur wien ick messe</l>
+<l>Al mijn vijf zinnen t’eynden raet,</l>
+<l>Ueel beter esse</l>
+<l>D’edel meestresse,</l>
+<l>Dan die t’mynen behouue staet:</l>
+<l>Nochtans hoedt was, het is dus iaet.</l>
+<l>O fier ghelaet,</l>
+<l>Schoon vrauwlijck saet,</l>
+<l>Uan eerst heb ick v wtvercoren,</l>
+<l>Laet mynen arbeyt niet verloren.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0008"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander. VIII</hi>.</head>
+    <figure>
+        <p><xptr to="cast005dive02ill12.gif"/></p>
+    </figure>
+<lg type="poem"><l>O Schoonste van Uenus Camerieren</l>
+<l>Wat lyd’ ic druc en rouwe:</l>
+<l>Hoe mach ons Fortune aldus bestieren</l>
+<l>Met harer valscher trouwe:</l>
+<l>Ghy zijt so</l>
+<pb n="19"/>
+    <l><figure>
+        <p><xptr to="cast005dive02ill13.gif"/></p>
+    </figure></l>
+<l>schoon een vrouwe</l>
+<l>Jst dat ick v moet deruen</l>
+<l>En verliesen mijn amye,</l>
+<l>Moet ick deur liefde sterue<hi rend="i">n</hi></l>
+<l>En scheyde<hi rend="i">n</hi> ick en ghye,</l>
+<l>Dat clagh’ick ialousye.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ick claghe des scheedens droefste ure,</l>
+<l>Die noyt ter waerelt mocht ghesijn:</l>
+<l>Niet beter en is mijn auonture,</l>
+<l>Tfy ialousi valsch fenijn,</l>
+<l>Ghy brocht my int swaer ghepijn,</l>
+<l>T’sal noch al op v weluen:</l>
+<l>Nochtans waendy my verzeeren,</l>
+<pb n="20"/>
+<l>Gh’en doet, ghy quelt v zeluen,</l>
+<l>En doet v luttel eeren,</l>
+<l>Jck hope het sal verkeeren.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Als ick ouerdincke tijd voorleden,</l>
+<l>De tourkins ende de ganghen,</l>
+<l>Hoe wy onslien doen tot vreuchden deden,</l>
+<l>Ben ick tranich behanghen,</l>
+<l>T’coleur van uwen wanghen,</l>
+<l>Brijngt my in swaer ghepeynsen</l>
+<l>Als ic nu daer af moet scheeden:</l>
+<l>Hoe can hy op v greynsen?</l>
+<l>Ghy const my noyt verleeden,</l>
+<l>O God troost doch ons beeden.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">O lacen mijn ouerschoon Princesse,</l>
+<l>Wilt doch mynen druck verlichten:</l>
+<l>Ghy gaeft my int scheeden eene lesse</l>
+<l>Dat ick op v sou dichten,</l>
+<l>Jck claechs vrou Uenus schichten,</l>
+<l>En vloucke hem bouen maten</l>
+<l>Die ons bringhdt in dees doleuren:</l>
+<l>Ten sal nochtans niet baten,</l>
+<l>Schoon lief en wilt niet treuren,</l>
+<l>T’moet veel vremds dincs ghebeuren.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0009"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander.IX</hi>.</head>
+<pb n="21"/>
+    <figure>
+        <p><xptr to="cast005dive02ill14.gif"/></p>
+    </figure>
+<lg type="poem">
+<l>JCk vrijdd’ een vraukin al soo fijn</l>
+<l>En droech haer goede minne,</l>
+<l>Die al verteerde tgoeyken mijn,</l>
+<l>Want sy was loos va<hi rend="i">n</hi> zinne:</l>
+<l>Zy zey, comt naer </l>
+<l>Schoo<hi rend="i">n</hi> lief eerbaer</l>
+<l>wy wille<hi rend="i">n</hi> vreucht ontsluyte<hi rend="i">n</hi>:</l>
+<l>Jc ghinc tot haer</l>
+<l>om d’ae<hi rend="i">n</hi>schijn claer,</l>
+<l>Maer thoerke<hi rend="i">n</hi> sloot my buyten.</l>
+<l>&nbsp;</l>
+<pb n="22"/>
+<l rend="; 1tab">Als is mijn mantel zeer ghescheurt</l>
+<l>Schoon lief k’en cants besweeren:</l>
+<l>Als ga ick ghegaet, ghelapt, gheleurt,</l>
+<l>Ghy helpet al verteeren:</l>
+<l>Als was ick noyt</l>
+<l>Aldus beroyt,</l>
+<l>Als draech ick ydel borsen:</l>
+<l>Als ist vertoyt,</l>
+<l>Uerteert, verpoyt,</l>
+<l>Ken ben noch niet verborsen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Schoon liefkin heb ickt al verdaen,</l>
+<l>Peynst op voorleden tyden:</l>
+<l>By v heb ick de schade ontfaen,</l>
+<l>Laet my doch noch verblyden.</l>
+<l>Seght my t’bediet,</l>
+<l>Hoe ist gheschiet?</l>
+<l>Jck hield v vol van trouwen:</l>
+<l>Als heb ick niet,</l>
+<l>Alsoo ghy siet,</l>
+<l>Noch heb ick wat behouwen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Prince schoon lief, seght my dat snel,</l>
+<l>Wat is dy ouer bleuen?</l>
+<l>Schoon lief, dat meuchdy weten wel,</l>
+<l>Theeft v veel vreuchds ghegheuen.</l>
+<l>Hebdy noch dat?</l>
+<l>Ja ick schaec noch mat.</l>
+<pb n="23"/>
+<l>En wilt dat niet verliesen:</l>
+<l>Jck secht v plat,</l>
+<l>Uoor goet oft schat,</l>
+<l>Wil ick dat weder kiesen.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0010"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander X</hi>.</head>
+    <figure>
+        <p><xptr to="cast005dive02ill15.gif"/></p>
+    </figure>
+<lg type="poem"><l>UEnus eertsche Goddinne,</l>
+<l>Hoe vind’ ick my dus beslaen?</l>
+<l>Ghy had veel honichs inne</l>
+<l>Als ghy my toogdet minne,</l>
+<l>Maer nu ist al ghedaen.</l>
+<l>Wie sach den steen noyt soo verslaen</l>
+<l>Aengaande mijnder</l>
+<pb n="24"/>
+    <l><figure>
+        <p><xptr to="cast005dive02ill16.gif"/></p>
+    </figure></l>
+<l>liefster vrouwen?</l>
+<l>Het sal my costen den laetste<hi rend="i">n</hi> traen</l>
+<l>Mach icse niet behouwen</l>
+<l>Dat zweer ick by mijn trouwen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Als ick met schoonder spraken,</l>
+<l>En met labeure zwaer,</l>
+<l>Om tslot van mijnder saken</l>
+<l>Heb moeten vriendschap maken,</l>
+<l>Zy met my, ende ick met haer,</l>
+<l>Qua tonghen brijnghen ons int misbaer,</l>
+<l>Soo dat ick moet die liefste deruen:</l>
+<l>Moet ick dus laten mijn wederpaer,</l>
+<l>Ende haer niet meer verweruen,</l>
+<l>Duyst dooden sa lick steruen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Noyt amoreus en leefde</l>
+<l>Hier op dees weereldt wijt,</l>
+<l>Die zoo door liefde sneefde,</l>
+<pb n="25"/>
+<l>Of daer tdangier ancleefde,</l>
+<l>Alsdan my doet nu ter tijt:</l>
+<l>Eurealus zijnd’ in sijnen strijt,</l>
+<l>Als lach hy ghecosfert verborghen, {lees: ghecoffert}</l>
+<l>En vlouct’ hem seluen door tswaer berijt,</l>
+<l>Wachtende gheenen morghen,</l>
+<l>En leedt noyt zoo veel sorghen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Adieu wel schoon Princesse,</l>
+<l>Adieu vermeillen mondt,</l>
+<l>Adieu suyuer clergesse,</l>
+<l>Adieu mijn reyn meesteresse,</l>
+<l>Adieu daer al mijn troost an stondt,</l>
+<l>Adieu meer weerdich dan duysent pondt,</l>
+<l>Adieu wel rieckende roosiere,</l>
+<l>Adieu gheplant in mijns herten gront,</l>
+<l>Adieu schoon violiere,</l>
+<l>Adieu reyn balsamiere.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0011"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander. XI</hi>.</head>
+    <figure>
+        <p><xptr to="cast005dive02ill17.gif"/></p>
+    </figure>
+<lg type="poem"><l>ALs ick zye</l>
+<l>Mijn schoo<hi rend="i">n</hi> amye</l>
+<l>Werdt therte blye, en<hi rend="i">de</hi> al ghenesen:</l>
+<pb n="26"/>
+    <l><figure>
+        <p><xptr to="cast005dive02ill18.gif"/></p>
+    </figure></l>
+<l>Zy is zoo reyn zoo wtgehelesen,</l>
+<l>Ghee<hi rend="i">n</hi> eelder greyn, in sweerelts pleyn</l>
+<l>Dan dye</l>
+<l>Als ick se sye,</l>
+<l>Haer wa<hi rend="i">n</hi>ghske<hi rend="i">n</hi>s root doen my de<hi rend="i">n</hi> noot</l>
+<l>Boue<hi rend="i">n</hi> mate<hi rend="i">n</hi>:</l>
+<l>Nochta<hi rend="i">n</hi>s zo zeg ic bloot,</l>
+<l>Tot in mijn doot</l>
+<l>En zal ick se laten </l>
+<l>Die blo<hi rend="i">m</hi>me vulpresen.</l>
+<l>Als ickse etc.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Midts haer bruyn oghen</l>
+<l>Moet ick gedoghen,</l>
+<pb n="27"/>
+<l>Door tswaer benoghen, druck ende pyne:</l>
+<l>Uenus beghin en disciplyne,</l>
+<l>Heeft meer oft min, mijns herten sin </l>
+<l>Bedroghen.</l>
+<l>Midts haer bruyn oghen</l>
+<l>Vreucht comt op niet, druck en verdriet</l>
+<l>Doen my waken:</l>
+<l>Nochtans wies mijns gheschiet,</l>
+<l>Wiet my ontriet,</l>
+<l>Uoor al ander saken</l>
+<l>Soo blyuet zy myne:</l>
+<l>Midts haer bruyn oghen</l>
+<l>Moet ick ghedoghen,</l>
+<l>Door tswaer benoghen, druck ende pyne.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Dits mijn vermanen,</l>
+<l>Solaes met tranen,</l>
+<l>Ghenouchte spanen, tot allen tyden:</l>
+<l>Menighe zucht voor een verblyden,</l>
+<l>Ureucht neemt de vlucht, midts hope en ducht</l>
+<l>Door d’wanen,</l>
+<l>Dits mijn vermanen:</l>
+<l>Nochtans wiet deert, zy ist my weert,</l>
+<l>Wies ick cuyme:</l>
+<l>Want icr wel ben expeert,</l>
+<l>Cupidoos sweert</l>
+<l>Houdt zijn ou costuyme</l>
+<pb n="28"/>
+<l>Die mindt moet veel lyden:</l>
+<l>Dits mijn vermanen,</l>
+<l>Solaes met tranen,</l>
+<l>Ghenouchte spanen, tot allen tyden.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Princesse schoone,</l>
+<l>Jn tsweerelts throone</l>
+<l>Spandy de croone, voor ander vrouwen:</l>
+<l>Sendt my troost naer, als lief vol trouwen,</l>
+<l>Gheen grief zoo zwaer, ick lijdt eenpaer,</l>
+<l>Te loone:</l>
+<l>Princesse schoone,</l>
+<l>Ghy zijt mijn vreuchdt, die my verheuchdt</l>
+<l>Bouen schreuen:</l>
+<l>Laet my dijn ionge ieuchdt</l>
+<l>Uol alder deuchdt</l>
+<l>Troost en hulpe gheuen:</l>
+<l>Bluscht toch mijn benouwen,</l>
+<l>Princesse schoone,</l>
+<l>Jn tsweerelts throone</l>
+<l>Spandy de croone, voor ander vrouwen.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0012"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander. XIJ</hi>.</head>
+    <figure>
+        <p><xptr to="cast005dive02ill19.gif"/></p>
+    </figure>
+<lg type="poem"><l>ALst al rust ma<hi rend="i">n</hi>s en vrouwen,</l>
+<pb n="29"/>
+    <l><figure>
+        <p><xptr to="cast005dive02ill20.gif"/></p>
+    </figure></l>
+<l>Tsnachts tusche<hi rend="i">n</hi> twee en dryen,</l>
+<l>Uind’ ic my laes vul rouwen,</l>
+<l>Ter causen mijns amyen:</l>
+<l>O Uenus vul envyen,</l>
+<l>Twy toogdy my dees perte</l>
+<l>Noyt vremder fantasie:</l>
+<l>Wie<hi rend="i">n</hi> clagh’ick el mijn smerte,</l>
+<l>Dan dy schoon herte.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Een oogh can ick niet sluyten</l>
+<l>Als ick peynse om die schoone,</l>
+<l>Door al haer fier virtuyten</l>
+<l>Spant zy in my die croone:</l>
+<l>Tfy maeckt zy haer te noone</l>
+<l>Peyns ick met scherpen sinne,</l>
+<l>Wist zy wat ick te loone</l>
+<l>Gaef de schoon keyserinne,</l>
+<l>Sy droech my minne.</l>
+<l>&nbsp;</l>
+<pb n="30"/>
+<l rend="; 1tab">Ick peynse d’een en d’ander</l>
+<l>Ende al van Uenus spele:</l>
+<l>Den grooten Alexander</l>
+<l>En peynsdes noyt soo vele,</l>
+<l>Ten lijdt niet mijnder kele</l>
+<l>Wies ick tsnachts moet vercheynsen,</l>
+<l>Tsecreet van dien ick hele:</l>
+<l>Een wijs man moet hem veynsen</l>
+<l>Uan veel ghepeynsen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Meest tsnachts ist dat ick duchte,</l>
+<l>Noyt man leet sulck allende:</l>
+<l>Thien duyst mael ick versuchte,</l>
+<l>Jck ligghe en keere en wende:</l>
+<l>Dan troost ick my in thende,</l>
+<l>Tsmorghens sal ick my wreken:</l>
+<l>Maer alst comt ter legende,</l>
+<l>Sulcx zijn vrou Uenus treken,</l>
+<l>Jck en can niet spreken.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Uan haer ick d’aenschijn keere</l>
+<l>Al sie ick se voor my lyden,</l>
+<l>Schaemte dwijnght my te seere,</l>
+<l>Haer grootheyt moet ick myden,</l>
+<l>Al mijn vijf sinnen stryden:</l>
+<l>Ansie ick die schoon figure,</l>
+<l>Jck laetse my ontglyden,</l>
+<l>Dan vlouck ick telcker ure</l>
+<l>Mijn auonture.</l>
+<l>&nbsp;</l>
+<pb n="31"/>
+<l rend="; 1tab">Princesse ick en coest niet slapen</l>
+<l>Als ick dit liedekin wrachte,</l>
+<l>Mijn penne moest ick rapen</l>
+<l>En schreef aldus by nachte,</l>
+<l>Hier af doe ick haer de clachte</l>
+<l>Die my dus houdt in weene,</l>
+<l>Haer buycxkin is soo sachte,</l>
+<l>Dit is, die blomme reene</l>
+<l>Slaept soo noode alleene.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0013"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander. XIIJ</hi>.</head>
+    <figure>
+        <p><xptr to="cast005dive02ill21.gif"/></p>
+    </figure>
+<lg type="poem"><l>HElas helas, ic mach wel duchte<hi rend="i">n</hi></l>
+<l>En drouuich schreye<hi rend="i">n</hi> een zee vul trane<hi rend="i">n</hi>:</l>
+<l>Elc treur m<hi rend="i">et</hi> mi, elc help mi zuchte<hi rend="i">n</hi>,</l>
+<l>Wilt allen druck m<hi rend="i">et</hi> my v<hi rend="i">er</hi>manen.</l>
+<l>Mijn troost, mijn hope, en ooc mijn wane<hi rend="i">n</hi></l>
+<l>Uerliest zijn</l>
+<pb n="32"/>
+    <l><figure>
+        <p><xptr to="cast005dive02ill22.gif"/></p>
+    </figure></l>
+<l>poghen,</l>
+<l>Mijn oude vreuchde<hi rend="i">n</hi> moet ic nu spane<hi rend="i">n</hi>,</l>
+<l>Jc ben bedroghen.</l>
+<l>Als ick mijn boel lest zach met oghen</l>
+<l>Laes het wert leden zaen twee iaren:</l>
+<l>Rijc God waer is den tijt ghevaren.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">De vreughd der weerelt al met allen</l>
+<l>Haddick als doen ter tijt besworen,</l>
+<l>Maer nu macht my niet meer gheuallen,</l>
+<l>Hoe heb ick v dus saen verloren?</l>
+<l>Jn therte waerdy vercoren</l>
+<l>Als man met wyue,</l>
+<l>Een ionck baroenken wort v gheboren</l>
+<l>Uan mynen lyue,</l>
+<l>Dies ick altijt dijn eyghen blyue,</l>
+<pb n="33"/>
+<l>Als wilt ons fortuyne nu ontsparen,</l>
+<l>Rijck God waer is nu den tijt ghevaren?</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Cupido fel onghier verwaten</l>
+<l>Jck vloucke v van deser ruyse,</l>
+<l>Mijns vaders woenste moest ic laten,</l>
+<l>Daer naer quam ick noyt binnen huyse,</l>
+<l>Tractaet van paeyse staet int confuyse</l>
+<l>Zichtent dien tyden:</l>
+<l>Al stille zwijgh’ ick ghelijck den muyse</l>
+<l>Jck moett ghelyden:</l>
+<l>Maer als ick peyse om d’oud verblyden,</l>
+<l>Uind’ick my helas bycans in varen:</l>
+<l>Rijck God waer is den tijt ghevaren?</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Prince, in mijn herte vast gheseten,</l>
+<l>Wien ick sal eeuwich ionste draghen,</l>
+<l>Hoe meughdy my dus zaen vergheten?</l>
+<l>O in v liet ick vrienden en maghen:</l>
+<l>Als wy d’een d’ander voor ooghen zaghen</l>
+<l>Onder ons beeden,</l>
+<l>Tscheen dat wy nemmer te gheenen daghen</l>
+<l>En zouden scheeden:</l>
+<l>Neit min Godt wil v wel gheleeden,</l>
+<l>Jck ducht wy niet meer zullen vergaren:</l>
+<l>Rijck God waer is den tijt ghevaren?</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0014"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander. XIIIJ</hi>.</head>
+<pb n="34"/>
+<figure>
+        <p><xptr to="cast005dive02ill23.gif"/></p>
+    </figure>
+<lg type="poem">
+<l>FOrtune wie<hi rend="i">n</hi> maect my vol zorghen?</l>
+<l>Tresoor van alle schoone lyuen:</l>
+<l>Uie zijn ghepeyse<hi rend="i">n</hi> houdt verborghen</l>
+<l>Dinct ost zijn zinne<hi rend="i">n</hi> dicwils kyuen.</l>
+<l>O fleur va<hi rend="i">n</hi> wyue<hi rend="i">n</hi>,</l>
+<l>U zal ic blyuen,</l>
+<l>Als moet mijn clachte dijn verholen zijn,</l>
+<l>Wat ic begeer schoon lief, dat moet ghestolen zijn.</l>
+<l>&nbsp;</l>
+<l>UUie zal hem onder t volck gheneeren?</l>
+<l>Qua tonghen bringhent al in plaghen,</l>
+<l>Dies moet ick helen mijn begheeren:</l>
+<l>Niet voor secrete liefde draghen,</l>
+<pb n="35"/>
+<l>Noyt ooghen zaghen</l>
+<l>Meerder mishaghen</l>
+<l>Dan van my moet, deur v, bequolen zijn:</l>
+<l>Wat ick begheer schoon lief, dat moet ghestolen zijn.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Uoor t volck begheer ic niet met allen:</l>
+<l>Tfy rommers daedt, tfy quae planete,</l>
+<l>Jck hope d’ure zal eens ghevallen</l>
+<l>Dat ick zal commen ten vermete.</l>
+<l>Hier af de wete</l>
+<l>Blijft int secrete,</l>
+<l>Als souden dies mijn zinnen in dolen zijn,</l>
+<l>Wat ick begheer schoon lief, dat moet ghestole<hi rend="i">n</hi> zijn.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Secreet voedt alle ionghe ieughden,</l>
+<l>Secreten troost is medicyne.</l>
+<l>Wat paradijs ist, oft wat vreughden</l>
+<l>By zijn schoon boel secreet te zyne?</l>
+<l>Dus claer robyne,</l>
+<l>Des nyders pyne</l>
+<l>Doet my helas in droefheyts scholen zijn:</l>
+<l>Wat ic begheer schoon lief, dat moet ghestole<hi rend="i">n</hi> zijn.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Laes mijn begheeren moet ic swyghen,</l>
+<l>Ueur tvolck mach ick dat niet verhalen:</l>
+<l>Den tijt can ick niet ghecryghen,</l>
+<l>Te zelden vind’ ic dy ter talen:</l>
+<l>Dus moet ic dwalen,</l>
+<l>Uan trooste falen</l>
+<l>Tot dies my anders zal beuolen zijn:</l>
+<l>Wat ick begheer schoon lief, dat moet ghestole<hi rend="i">n</hi> zijn.</l>
+<l>&nbsp;</l>
+<pb n="36"/>
+<l rend="; 1tab">Princesse lief reyn Keyserinne,</l>
+<l>Mijn schoon vriendinne, vry van smetten,</l>
+<l>Jck draghe dy bedecte minne,</l>
+<l>Mijn grief meughdy subijt beletten,</l>
+<l>Ghy meught my zetten</l>
+<l>Wt Uenus netten,</l>
+<l>Deur v moet ick van haren folen zijn:</l>
+<l>Wat ick begheer schoon lief, dat moet ghestole<hi rend="i">n</hi> zijn.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0015"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander. XV</hi>.</head>
+<head rend="h4"><hi rend="i">op den seluen voys.</hi></head>
+<lg type="poem"><l>SChoon Ulaender-landt edel Grauinne,</l>
+<l>Uervroeyt v nu al buyten keere,</l>
+<l>Ghy hebt verworuen paeys en minne,</l>
+<l>Noyt mare vermaect dy dus seere:</l>
+<l>Dijn lof end’ eere</l>
+<l>Wast lanck soo breere,</l>
+<l>Uerblijdt v rasch metten verheughden:</l>
+<l>Paeys is den oorspronck van alle vreughden.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Den Ulamingh mach nu zeer wel lusten,</l>
+<l>Wat mocht hy meer aen Godt begheeren?</l>
+<l>Met paeys zal elck op zijn bedd’ rusten,</l>
+<l>Met paeyse zal hem elck gheneeren:</l>
+<l>Paeys sal beweeren</l>
+<l>Des vyandts deeren,</l>
+<l>Paeys sal ons houwen vul van deughden:</l>
+<l>Paeys is den oorspronck van alle vreughden.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ueur niemandt duruen wy ons veynsen,</l>
+<l>Niemandt en zal ons nu vercleenen:</l>
+<pb n="37"/>
+<l>Paeys heeft beweerdt ons achter peynsen,</l>
+<l>Paeys heeft ghebluscht ons druckick weenen,</l>
+<l>Paeys sal verleenen</l>
+<l>Meer dan wy meenen,</l>
+<l>Paeys is tvoedtsel van alle ieughden:</l>
+<l>Paeys is den oorspronck van alle vreughden.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Almachtich Prince Godt hier bouen,</l>
+<l>Wy dancken v met goe bescheede,</l>
+<l>Anders en meugh wy niemandt louen,</l>
+<l>Ghy zijt Regent int sweerelts weede:</l>
+<l>Dees Princen beede</l>
+<l>Bewaerdt van leede,</l>
+<l>Niet meer werden wy van d’ontweughden:</l>
+<l>Paeys is den oorspronck van alle vreughden.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0016"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander. XVJ</hi>.</head>
+    <figure>
+        <p><xptr to="cast005dive02ill24.gif"/></p>
+    </figure>
+<lg type="poem"><l>UUt vreughden werdt hier een liedt ghesonghe<hi rend="i">n</hi></l>
+<l>Den Keyser t’eeren dat e-</l>
+<pb n="38"/>
+    <l><figure>
+        <p><xptr to="cast005dive02ill25.gif"/></p>
+    </figure></l>
+<l>del bloet,</l>
+<l>Die nu zynen vyandt heeft ghedwo<hi rend="i">n</hi>ghe<hi rend="i">n</hi>, </l>
+<l>En plat gheworpen onder den voet:</l>
+<l>Die Lely zoet </l>
+<l>Uerliest den moet,</l>
+<l>Borbon vailliant bewaert ons zyde,</l>
+<l>De<hi rend="i">n</hi> Ura<hi rend="i">n</hi>cschen Coninck is in ons behoet</l>
+<l>Noyt qua<hi rend="i">m</hi> nieu mare int landt zoo blyde.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Bourgoignen en vreest nu gheen verstra<hi rend="i">n</hi>ghen,</l>
+<l>Ghy Ulaenders Leeu schuwet swaer gheclach,</l>
+<l>Den Uranckschen Coninck die is ghevanghen,</l>
+<pb n="39"/>
+<l>Ueur ons en quam noyt gheen blyder dach,</l>
+<l>Daert menich zach</l>
+<l>Ghewieldt o wach</l>
+<l>Ontrent Pavyen binnen stryde</l>
+<l>Was hy ghegrepen inden slach:</l>
+<l>Noyt quam nieu mare int landt zoo blyde.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Als hem dus Fortune was besintich</l>
+<l>En bleef gheuanghen aen onsen cant,</l>
+<l>Schreefmen duyst vijf hondert vierentwintich,</l>
+<l>La <hi rend="i">Motte</hi> vingh hem daer metter hant.</l>
+<l>Princen playsant</l>
+<l>Ueertich vaillant</l>
+<l>Bleuer gheuanghen wiet benyde,</l>
+<l>Ende acht versleghen inden brant:</l>
+<l>Noyt quam nieu mare int landt soo blyde.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ghy Ulaminghe<hi rend="i">n</hi> weest tot vreughd gheneghe<hi rend="i">n</hi>,</l>
+<l>Niemandt ter weerelt en macht verbien:</l>
+<l>Al tpeupel bleef meest daer doot versleghen,</l>
+<l>Nauwe mochte er eenich man ontvlien.</l>
+<l>Lof Godt van dien</l>
+<l>Diet liet gheschien,</l>
+<l>Wy hopen nu van goeden tyde:</l>
+<l>Lof hem die ons dus can versien:</l>
+<l>Noyt quam nieu mare int landt zoo blyde.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Prince Godt Uader vol alder deughden</l>
+<l>Nu dancken wy v in elck conroot,</l>
+<l>Dat ghy onslieden gaeft dus veel vreughden</l>
+<l>Uictorieus in ons exploot:</l>
+<pb n="40"/>
+<l>Jn elcken stoot</l>
+<l>Den Keyser groot</l>
+<l>Bewaert altoos, en zijn gesmyde</l>
+<l>Ghelijck ghy ons nu helpt inden noot:</l>
+<l>Noyt quam nieu mare int landt zoo blyde.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0017"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander. XVIJ</hi>.</head>
+<div type="section">
+<head rend="h4"><hi rend="i">op den zeluen voys.</hi></head>
+<lg type="poem"><l>HOe lustelick bloeyen alle dinghen,</l>
+<l>De bloemkins spruyten verre ende naer:</l>
+<l>Dat tswinters tijt treurt hoortme<hi rend="i">n</hi> nu zinghe<hi rend="i">n</hi></l>
+<l>Elc voghel zouct nu zijn wederpaer:</l>
+<l>Dus aenschijn claer,</l>
+<l>Schoon lief eerbaer</l>
+<l>Die my doet druck en droefheyt lyden,</l>
+<l>Ueur al mijn pyne int langhe iaer,</l>
+<l>Alst al verheught, laet my verblyden.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Soo wie zijn schoon lief heeft wtuercoren,</l>
+<l>Ende souct die te menigher stondt,</l>
+<l>Hoe veel voetstappen gaet hy verloren?</l>
+<l>Hier by is v mijn liefde condt:</l>
+<l>Dus rooden mondt,</l>
+<l>Dijns herten grondt,</l>
+<l>Uermurwet wat, als mijn vriendinne,</l>
+<l>Tooght dat ghy my dijn liefde iont,</l>
+<l>Jck sal v tooghen goede minne.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Dijn minne doedy my hert verghelden,</l>
+<l>Niet min ghy weghet die my dat doet:</l>
+<l>Och lacen vind’ v veel te selden</l>
+<pb n="41"/>
+<l>Maer als ick v vind’ ick vind’v goet:</l>
+<l>Dus aenschijn zoet,</l>
+<l>Reyn edel bloet,</l>
+<l>Jck hope bet, met Smeys saysoene,</l>
+<l>Ghy weet, als draechdy hooghen moet,</l>
+<l>Deen lief behoort dander vriendtschap te doene.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Adieu dalder schoonst van alle wyuen,</l>
+<l>Clachtich maect ghy my thenden raet,</l>
+<l>Altoos wil ick v ghetrouwe blyuen,</l>
+<l>Uerlaet my toch niet mijn toeuerlaet:</l>
+<l>Leeft ghy naer staet,</l>
+<l>En peyst gheen quaet,</l>
+<l>Alst dus verre is, schoon lief ghepresen,</l>
+<l>Dberou comt laete naer de daet:</l>
+<l>Dus laet ons tsamen vrolijck wesen.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0018"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander. XVIIJ.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">op den voys van </hi>Helas, helas.</head>
+<lg type="poem"><l>EEn vreughdich liedt moet ick vermanen</l>
+<l>Tot tslandts profijt, wiedt mach benyen,</l>
+<l>Doornijck ghewonnen en Melanen,</l>
+<l>De prinse ghedaen veur Pavyen</l>
+<l>En is gheen ghelijck by nu ten tyen</l>
+<l>Ter Spaenscher stede:</l>
+<l>Keyser en Coninck wilden belyen</l>
+<l>Paeys en vrede:</l>
+<l>Vaste alliance en vriendtschap mede</l>
+<l>Sloten zy goetwillich int vergaren:</l>
+<l>Dees mare passeert alle ander maren.</l>
+<l>&nbsp;</l>
+<pb n="42"/>
+<l rend="; 1tab">Bourgoignen gheeft hy als diedt ionne,</l>
+<l>Cuarloys Chynon die schoone sale,</l>
+<l>Noyhiers, sinte Laurens, Danchonne:</l>
+<l>Uoort sal den Coninck wel ter tale,</l>
+<l>Corts ondertrouwen van Portugale</l>
+<l>Die Coninghinne:</l>
+<l>Dies blijft dit aerdtsche dal al te male</l>
+<l>TsKeysers ghewinne.</l>
+<l>Tschoon Ulaender-landt, midts paeys en minne,</l>
+<l>En zal gheen hommage meer beswaren:</l>
+<l>Dees mare passeert alle ander maren.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Uoort renuncierdt hy buyten banden</l>
+<l>Doornijcke en Tornesijtsche tsamen,</l>
+<l>Graefschappen, Rijcken en veel landen</l>
+<l>Die int contract al staen by namen,</l>
+<l>D’hertogh van Gheldre, tsijner onvramen,</l>
+<l>Moet hy beswijcken:</l>
+<l>Maer zal d’landt houden, naer d’wel betamen,</l>
+<l>Om zijn verrijcken.</l>
+<l>Ter doot zalt zelue ons Keyser strijcken,</l>
+<l>T’verbadt dus den Coninck int verclaren:</l>
+<l>Dees mare passeert alle ander maren.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Wertenborch en La Marche beede</l>
+<l>Beswijckt den Coninck int tracteren:</l>
+<l>Den Dolphijn troudt hier naer met eede</l>
+<l>Marien iongh, weerdt om crooneren:</l>
+<l>Bee tsConincs kinders, int concluderen,</l>
+<l>Werden d’ostage.</l>
+<pb n="43"/>
+<l>Borbon en machmen niet refuseren</l>
+<l>Sijn oud hommaghe.</l>
+<l>Twalef galeyen int voyage</l>
+<l>Sal ooc ter zee Franchois laten varen:</l>
+<l>Dees mare passeert alle ander maren.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Prince, op ons weluaert gheen tijt fluerich,</l>
+<l>Almachtich Godt zydy beseuen.</l>
+<l>Houdt desen paeys voor ons gheduerich,</l>
+<l>En laet de cruysvaert ons aencleuen:</l>
+<l>Uerleent den Keyser een zalich leuen</l>
+<l>Als vry van rouwe:</l>
+<l>Den Uranckschen Coninck ghesalft verheuen</l>
+<l>Bewaert oock nouwe.</l>
+<l>Nu heb wy paeys in ons Landouwe,</l>
+<l>Jck hope ghy ons voort noch zult bewaren:</l>
+<l>Dees mare passeert alle ander maren.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0019"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander. XIX.</hi></head>
+<div type="section">
+<head rend="h4"><hi rend="i">op den voys van </hi>Jck vrijdde een vroukin.</head>
+<lg type="poem"><l>SPringht alle zeer wijfs ende mans,</l>
+<l>Knechtkins en Meyskins tsamen:</l>
+<l>Laet ons verheughen desen dans</l>
+<l>Twerdt t’onser alder vramen:</l>
+<l>De mare is hier</l>
+<l>Jnt Ulaemsch vergier,</l>
+<l>T’bescheyt mach elck wel horen,</l>
+<l>Lof hoogst Princier</l>
+<l>&nbsp;</l>
+<pb n="44"/>
+<l>Uan dit bestier,</l>
+<l>Een Prince is ons gheboren.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Den Ulamingh is vreese ende ducht</l>
+<l>Gheweerdt met veel calaignien:</l>
+<l>Gheboren was dees edel vrucht</l>
+<l>Nu cortelinghe in Spaignen:</l>
+<l>Dien Godt bemindt</l>
+<l>Dwaelt niet een twindt,</l>
+<l>Laet ons hem niet verstoren:</l>
+<l>Deur dit bewindt</l>
+<l>Weest vro ghesindt.</l>
+<l>Een Prince is ons gheboren.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Danst alle zeer deur dit bedrijf</l>
+<l>Ons blijft nu paeys en minne:</l>
+<l>Godt wil vertroosten t’reyne wijf</l>
+<l>Ons edel Keyserinne:</l>
+<l>Noyt zulck een pant</l>
+<l>Ueur onderstrant</l>
+<l>Quam ons van haer te voren.</l>
+<l>Schoon Ulaender-lant</l>
+<l>Weest nu playsant,</l>
+<l>Een Prince is ons gheboren.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Prince, hooghste Godt t’ons liberael,</l>
+<l>Lof v deur dit ghevaren:</l>
+<l>Wy bidden ghy desen Uassael</l>
+<l>Ons langhe wilt bewaren,</l>
+<l>En sparen doet</l>
+<l>Ueur teghenspoet</l>
+<l>&nbsp;</l>
+<pb n="45"/>
+<l>Wy hebben wtvercoren:</l>
+<l>Lof hooghste goet</l>
+<l>Met sin en moet,</l>
+<l>Een Prince is ons gheboren.</l>
+</lg></div>
+</div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0020"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander.XX</hi>.</head>
+    <figure>
+        <p><xptr to="cast005dive02ill26.gif"/></p>
+    </figure>
+<lg type="poem"><l>HOe droeu’ ic achter strate gae</l>
+<l>Tsy vroech oft spae</l>
+<l>Oft wies ic fantasere,</l>
+<l>Hoe ic alle dinc int quaetste slae</l>
+<l>Ter meester schae</l>
+<l>Oft hoe zeer ic dolere,</l>
+<l>Hoe zwaer dat ic sy</l>
+<l>Heb ick se by my</l>
+<l>Sy can my vry van droefheyt zwichten:</l>
+<pb n="46"/>
+    <l><figure>
+        <p><xptr to="cast005dive02ill27.gif"/></p>
+    </figure></l>
+<l>Dit schoo<hi rend="i">n</hi> edel bloet,</l>
+<l>Die wa<hi rend="i">n</hi>gskins soet</l>
+<l>Doe<hi rend="i">n</hi> my de<hi rend="i">n</hi> moet</l>
+<l>Van als verlichten.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Als had ick noch soo groot verdriet,</l>
+<l>Soot wel gheschiet,</l>
+<l>Sijnde verstoort van zinne:</l>
+<l>Wanneer mijn schoon lief op my ziet</l>
+<l>T’grief comt op niet</l>
+<l>Als zy my tooght goe minne:</l>
+<l>Deur d’wesen zeer fier</l>
+<l>Den druck hoe onghier,</l>
+<l>Uoort al t’dangier doet sy verschoeyen:</l>
+<l>Haer lijf wit en claer,</l>
+<l>Haer langh ghelu haer</l>
+<l>Doet my eenpaer, den zin vervroyen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Als had ick hier, gheseyt al plat,</l>
+<l>T’schoon Nerots bat,</l>
+<l>Oft thien duyst angeloten:</l>
+<l>Als had ick te wensch dit oft dat,</l>
+<l>Oft Cresus schat,</l>
+<pb n="47"/>
+<l>Wies d’weerelt houdt besloten,</l>
+<l>Js d’lief niet ontrent</l>
+<l>Jck lyde torment,</l>
+<l>Maer t’boel present, doet veel vermeughen:</l>
+<l>Haer zebaerheyt groot,</l>
+<l>Die lipkens root</l>
+<l>Doen my ter noot, mijn hert verheughen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ter weerelt is gheen vreught verhaelt</l>
+<l>Daer liefde faelt,</l>
+<l>En ghy derft die schoon ionckvrouwe:</l>
+<l>Maer daer d’een woordt d’ander betaelt</l>
+<l>En liefde straelt</l>
+<l>Dats een weerelt root van gouwe.</l>
+<l>Sulck is Uenus cracht</l>
+<l>Bee dach en nacht,</l>
+<l>Natueren pacht, can dit bewysen.</l>
+<l>Die borstkins al rondt,</l>
+<l>Den lachenden mondt</l>
+<l>Doen my terstondt, heel veriolysen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Princesse, schoon lief, wel ghedaen,</l>
+<l>T’dicht late ick staen,</l>
+<l>Als passeerdy alle ieughden,</l>
+<l>Die v ziet achter straten gaen</l>
+<l>Peyst niet een spaen</l>
+<l>Dat ghy zijt zoo vol van vreughden:</l>
+<l>Als siet een ketijf</l>
+<l>Een wtnemend’ wijf,</l>
+<l>Hy past niet stijf, op zulcke zaken:</l>
+<pb n="48"/>
+<l>Dijn vierich tempeest</l>
+<l>Uol blyschap meest</l>
+<l>Can elcken gheest, subijt vermaken.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0021"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander.XXJ</hi>.</head>
+    <figure>
+        <p><xptr to="cast005dive02ill28.gif"/></p>
+    </figure>
+<lg type="poem"><l>BEe ghers en cruyt</l>
+<l>Neemt zynen spruyt</l>
+<l>Mits tsmeys beduyt,</l>
+<l>Gheenra<hi rend="i">n</hi>de fruyt zietmen vertraghen.</l>
+<l>Wie can beclaghen</l>
+<l>Sijns liefkins laghen</l>
+<l>Der vogh’len ruyt</l>
+<l>Maect groot geluyt Deur tsmeys virtuyt,</l>
+<l>Het schiet al uyt </l>
+<l>In bosch, in haghen.</l>
+<l>Op zulcke daghen:</l>
+<l>Laet vreught ghewaghen, als nu ten</l>
+<pb n="49"/>
+    <l><figure>
+        <p><xptr to="cast005dive02ill29.gif"/></p>
+    </figure></l>
+<l>tyden,</l>
+<l>Den groene<hi rend="i">n</hi> Mey doedt al verblyde<hi rend="i">n</hi>.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Den tijt zeer zoet</l>
+<l>Jst diet ons doet,</l>
+<l>Want volle vloet</l>
+<l>Maect hy den moet, en therte binnen:</l>
+<l>Elcs lijf en goet,</l>
+<l>Uleesch ende bloet</l>
+<l>Wast metter spoet</l>
+<l>Om elcs behoet, en s’vreughts ghewinnen:</l>
+<l>Dies wy meer minnen</l>
+<l>Midts tstijdts beghinnen</l>
+<l>Dees schoon Godinnen</l>
+<l>Spijt alle sinnen, die vreught benyden:</l>
+<l>Den groene<hi rend="i">n</hi> Mey doedt al verblyden.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Uereeren haer,</l>
+<l>Wiens aenschijn claer</l>
+<l>Licht, therte zwaer</l>
+<l>Moet ic eenpaer, zeer fier ghelaten:</l>
+<l>Tghesichte staer</l>
+<l>Mijns liefs eerbaer</l>
+<l>Gaet my zeer naer,</l>
+<l>Sy woendt en twaer, hier lancs der straten:</l>
+<l>Tsmeys heunichraten</l>
+<l>Soet als granaten,</l>
+<pb n="50"/>
+<l>Hier toe zeer baten,</l>
+<l>Want nu ter daten, meerst t’allen syden</l>
+<l>Den groenen Mey doedt al verblyden.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Den gheest die vaeckt,</l>
+<l>Den winter maeckt,</l>
+<l>Als d’loof al slaeckt,</l>
+<l>Nu vierich blaeckt, midts tsMeys bedouwen:</l>
+<l>Therte dat waeckt</l>
+<l>Bloedich gheraeckt,</l>
+<l>Uerlanght en snaeckt,</l>
+<l>Want s’is volmaeckt, veur ander vrouwen:</l>
+<l>Mach ickse schouwen,</l>
+<l>Sy is vol trouwen,</l>
+<l>Sy can my houwen</l>
+<l>Al vry van rouwen, int vreughdich stryden:</l>
+<l>Den groenen Mey doedt al verblyden.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Blomme mingnoot,</l>
+<l>Dijn lipkins root</l>
+<l>Doen my den stoot,</l>
+<l>Mijn pijn is groot, deur Uenus pesse:</l>
+<l>Cupido snoot</l>
+<l>Mijn herte schoot</l>
+<l>Bycans ter doot,</l>
+<l>Jck claeghd v bloot, edel princesse:</l>
+<l>Mijn reyn meestresse</l>
+<l>Dijn fier noblesse</l>
+<l>Gaf my dees lesse,</l>
+<pb n="51"/>
+<l>Adieu clergesse, en bluscht mijn lyden:</l>
+<l>Laet metten Mey my doch verblyden.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0022"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander.XXIJ</hi>.</head>
+    <figure>
+        <p><xptr to="cast005dive02ill30.gif"/></p>
+    </figure>
+<lg type="poem"><l>GHepeys ghepeys vol van envye<hi rend="i">n</hi>,</l>
+<l>Dwelc oorspro<hi rend="i">n</hi>c sijt d<hi rend="i">at</hi> menich treurt,</l>
+<l>Hoe queldy my met fantasyen?</l>
+<l>My dunct dat my mijn herte scheurt:</l>
+<l>God gheue haer vreucht deur wie<hi rend="i">n</hi>t gebeurt</l>
+<l>Als doetse my dees quale:</l>
+<l>Haer wesen fier heeft my bekeurt</l>
+<l>Midts tcoleur </l>
+<pb n="52"/>
+    <l><figure>
+        <p><xptr to="cast005dive02ill31.gif"/></p>
+    </figure></l>
+<l>van corale,</l>
+<l>Rascht v ghy nachtegale,</l>
+<l>Ulieght wt dat wilde waut,</l>
+<l>Seght haer dit altemale</l>
+<l>En groetse my duysentfaut.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ick peyse om Uenus disciplyne</l>
+<l>Die my dus laet’ zandt desen zucht:</l>
+<l>Hoe spagher liefde hoe meerder pyne,</l>
+<l>Hoe blender wonde hoe argher ducht:</l>
+<l>Te tyelick fruyt neemt saen de vlucht</l>
+<l>Ghepluckt ten groenen dale,</l>
+<l>Men prijst best een volwassen vrucht</l>
+<l>Gh’lijck is dees cuyssche smale,</l>
+<l>Rascht v ghy nachtegale</l>
+<l>Ulieght wt dat wilde waut, </l>
+<l>Seght haer dit altemale</l>
+<l>En groetse my duysentfaut.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Beloften vele is sy my schuldich,</l>
+<l>Maer onder alle, eene excellent,</l>
+<l>Daer naer verlanght my menichvuldich:</l>
+<l>Watt is, is haer en my bekent:</l>
+<l>Wies ick bedrijue in mijn conuent</l>
+<pb n="53"/>
+<l>Dit altoos ick verhale:</l>
+<l>Uind’ick my leich, als isse absent,</l>
+<l>Uan haer ick niet en fale:</l>
+<l>Rascht v ghy nachtegale,</l>
+<l>Ulieght wt etc.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ghepeys hoe zou ic dy niet ghehinghen,</l>
+<l>Jck moet helas, tis grooten noot,</l>
+<l>Dat doen thien duysent vremde dinghen</l>
+<l>Ons been ghebeurt: zy weett al bloot,</l>
+<l>Wy drincken vreught en droefheyt groot</l>
+<l>Bee wt tsFortuynen schale:</l>
+<l>Deur tswaer ghepeys van dit exploot</l>
+<l>Thert sterft al waert van stale:</l>
+<l>Rascht v ghy nachtegale, Ulieght wt etc.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Mochtmen met cruyde oft medicynen</l>
+<l>Ghenesen mijnder liefden brant,</l>
+<l>Jck waer ghenesen vander pynen,</l>
+<l>Maer neent, ten helpt zulck onderstant,</l>
+<l>Dies gaett helas aen mynen cant</l>
+<l>Deur d’last der minnen strale:</l>
+<l>Jck vlouck den afgodt die my bant</l>
+<l>Met Uenus bitter dwale:</l>
+<l>Rascht v ghy etc.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Princesse, ick zwijghs veel om een beter,</l>
+<l>Als ick peyse om ons oude spel,</l>
+<l>Jck en vant ter weerelt noyt secreter,</l>
+<l>Dies vrees’ ick niet dees nyders fel,</l>
+<l>Urou Uenus dect haer kinders wel</l>
+<pb n="54"/>
+<l>Draghen zy hoesssche tale:</l>
+<l>Tsal al wel zijn, doet mijn bevel,</l>
+<l>Schoon lief, dats tprincipale:</l>
+<l>Rascht v ghy nachtegale, Ulieght wt etc.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0023"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander.XXIIJ</hi>.</head>
+    <figure>
+        <p><xptr to="cast005dive02ill32.gif"/></p>
+    </figure>
+<lg type="poem"><l>O Tijt zeer lustich vol melodyen,</l>
+<l>O tsMeys seysoen edel zonder ghenoot,</l>
+<l>Als ghijt vervroeyt al en doet verblyen,</l>
+<l>Deur tfel ghepeys sterf ick de doot</l>
+<l>Blijft my laes mijn hertkin zwaer als ee<hi rend="i">n</hi> loot:</l>
+<l>Als de ghegriefste,</l>
+<l>Dat doet helas tverlanghen groot</l>
+<l>Naer d’alderliefste:</l>
+<pb n="55"/>
+    <l><figure>
+        <p><xptr to="cast005dive02ill33.gif"/></p>
+    </figure></l>
+<l>Al mijn bloet verwalt</l>
+<l>Mijn zinnen treuren:</l>
+<l>O Jocus wat salt</l>
+<l>Ua<hi rend="i">n</hi> my ghebeure<hi rend="i">n</hi>?</l>
+<l>Het comt ny daer veuren,</l>
+<l>Jck wilt haer claghe<hi rend="i">n</hi>:</l>
+<l>O Godt Cupido rasch sonder traghe<hi rend="i">n</hi>,</l>
+<l>Laet haer dat ander cleen voghelkin mijn boodschap draghen.</l>
+<l>&nbsp;</l>
+<pb n="56"/>
+<l rend="; 1tab">Deur haer zoo lyd’ick seer groote onvrame</l>
+<l>Peysen end’ herpeysen valt my rebel,</l>
+<l>Den dach is altijts my onbequame</l>
+<l>Meest deel tsnachts soo waeck’ic vol pynen fel:</l>
+<l>Wien zou ghenoughen zulck een spel</l>
+<l>Uol van venyne?</l>
+<l>Gheen tijt ben ic sonder ghequel</l>
+<l>Noch sonder pyne:</l>
+<l>Mijn natuere streckt</l>
+<l>Tot harer weerden:</l>
+<l>Haer fier wesen treckt</l>
+<l>Meer dan thien peerden:</l>
+<l>Wie zoude dit heerden</l>
+<l>Meest t’allen daghen?</l>
+<l>O Godt Cupido, rasch sonder traghen,</l>
+<l>Laet haer dat ander cleen voghelkin mijn boodtschap draghen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Drucx heb ick couuer meer dan ick wensche,</l>
+<l>Nemmermeer gheen troost, maer al teghenspoet,</l>
+<l>Niet en verandert soo zeer den mensche</l>
+<l>Als alleene de nieuwe minne zoet.</l>
+<l>Wie zou ghedincken zulcken gloet</l>
+<l>Als doedt hem schande?</l>
+<l>Tfier baerdt hem zeluen wiesmen doet</l>
+<l>Met zynen brande:</l>
+<l>Uenus groot virtuyt</l>
+<l>Cant soo bestieren,</l>
+<l>Sy neemt haer tribuyt</l>
+<pb n="57"/>
+<l>Van allen dieren:</l>
+<l>Sulck zijn haer manieren</l>
+<l>Soo wijt ghewaghen:</l>
+<l>O Godt Cupido, rasch sonder traghen etc.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Dat ick dus dichte met goeder moeten</l>
+<l>Jn bosschen, op velden, al mijn ghebreck,</l>
+<l>Dats mijnder pynen een groot verzoeten:</l>
+<l>Gheen vriendt soo ghetrouw die ics doe ontdeck</l>
+<l>Jck vreese te zeer den valschen beck</l>
+<l>Nieuers ghepresen:</l>
+<l>Mocht ick haer zelf doen een vertreck,</l>
+<l>Jck waer ghenesen:</l>
+<l>Alleen dit regaerdt</l>
+<l>Doet my veel nesen,</l>
+<l>Haers zoeten aerdt</l>
+<l>Passeert alle rosen:</l>
+<l>Wat dienen veel glosen?</l>
+<l>Ken derfs niet vraghen.</l>
+<l>O Godt Cupido, rasch sonder traghe<hi rend="i">n </hi>Laet etc.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">U lieght wt t’bosch derwaerts als nu ten tyde,</l>
+<l>Seght dees schoon princesse dees woorden net</l>
+<l>Dat ick in boomen ons minne snyde,</l>
+<l>Als die groeyen, groeyt ooc ons liefde met,</l>
+<l>Belieuet zoo vrou Uenus wet</l>
+<l>Sy sal noch wassen:</l>
+<l>Jck leue op hope, ken mach niet bet</l>
+<l>Tott eens zal passen.</l>
+<l>Jck ben t’eynden raedt,</l>
+<pb n="58"/>
+<l>Mijn zinnen dolen,</l>
+<l>Noyt gloedt was soo quaedt</l>
+<l>Als tvier verholen:</l>
+<l>Laes wies werdt bequolen,</l>
+<l>Jck druck mijn slaghen</l>
+<l>O Godt Cupido, rasch sonder traghen</l>
+<l>Laet haer dat ander cleen voghelkin mijn boodtschap draghen.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0024"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander.XXIIIJ</hi>.</head>
+    <figure>
+        <p><xptr to="cast005dive02ill34.gif"/></p>
+    </figure>
+<lg type="poem"><l>URou Uenus ghy zijt valsch inden grondt</l>
+<l>Dat ghy my dijns speels n<hi rend="i">yet</hi> meer en io<hi rend="i">n</hi>dt,</l>
+<l>Twy wildy my bestieren,</l>
+<l>T’is zeuen iaer led’en langhen stondt</l>
+<l>Dat ick mocht cussen dijn rooden mondt</l>
+<l>Uermeil als violieren.</l>
+<l>Recht als ic</l>
+<pb n="59"/>
+    <l><figure>
+        <p><xptr to="cast005dive02ill35.gif"/></p>
+    </figure></l>
+<l>wae<hi rend="i">n</hi>de best vreught ha<hi rend="i">n</hi>tiere<hi rend="i">n</hi></l>
+<l>Ghy zeyt mijn oud vreught moest ick derue<hi rend="i">n</hi>:</l>
+<l>Schoon lief het grief d<hi rend="i">at</hi> ick doe<hi rend="i">n </hi>besief, doet my noch steruen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Reyn blomme vol vreughden wel gheraeckt</l>
+<l>Wy waren d’een op d’ander wel ghemaeckt,</l>
+<l>Dits claer elck macht wel weten:</l>
+<l>Wies ick dy gheboodt, oft ghy my spraeckt</l>
+<l>En hebben wy gheen van been versaeckt,</l>
+<l>Het bleef in ons secreten:</l>
+<l>Maer als ghy wttet al dijn vermeten</l>
+<l>Dat scheeden ons been zou onteruen,</l>
+<l>Schoon lief, het grief, dat ick doen besief, doet my noch steruen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ghelijck haer de roose blyde ontpluyct</l>
+<l>Wanneerse dat zonne-schyn besmuyckt</l>
+<l>Seer vreughdich int aenschouwen,</l>
+<pb n="60"/>
+<l>Tsgelijcks schoon lief heb ick v gebruyckt,</l>
+<l>Want ghy alle vreucht in v beluyckt,</l>
+<l>Ghy zijt den fleur van vrouwen,</l>
+<l>Maer als ghy nooptet dat woord vol rouwen,</l>
+<l>Dat tscheen ons herte sou duerkeruen,</l>
+<l>Schoon lief, het grief, dat ick doen besief, doet my noch steruen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ghelijck ooc den dau op tgroenste daelt,</l>
+<l>En heb ick van trooste noyt ghefaelt,</l>
+<l>Jck mindu bouen maten:</l>
+<l>Die bie is gheluckich wel ghepaelt,</l>
+<l>Die tuwent haer sucker-voetsel haelt,</l>
+<l>Ghy zijt vol heunichraten:</l>
+<l>Dits cause als ick v lief moeste laten,</l>
+<l>Sichtent versuchte ick menich weruen,</l>
+<l>Schoon lief, het grief, dat ick doen besief, doet my noch steruen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Princesse mijn troost, noteert tbediet,</l>
+<l>Bepeyst v, de schuldt en is myne niet,</l>
+<l>Te bet meughdijt ghedooghen,</l>
+<l>Ghy weet wel men singhd in mijn oud liet,</l>
+<l>Daer dopsien ghebreeckt, thert lijdt verdriet,</l>
+<l>Niet voor tsolaes der ooghen:</l>
+<l>Maer als ons liefde begonst verdrooghen,</l>
+<l>Uercranckte my mijns lichaems neruen,</l>
+<l>Schoon lief, het grief, dat ick doen besief, doet my noch steruen.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0025"/> </interpGrp>
+<pb n="61"/>
+<head rend="h3"><hi rend="i">Een ander.XXV</hi>.</head>
+    <figure>
+        <p><xptr to="cast005dive02ill36.gif"/></p>
+    </figure>
+<lg type="poem"><l>JC danck’ v Uenus op dit pas</l>
+<l>Van deser nieuwer minne,</l>
+<l>Och hoe wy doe<hi rend="i">n</hi> gaudeerde<hi rend="i">n</hi>,</l>
+<l>Hoe vriendelic wy sproken:</l>
+<l>Wy laghen bee ghedoken</l>
+<l>Bet dan icx doe ghewach,</l>
+<l>My docht dat ick in roode rooskins lach.</l>
+<l>&nbsp;</l>
+<pb n="62"/>
+<l rend="; 1tab">Wy laghen al den nacht vergaerdt,</l>
+<l>Jck hadde al mynen wille,</l>
+<l>Elck onser toochde zynen aerdt,</l>
+<l>Gheen tijdt en lach zy stille:</l>
+<l>Sy speelde my een toerkin,</l>
+<l>En boodt my en wat warems:</l>
+<l>Te wylen vaechdick tvloerkin,</l>
+<l>Sy dau my in haer arems,</l>
+<l>Ende achter veel ghecarems,</l>
+<l>Noyt hoe zy my besach,</l>
+<l>My docht dat ic in roode rooskins lach.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Noyt ooghen saghen sulck een spel</l>
+<l>Als wy daer bee beseuen:</l>
+<l>Gheen tonghe en soudt volspreken wel</l>
+<l>De vreuchd die wy bedreuen:</l>
+<l>Wy speelden mette schaexkins</l>
+<l>En draeyden Uenus wostkins,</l>
+<l>Sy custe altoos mijn caexkins,</l>
+<l>Ende ick taste haer schoon bostkins,</l>
+<l>Noyt vriendelicker lostkins,</l>
+<l>Noyt amoreuser dach,</l>
+<l>My docht dat ick in roode rooskins lach.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ons vreucht was weerd thien duysent pondt,</l>
+<l>Noyt spel van meerder weerden,</l>
+<l>Wy laghen tsamen mondt aen mondt,</l>
+<l>Alsoo naer als tghers der eerden,</l>
+<l>Jck sach dat soete struycskin,</l>
+<l>En zy bekeeck mijn veelkin,</l>
+<pb n="63"/>
+<l>Doen clam ick op haer buyckskin,</l>
+<l>En sy ontfijnck mijn steelkin,</l>
+<l>Wy speelden d’oude speelkin</l>
+<l>Ghelijck ons vader plach,</l>
+<l>My docht dat ick in roode rooskins lach.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Den dach die quam, die nacht verghinck,</l>
+<l>Die maecht die moest haer cleeden:</l>
+<l>Sy claechde seer dat sotte dinck</l>
+<l>Dat zy daer af moest scheeden:</l>
+<l>S’en was niet om verdrouuen,</l>
+<l>Jck sacht wel aen haer seden:</l>
+<l>Wy ghinghent weer herprouuen</l>
+<l>Doch was zy bet te vreden,</l>
+<l>Wy maecten moede leden,</l>
+<l>G’helijck elck wel peysen mach,</l>
+<l>My docht dat ick in roode rooskins lach.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0026"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander.XXVJ</hi>.</head>
+    <figure>
+        <p><xptr to="cast005dive02ill37.gif"/></p>
+    </figure>
+<lg type="poem"><l>HEt lacht nu al, tschoo<hi rend="i">n</hi> iaer is vol vreugde<hi rend="i">n</hi>,</l>
+<l>Wat is ter weerelt me<hi rend="i">n</hi> ziet nu groeye<hi rend="i">n</hi>: </l>
+<l>Al virtueus ghesapich vol ieugde<hi rend="i">n</hi>,</l>
+<l>Bossche<hi rend="i">n</hi> geloouert, alle boome<hi rend="i">n</hi> bloeye<hi rend="i">n</hi></l>
+<pb n="64"/>
+    <l><figure>
+        <p><xptr to="cast005dive02ill38.gif"/></p>
+    </figure></l>
+<l>Dus cant al besproeyen</l>
+<l>De<hi rend="i">n</hi> Mey zeer plaisant:</l>
+<l>Wien zoude vernoeyen</l>
+<l>De<hi rend="i">n</hi> tijt nu veur hant,</l>
+<l>Nochta<hi rend="i">n</hi>s houdt my de maeght vaillant</l>
+<l>Jn haren bant,</l>
+<l>Jck drouue an dlant met blyden schyne,</l>
+<l>Jck en verheughe an gheenen cant</l>
+<l>Deur Uenus brant,</l>
+<l>Cause is tschoon lief: tis grooten pyne</l>
+<l>Met drouuer herten blyde tsyne.</l>
+<l>&nbsp;</l>
+<pb n="65"/>
+<l rend="; 1tab">Wien claech ick dit, dan dy lief mordadich</l>
+<l>Die my ter doot doet tranich weenen?</l>
+<l>Wildy mijn ionst niet vallen ghenadich,</l>
+<l>Tooght schoon samblant, als sout therte niet meenen;</l>
+<l>Of zydy van steenen</l>
+<l>Jnburstich en fel,</l>
+<l>So doodt my met eenen</l>
+<l>Jck en gheer niet el:</l>
+<l>Die v bemindt, valdy rebel,</l>
+<l>Ghy wetet wel:</l>
+<l>Dit claech ick dy t’allen termyne,</l>
+<l>Want ick verlies mijn vreucht en spel,</l>
+<l>Noyt sulck ghequel:</l>
+<l>Cause is schoon lief: tis groote pyne,</l>
+<l>Met drouuer herten blyde tzyne.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Nochtans gheeft my vrou Uenus veel nopen,</l>
+<l>Cupidos euel heeft dat inne,</l>
+<l>Watt is: den minnare derf wel hopen,</l>
+<l>Onvruchtbarighe liefde voet de minne,</l>
+<l>Dits cause vriendinne</l>
+<l>Uan mijn druckich liet:</l>
+<l>Met herten met sinne</l>
+<l>Mijn ionst v gheschiet:</l>
+<l>Maer laes al ist dat ghy dit siet</l>
+<l>Ghy en achtes niet,</l>
+<l>Al mijn solaes is wranck als bryne:</l>
+<l>Alle ghenoechte is my verdriet</l>
+<l>Ureucht van my vliet, </l>
+<l>Cause ist schoon etc.</l>
+<l>&nbsp;</l>
+<pb n="66"/>
+<l rend="; 1tab">Princesse lief, schoon, edel ionckvrouwe,</l>
+<l>Jck bid v doch voor alle saken</l>
+<l>Met desen Mey bluscht oock mynen rouwe,</l>
+<l>Naer v ist dat al mijn vijf sinnen haken:</l>
+<l>Lief met dijnder spraken</l>
+<l>Als een heunich soet</l>
+<l>So meuchdy vermaken</l>
+<l>Al mijn teghenspoet:</l>
+<l>Uan v en gheer ick om mijn behoet</l>
+<l>Gheen ander goet:</l>
+<l>Dus niet , druck bringhd my ter ruwynen,</l>
+<l>Jck schreye tranen vulle vloet</l>
+<l>Deur Uenus gloet:</l>
+<l>Cause is schoon lief: tis groote pyne,</l>
+<l>Met droeuer herten blyde tsyne.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0027"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander.XXVIJ</hi>.</head>
+    <figure>
+        <p><xptr to="cast005dive02ill39.gif"/></p>
+    </figure>
+<lg type="poem"><l>NU merck ick wel in mynen zin</l>
+<l>Dat Uenus heeft veel crachten in, </l>
+<l>Diet </l>
+<pb n="67"/>
+    <l><figure>
+        <p><xptr to="cast005dive02ill40.gif"/></p>
+    </figure></l>
+<l>proeft en derfs niet veynsen:</l>
+<l>Al vind’ick vrouwe<hi rend="i">n</hi> naer mijn gevouch</l>
+<l>Wel tot mynen wil meer da<hi rend="i">n</hi> genouch.</l>
+<l>Nu moet ick druck verscheynsen: </l>
+<l>Als ick van een schiet int beghin</l>
+<l>Jck hope weluaert en ghewin,</l>
+<l>Ten helpt weertrec noch deynsen,</l>
+<l>Noch heb ic achter peynsen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Fortune viel ons stuer en wreet,</l>
+<l>Twee amoreusen doende leet</l>
+<l>Als zy dit last bebriefde:</l>
+<l>Mijn lief wilt my doen onghereet,</l>
+<l>Dies weenden wy bee tranen heet:</l>
+<l>Want dien adiu ons griefde:</l>
+<l>Als woende d’een na hier, en d’ander daer,</l>
+<l>Nochtans so beuind’ick claer en waer,</l>
+<l>Want zy my wel gheriefde,</l>
+<l>De verde en scheedt gheen liefde.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Wat baett dat ghy ghescheeden zijt,</l>
+<l>Als zydy haren lichaem quijt,</l>
+<pb n="68"/>
+<l>Als derfdy de schoon blonde,</l>
+<l>Penseen die groeyen talder tijt,</l>
+<l>Dan weynscht ghy weder tsoet iolijt</l>
+<l>Uan haren rooden monde:</l>
+<l>Ghy peyst altoos om dat vremde dinck,</l>
+<l>En wies noyt v beeden ouer ghinck,</l>
+<l>Ghy waert ghequetst ten gronde:</l>
+<l>Tghepeys vernieut d’ou wonde.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Als is haer lichaem niet ontrent,</l>
+<l>Ende haer fier wesen oock absent,</l>
+<l>Tghepeys dat sal hem rasschen:</l>
+<l>Als derfdijt al, vreest voor tpument,</l>
+<l>Peyst onder tcruyt, daer schuylt tserpent</l>
+<l>Wie sals hem schoon ghewasschen:</l>
+<l>Als isser noch d’woord, noch d’opsien oock,</l>
+<l>Als isser noch vlamme, noch laey, noch roock,</l>
+<l>Als schaudy groote plasschen,</l>
+<l>Tvier houdt hem onder d’asschen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Hoe salment doen dan? Seght dat my,</l>
+<l>Mindy quaet goet, en bliuet by</l>
+<l>U naken quade inbusten:</l>
+<l>Ontscheedet v, soo treurde ghy,</l>
+<l>Ons queldy altoos, hoe dat zy,</l>
+<l>U mocht wel steruens lusten:</l>
+<l>Aldus concludeer ick vast als nu,</l>
+<l>Hoordijt wel ghy minnaers, wapent v,</l>
+<l>Laet u dees viers niet dusten,</l>
+<l>Uenus is vul onrusten.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0028"/> </interpGrp>
+<pb n="69"/>
+<head rend="h3"><hi rend="i">Een ander.XXVIIJ</hi>.</head>
+    <figure>
+        <p><xptr to="cast005dive02ill41.gif"/></p>
+    </figure>
+<lg type="poem"><l>O Triumphante vrouwe,</l>
+<l>Soethertich zonder zwijcke:</l>
+<l>Brocht ghy niet te verzijcke</l>
+<l>Dijn dienaers ee<hi rend="i">n</hi> groot deel</l>
+<l>O Uenus root van gouwe</l>
+<l>Solaes zonder ghelijcke:</l>
+<l>Ghy waert ee<hi rend="i">n</hi> hemelrijcke,</l>
+<l>Een costelijck iuweel:</l>
+<l>Jck claeght d’bitter morseel va<hi rend="i">n</hi> uwen wreeden zin:</l>
+<l>Lustich is dijn prieel waerder gee<hi rend="i">n</hi> droefh<hi rend="i">eyd</hi> in.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">O rieckende roosiere,</l>
+<l>Soetmondighe sucade,</l>
+<pb n="70"/>
+<l>Dijn minne coop ick diere,</l>
+<l>Dat doet dijn onghenade:</l>
+<l>Jonckvrouwe of icks v bade,</l>
+<l>Berecht my eer yet lanck,</l>
+<l>Mach ick dy sonder schade,</l>
+<l>Niet minnen aenschijn blanck,</l>
+<l>Tis qualick uwen danck,</l>
+<l>Soodt blijckt aen mijn verdriet:</l>
+<l>Den mond wat vreughde schanck,</l>
+<l>Maer therte en meendes niet.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ick vinde in al dijn saken,</l>
+<l>Mijns lichaems fel verbroeyen</l>
+<l>Een langhen ende een haken,</l>
+<l>Dwelck my wel mach vernoeyen:</l>
+<l>Ghy wilt my niet besproeyen</l>
+<l>Als siet mijn aenschijn bleeck,</l>
+<l>Druck doedy altoos groeyen,</l>
+<l>Aen v is gheen verreeck:</l>
+<l>Uan liefden ben ick weeck</l>
+<l>Ende al vul onghevals,</l>
+<l>Wat dient dien loosen smeeck,</l>
+<l>Dijn zeem is al vul gals.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">O balssem soet van gheure,</l>
+<l>Deurluchtich als granaten,</l>
+<l>Jck volgh’u byden speure</l>
+<l>Ghy rieckt bet dan muscaten:</l>
+<l>Jck en sal v niet laten</l>
+<l>Als waert v lief of leet,</l>
+<pb n="71"/>
+<l>Hoe soudick v ghehaten,</l>
+<l>De liefste dien ick weet:</l>
+<l>Hier hebdy claer bescheet,</l>
+<l>Ghy blijft met my ghequelt:</l>
+<l>Die totten fine street</l>
+<l>Thenden behielt hy tvelt.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Die my toezont dees nope,</l>
+<l>Als thooft van Uenus throone,</l>
+<l>Biedt my een beter hope,</l>
+<l>Sendt my confoort te loone,</l>
+<l>Of tooghes niet soo schoone,</l>
+<l>Gh’lijck tCocodril dat weent:</l>
+<l>Soo edel van persoone,</l>
+<l>Hoe zydy dus versteent?</l>
+<l>Als ghy my troost verleent</l>
+<l>Dan dichtick op een nieu,</l>
+<l>Ghy weett wien therte meent,</l>
+<l>Hier met Princesse adieu.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0029"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander.XXIX</hi>.</head>
+    <figure>
+        <p><xptr to="cast005dive02ill42.gif"/></p>
+    </figure>
+<lg type="poem"><l>UUaer zydi lief? Waer meugdy zijn</l>
+<l>Die my doet grief e zwaer ghepijn?</l>
+<l>Noch</l>
+<pb n="72"/>
+    <l><figure>
+        <p><xptr to="cast005dive02ill43.gif"/></p>
+    </figure></l>
+<l>vraegh ic v onrustich,</l>
+<l>Waer zydi lief wellustich!</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ouer onghesont</l>
+<l>Js al mijn seer,</l>
+<l>Jck ben ghewont</l>
+<l>Ter doot, en meer,</l>
+<l>Jck claeghs v deser minne</l>
+<l>Uenus eerdtsche Godinne.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Si’ ick d’aenschijn soet.</l>
+<l>Daert al aencleeft,</l>
+<l>My walt mijn bloet,</l>
+<l>Mijn lichaem beeft,</l>
+<l>Hoe soudy my verblyen</l>
+<l>O tijdt vul melodyen?</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ick seght v snel</l>
+<l>Reyn diamant,</l>
+<l>My faelt wat el</l>
+<l>Dan faux samblant,</l>
+<l>Commer gheen soeter luchten,</l>
+<l>Helaes ick mach wel duchten.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Wat lydick drucks,</l>
+<l>Noyt drouuer man:</l>
+<l>Wat onghelucks</l>
+<l>Comt my al an</l>
+<pb n="73"/>
+<l>Duer sulck onghier labeuren,</l>
+<l>Rijck God hoe moet ick treuren!</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Wat pynen swaer</l>
+<l>Mijn herte leet,</l>
+<l>Jck ween deur haer</l>
+<l>Ueel tranen heet,</l>
+<l>Wat droufheyt moet ick schouwen</l>
+<l>Alst al rust mans en vrouwen!</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">U hert’ is ontstelt,</l>
+<l>Dul en confuys,</l>
+<l>Seer loor opt tvelt,</l>
+<l>Perplex in huys,</l>
+<l>Om dat ick se moet laten,</l>
+<l>Hoe drouuich achter straten!</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Princesse gent</l>
+<l>Jck bins ghestilt,</l>
+<l>Bluscht mijn torment,</l>
+<l>Jndien ghy wilt,</l>
+<l>Jck moet vermalendyen</l>
+<l>Tghepeys vul van enuyen.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0030"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een nieu Liedt, op de zeuen ween.</hi></head>
+<lg type="poem"><l>LAet louen dy, wien d’Jnghels louen,</l>
+<l>Ghy zijt Gods weerdste bruyd verheuen:</l>
+<l>Onslien bringhd ghy ten Hemel bouen,</l>
+<l>Dies hebdy groot verdriet beseuen,</l>
+<l>Noyt vrouwe en leedt sulck grief int leuen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Wat leedt ghy drucks Maria vrouwe</l>
+<l>Deur Symeons schoon prophetyen,</l>
+<pb n="74"/>
+<l>Doende verclaers, dat tsweerd van rouwe</l>
+<l>Dijn eyghen siele sou duersnyen,</l>
+<l>Groot last quam dy, veur cleyn verblyen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Hoe vendy v int fel beswaren</l>
+<l>Alst Herodes dede becoopen</l>
+<l>Al den kinders onder twee iaren,</l>
+<l>En ghy moest naer Egypten loopen,</l>
+<l>Dijn last groeyde met grooten hoopen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Wat hadde v ionck lichaem toren</l>
+<l>Als ghy en Joseph bee vul minnen</l>
+<l>Dijn kindt waendet hebben verloren,</l>
+<l>En ghy hem vondt ten Tempel binnen,</l>
+<l>Sonder Gods troost ghy moest ontsinnen.</l>
+<l>&nbsp;</l>
+<l>Wat haddy gru en swaer mishaghen,</l>
+<l>Wat leedt dat herte bitter nepen</l>
+<l>Als ghy dijn kindt saeght tcruyce draghen,</l>
+<l>Ende hem ter doot by fortsen slepen,</l>
+<l>Gheen mensch’ en had dit grief begrepen.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Met droefheyt groot waerdy bevanghen</l>
+<l>Swaer persse bracht dijn herte t’onder,</l>
+<l>Als ghy hem saecht aent cruyce hanghen</l>
+<l>En ghy en Jan bee stondt daer onder,</l>
+<l>Ghy en const verstaen dit bittter wonder.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Hoe anxtich waerdy van bedryue,</l>
+<l>Hoe sneet den point van d’Bisschops sweerde,</l>
+<l>Als ghy hem gherooft saecht vanden lyue</l>
+<l>En van tcruyce gheleyd op deerde,</l>
+<l>Ghy wist, aen hem hinc tshemels weerde.</l>
+<l>&nbsp;</l>
+<pb n="75"/>
+<l rend="; 1tab">Wat bitter pijn moest ghy beslauen,</l>
+<l>Hoe schraudy laes, droef van bewinde</l>
+<l>Als ghy hem dijns ondancks saeght begrauen</l>
+<l>En scheeden moest van uwen kinde,</l>
+<l>Uoor tsweerelts goedt dijn hert hem minde.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Nu bid ick v schoon ieught ten fyne</l>
+<l>En slaet ons sondaers doch gheen swijcke,</l>
+<l>Deur groot en smal dijn bitter pyne</l>
+<l>Bringhdt ons in dijn kindts eeuwich rijcke,</l>
+<l>Dwelck vul vreughdt is sonder ghelijcke.</l>
+</lg></div>
+<div type="chapter">
+<interpGrp> <interp type="song" value="cast005dive02_0031"/> </interpGrp>
+<head rend="h3"><hi rend="i">Een ander.XXX</hi>.</head>
+    <figure>
+        <p><xptr to="cast005dive02ill44.gif"/></p>
+    </figure>
+<lg type="poem"><l>UErblijdt v Ulaenderlant schoo<hi rend="i">n</hi> blomme,</l>
+<l>Machtich prieel op desen tijt:</l>
+<l>Den paeys is nu bekendt al omme,</l>
+<l>Dinct vry d<hi rend="i">at</hi> ghy geluckich zijt:</l>
+<l>De meeste twee der weerelt wijt </l>
+<l>Hebben van zelfs den </l>
+<pb n="76"/>
+    <l><figure>
+        <p><xptr to="cast005dive02ill45.gif"/></p>
+    </figure></l>
+<l>paeys ghezwore<hi rend="i">n</hi>:</l>
+<l>Dies zy den Heere ghebenedijt</l>
+<l>Dat hy ons heeft dus wtvercoren,</l>
+<l>Mars is ghestrent en tsviandts toren,</l>
+<l>Druc is gheweert wt ons foreest:</l>
+<l>Lof Uadere, lof Sone, lof helich Gheest</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ons is ontdaen der vreuchden poorte,</l>
+<l>De Lelie aen den Arend sant,</l>
+<l>Ons Keyser track naer Aeyghersmoorte</l>
+<pb n="77"/>
+<l>Daer hy den Vrancxken Coninck vant,</l>
+<l>Sy confirmeerden daer d’bestant</l>
+<l>Ende eeuwich paeys voor ons bequame:</l>
+<l>Elck ander gaefzy sulcken pant,</l>
+<l>Dats, d’land sal hebben groote vrame,</l>
+<l>Wy zijn bevrijdt voor druck en blame,</l>
+<l>Men wert ghetrocken noch gheteest:</l>
+<l>Lof Uadere, lof Sone, lof heylich Gheest.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Ianus den Tempel is ghesloten,</l>
+<l>Dien Tullus voortijds heeft ontdaen,</l>
+<l>Met heunich werdt al d’land deurgoten,</l>
+<l>Op doornen sullen druyuen staen:</l>
+<l>De schueren werden vul van ’t graen,</l>
+<l>Tsuyuel sal al omme ouervloeyen:</l>
+<l>De weerelt sal vul vreuchden baen,</l>
+<l>Elck boom die sal nu twee werf bloeyen:</l>
+<l>Wies onslien faelt, sal dobbel groeyen,</l>
+<l>Voor faute en zy niemant bevreest:</l>
+<l>Lof Uadere, lof Sone, lof heylich Gheest.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Nu sullen rusten voor alle andre</l>
+<l>By dat ghetuychd Ozeas fier,</l>
+<l>Den Arend en den Salamandre,</l>
+<l>Prophetie is volcommen hier:</l>
+<l>Den Arend vlieghd als thoochste dier,</l>
+<l>Gheen onrecht hoordtmen hem te biene:</l>
+<l>Den Salamandre woend int vier,</l>
+<l>Dus zijn zy alle bee t ontsiene,</l>
+<l>Haer felheyt staet ons niet te vliene,</l>
+<pb n="78"/>
+<l>Ons is ghebluscht alsulck tempeest:</l>
+<l>Lof Uadere, lof Sone, lof heylich Gheest.</l>
+<l>&nbsp;</l>
+<l rend="; 1tab">Prince, hoochste God, wy zijn wel taeyse,</l>
+<l>U danck wy als hier af regent,</l>
+<l>Wy zijn versien met goeden paeyse,</l>
+<l>Maeckt dien gheduerich sonder ent,</l>
+<l>Ghy hebt gheblust al ons torment:</l>
+<l>Lof zy v eeuwich tallen stonden,</l>
+<l>Lof dy, als Vader excellent,</l>
+<l>Lof zy dy altoos niet om gronden,</l>
+<l>Lof wese dy, van allen monden,</l>
+<l>Lof die ons bystaet, minst en meest:</l>
+<l>Lof Uadere, lof Sone, lof heylich Gheest.</l>
+</lg><p><hi rend="i">VVacht wel tslot Casteleyn.</hi></p>
+<p>&nbsp;</p>
+<p>FINIS</p>
+</div>
+<div type="chapter">
+
+<pb n="79"/>
+<head rend="h3">Achte in een ballade.</head>
+<lg type="poem"><l>Tsy v wijfs en mannen, die paeys willen houwen,</l>
+<l>Die doorloghe hantieren, zy zijn alle Gods neuen,</l>
+<l>Laetse alle bannen, die twist noode schouwen,</l>
+<l>Die hem qualic regieren, ic prijsse bouen schreuen,</l>
+<l>Die tvolck can pillieren, hem weynsch ic deeuwich leuen,</l>
+<l>Sy Lucifers gheselle, die hem vought tsyne elcks vriendt,</l>
+<l>Die niet wilt obedieren, hy werdt veur Godt verheuen,</l>
+<l>God verleene hem d’helle, die zyne<hi rend="i">n</hi> schepper diendt.</l>
+</lg><cf><p><hi rend="i">Te Ghendt,</hi></p>
+<p>&nbsp;</p>
+<p>By de Weduwe Ghileyn Manilius, te Putte inde witte Duyue, by Belfort.</p></cf>
+</div>
+</body>
+</text>
+</TEI.2>

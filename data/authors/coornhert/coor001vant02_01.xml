@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "http://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Vant oordelen, gesprake tusschen vermetel oordeel ende bescheyden ondersoeck</title>
+                <author>D.V. Coornhert</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Vant oordelen, gesprake tusschen vermetel oordeel ende bescheyden ondersoeck</hi> van D.V. Coornhert in de eerste druk van een uitgave uit 1630, getiteld <hi rend="i">Wercken. Deel I</hi>. De eerste druk van het oorspronkelijke werk dateert uit 1564.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr></corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">coor001vant02_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2011 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="clarin-edite">yes</note>
+            </notesStmt>	
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Universiteitsbibliotheek Amsterdam, signatuur: Cat. Ned. Lett. UBA 195</idno>
+                </bibl>
+                <p>D.V. Coornhert, ‘Vant oordelen, gesprake tusschen vermetel oordeel ende bescheyden ondersoeck’, uit: D.V. Coornhert, <hi rend="i">Wercken. Deel I</hi>, Jacob Aertsz. Colom, Amsterdam 1630</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Vant oordelen, gesprake tusschen vermetel oordeel ende bescheyden ondersoeck</title>
+                <author>D.V. Coornhert</author>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Vant oordelen, gesprake tusschen vermetel oordeel ende bescheyden ondersoeck</title>
+                <author>D.V. Coornhert</author>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2011-12-01</date>
+                <respStmt>
+                    <name type="person">JV</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+<div type="chapter">
+    <interpGrp><interp type="primair" value="coor001vant01"/></interpGrp>
+<pb ed="fol." n="135r"/>
+<head rend="h3">Vant Oordeelen, gesprake tusschen vermetel oordeel ende bescheyden ondersoeck.</head>
+<p><hi rend="i">Vermetel oord</hi>.</p>
+<p>Soudy my dan 'toordeel gantschelijc willen benemen?</p>
+<p><hi rend="i">Bescheyden oord</hi>.</p>
+<p>Ia ick voorwaer, in allen saecken die ghy niet verstaet.</p>
+<p><hi rend="i">V.</hi> Laet nu zijn dat my, gheen Iurist wesende, des rechts oordeel rechtelijck benomen soude moghen werden, soo moet ghy nochtans lijden dat ick een Christen ende Euangelisch Man wesende, wel te recht van Christelijcke ende Euangelische saecken mach oordeelen.</p>
+<p><hi rend="i">B.</hi> Wat ghy zijt of niet en zijt, willen wy namaels ter bequamer tijdt af segghen, na dat eerst gheseydt sal zijn, dat eerst van noode is. Alle wat men goet of quaet oordeelt heeft yet in sich, daer deur het goet of quaet gheoordeelt wert, Ist niet soo?</p>
+<p><hi rend="i">V.</hi> Ia.</p>
+<p><hi rend="i">B.</hi> Alsoo zijnde de snedigheyt ende hartheydt de goetheyden, maer de plomheyt ende weeckheyt, de quaetheyden van een Vijle: Insghelijcx de sterckheyt ende snelheyt de goetheyden, maer de cranckheyt ende traegheyt de quaedtheyden van een Paert.</p>
+<p><hi rend="i">V.</hi> 't Is recht.</p>
+<p><hi rend="i">B.</hi> Die noyt Vijle, noch Paert en sach, ende van der selver goetheydt noch quaetheyt niet en weet, en can oock niet recht oordeelen wat een goede of quade Vijle of Paert is.</p>
+<p><hi rend="i">V.</hi> Also ist.</p>
+<p><hi rend="i">B.</hi> De Vijle wert ghebruyckt tot Vijlen, het Paert tot rijden, om dit wel te doen ist de vijle van noode scherp ende hart, ende 't Paert sterc ende snel te zijn.</p>
+<p><hi rend="i">V.</hi> Ghy zeght noch al recht.</p>
+<p><hi rend="i">B.</hi> Of yemandt aen eenen yseren keten ghevetert zijnde, ende den doodt verwachtende aengheboden werde de keure van twee Vijlen, d'eene scherp ende hart van sijnen stale, ende d'ander weeck ende plomp van louteren Goude, omme hem selve mede vanden Keten ende doodt te verlossen, ende de selve voor de keure omme synen keten stucken te vijlen, verkoor den gouden Vijle. Of dat yemant vervolght zijnde van zijne doodt-vyanden aengheboden werde om mede te vluchten de keure van twee Paerden, een kleyn, magher, cranck, ende traghe, met een Conincklijcken toome ende ghereyde behanghen, ende 'tander groot, sterck, vroom ende snel, maer met eenen slechten zadele ende toom, ende die selve nam het cleyne krancke verchierde Paert, soudy oock segghen dat sulck een in zijn verkiesinghe recht oordeelde?</p>
+<p><hi rend="i">V.</hi> Neen ick, maer soude 'tcontrarie segghen.</p>
+<p><hi rend="i">B.</hi> Wat soudy oorsake houden van sulc quaet oordeel?</p>
+<p><hi rend="i">V.</hi> Onverstant, overmits hy 'tonnutte gout ende chieraet begerende de oorbaerlijcke scherpheyt ende hartheyt vander Vijlen, ende snelheyt ende sterckheydt vanden Paerde, hem nootlijck zijnde niet en verstaet.</p>
+<p><hi rend="i">B.</hi> Ghy sluyt recht ende wel. Wt dese uwe Redene volght dan, dat niemant recht oordeelen mach van een dingh, sonder des dinghs aert ende natuere wel te kennen. <note place="margin">Niemant oordeeldt recht van 't gunt hy niet en kent.</note> </p>
+<p><hi rend="i">B.</hi> Antwoort my nu sonder arghelist naecktelijck, indien ghy anders lustigh ende begeerlijck zijt na de kennisse der waerheyt.</p>
+<p><hi rend="i">V.</hi> Vraeght, ick belovet u.</p>
+<p><hi rend="i">B.</hi> Sijt ghy dat ghy weet?</p>
+<p><hi rend="i">V.</hi> Dat versta ick niet.</p>
+<p><hi rend="i">B.</hi> Wat acht ghy de hooghste Deughde des menschen te wesen (so voor vander Vijlen ende van't Paert gheseyt is, 'twelck wy scherpheyt ende snelheyt noemden?) Duncket u niet mede Liefde Godes uyt gantscher zielen ende Liefde des Naesten als ick selve?</p>
+<p><hi rend="i">V.</hi> Ia ghewislijck. Dat is 'tgeen daer deur de mensche die sulcx heeft, alleen goet, ende die dat derft, quaedt ghenaemt werdt. Want de dadelijcke bewijsers sulcker liefden int oordeel aenghenomen, ende de ydele van dien, verworpen werden.</p>
+<p><hi rend="i">B.</hi> Hebt ghy Gode lief uyt gantscher zielen ende u Naesten niet minder dan u selve?</p>
+<p><hi rend="i">V.</hi> Hoe soude ick dat hebben, gheen mensche op Aerden en vermach sulcx volcomentlijck te hebben, 't is hier al stuckwerck, maer na den lichamelijcken doot, salt soo met ons zijn.</p>
+<p><hi rend="i">B.</hi> Nochtans en leest men niet dat yemandt in of na de verrijsenisse der Dooden uyt loutere Liefde Godes de wercken der barmhertigheyt aen sijnen Naesten sal oeffenen, maer daer staet, dat sy sulcx int leven hier al ghedaen of ghelaten sullen hebben: maer segt my, hebdy oyt eenighe const ghehanteert?</p>
+<p><hi rend="i">V.</hi> Ia ick.</p>
+<p><hi rend="i">B.</hi> Met lustigher begheerten?</p>
+<p><hi rend="i">V.</hi> Ia so begheerlijck ende lustigh, dat ic alle andere dinghen, oock by na eeten, drincken, ende slapen vergetende, niet anders en dachte, begheerde noch en wenschte dan om volcomen daer inne te werden, sulckx dat ick niet anders en dede, soo hert, sin ende moedt daer alleen toe ghestreckt was.</p>
+<p><hi rend="i">B.</hi> Wat const was datte?</p>
+<p><hi rend="i">V.</hi> De Musijcke ende Orgelspel. Ick bemindese, sulcx dat ick int lustige speculeren van de lieflijcke Harmonie wesende my oock lichtelijck als ontgeest zijnde buyten mijn weten soude hebben laten doot slaen, indien de stede overvallen waer gheweest, soo men by Plutarchum van Archimede leest.</p>
+<p><hi rend="i">B.</hi> Ghy ghelooft oock wel dat insghelijcx de Vroukens 't gheheele herte der menschen wel connen stelen, en̄ so tot hen streckē, datmē gesien heeft menigh Minnaer deur vertwijfeltheydt van by sijn Lief niet meer te mogen comē hem selve 'tleven berooft heeft, liever verkiesende te sterven, dan sonder zijn beminde te leven?</p>
+<p><hi rend="i">V.</hi> Dat heeftmen menighmael ghesien ende wert noch daghelijcx ghesien.</p>
+<p><hi rend="i">B.</hi> Desgelijcx sietmen en̄ is dicwils gesien dat de rijckdomme, hoogheyt, eere, weelde en̄ brasserye, so gheheelijc ende volcomentlijck van vele (al te vele) gedient werden, elc in 'tsijne, dat de gierigheydt niet dan op gelt, de staetsuchtighe niet dan op staten, ende de weeldige niet dan op <pb ed="fol." n="135v"/>leckerheyt en denckt, hoopt, noch en siet, nacht nochte dach, met alle de krachten haerder zielen.</p>
+<p><hi rend="i">V.</hi> Daer aen en twijfelt niemant.</p>
+<p><hi rend="i">B.</hi> Maer ick meene dat de Mensche die volkomentlyck ende met onghedeelder begheerten can aenhanghen, soo dat hy op redene, conscientie, Ziele noch God en achte, alleen om te dienen dese zijne lusten, welcker dienaer hy geheel ende al is.</p>
+<p><hi rend="i">V.</hi> Soo meen icks mede. Want int quade mach de Mensch wel volmaeckt zijn, maer niet int goede, overmidts 'tbehulp van onse quade ende bedorven nature.</p>
+<p><hi rend="i">B.</hi> Seght my, acht ghy dese dinghen, te weten Const, Amoureusheyt, Rijcdomme, Hoogheydt, Eere, ende Weelde des Menschen Hooghste goet ende saligheyt te zijn of niet?</p>
+<p><hi rend="i">V.</hi> Hoe soude dat zijn? Hebbe ick voor sulckx de Liefde Gods niet gheseydt te wesen? Het is soo verde, dat ick dese dinghen des menschen hooghste goedt soude achten, dat icse den mensche niet alleen niet goedt, oock schadelijck ende verderflijck houde te zijn.</p>
+<p><hi rend="i">B.</hi> Sonder twijfele. Van een vrouw zijnen Af-god te maecken, insghelijcks van konst, Gheldt, etc. is den Menschen altijdt schadelijck, overmidts den afkeer van den waren God ende het onmatigh misbruyck, maer daeromme en volght niet, dat dese dinghen altijdt ende een yeghelijck schadelijck zijn, soo ghy onvermistigh seght. Maer ten propooste. Ghy bekendt dan de Konsten, rijckdom, weelde, etc. selfs niet goedt te wesen, hoe wel dat sy eenen schijn van goedt hebben. Want wat uyt eyghender aert, wesen, of natuere den menschen goedt is, en mach nemmermeer eenigh mensch schadelijck ofte quaedt zijn. Sulckdanigh goedt is den menschen de voorschreven Liefde Godes ende des Naesten, die gheen mensche op aerden eenigh quaedt mach toebrenghen. Maer men siet noch daghelijckx in Rijckdom, Const, Hoogheydt, Weelde, ende dierghelijcke ghewaende goeden, dat zy den Menschen schadelijck ende verderflijck zijn in Lijf, Leven, Conscientie ende Ziele.</p>
+<p><hi rend="i">V.</hi> Dat en sal niemant loochenen.</p>
+<p><hi rend="i">B.</hi> Dit zijn dan valsche (ja gheen) goeden, so dat het niet dan een wesentloose schijn van goeden en zijn.</p>
+<p><hi rend="i">V.</hi> Ick bekenne dat.</p>
+<p><hi rend="i">B.</hi> Voor hebdy geseyt dat dese valsche goeden 'tgheheele herte ende de gantsche ziele des menschen volmaecktelijck in haren dienste vermoghen te trecken.</p>
+<p><hi rend="i">V.</hi> 't Is so, ick segghe dat oock noch.</p>
+<p><hi rend="i">B.</hi> Maer ghy voeghder beneven 'tselve te comen door behulp onser verdorven naturen.</p>
+<p><hi rend="i">V.</hi> 't Is waer.</p>
+<p><hi rend="i">B.</hi> Is ons nature, na u segghen, soo gants bedorven, datter niet met allen van't Godlijcke zaet in ons overghebleven is.</p>
+<p> <note place="margin">Isaie.1.9.</note> <hi rend="i">V.</hi> Neen ick, anders moestmen den mensche beroven van 'tgunt hem vanden beesten sondert dat is de redelijckheyt ende onsterflijckheyt der zielen. Maer want dit goedt kleyn ende de bederfenisse groot is, soo vermach de verdorven nature meer ten quaden dan 'tvoorsz. overblijfsele, cleyn zijnde ten goeden, daer wildy doch hene, soo ick wel mercke?</p>
+<p><hi rend="i">B.</hi> Acht ghy dan een groote Logen ende den grooten Goliath vermoghende boven den cleynen waerheyt ende David?</p>
+<p><hi rend="i">V.</hi> Wats dat gheseyt?</p>
+<p><hi rend="i">B.</hi> Is de Loghen wesen, of is die niet?</p>
+<p><hi rend="i">V.</hi> Waer de loghen wesen, so waer Godt die alder wesen wesen is, de loghen. Maer Godt is die Waerheydt, dus en mach hy die Loghen niet zijn, ende volght oock dat Loghen niet is.</p>
+<p><hi rend="i">B.</hi> De waerheydt bekent ghy dan God ende wesen te zijn?</p>
+<p><hi rend="i">V.</hi> Ia ick.</p>
+<p><hi rend="i">B.</hi> Het Niet mach 't wesen niet verwinnen, mach't oock?</p>
+<p><hi rend="i">V.</hi> Gheensins.</p>
+<p><hi rend="i">B.</hi> So moet ooc het cleynste Wat of Wesen, meer vermoghen dan d'aldergrootste Schaduwe ofte Niet. Ist niet soo?</p>
+<p><hi rend="i">V.</hi> Ghewislijck.</p>
+<p><hi rend="i">B.</hi> Wat acht ghy de verdorvenheydt vande menschelijcke nature?</p>
+<p><hi rend="i">V.</hi> Alle de Vaderen segghen dat eendrachtelijck te zijn een beroovinghe of dervinge van't goedt, dat in onsen eersten Vader Adam was.</p>
+<p><hi rend="i">B.</hi> Is dese dervinghe ofte beroovinghe wat, of niet?</p>
+<p><hi rend="i">V.</hi> Niet.</p>
+<p><hi rend="i">B.</hi> De verderfnisse onser natueren is dan soo ghy seght Niet.</p>
+<p><hi rend="i">V.</hi> Also.</p>
+<p><hi rend="i">B.</hi> 'tOverblijfsele voorsz is wat?</p>
+<p><hi rend="i">V.</hi> So ist.</p>
+<p><hi rend="i">B.</hi> Laet ons nu besien wat uyt dese redenen volghen sal: Ghy bekendt dat de menschen uyt gantscher zielen aenkleven mogen de wesentlose schijnende goeden ende dat door behulpe van Niet, te weten de verdorven natuere.</p>
+<p><hi rend="i">V.</hi> 't Is waer.</p>
+<p><hi rend="i">B.</hi> Ghy bekent mede dat een kleyn wat (ons overbleven zaedt, Oorlapken ende smoockende voncke) machtigher is dan een Niet dat groot schijnt, maer nochtans niet groot is (want dat niet is niet groot mach wesen.)</p>
+<p><hi rend="i">V.</hi> So doe ick.</p>
+<p><hi rend="i">B.</hi> Ghy bekent dat God niet alleen een wesen, maer alder wesen wesen, ende alder is is.</p>
+<p><hi rend="i">V.</hi> 't Is so.</p>
+<p><hi rend="i">B.</hi> Ghy bekent oock noch dat de voorsz. valsche goeden niet ydelheydt ende schaduwe zijn?</p>
+<p><hi rend="i">V.</hi> Vastelijck.</p>
+<p><hi rend="i">B.</hi> So moet ghy oock (alle dese dinghen t'samen ghevoeght zijnde) belijden dat de mensche Gode uyt gantscher herten, ghedachten, ende zielen mach lief hebben ende synen Naesten als hem selven.</p>
+<p><hi rend="i">V.</hi> Dat en merckte ick byso noch niet.</p>
+<p><hi rend="i">B.</hi> Ghy sullet haest mercken aldus: wat het niet, d'ydelheyt, schaduwe ende valscheyt vermach inden Nietighen, ydelen ende verdorven natuere, dat vermach oock (ten minsten) het al, volheydt, wesen, ende waerheydt in den wesentlijcken onverdorven natuere: De voorsz. valsche goeden, niet, ende ydelheydt wesende, vermoghen den menschen oock ydel ende alles goedts wesens ende vermoghens ledigh zijnde, volkomentlijck met hert, sin ende ghedachten (so geseyt is) in haren dienst te brenghen. Soo moet oock Godt het ware goet, al ende volkomen wesende, de redelijcke, onsterflijcke ende wesentlijcke Ziele der menschen wel vermogen volcomentlijc te trecken met gantscher herten, krachten ende ghedachten tot Liefde van zijn ware goedtheydt, wesentlijcke schoonheyt ende heylighe trouwe, sorghvuldigheyt, etc. of soudy hier teghen willen segghen, soo moest ghy houden dat Niet boven al, schijn boven wesen <pb ed="fol." n="136r"/>ende logen boven waerheydt, sterck ende machtigh waer.</p>
+<p><hi rend="i">V.</hi> Neen, van die meninghe ben ick niet, dat waer verkeertheydt. Maer ghenomen dat ick nu al moet toe laten teghen mijn eerste seggen, dat de Mensche God boven al uyt gantscher zielen volkomentlijck mach beminnen, waer toe dient datte, of wat komt dit ten propooste van't oordeelen daer af wy nu spreken?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">B.</hi> Dat suldy hooren: voor hebdy bekent dese voorschreven Liefde Godes met de Liefde des Naesten des menschen opperste goedtheydt te wesen, daer door men den mensche goet noemt, ghelijck de Vijle door zijn harde scherpheydt ende 't Paert door zijn stercke snelheydt. Ist niet also?</p>
+<p><hi rend="i">V.</hi> Ia trouwen. Ick sta mijn woort.</p>
+<p><hi rend="i">B.</hi> Dat ghy dit goedt niet en hebt, bekende ghy mede.</p>
+<p><hi rend="i">V.</hi> So doe ick noch.</p>
+<p><hi rend="i">B.</hi> Saligheydt, daer mede ick meen een oneyntlijcke lustighe, ruste, begheerdy, doedy niet?</p>
+<p> <note place="margin">Ecc.24.11</note> <hi rend="i">V.</hi> Het schijnt wel, dat al der menschen moeyten tot ruste ende al ons doen tot Saligheydt streckende is.</p>
+<p><hi rend="i">B.</hi> Ghy moet oock belijden ghelijck om de keten stucken te vijlen de stalen boven de gouden vijle, ende om de vervolgende vyanden t'ontkomen 't onghecierde snelle boven het ghecierde traghe Paert bequaemste ende nutste is, dat oock also, die liefde van't ware goet nutter ende bequamer is om tot onse begheerde salicheyt ende rust te komen, dan de liefde tot de voorsz. valsche goeden is. Immers so veele meer, dat de Liefde Gods den eenigen middel, ende de Liefde der Creatueren den eenighen hinder ter saligheden is.</p>
+<p><hi rend="i">V.</hi> Dat bekenne ick u.</p>
+<p><hi rend="i">B.</hi> Aenghemerckt ghy dan, omme ter saligheyden te gheraken de Liefde Godes, u niet alleen <note place="margin">2.</note> moghelijck om vercrijgen, maer oock van <note place="margin">die 'tquaetste voor't beste verkiest, bewyst dat hy 't goet noch 'tquaet en kent.</note> Gode om niet uyt genaden aengeboden zijnde, niet en verliest, maer u toevlucht neemt tot de valsche Creatuerlijcke Liefde, die om daer toe te gheraken den eenigen hinder is, so moet ghy belijden dat gy noch 'tware noch 'tvalsche goet en kent.</p>
+<p><hi rend="i">V.</hi> Ick en macht niet wederspreken.</p>
+<p><hi rend="i">B.</hi> So volght oock noodtlijck dat ghy noch goedt noch quaet rechtelijck en kont oordeelen, als die met den Niniviters gheen onderscheyt en hebt tusschen uwen Rechter ende Lincker  <note place="margin">Jonas 4.</note> handt.</p>
+<p>Met het gunt geseyt is behoort u wel dubbelt te ghenoeghen, nochtans wil ick de moeyte niet ontsien u hier af breeder te onderrichten, ende de Redene wat voorder te verhalen.</p>
+<p>Maer want wy van oordeelen spreken, soo eyscht de sake eerst verklaringhe wat Oordeelen is. Het heeft in duytsch sijnen name uyt twee t'samen ghevoeghde woorden, als Oor of ghehoor ('twelck ghenoegh een is, soo't ghehoor inden ooren is) ende deelen. Alsoo deelt ende scheyt de Rechter der partyen verwerringhe door't ghehoor van hare saken. Desgelijckx oordeelt het Verstandt ofte het Onverstant binnen den Mensche alle sijne saken na dat de bewijsinghen van elcker partyen goedt recht door de Redene overghemerckt, overghewegen ende 'teen teghen 'tander ghehouden zijn. Dit oordeel gheschiet in dingen die elck ander gants teghen zijn als goedt ende quaedt, ende oock in dinghen, daer 'teen beter of argher dan 'tander is. In driereleye saken bestaen alreleye Oordeelen, als te weten in sekere Wetenschappe, in vast Geloove, ende in ongewisse twijfele.</p>
+<p>'t Verstant oordeelt niet sonder kennisse van saken, maer recht ende wel: 't Onverstant oordeelt blindelijck ende daeromme oock onrecht ende qualijck. Want het Onverstant onbekende dinghen, als of die al bekent waren aennemende, die selve toeckeloos toe valt sonder tijdt ende naerstigheyt te gebruycken om der dingen aert te aenmercken, ende oordeelt also eer daer Redene ghehoort ofte die sake verstaen werdt, vermetelijck: Maer 't verstant oordeelt geweten saken inder waerheyt vastelijck, of geloofde saken met omsichtiger nadencken ghetrouwelijck, onder verbeteringhe van klaerder kennisse ende waerachtigher oordeel, als het rechte onderscheydt hebbende tusschen Weten ende Wanen. Om dan wel te oordeelen behoeft men sonderlinghe de hooghe gave Godes <note place="margin">'t Oprecht oordeel behoeft wysheyt.</note> daer Salomon den Heere om badt, op dat hy recht soude moghen oordeelen, dat is wijsheydt: wildy daer yet tegen seggen? <note place="margin">3.Reg.3.</note> </p>
+<p>&nbsp;</p>
+<p><hi rend="i">V.</hi> Neen ick, men weet wel datmen sonder wijsheyt niet recht oordeelen en mach.</p>
+<p><hi rend="i">B.</hi> Zijt ghy wijs?</p>
+<p><hi rend="i">V.</hi> Dat en segghe ick niet.</p>
+<p><hi rend="i">B.</hi> Metten monde schaemdy't u te segghen, nochtans segdy't metter daet.</p>
+<p><hi rend="i">V.</hi> Hoe dat?</p>
+<p><hi rend="i">B.</hi> Met u stout oordeelen segdy dat ghy wijs zijt, want seecker na dien ghy bekent datmen sonder wijsheydt niet recht en mach oordeelen, soo en sout ghy u 'toordeelen oock geensins onderwinden, waert niet soo dat ghy van die luyden niet en waer't, totten welcken min hoops is dan tot een Zot, dat is indien ghy u selve niet wijs en waende. Maer seght my, zijt ghy de zonde noch onderworpen, so dat ghy die noch dient?</p>
+<p><hi rend="i">V.</hi> Wat wil icks metten monde heelen dat mijn daden belijden? Ia ick, noch en gheloove daer af nemmermeer bevrijdt te werden, niet teghenstaende al u voorgaende segghen.</p>
+<p><hi rend="i">B.</hi> Soo en sal oock (O ghy vermetele quaedtwillighe) de wijsheydt in u ziele niet komen,  <note place="margin">Sapi.1.4.</note> noch oock in u Lichaem dat den Zonden onderdaen is niet woonen. Zijdy dan niet wijs, ende machmen sonder wijsheydt niet recht oordeelen, waeromme en laet ghy niet eens af van uwe vermetelheydt? Want voorwaer oordeelt ghy niet recht, soo moet ghy onrecht oordeelen, die onrecht oordeelt, die seyt het quaedt goedt, ende 'tgoedt quaedt te wesen, desen <note place="margin">Esa.5.20.</note> oordelaer werdt wee over wee ghevloeckt van <note place="margin">21</note> den rechtvaerdighen Rechter, dat laet u eens <note place="margin">VVee die wys syn in haer selfs oogē,&amp;c.</note> ter herten gaen. Al is een Spiegel noch soo claer, des menschen ghedaente oprechtelijck uytbeeldende, sy verliest nochtans het Beeldt ende haer klaerheydt, indien de Mensche die met zijnen vochtighen Asem beswalckt, ist niet also?</p>
+<p><hi rend="i">V.</hi> Iae't.</p>
+<p><hi rend="i">B.</hi> Het beecxken dat in clare stilheyt een Cristallijnen spiegele scheen, verliest zijn doorluchtigheyt, als het vande stercke winden omghewenteldt ende met zandt benevelt werdt. Ist niet waer?</p>
+<p><hi rend="i">V.</hi> Iae't mede.</p>
+<p><hi rend="i">B.</hi> De claer-schijnende sterren en moghen <pb ed="fol." n="136v"/>niet lichten, wanneer sy met swarte dicke wolcken bedeckt zijn?</p>
+<p> <note place="margin">Des ghemoets bewegingen verduysteren 'tverstant.</note> <hi rend="i">V.</hi> Dat is oock sulcx.</p>
+<p><hi rend="i">B.</hi> Acht ghy de Bewegingen des Gemoedts niet alle 't selve in't ghesichte der zielen te doen dat den athem inden spieghele, de wint inden beke ende de wolcken voor de sterren doen?</p>
+<p><hi rend="i">V.</hi> Wat noemt ghy bewegingen des Ghemoets?</p>
+<p><hi rend="i">B.</hi> Liefde, Hate, Hope, Vreese, Blijdtschap, Droefheyt, Gonst, Nijdt, ende diergelijcken: wat dunckt u, verduysteren dese des menschen verstant niet?</p>
+<p><hi rend="i">V.</hi> 't Schijnt wel ja. Want daer door komt het dat elck beter Raedtsman in vreemde luyden dan in zijn eygen saken is, overmidts wy onse eygen saken gonstigh, ende in ander luyder saken onpartijdigh zijn.</p>
+<p><hi rend="i">B.</hi> Staet ghy gants gelaten onder den wille Gods sonder eenigh eyghen verkiesen?</p>
+<p><hi rend="i">V.</hi> Neen, ick verkiese noch in allen dinghen.</p>
+<p><hi rend="i">B.</hi> Dat ghy verkiest, waent ghy u best?</p>
+<p><hi rend="i">V.</hi> Alsoo.</p>
+<p><hi rend="i">B.</hi> Dat saeght ghy gaerne gheschieden?</p>
+<p><hi rend="i">V.</hi> Ghewisselijck.</p>
+<p><hi rend="i">B.</hi> Daer op hoopt ghy ja?</p>
+<p><hi rend="i">V.</hi> So ist.</p>
+<p><hi rend="i">B.</hi> Ende vreest oock neen?</p>
+<p><hi rend="i">V.</hi> Ongetwijfelt.</p>
+<p><hi rend="i">B.</hi> Als ghy dan verbeelt wert met moghelijckheyt ende goede ghelegentheydt van't gheschieden, so zijdy vrolijck?</p>
+<p><hi rend="i">V.</hi> Trouwen ja.</p>
+<p><hi rend="i">B.</hi> Verbeelt u d'onmoghelijckheydt of swarigheyt van dien, so zijdy droevigh.</p>
+<p><hi rend="i">V.</hi> Dat is mede waer.</p>
+<p><hi rend="i">B.</hi> Die ghy tot u voornemen behulpelijck merckt sydy gonstigh, ende die ghy daer tegen hinderlijck bevint hatigh?</p>
+<p><hi rend="i">V.</hi> Al recht.</p>
+<p><hi rend="i">B.</hi> Als ghy u begheeren verkrijght soo zydy blijde, misset u so treurdy?</p>
+<p><hi rend="i">V.</hi> Also.</p>
+<p><hi rend="i">B.</hi> Alst een verkreghen of ghemist is soo begeerdy weder stracx 'tander?</p>
+<p><hi rend="i">V.</hi> 't Is waer.</p>
+<p><hi rend="i">B.</hi> Immers ghy begeert wel veele verscheyden dingen tot eender tijdt?</p>
+<p><hi rend="i">V.</hi> Dat bekenne ick u mede.</p>
+<p><hi rend="i">B.</hi> O wat ontallijcke dwerlinghen, stormen, ende ghestadighe Tempeesten van herdt-bewegingen zijn ghestadelijck in uwer zielen, ende ghy sout dorven wanen claer te sien ende recht te konnen oordeelen? Segt my noch, hebt ghy de vreese des Heeren?</p>
+<p><hi rend="i">V.</hi> Ick weet nau meer wat segghen, soo diep tast ghy my inden mondt: wat vreese des Heeren <note place="margin">Ecc.1.17</note> meent ghy?</p>
+<p> <note place="margin">Ecc.1.16</note> <hi rend="i">B.</hi> Ick meen die vreese des Heeren niet, doe  <note place="margin">Ecc.1.20</note> men metten monde belijdt, maer die meen ick, die de sonde uyt drijft, die 'tbeginsel ende oock de volkomenheyt der wijsheyt is.</p>
+<p><hi rend="i">V.</hi> Al seyde ick my die te hebben, ghy en sout my niet ghelooven.</p>
+<p> <note place="margin">1.Par.19.6.</note> <hi rend="i">B.</hi> Dat is waer, want ick sie contrary in u. Soo en onderwint u oock gheen oordeel in des Heeren saken, siet voor u wat ghy doet, want ghy en onderwint u gheens menschen, maer Gods oordeel, ende so wat ghy oordeelt sal op u komen: dit wast dat Iosaphat Coninck van Iuda den Rechters voorhieldt, henluyden voor 'teerst bevelende de vreese Godts voor ooghen te hebben. Niet swaerder en soudet my vallen u te bewijsen dat ghy Gesicht, Licht ende waerheyt derft, sonder welck onmogelijck is recht te oordeelen, dan't my ghevallen is u te overtuyghen, dat ghy gheen Wijsheyt noch Vreese Godes en hebbet, vreesde ick niet voor de lanckheyt. Maer want ghy u moghelijck noch al voor verstandigh acht, ende 'tverstandt veele van d'anderen of in sigh behelst of inne bestaet, soo moet ick u noch vraghen. <hi rend="i">Natuere, sonderlinghe Hemelsche Gratie, Versochtheydt, ende Onderwysinghe houde ick de vier saken waer door 't verstandt in den menschen mach komen</hi>, dunckt u oock datter behalven dese vier een vijfde is of meer?</p>
+<p><hi rend="i">V.</hi> Verclaert my dat beter, ick verstaet niet wel.</p>
+<p><hi rend="i">B.</hi> Zijt ghy met dit verstandt, dat ghy u nu waent te hebben, gheboren?</p>
+<p><hi rend="i">V.</hi> Neen.</p>
+<p><hi rend="i">B.</hi> Ist u op eender nacht (alsmen van Salomone leest) wonderbaerlijck inne ghestort?</p>
+<p><hi rend="i">V.</hi> Neen.</p>
+<p><hi rend="i">B.</hi> Hebdy u wetenschap uyt versochtheyt?</p>
+<p><hi rend="i">V.</hi> Ia ick voorwaer, want ick van joncx op een naerstigh leser ben geweest.</p>
+<p><hi rend="i">B.</hi> Neen, so meyne ic x niet. Een Alchimist een kunstgen lesende omme van houdt of koper, etc. gout te maken, ende door de begheerlijckheydt des goudts gheloovende 'tselve warachtigh te wesen, mach hy oock vertoeven zijne materialen ghereet te maecken omme die kunst te beproeven?</p>
+<p><hi rend="i">V.</hi> Qualijck.</p>
+<p><hi rend="i">B.</hi> Als hy't dan beproeft heeft soo weet hy eerst of de konst goet dan valsch is, want comt het beloofde gout so is die oprecht, mist dat so is die valsch, by also verde trouwen hy vlijtelijc in allen stucken doet na de leere vande selve konste, ist niet also?</p>
+<p><hi rend="i">V.</hi> Sonder twijfele.</p>
+<p><hi rend="i">B.</hi> Isser oock yet dat van allen Menschen uyter naturen meer begheert werdt dan Vryheydt?</p>
+<p><hi rend="i">V.</hi> Elck begeert die.</p>
+<p><hi rend="i">B.</hi> Die zonde doet, is die niet een slave ende dienaer der zonden?</p>
+<p><hi rend="i">V.</hi> Dat staet in't Euangelie.</p>
+<p><hi rend="i">B.</hi> Ghy seght u veele ghelesen te hebben soo <note place="margin">Ioa.8.34.</note> ick oock waer vermercke, ghy hebt dan desen text oock wel ghelesen: Blijft ghy in mijne woorden, so sult ghy waerlijck mijne Iongers <note place="margin">Ioan.8.33</note> zijn, ghy sult de Waerheydt kennen, ende de Waerheyt sal u vry maken, doedy niet?</p>
+<p><hi rend="i">V.</hi> Ia ick, ende moghelijck meermalen dan ghy.</p>
+<p><hi rend="i">B.</hi> Hebdy oock oyt sulcke naerstigheydt ghedaen omme de konste, dit de Waerheydt hier inne leert, te ondersoecken, als de voorsz. goutgierige Alchimist doet in zijn conste?</p>
+<p><hi rend="i">V.</hi> Wat besoecken is hier inne doch gheleghen? Ick leest ende verstaet, wat behoef ick meer?</p>
+<p><hi rend="i">B.</hi> O besochte man, hoe luttel kondy u ooren verberghen onder u veel lesens huyt. Segt my, zijt ghy oock een Ionger Christi?</p>
+<p><hi rend="i">V.</hi> Wiens Iongher soude ick anders wesen?</p>
+<p><hi rend="i">B.</hi> Soo blijfdy dan inde woorden Christi, dat is, ghy doet, werckt ende ghehoorsaemt alle dat hy u ghebiedt ende anders niet, soo dat alle u doen ende laten na zijn woorden ende daer inne gegront is, recht als d'Alchimist op een hayrken na zijn voorsz. regule doet. Staet u sake also?</p>
+<pb ed="fol." n="137r"/>
+<p><hi rend="i">V.</hi> Wats dat gheseyt: Niemant en mach also in zijne woorden blijven.</p>
+<p><hi rend="i">B.</hi> Dats wederomme 'toude, wat kondy fat weten, of dat niemandt, ja oock ghy self niet en vermeught? Hebdy dan met soo grooter begheerten na de verwervinghe van de vryheyt, als d'Alchemiste wel vuyrigh na 't goudt, alle u krachten ten eynden toe, so dat ghy niet meer en vermeught, daer aen te wercke gheleyt omme in zijne woorden te blijven, ende te worden vanden ghenen: niet die daer segghen Heere, Heere: maer die daer doen de wille des Vaders?</p>
+<p><hi rend="i">V.</hi> Neen ick voorwaer.</p>
+<p><hi rend="i">B.</hi> Het quam uyt twee oorsaken, dat ghy niet volhardigh en bleef ten eynde uwer krachten toe in des Heeren Woorden. 't Eene was de gemene opinie dat des Heeren Wet of Woordt lastigh ende bitter was, ende 'tander datmen die beloofde verlossinge van zonden hier niet en mach verkrijgen. Ist niet so?</p>
+<p><hi rend="i">V.</hi> Ghy hebbet op zijn hooft gheraden.</p>
+<p><hi rend="i">B.</hi> So zijt ghy door u ongheloof noch onbevrijdt in uwe zonden?</p>
+<p><hi rend="i">V.</hi> Ick kent.</p>
+<p><hi rend="i">B.</hi> Zo en kendy noch geen waerheyt?</p>
+<p><hi rend="i">V.</hi> Ick lijdt.</p>
+<p><hi rend="i">B.</hi> Kendy die Waerheydt niet, waer toe vermeet ghy u te oordeelen, ghemerckt alle oordeel valsch is dat inder Waerheydt niet en bestaedt, ende des Heeren Oordeele alleen inder Waerheydt bestaet? Sijt ghy dan oock gheen Iongher Christi (so uyt het gheseyde blijckt) hoe derft ghy u metten versochten Ouders die wel gheoeffende sinnen hebben, het oordeel onderwinden? Maer te propooste, dewijle ghy dan den eersten A.B. vande Leere Christi, te weten datmen in zijne woorden blijven moet,  <note place="margin">Heb.5.14</note> sal men zijn Ionghers moghen zijn, niet en ghelooft (swijghe versocht hebt) soo blijckt ontwijselijck dat ghy inde Leere der Waerheyt ende in rechte deughde noch gants vreemt ende onversocht zijt.</p>
+<p><hi rend="i">V.</hi> Wat kan ick segghen?</p>
+<p><hi rend="i">B.</hi> Wat kondy oock weten om te segghen, <note place="margin">Ecc.34.9</note> ghemerckt ghy onversocht zijt? Een man die in veele dinghen gheoeffent is, sal vele dencken, ende die veele gheleert heeft sal verstandt vertellen. Elck verstaet best dat hy meest ghepleeght <note place="margin">Eccle.38.36.</note> heeft, die den ploeghe hanteert ende Ossen drijft weet van Ossen te spreecken, de Timmerman snijdt, graeft ende steeckt, d<hi rend="i">B.</hi> ysersmit sit vlijtigh by zijn Aenbeeldt om 'tyser te smeden, ende de Potbacker drijft metten voeten 'tradt omme: alle dese zijn ghetroost op henluyden wercken, ende meynen elck verstandigh daer inne te wesen: sonder dese en moghen de steden niet behouden noch bewoont werden, nochtans en komen des einder Ghemeynte niet tot hogen state. Vraeghdy waeromme? De Predicker seyt voort voor redene: 't Verbondt des oordeels en verstaen sy niet, dat billigh ende recht en moghen sy niet voortbrenghen, noch en moghen gheen verborghen Wijsheydt vinden: niet dat hun redelijck verstant daer toe onbequamer is dan ander menschen verstant of begrijp: maer, dat het sich daer inne niet en oeffent, sy bemoeyē sich meest in uyterlijcke dinghen, daeromme sy d'innerlijcke niet hanterende, oock niet en verstaen, want (seyt de Predicker noch) henluyden bidden (dats lust ende begheerte) streckt alleen op konstelijcke wercken ende arbeyt. Maer de Wijse man ondersoeckt alle der Ouderen Wijsheyt. Maer ghy maeckter niet dan een leefkonst ende ydel gheklap af, sonder te ghelooven dat het gunt Christus sijnen Iongheren belooft, moghelijck is, ende daeromme (so ick gheseydt hebbe) en ist u gheen ernst te doen, want wie bestaet yet daer hem swaren arbeydt ende moeyten inne waent gheleghen, sonder hope van loon, of sonder gheloove van't selve te moghen volbrenghen? nochtans <hi rend="i">en verstaet niemant de Leeringhe Christi dan diese ernst is</hi> <note place="margin">Ioa.7.17</note> <hi rend="i">om te volbrenghen</hi>. Niet die constigh van schilderen clapt, maer die konstigh schildert, weet wat schilderen is. Waerlijck de deughden en zijn gheen listighe klappernyen, maer een dadelijcke werckinghe. Niemandt mach weten wat wijsheydt is, dan door de wijsheyt, inde wijsheydt, ende met de wijsheyt selve, sy kent de Zotheydt ende der zotten daden, maer de blinde, duystere ende domme Zotheyt en kendt noch de wijsheydt noch haer selve. Alsoo en mach niemant yet Waerheys van alle d'andere deughden weten dan uyt versochtheyt ende bevindinghe der selver deughden in hen. Want sonder deughdelijck te zijn, en mach geen deugde inder bevintlijcker Waerheyt geweten werden. Oock mede en is de deughde by niemandt onbekent.</p>
+<p><hi rend="i">V.</hi> Een vermaert Schrijver leert in zijnen Paradoxis anders, ende seyt de rechte deughde soo saert te zijn datse haer selve niet en kendt, anders mocht sy den Mensche verhoovaerdighen.</p>
+<p><hi rend="i">B.</hi> Sonder wijsheydt ende bescheydenheydt <note place="margin">1.Cor.2.12.</note> en is gheen deughde, de wijsheyt kendt wiens de gaven zijn. De wijsheydt oordeelt recht, so en mach oock de wijsheydt, wetende de deughden gaven Godes te zijn, niet onrechtvaerdelijck oordeelen ende Godes goet den Menschen toe schrijven. Oock mede can men van druyven gheen distelen plucken, noch uyt deught gheen ondeught voort halen: dat de deughdelycke man deughde in zijnder zielen kent komt door de bevintlijcke Waerheydt. Soude hy dan de deughde van Gode ghekomen hem selven toe schrijven, soo moest de Waerheyt lieghen ende hem sulckx vroedt maecken valschelijck. Maer uyte Waerheydt en mach gheen Loghen voortkomen, soo en kan oock de recht deughtsame hem niet verhovaerdighen, soo eenighe t'onrecht wanen: maer hier af breeder op gheleghender tijdt. De Deughde en magh dan by niemant zijn die haer niet en kent, immers sy werdt noch van anderen menschen in den deughtsamen bekent, door goet exempele van leven, wantse soo luttel als een stadt op eenen berghe verborghen mach blijven. Ist nu so dat andere, noch oock ghy selve de deughde in u niet bevintlijck en kendt, soo en hebdyse (soo ghy voor lijdt) niet, noch en weet daeromme oock niet uyt versochtheydt, uyt alle 'twelcke ick sluyte, gemerckt u Wetenschap die ghy te hebben waent, niet en is uyter naturen, uyt sonderlingher gratie, nochte uyt versochtheyt, dat sy gheen ander oorspronck en heeft dan uyt onderwijs van anderen, dat is uyt lesen of uyt hooren preken.</p>
+<p><hi rend="i">V.</hi> Het zy noch soo dat icx maer uyt lesen ofte hooren wete, 'tgunt dat ick wete, so en meugdy my nochtans daeromme so gheheelijck 'toordeel niet benemen. Want al ist soo dat de kennisse, uyt lesen ofte hooren geboren, bedroghen mach werden als die eens verleyders woorden leest, hoort, ofte volght, so moet ghy oock daer teghen belijden dat een leser, hoorder, gheloover ende volgher der Waerheyt geensins bedrogen en mach werden.</p>
+<pb ed="fol." n="137v"/>
+<p><hi rend="i">B.</hi> Soo langhe hy de Waerheydt ghelooft ende volght niet: Maer aenghesien ghy u selve een bedriegher, of de waerheydt voor den ooghen steldt van sulcken onverstandighen, soo bewijst ghy immers selve dat sodanigh onverstandigh leser ofte hoorder oordeel, kennisse ende onderscheyt behoeft, welck hy van beyden gelooven ende volgen sal, of by ghebreck van dien, dat hy mach bedrogen werden.</p>
+<p><hi rend="i">V.</hi> Dat is mede waer. Nu hebbe ick verde genoegh: wy weten immers dat alle menschen loghenachtigh zijn, dus en mach sulc onverstandigh Leeser gheen Mensch betrouwen.</p>
+<p><hi rend="i">B.</hi> Die sulckx weet is niet onwetende noch gheheel onverstandigh, maer 'tzy soo, gaet voort.</p>
+<p><hi rend="i">V.</hi> Daer teghen weten wy dat de mondt der Waerheyt, Christus Iesus, niet en mach bedrieghen, maer dat alle zijn toesegghen ende beloften waerachtigh zijn.</p>
+<p><hi rend="i">B.</hi> Hoe ghy dat weet is voor gebleken, daer ghy teghen zijne belofte van vry werden spraeckt, maer 'tsy ghenomen of ghy dat wist, gaet deur met u segghen.</p>
+<p><hi rend="i">V.</hi> Nu weet ick die woorden der Waerheydt by na van buyten, hebbe ick dan noch gheen Waerheydts kennisse, geen ware wetenschappe ende gheen recht verstant? Wat is waerachtigher dan 'tEuangelie? Dat weet ick, wie mach my verleyden? Wie kan my dan oock 'toordeelen verbieden? Comt hier u subtijle Wetenschappe nu niet te schanden? Werdt u loghen hier niet ontdeckt door mijn slechte Waerheydt? Wat weet ghy nu te segghen?</p>
+<p><hi rend="i">B.</hi> Hola, hola, vlieght niet te hooghe in u roemen, soo en doedy ghenen swaren valle met beschaemtheydt. Dat het Euangelie waerachtigh is weet ick meest in bevintlijcker Waerheydt, maer werdt dit van allen den ghenen die dat hebben, lesen, ende by na van buyten komen te recht verstaen ende gheweten? waen her komen dan d'ontallijcke verscheyden misverstanden ende Ketteryen, diemen al bestaet metten Euangelie te bewijsen? Wat segt ghy hier toe? of strijdet d'eene Waerheydt tegher d'ander? Dat zy verde van een (ooc maer ghenaemde) Christen te vermoeden.</p>
+<p>Sult daeromme weten niet ghenoegh te zyn, om een saecke recht te kennen datter licht (Godes ghenade) zy, <hi rend="i">daer moet oock een klaer ghesicht met naerstighe opmerckinghe zyn</hi>. Anders, te weten, indien 'tlicht der ghenaden <note place="margin">Joan.1.9.</note> alleen ghenoegh ware, soo waer 'twaerachtighe Licht inden wereldt komende niet alleen vanden zijnen, maer oock van alle de wereldt voor de Sone Gods bekent ende aenghenomen gheweest, maer daer staet anders: Sy en kenden hem niet. Waeromme dat? Sy waren duysternissen: Ist ooghe duyster, soo ist gheheele lichaem duyster. Wat voordeel ist den blinden meer dat de Sonne boven der aerden of datse daer onder is? Alsoo behoeft men ooc de gheboorte (een ander herte, sinne, meeninghe ende ooghe) die uyt Gode is ende niet uyten bloede, vleesche, noch wille des mans: men behoeft een ghehoorsamigh gheloove dat van den loghen ende ydelheydt vertwijfelt, ende men behoeft een verlicht verstandt omme de Waerheydt (die allen den ghenen die buyten Christo zijn een duyster parabole, stricke ende <note place="margin">Ioa.5.39.</note> steen des aenstotens is) te moghen begrijpen, bekennen ende verstaen: De Schrift getuyght van Christo, maer die 'tleven daer inne meynt te vinden, soeckt met Magdalena den levenden by den doodē. Het was een ander dan de schriftuere die van Christo den zijnen belooft was tot een Leydtsman in alle Waerheydt, namentlijck <note place="margin">Joa.16.13</note> den heylighen Gheest, dus d'eenighe waerachtighe ende rechte Leermeester: door inblasinghe van desen Gheest Christi is de Schrift, maer niet de Geest uyter Schrift gesproten ende voortghekomen. Daer desen Geest is, daer is licht, waerheydt, kennisse, oordeel, vryheydt, wijsheydt ende verstandt, dat en mist niet. Maer by allen den ghenen die de schrift alleenlijck hebben en is sulcks niet. De Gheest leert inwendigh, de Schrift overtuyght uytwendigh, somma de Gheest maeckt levendigh, maer de Letter slaet doot. Maer ten propooste. In rechte daer de sake gheen ziele, maer meesten tijdt niet dan ghelt en roert, ghelooft men daer oock wel getuygen die van hooren segghen spreken?</p>
+<p><hi rend="i">V.</hi> Neen.</p>
+<p><hi rend="i">B.</hi> Is dat niet overmidts die ghetuyghe uyt hooren segghen buyten zijn weten een loghen voor waerheyt mach ghetuyghen?</p>
+<p><hi rend="i">V.</hi> Alsoo.</p>
+<p><hi rend="i">B.</hi> Hadde ghy teghens yemande weddinghe ghedaen van twee Liedekens, welck van beyden de best luydende Musijcke waer, soudt ghy daer oock eenen gheboren dooven, al waer hy noch soo scherp siende, tot een rechter over roepen?</p>
+<p><hi rend="i">V.</hi> Dat waer zotheyt.</p>
+<p><hi rend="i">B.</hi> Overmidts de Musijcke sonder 'tgehoor niet gheoordeelt en mach werden.</p>
+<p><hi rend="i">V.</hi> Alsoo.</p>
+<p><hi rend="i">B.</hi> Ghy en soudt dan oock in ghelijcke weddinge van twee tafereelen, welck 't beste waer, 'toordeel niet bevelen eenen blinden, al hadde die oock 'talderscherpste ghehoor?</p>
+<p><hi rend="i">V.</hi> Neen ick.</p>
+<p><hi rend="i">B.</hi> Ende dit ghemerckt de Schilderye metten ghesichte ende niet metten ghehoore geoordeelt wert?</p>
+<p><hi rend="i">V.</hi> Sonder twijfele.</p>
+<p><hi rend="i">B.</hi> Ist oock moghelijck sonder smaecken yemandt die noyt suycker en proefde te doen verstaen uyt boecken of woorden, hoe soedt dat suycker is?</p>
+<p><hi rend="i">V.</hi> Neen't.</p>
+<p><hi rend="i">B.</hi> Waeromme?</p>
+<p><hi rend="i">V.</hi> Ghelijck de verwe niet met het ghehoor, maer metten ghesichte, soo en mach dit oock niet door ooghen in't lesen, of door hooren in't onderwijsen, maer door ghevoelen int smaken gheweten ende bevonden werden.</p>
+<p><hi rend="i">B.</hi> Dats wel geseyt. Soo en mach oock niemandt <note place="margin">Psa.33.9.</note> een ander leeren, hoe soet dat de Heere is, ten sy datmens selfs smake.</p>
+<p><hi rend="i">V.</hi> So ist oock.</p>
+<p><hi rend="i">B.</hi> Soo en mach niemant dan een ander die onbekende soetheydt doen begeeren, beminnen, daer na hopen, verlanghen, etc.</p>
+<p><hi rend="i">V.</hi> Trouwen neen.</p>
+<p><hi rend="i">B.</hi> Niemandt kan dan een ander Mensche op Gode leeren betrouwen, op Gode hopen, nochte Gode beminnen.</p>
+<p><hi rend="i">V.</hi> 't Schijnt so.</p>
+<p><hi rend="i">B.</hi> Mach u dan niemandt Godts goetheydt leeren smaecken, kennen ende beminnen, ende en hebdy die bevindtlijcker wijse door zijns Gheests gratie niet gheleert, soo en weet ghy van Gode niet met allen dan van hooren segghen, daer men veele af lieght, hoe dorst ghy dan in soo wichtighe saken sonder hem ge-<pb ed="fol." n="138r"/>gebenedijt, met uwen ooghen ghesien ende met uwen handen ghetast te hebben, uyt twijfelijc hooren segghen, daer toe niet verdaeght of gheroepen zijnde, uyt u selfs vermetelheydt, van Gode ende Godlijcke saken ghetuyghen? Ghy, segghe ick, die sulckx zijt als hoor eensdeels ghehoort is ende ick noch segghen wil, die in Gheestelijcke saecken Blindt ende Doof zijt: schaemdy u niet, het ghetuyghnisse van gheestelijcke saecken in uwen onghewasschen mondt te nemen? Ghy hebt uyt my moghen hooren wat oordeelen is, ende wat daer toe behoeft om recht te gheschieden: nu wil ick u oock noch een weynigh spreecken van 'tgunt datter gheoordeelt werdt, soo suldy immers yet moghen zien (zydy niet gheheel verstockt) of u ende sulckdanighe als ghy zijt, het oordeelen oock betaemt. 'tGunt daer af ghy u 'toordeel aenneemt ist verstant der Schriftueren, ist niet so?</p>
+<p><hi rend="i">V.</hi> Ia.</p>
+<p><hi rend="i">B.</hi> Ist dit gheestelijck of vleyschelijck?</p>
+<p><hi rend="i">V.</hi> Geestelijck.</p>
+<p><hi rend="i">B.</hi> Dit gheestelijcke verstant der H. Schrifturen begrijpt oock meest gheestelijcke saken, als God, de ziele, ende alle deughden, 't welck altsamen eeuwigh ende onsichtbaer is.</p>
+<p><hi rend="i">V.</hi> Also.</p>
+<p><hi rend="i">B.</hi> Mach 'tlichamelijcke ooghe ofte oore dese geestelijcke saken wel sien ofte hooren?</p>
+<p> <note place="margin">1.Cor.2.9</note> <hi rend="i">V.</hi> Geensins, want noyt ooghe heeft ghesien, nochte noyt oore gehoort 'tgunt God bereydt heeft den ghenen die hem beminnen.</p>
+<p><hi rend="i">B.</hi> Maer den Apostel Paulo wast gheopenbaert.</p>
+<p><hi rend="i">V.</hi> Dat is waer.</p>
+<p><hi rend="i">B.</hi> Van menschen, van vleesch, of bloet?</p>
+<p><hi rend="i">V.</hi> Neen, van Gode door zijnen Gheest.</p>
+<p><hi rend="i">B.</hi> Want God is een Geest.</p>
+<p><hi rend="i">V.</hi> Dat is waer.</p>
+<p><hi rend="i">B.</hi> Maer sal yemandt van Godes Gheest wat gheopenbaert werden, die moet dan oock gheestelijcke ooren ende ooghen hebben, sal hy des Geests openbaringhe van gheestelijcke saken begrijpen of verstaen.</p>
+<p><hi rend="i">V.</hi> 't Is so.</p>
+<p><hi rend="i">B.</hi> Sullender geestelijcke ooren ende ooghen zijn, daer moet oock een gheestelijck mensche gheboren zijn in sulckdanighen.</p>
+<p><hi rend="i">V.</hi> 't Moet volghen.</p>
+<p><hi rend="i">B.</hi> Dese gheestelijcke mensche oordeelet alles ende en werdt van niemant gheoordeelt.</p>
+<p> <note place="margin">1.Cor.2.25.</note> <hi rend="i">V.</hi> Dats???.</p>
+<p><hi rend="i">B.</hi> Zijt ghy gheestelijck?</p>
+<p><hi rend="i">V.</hi> Wats dat ghy vraeght?</p>
+<p><hi rend="i">B.</hi> Dat ter saken dient, want ghy moet geestelijkc, of ghy moet vleeschelijck zijn: maer ick mercke u van dat volck te zijn, in welcker  <note place="margin">Rom.7.14</note> persoone d'Apostel spreeckt: Ick ben vleeschelijck vercocht onder de zonde. Want ghy u voor self belijdt noch der zonden slave te wesen: alle sulckdanighe wandelen noch na den vleesche, zijn vleeschelijck ende vleeschelijck ghesint.</p>
+<p> <note place="margin">8.</note> <hi rend="i">V.</hi> Welck zijnse dan die geestelijck zijn, ende gheestelijck ghesint?</p>
+<p><hi rend="i">B.</hi> Die inden vleesche niet en zijn, maer in den Gheest: daer de Geest Godes inne woont, ende welcker lichamen doodt zijn om der zonden wille: de zonde niet meer en leven, maer Christo, diens Geest in henluyden woont, ende  <note place="margin">6.</note> die vander zonden ghevrijdt zijnde, dienaren Godes gheworden zijn, hebbende henluyder vruchten in heyliginge, etc. het zijn geestelijcke  <note place="margin">1.Cor.2.12.</note> menschen, die ontfanghen hebben, niet den gheest deser wereldt, maer den Gheest die uyt Gode is, daer door sy oock weten wat henluyden van God ghegeven is, ende die daer spreken niet in geleerde woorden van menschelijcke wijsheyt, maer inde Leeringhe des Gheests, geestelijcke dinghen by gheestelijcke dingen gelijkende, Sulckdanighe achte ick geestelijk te wesen die vande melck ende dorsten des werelts <note place="margin">Ezai.28.9</note> ghespeent zijnde bequaem zijn gheworden omme 'tverstandt Godes van Gode te leeren. Die <note place="margin">Ezac.34.16.</note> Schaepkens ende niet Wolven van aert zijnde, vanden eenighen Herder met oordeel geweydt werden, die den Heere vreesende rechtvaerdigh <note place="margin">Ecc.32.20</note> oordeel vinden, ende de gherechtigheydt als een licht in henluyden ontsteken, die Christum, de <note place="margin">Pro.2.9.</note> wijsheydt des Vaders, met een wenschelijck behaghen inder herten hebbende, rechtvaerdigheydt, oordeel, billigheydt ende allen goeden wegh verstaen. Ende die daer selve sijn in Christo Iesu, dien vanden Vader alleen alle <note place="margin">Joa.5.22.</note> 'toordeel ghegheven is. Dese gheestelijcken hebben een rechtschapen geestelijck oordeel, ende mogen daeromme te recht na der Waerheyt van gheestelijcke saken vry oordeelen. Nu kondy licht verstaen, dat dit oordeel dan oock den vleeschelijcken verboden is.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">V.</hi> Welcke noemt ghy noch vleeschelijcke menschen te wesen?</p>
+<p><hi rend="i">B.</hi> Dat behoort ghy wel-belesene van self wel te weten.</p>
+<p><hi rend="i">V.</hi> Ick begheert uyt u te hooren.</p>
+<p><hi rend="i">B.</hi> Alle die niet gheestelijck, dat is die niet als die voorschrevene en zijn, die de zonde noch dienen, die niet herboren en zijn, die noch hare vleeschelijcke begheerten volghen, ende in <note place="margin">1.Pet.2.11</note> somma (op dat ick alle de Schrift niet en verhale) die noch vleeschelijck ghesindt, die noch onghelaten van wille, ende die sonder, buyten, ende teghen Christum zijn. Dese, al schenen sy oock door eenen Pharizeeuschen schijne in hun selfs ende in alder werelts ooghen Heylighe, Godlijcke ende gheestelijcke luyden, houde ick voor vleeschelijcke menschen die niet Godlijcx en verstaen ende daeromme oock gene Godtlijcke saken oordeelen en moghen, want hare <note place="margin">Esa.20.2.</note> zonden verberghen voor henluyden 'taensichte <note place="margin">Sap.5.6.</note> des Heeren, soo dat de Sonne des verstandenisse <note place="margin">Esaia.29.</note> niet en schijnt, sy en aenroepen die gherechtigheydt niet, noch en oordeelen daeromme oock niet recht vaerdelijck, den wegh des vreden en kennen sy niet, daer en is gheen oordeel in henluyden ganghen, hare paden zijn omme gecromt, alle die daer inne tredet is den vrede onbekent: daeromme is oock 'toordeel verde van hun gheweken, soo dat hun de rechtvaerdigheydt niet en bereyckt, sy verbeyden 'tLicht, ende siet duysternissen zijn daer, zy tasten als blinden metter handt aen de wandē, sy stooten hen inden middaghe als inden duysternissen, sy verwachten oordeel ende ten is daer niet, etc. Leest ghy 'tgunt daer volght eens voort, wildy u selve met alle vleeschelijcke vermetele Oordelaers eens wel beschilderdt sien, selve Pharizeen ende Vleeschelijcke menschen zijnde, oordeelen sy stoutelijck teghen Christi verbodt  <note place="margin" n="a">Mat.7.1</note> anderen ghenaemde ofte rechte gheestelijcke,  <note place="margin" n="b">Joa.8.15</note> Na den vleesche. <note place="margin">1.Cor.4.5</note> Meyndy dat sy gheen grouwel voor Gode syn <note place="margin">Ro.14.13.</note> <hi rend="i">die den Godtloosen rechtvaerdighen ende den rechtvaerdighen stoutelyck verdoemen dorven?</hi> Of dunckt u datter een oprecht oordeel mach komen van dese verwaende Sotten, <hi rend="i">die gheen Oordeel en konnen bedencken?</hi> Wat machmen <note place="margin">Pro.28.5</note> <hi rend="i">doch arger vinden dan dat van vleesch ende bloedt versiert is?</hi> Of moghen sy geestelyck <note place="margin">Ecc.17.30</note> <pb ed="fol." n="138v"/> <note place="margin">Rom.8.5</note> oordeelen die noch na den vleesche leben ende vleeschelijck gesint zijn? Kan oock des vleeschs wijsheydt het leven ende Gode aenghenaem zijn? <hi rend="i">Sullen dan de gene die't goede haten ende 'tquade beminnen, het oordeel weten ende verstaen?</hi> <note place="margin">Mich.3.1</note> Neen vryelijck, de dierachtighe mensche en verstaet niet van 't gunt dat den geest Godes  <note place="margin">2.Cor.2.14</note> aengaet, want het is hen een zotheydt, ende en machs niet verstaen, ghemerckt sulcx gheestelijck geoordeelt ende ondersocht wert. Daeromme aenghesien niemandt wel mach oordeelen in 't gunt hy niet en verstaet, ende ghy vleeschelijck synde niet geestelijcx en verstaet, als voor ghebleken is, soo en meught ghy vermetele niet recht oordeelen in geestelijcken saecken, sult daeromme wel doen ende laten (noch al gevraeght synde) u handt op u mont sijn, soo en werdt ghy in u selfs oordeel niet veroordeeldt eeuwelijck, dats wat swaerder dan te hooren: <hi rend="i">Ne sutor ultra crepidam</hi>.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Geschreven Anno 1564</hi>.</p>
+    <interpGrp><interp type="end" value="coor001vant01"/></interpGrp>
+</div>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "http://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Lieffelijcke tsamenspreecking van de droefheydt</title>
+                
+                <author>D.V. Coornhert</author>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Lieffelijcke tsamenspreecking van de droefheydt</hi> van D.V. Coornhert in een uitgave uit 1630. De eerste druk dateert van 1584.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr>De folionummering in het origineel slaat folia ccc lxxxiir en ccc lxxxiiv over. Dat is hier onveranderd overgenomen.</corr>
+                        <corr>fol. ccc lxxixr: vereerlijckt → verheerlijckt: ‘so sullen wy mede met hem verheerlijckt’.</corr>
+                        <corr>fol. ccc lxxixr: lijden lijden → lijden: ‘so vroommoedigh spraeckt van teghenspoet te lijden’.</corr>
+                        <corr>fol. ccc lxxixr: bittar → bitter: ‘maer in den buyck der ondervintlijcke lijders bitter en scherp’.</corr>
+                        <corr>fol. ccc lxxxivr: ghebedijt →g hebenedijt: ‘verachters sijnder castijdinghe teghen ghebenedijt bestaen’.</corr>
+                        <corr>fol. ccc lxxxivv: comtn comen: den Vader des Lichts, van wien alle goede gaven comen</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan section="1" type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+                <scan section="1" type="fol2">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">coor001lief02_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2013 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note></note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Universiteitsbibliotheek Amsterdam, signatuur: Cat. Ned. Lett. UBA 195</idno>
+                </bibl>
+                <p>D.V. Coornhert, <hi rend="i">Lieffelijcke tsamenspreecking van de droefheydt</hi>. Jacob Aertsz Colom, Amsterdam 1630 (uitgave)</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Lieffelijcke tsamenspreecking van de droefheydt</title>
+                <title type="subordinate"></title>
+                <author>D.V. Coornhert</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Lieffelijcke tsamenspreecking van de droefheydt</title>
+                <title type="subordinate"></title>
+                <author>D.V. Coornhert</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2013-05-13</date>
+                <respStmt>
+                    <name type="person">RK</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+    <interpGrp><interp type="primair" value="basi003"/></interpGrp>
+<body>
+<div type="chapter">
+    <pb ed="fol." n="ccc lxxixr"/>
+<head rend="h3">Een lieffelijcke tsamenspreeckinge, van de droefheydt, <hi rend="i">Gehouden tusschen Johannes Basius, ende D.V. Coornhert.</hi></head>
+    <head rend="h4"><hi rend="i">Rom. 8 vers 12. Ist dat wy met Christo lyden, so sullen wy mede met hem verheerlijckt worden.</hi></head>
+    <p><note place="margin"><hi rend="i">Basius</hi></note>MAer wats dit Coornherdt de handt onder 'thooft, een treurich ghelaedt, met swaer versuchten, ic waende in u aensicht een Socratis gelijckheyt gevonden te hebben, dit mishaecht my voorwaer, doch bemerck ick hier noch een goet teken, te weten: dat u droevige ooghen na troost spooren int boec van vrolijcke bootschappen, maer seght mijn toch lieve man wat swarigheydt is u toch opgekomen dat ghy dus swaermoedich zijt?</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>O vraechdy dat: siedy dan niet dat ick ben buyten mijns Vaders Lant, daer uyt sal ick moeten blijven, tot datter hope sal zijn van corte en goede Justitie te moghen ghenieten, maer wanneer sal dit wesen? die kleynheydt deser hope maeckt mijne droefheydt grooter.</p>
+<p><hi rend="i">Basius</hi>.</p>
+<p>O lieve man hebdy dan achterwaerts geleert, my gedenckt noch wel, als ick u gheleden omtrent elf jaren, <hi rend="i">partes orationes quot sunt</hi> leerde, dat ghy menichmael so vroommoedigh spraeckt van teghenspoet te lijden, dat u na aenvechtinge scheen te verlangen, om een proef te moghen doen, wat ghy inde Christelijcke leere toegenomen haddet, ghy wist oock wel te seggen, al die Godsaligh willen leven vervolginge moeten lijden, soo dat ghy sulcx der Christenen leven noemde, daeromme na dien 'tvoorsien gheschiet minste quetset, verwondert my seer dat u een soo kleynen windken tegenspoets, soo lichtelijck heel plat ter aerden heeft ghewaeyt.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Het Boeck des Cruyses is in den mondt der onversochte roemers soet, maer in den buyck der ondervintlijcke lijders bitter en scherp, het lijden heeft een swaerder gewicht int ghevoel dan int voordencken, ick sprack voortijdts in weelt moghelijck uyt een verwaent betrouwen, op mijn eyghen krachte, maer nu bevoel ick in lijden mijn vermogen kleyn ja niet, ende mijn swarigheyt groot.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Dat hoor ick geerne, want in waerachtigh bekennen van onse kranckheyt, toont sich altijdt die godlijcke mogentheyt, soo groot dat sy (ist maer dat wy sulcx ghelovich bidden) alleen alle cruys hoe swaer dattet ooc zy in ons draecht buyten ons toedoen, sulckx dat wy los ende ledich onder 't cruys gaen, oock ons daer in moghen verblijden.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Hola meester, in lijden te verblijden dat is een paradoxam, maeckt dat een ander vroet.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Neen u, die selfs wel ghewoon zijt paradoxam te spreecken.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Dats u (al konste ghy praten als brughman) onmoghelijck.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Hola, hola, so hooch niet, wy sullen haest sien niet wat ick, of yemants welsprekentheyt maer wat de eenvoudige waerheyt vermach, maer wildy niet wel, om tot dit bewijsinghe van mijn segghen te komen, dat wy 'tselfde vande gront opnemen.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Begint daert u belieft.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Suldy my oock op mijn vrage rondelijck antwoorden?</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Ick sal.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Sal ick niet moeten ghebruycken dan Schriftuerlijcke bewijsinghe, of laet ghy my oock toe die natuerlijcke.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Ick mach die natuerlijcke oock wel lijden, als sy klaer ende oock met de Heylighe Schriftuere bewijsselijck en over een stemmende zijn.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Ghy seght wel, ende ick meene oock met een woort te spreken dat niet gegront en is in <pb ed="fol." n="ccc lxxixv"/> de Heylighe schrift, maer hebbe dat willen vraghen, overmidts ick in afwesen van mijn boecken, en memoriael, die Schriftuerlijcke spreucken niet eygentlijck en soude voortbrenghen so die gheschreven staen, uyt ghebreck van een goede memorie, (nadien dan ons voornemen is te spreecken van een saecke waer inne ghy waent te wesen, nootlijcke oorsake van droefheydt, en sulcx die droefheyt die dickmaels verhaelt sal moeten wesen, so acht ick nodigh dat wy eerst een meninge) hebben van de droefheyt ende sonde, daerom ick uyt u wilde hooren wat ghy droefheydt noemt.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Droefheydt is een verstorenisse des ghemoets, overmidts seeckere wetenschap dat men int goedts onbreeckt ofte yet quaedts heeft.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Ghy en hebt niet al te vergheefs Ciceronum ghelesen dat hoor ick wel, maer seght my hebdy noyt kinderen droevigh ghesien.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Menichmael, en selve dickmael in mijn kintsheyt droevigh, immers meer droevigh als blyde gheweest.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Waerom waerdy droevigh?</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Als ick het genoechlijck speelen moste laten, ende het hatelijcke leeren moste plegen.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Was u 'tleeren beter of 'tspeelen?</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Het leeren was mijn goet, ende 'tspelen quaedt.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Wist ghy dat in u kintsheyt wel?</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Hadde ickt gheweten, ick soude my  int leeren verblijt, ende midtsdien bespaert hebben den arbeyt die ick willigh ende vrolijck dede, in mijn outheyt als ghy my den grammaticam leerde.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Ghy en wist doen niet in u kintsheydt dat u het leeren goedt, ende het tuyschen loopen quaet was.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Geensins.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Daer na man wesende, zijdy oock wel droevigh geweest soude ick wel menen.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Duysent werven.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Moghelijck om yet te derven dat ghy wel begeerde te hebben.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Also.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Want ghy waende 'tvercrijgen van u begeerte goet.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Ick waende.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Wilde ghy wel dat ghy altijdt haddet verkregen 'tgene ghy begeerde.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Daer behoede my Godt voor, ick hebbe menigh dinck begeert daer van 'tverkrijghen mijn grontlijcke bederfenisse hadde geweest.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Ghy hebt dan dinghen begeert die in u oogen goedt schenen, ende u nochtans in der waerheydt quaet waren.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Ongetwijfelt.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Het schijnt dat ghy niet alleen inder kintsheyt, maer oock in u manheyt wel droevigh zijt gheweest, om te hebben dat u goet was, ende te ontberen dat u quaet was.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Dat bekenne ick u.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Haddet ghy die waerheyt vander sake geweten, ghy en sout daerom niet droevigh, maer blyde zijn geweest.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>'tIs also.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Het blijckt dan datter noch mach een ander droefheyt zijn dan die uyt seeckere wetenschap van yet goets te ontberen, of yet quaets te hebben wert gheboren.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>My dunckt nu oock soo, hoe wel ickt eerst in mijn beschrijvinge vande droefheyt niet en merckte.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Wat dunckt u dan datter meer van nooden is.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Maer waen, want het blijckt dat ic dickmaels droevigh sy gheweest, alleen uyt de waen, dat my de dinghen quaet waren die my nochtans inder waerheydt goedt waren, en houde daerom nu droefheyt te wesen, een verstoornisse des ghemoets veroorsaeck uyt wetenschap ofte waen datmen yets goet ontbeert ofte yets quaets heeft.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Dese beschrijvinge vernoecht my, en volcht hier uyt datter zijn tweederley droefheyden, te weten waerachtighe ende valsche.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Hoe datte.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Ist geen rechte droefheyt daer men treurt om te hebben eenigh quaet, of ontderven van eenigh goet.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Trouwen ja.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>So moetet oock wel een valsche droefheyt zijn daer men treurt om 'thebben van 'tgene dat goet is, ende om 'tderven van 'tgene dat quaet is.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Te recht.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Alsoo vintmen oock inde Schriftuere een ware droefheyt, dienende ter saligheyt, soo de Heere seydt: Matth. 5. Saligh zijnse die treuren, want sy sullen vertroost werden, ende insghelijckx een valsche ende verdoemelijcke droefheyt, die den mensche van Christo aftreckt, so het met den rijcken Jongeling gheschiede, Matth. 19. Die liever Christum, dan zijn rijckdom verliet, en gingh treurigh wegh, maer op dat wy het eene onder het ander niet en mengen (in onse navolghende reden) soo soude ick oock wel willen <pb ed="fol." n="ccc lxxxr"/> hooren of ghy oock recht verstaet het onderscheyt tusschen droefheyt ende pijne.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Ick en weets selve niet.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Wat is pyne?</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Een smerte ofte weedom des lichaems, veroorsaeckt door honger, dorst, hette, koude, wonden, sieckte, ofte ander dierghelijcke Lichamelijcke onghesteltheyden ofte ongemacke.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Dat is niet qualijck gheseyt, en besluyt daer uyt dat ghy den onderscheyt grontlyck verstaet.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Droefheyt heeft haer werckinghe in den gemoede, maer pijne inden lichame ofte bloede, en also bestaet pijne in de gevoelijcke, maer de droefheyt inde verstandelijcke krachte der zielen, sulckx dat oock gheen pijn en mach ghevoelt werden, so langhe de oorsaecken niet teghenwoordich en zijn int lichaem, ofte des selfs leden, maer so en ist niet met der droefheyt, want men is wel droevich om eenigh quaet datmen waent of weet noch te sullen op komen, of oock al verleden is, sonder tegenwoordigh te wesen.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Dat behaecht my ooc al wel, want int beschrijven vander droefheyt goet of quaet te noemen, soo laet my hooren wat ghy hier by verstaet van dese twee woorden goedt ende quaedt, want om de kennisse van dien meest hangt, niet alleen 'tgeen wy segghen willen, maer al 't gheen dat gheschiet ofte ghedacht mach werden van alle menschen.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Totte verklaringhe vande twee woorden achte ick noch een derde van noden.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Wat is dat?</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Te weten middelbaer, door dien men vint goede, quade, ende middelbare dinghen, ick spreke hier voor de menschen.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>'tIs also, maer wat noemdy goet voor de menschen.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Alle 'tgene sodanich is, dat het niemant en mach verargen, maer yeghelijck daert by is verbeteren, soodanich zijn ware kennisse van Gode, ende van ons selven oock van geloove, hope, en liefde, en alle ander deughden, die den menschen nut ende nootlijck zijn tot verkrijginge en genietinge vant opperste goet dat God is.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Wat noemdy nu des menschen quaet.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Dat kondy uyt het voorschreven licht mercken, want het is het rechte jeghendeel van't selfde.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Ick begeert uyt u te hooren.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Alle 'tgene dat niemant en mach verbeteren, maer dat alle menschen by den welcken het is argeren en quader maeckt, te weten sotheyt, daer door den mensche God noch hem selven en kent, ongheloof vertwijfeltheyt, haedt, afgunst met ander dierghelijcke boosheyden die den menschen aftrecken vant eenighe ende waerachtighe goet, hem 'tverkrijgen en 'tgenieten van dien behinderen.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Dit is noch niet qualijck gheantwoordt: seght daerom voort wat die middelbare dinghen zijn.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Ick meende ghy my uwen paradoxam sout bewijsen, ende door sulckx selfs sout de woorden hebben, nu doet ghy my vast alleen spreken, niet te min want ick u te antwoorde<hi rend="i">n</hi> belooft hebbe, wil icx niet laten, ende achte daerom voormiddelbaer dinghen, alle 'tgene van selfs den hebber niet beter, noch den ontbeerder niet quader en maeckt, als te weten: rijckdom, mogentheyt, achtbaerheydt, ghesontheydt, armoede, haete, verworpentheyt, verachtinghe met meer ander dierghelijcke saecken, die ons int hebben niet beter: noch int ontbeeren niet argher en maecken.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Nochtans komen dese dingen menigen ten goede, so men heeft sien mogen in veel Gods Heylighen, bysonder in den Heyligen Job, het voorbeelt van lijdtsaemheyt,</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Niet uyt deser dingen eygen natuer, want anders mosten alle Godloose van Gode met castijdinge versaecht, ofte met tijdtlijcke geluck begaeft zijn, daer door oock te beter geworden zijn, 't welck soo niet en is, daerom den soodanige goetheyt of quaetheyt gelegen niet in die dingen selve, maer alleenlijck int wel of qualijck ghebruycken, so dat den goeden alle dinghen ten goeden, ende den quaden alle dingen ten quaden ghedijen.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Weet of waent ghy dat?</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Ick weet dat wel.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Het sy dan of ghyt weet of waent, soo ist wonder waer van u die droefheydt komt, die ghy als voor (selve) geseyt hebt, geen ander oorsaeck te hebben dan waen of weten, dat wy yet quaets hebben of yet goets ontberen, want dese waen of weten in u niet en is soo ghy seght, of isser noch een ander oorsaecke van droefheyt?</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Neent.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>So moetet nootlijck een van tween zijn, te weten of dat ghy niet en moocht droevigh zijn door de ballinghschap dat die u van niet goets beroven: nochte oock niet quaets toe en brenght, ofte ghy hebt de wetenschap, ofte waen terstondt verhaelt niet in u, maer laet ons nu eens komen tot die ballingschap, segt toch eens, wat is het ghene daer door u die bedroeft.</p>
+<p><hi rend="i">Koornhert.</hi></p>
+<p>Het derven van mijn soete Vaderlandt, van 't vruchtbaer ghewinne, en van mijn getrouwe vrienden.</p>
+<p><pb ed="fol." n="XXX lxxxv"/></p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Isser niet meer?</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Jae't, vreese voor ghebreck, verachtinge, zieckten ende doot onder den vreemden.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Ist daer nu al?</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Noch niet, het swaerste sult ghy nu eerst hooren, der boosen lust in ons qualijc varen, der quaden welvaert, macht, ende Tyrannye over den ellendighen ende onschuldighen Christum.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Wy sullen hier na elck van dese dinghen wat segghen, maer seght eerst, waer onder salmen dese voorsz. dinghen stellen, onder de quade, of goede, ofte middelbare daer wy van ghesproken hebben.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Onder de middelbaer dinghen.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Dat is waer, zy en sijn dan van selfs niet quaet.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Neen: Want veel machtighe Tyrannen en sijn niet beter gheworden, door dien dat zy haer onder haer vrienden in grooter achtbaerheyt langhe gheheerschapt in haer Vaderlandt gheleeft hebben, en aldaer by Wijf, Kint en Vrienden ghestorven sijn, so oock wederom veele Godsalige Martelaren, door haer arme, verachte, ende verlaeten leven en sterven in ellende, niet een hayrken te snooder sijn geworden.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>So en comt u in desen niet quaedts over, noch ghy ontbeert hier in niet goets.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Neen.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Want ghy ghelooft immers dat Godt u dese ballingschap op leyt, en niemant anders, of meent ghy dat het u buyten Godts schickinghe, en weten, van Menschen wert ghedaen.</p>
+<p><hi rend="i">Coornh.</hi></p>
+<p>Al sijn quade menschen de middelen daer door het gheschiet, so comtet my onghetwijfelt van Godt.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Tot uwen besten.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Alsoo.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Siet nu doch hoe dese dinghen te samen bestaen moghen, weet ghy dat u de Ballingschap van Gode opgheleyt wordt, tot uwen besten, so en mooght ghy immers oock niet wanen of weten dat u yet quaedts daer door op comt, of dat ghy yet goets daer door ontbeert, hoe mooghdy dan so droevigh sijn om u ballingschap.</p>
+<p><hi rend="i">Coornh.</hi></p>
+<p>Wat can ick segghen: ick weet nochtans dat ick droevigh ben.</p>
+<p><hi rend="i">Bas.</hi></p>
+<p>Ende ick weet daer by dan oock dat ghy niet en waent: Ick swijghe en weet, het geen ghy voor van den onderscheydt des goeden, ende quaden, en middelbaer dinghen, oock van de goetheyt, wijsheyt, ende mogentheyt Godts gesproken hebt, maer duchte dat ghy onverstandigher als een Papegay nae clapt, sonder 'tselve te verstaen, alleen om verstandigher dan ghy sijt te schijnen, want waende ghy maer, ick swijghe weten, dat die lieve Godt u die ballingschap tot uwen besten opleyde, hoe soudy u daer in moghen bedroeven, ick en meene immers niet dat ghy u mooght bedroeven, int goedt dat ghy vermoedt te gheschieden na u begheeren, wie begheert oock yet anders, dan dat hy waent of weet hem goet te sijn, waent ghy dan dat dit u ten goeden gheschiedt? So gheschiedt u na begheeren, so en condy immers niet droevigh sijn.</p>
+<p><hi rend="i">Coornh.</hi></p>
+<p>Het schijnt soo.</p>
+<p><hi rend="i">Bas.</hi></p>
+<p>Het is so, ende sal u dat noch beter betoonen, of ghy eenighe soetigheydt haddet dat ghy begheerde te nuttighen, 'twelck u door't onmatigh misbruyck, fenijn ende dootlijck waer, niet anders wetende of 't waer medecijn voor u, en yemant u dat benamen, soudy niet droevigh sijn?</p>
+<p><hi rend="i">Coornh.</hi></p>
+<p>Ja ick.</p>
+<p><hi rend="i">Bas.</hi></p>
+<p>Maer of u die self de sulcx also onderrichte dat ghy't verstondt, 't selfde u alsoo misbruyckt sijnde, doodtlijck te wesen, soudy dan oock droevigh sijn om sulck benemen?</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Gheensins, maer soude sulcke periculose zotheyt selfs wegh werpen, of ten minsten leeren recht ghebruycken.</p>
+<p><hi rend="i">Bas</hi>ius.</p>
+<p>Ghy antwoordt wel, jaeghdy dan int leeren recht of wel ghebruycken groote perijckelen uwes levens, ghy soudet benaerstighen wegh te werpen, dan't rechte ghebruyck met perijckel uwes levens te leeren, bysonder als ghy't sonder ghebreck moght ontberen.</p>
+<p><hi rend="i">Koornh.</hi></p>
+<p>Ghewisselijck.</p>
+<p><hi rend="i">Bas.</hi></p>
+<p>Hebdy u soete Vaderlandt, u ghewonnen rijckdom, eere, ghesontheydt ende Vrienden al recht ghebruyckt.</p>
+<p><hi rend="i">Koornh.</hi></p>
+<p>Ick weets niet.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Ghy sullet haest weten hebdy die dinghen in Gode bezeten en ghebruyckt.</p>
+<p><hi rend="i">Koornh.</hi></p>
+<p>Ick twijfele.</p>
+<p><hi rend="i">Bas.</hi></p>
+<p>Hebdy bezeten en gebruyckt als of ghyse niet en haddet bezeten noch gebruyckt.</p>
+<p><hi rend="i">Koornh.</hi></p>
+<p>Waer dat, so en moghte my nu het ontberen van dien niet bedroeven.</p>
+<p><hi rend="i">Bas.</hi></p>
+<p>Ghy hebtse dan buyten Godt ghehadt, ende beneven, ja boven Gode bemint, uwe Afgoden daer uyt ghemaeckt, en die tot een soet aentreckende fenijn uwer zielen, so misbruyckt dat ghy die gave boven den Schepper aenclevende, die selfde teghen Godes wille gaerne soudt hebben of behouwen, waer't in uwer macht, wat dunckt u conde ghy hier teghens segghen.</p>
+<p><pb ed="fol." n="ccc lxxxjr"/></p>
+<p><hi rend="i">Koornh.</hi></p>
+<p>Ick mach noch en can.</p>
+<p><hi rend="i">Bas.</hi></p>
+<p>O verstondt ghy dat te recht: En bedocht dat wel, hoe swaerlijck het is voor den weeldighen, rijcken, Christum na te volgen, ende langs desen ladder Jacobs met den Enghel ten Hemele te stijghen, ghy soudet Vader ende Moeder, suster end broeder, vriendt, ende maghe, ghelt, Eer, Vaderlandt, ende alles met den Apostelen vrolijc verlaten, om Christum na te volgen, ende met Paulo alle 'tselve voor dreck achten, op dat ghy Christum soudt moghen ghewinnen, nu so neemtet u Godt door quade menschen, om u in zijnen zoone te trecken, ende saligh te maken, mach u oock yet beters gheschieden? Wat oorsaeck is hier van Droefheyt, want ghy verkrijght hier door u opperste goet, 'tschijnt Godt u door dese ballinghschap daer toe te dringhen, wat misschiet u hier aen, of hebdy gheen onderscheyt tusschen 't cleedt ende 't Lichaem?</p>
+<p><hi rend="i">Koornh.</hi></p>
+<p>Ja ick wel.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Welck is beter?</p>
+<p><hi rend="i">Koornh.</hi></p>
+<p>'t Lichaem.</p>
+<p><hi rend="i">Bas.</hi></p>
+<p>Ist Lichaem beter of de ziele?</p>
+<p><hi rend="i">Koornh.</hi></p>
+<p>De ziele.</p>
+<p><hi rend="i">Bas.</hi></p>
+<p>Weet ghy dit, of waent ghy't?</p>
+<p><hi rend="i">Koornh.</hi></p>
+<p>Wie soude dat wanen? ick en weet gheen dinck ghewisser.</p>
+<p><hi rend="i">Bas.</hi></p>
+<p>Of ghy een ghebroken been haddet onder een heele hose, soudy oock droevich sijn om de schade van u hose, of yemandt u hose brekende, u been heelde?</p>
+<p><hi rend="i">Koornh.</hi></p>
+<p>Gheensins.</p>
+<p><hi rend="i">Bas.</hi></p>
+<p>Of u Ziele kranck sijnde, genesen werde, so nochtans, dat het lichaem te voren gesont sijnde, daer door sieck worde, soude voor sulcke genesinge u de ziele oock bedroeven?</p>
+<p><hi rend="i">Koornh.</hi></p>
+<p>Neen bylo, maer verblijden.</p>
+<p><hi rend="i">Bas.</hi></p>
+<p>De zonde en baert niet alleen zieckte, dan den doot der zielen, ist so niet?</p>
+<p><hi rend="i">Coornh.</hi></p>
+<p>Dat seyt de Apostel S. Jacob.</p>
+<p><hi rend="i">Bas.</hi></p>
+<p>Al recht: Eenighe Creaturen te beminnen buyten, teghen, en boven Godt, is immers zonde, ist niet?</p>
+<p><hi rend="i">Koornh.</hi></p>
+<p>Het is Afgoderye, wat vintmen argher zonde.</p>
+<p><hi rend="i">Bas.</hi></p>
+<p>Ghy segt wel, als Godt u dan dese Afgodekens ontrecht, d'oorzake van zonden beneemt, en door't kruys, so het door uwen waen inbeelt, u suyvert ende gheneest vander zonden zieckte, ende van den doot der zielen, gheschiedt u dan yet quaets?</p>
+<p><hi rend="i">Coornh.</hi></p>
+<p>Neen, maer goet.</p>
+<p><hi rend="i">Bas.</hi></p>
+<p>Gheschiedt u dit niet door dese ballinghschap.</p>
+<p><hi rend="i">Koornh.</hi></p>
+<p>'tSchijnt wel so.</p>
+<p><hi rend="i">Bas.</hi></p>
+<p>Hoe mooghdy u dan noch daer in bedroeven, nadien ghy selfs seght dat droefheydt comt door waen of weten, dat ons niet quaets op comt, of yet goets benomen wert, of zydy noch een kindt van honderdt Jaer? Dat ghy inder herten meent, al veynst die tong anders, dat u wat quaets gheschiet, int gheen dat in der waerheyt goedt is voor u, waer't nu so dat dese ghenesinghe gheschiede door krancheyt en gequelle in uwen lichaem, die droefheydt soude noch eenighsins verschoont moghen werden door 'tlichamelijcke ghequelle, namelijck als pijn of weedom, so langhe 't ghequel dat pijn is, in eenigh levendigh lichaem blijft, hoewel hier teghen dient dat pijn en droefheyt een deele van den anderen verscheyden sijn, wel verstaende dat een deughtsaem wel ghemoedt herte in pijne hem oock noch mach verblijden, so men leest vanden Apostel Petro ende Johannem, die blijde waren dat zy om den Name Gods leeden, maer nu gheschiet dese ghenesinghe der zielen, soo zoetelijck dat het lichaem daer van gantsch niet en heeft te lijden, want dat ghy uyt u Vaderlandt sijt, en quetst u lichaem niet, dese aerde draeght u hier soo wel als de Hollandtsche aerde, en can u so wel tot een graf dienen als de Hollandtsche, soo groote ruymte gheeft dese Lucht tot asemen ende plaetse des lichaems als in Hollandt, want die selfde zonne die daer schijnt en warmt, beschijnt en warmt dese aerde oock, immers dese aerde onderhoudt u noch so wel so dat u noch niet en verlangt na 't rechte Vaderlant  aengaende 'tghewinne, maeckte ghy u selfs daer noodtlijck en behoeftigh door den hovaerdighen, weeldighen ende brootdroncken huyshoudingh, meer heerlijck als burgherlijck int wesen, so dat ghy nootlijck gedronghen most wesen, tot verlatinghe van dien pracht, door welcken ghy, en alsulcke, Christum in sijn arme Ledekens vergheten hebt, die daer hongher, dorst en koude ware lijdende, of den even Naesten 't zijne te ontguychelen door arghlisticheyt, wat schade ist u dat ghy alsulcken overdaet, onbarmhertigheyt ende bedrogh verlaet ende verliest, daerteghens wint ghy groote nutbarighe ende eerlijcke saecken, als teer na eer te stellen, mindering van staet, en minderingh van bedrogh, minderingh van hovaerdye, pompe, en Godlosigheyt, daer teghen meerderinghe van miltheyt, teghen den armen, uyt ondervindtlijcke medoghen, met uytdeelinghe des wedukens pennincxken, meerdering van betrouwen op Gode, dat hy ons sijn Dienaren blijvende, wel sal met sijnen milden zeghen besprenghen, tot meerderingh van begeerte, om met verlies van alles, en oock van ons selven Christum Jesum te winnen: Leeren wy dan alsoo om sijnen wille der menschen vriendtschap after rugghe te stellen, ende den Heylighen wille sijns Hemelschen Vaders <pb ed="fol." n="ccc lxxxjv"/> te doen: soo sijn wy moeders broeders ende susters Christi, wat verlies van vrienden mach ons schaden, als wy dese Godtlijcke maeghschap gewinne, den Zoone Gods tot eenen vriendt ende lieven broeder verkrijgen, hier benevens, so blijft een ghetrou vriendt, inder noodt die den waeren vriendt proeft, ende den valschen verdrijft, ende den oprechten meer ende meer verkoppelt, want gheen veerheydt van plaets de ware vriendtschap mach scheyden, die dan also een broeder Christi, ende Kint Godes is, en mach sijnen liefhebbenden Vader, noch die ware beloften sijns heerlijcken broeders Christi Jesu niet mistrouwen, noch voor ghebreck vreesen, maer soeckende voor al het rijcke Gods ende sijn gerechtigheyt, wetende dat het toewerpsel hem niet en sal ontblijven, dat sijnder meer sorghe wert ghedraghen, dan die zinghende Vogelkens, ende dat sijnen Hemelschen Vader hem beschermt als den appel sijnder ooghen, wat gebreck mach dese beduchten, also gaetet met die verachtinghe, zieckte, ende sterven, onder den vreemden, want wat quetst der quader verachtinghe den vromen die by Gode in eeren is, bemint, ende gepresen is, wat schaedt die zieckte onder den vreemden, alsmen verselschapt is met den waerachtighen medecijn der zielen, of wat swarigheydt ist sterven onder de vreemde menschen, alsmen onsen Hemelschen broeder Christum Jesum in der herten hebben, en salighlijck sterft inden Heere, behoeft alsulcken oock menschen hulp, menschen  troost, ofte menschen bystandt, die van Godt den Vader, ende van Godt den Zoon met hem inwoonende door God den Heylighen Geest gheholpen, ghetroost ende by gestaen wert? Nu al waert ghy al schoon in u Vaderlandt blijvende, niet verseeckert dat teghenspoet u over-comen soude hebben, u ghewinnen in verlies, u vrienden in vyanden, u weelde in ghebreck, u eere in schande, u ghesontheyt in zieckte, en dat onder u gheworden vyanden, die u met ghewelt eenen hatelijcken bitteren doot moghten aenghedaen hebben, die zydy immers ontkomen: Wat schade is hier in gheleghen, dewijlt de mensch al dat hy heeft gaerne derft, om sijn huyt heel te behouwen, wat mooghdy grooter ghewin rekenen? bedenckt eens hoe menigh vroom Mensch in haer Vaderlandt in benaude periculose ghevanckenisse zittende, niet anders alle daghen verwachten dan menighvuldighe groote pijne, om van henluyden, te weten: 'tgheen haer moghelijck onbekent is, so dat zy den doodt selve als een eynde ende verlossinghe van die onsichlijcke Martelerye wenschende sijn, meendy dan niet dat sulcke dan gaerne alle dat zy ter werelt hebben verliesen souden willen? Om naeckt en bloot onder de vreemde dese vrye, open ende ruyme lucht eens te moghen ghenieten, wat isser doch aengenamer, liever, en begheerlijcker dan de gouden vryheyt. O soete vryheyt! u vrolijcke en onuytsprekelijcke waerde en kent niemandt recht, dan die u quijt geweest sijn, in de banden des doots hartelijck begheerende en wenschende na u ghesicht ghehoopt en verlangt hebben: want ghy sijt als die ghesontheyt veele een onbekende rijckdom.</p>
+<p>Siet Coornhert dese Edele en dierbare schat hebdy ghewonnen, door't verlies van een cleyne armoede  wat schade lijt ghy doch in dese wisselinghe  immers ghy en hebt niet altoos verlooren: want het aerdrijck met al datter in is behoort den Heere toe, ende niet u. Of waendy dat ghy hier ter werelt eenighe eyghendom hebt?</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Neen ick seker: Dat zietmen int overlijden best alsment hier al moet laten.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Dats recht, wat souden wy yet eyghens hebben, die ons selfs niet en hebben, maer des Heeren eyghendom sijn, weet ghy dan dat ghy niet eygens en hebt in der waerheyt? So weet ghy ooc wel dat ghy niet en moogt verliesen, so dat u gheen schade mach op-comen, noch dat u gheen onghelijck en mach gheschieden int beroven van alles, soo en mooght ghy voorwaer oock niet droevigh sijn, ghemerckt ghy verstaet, dat u int verlies van alles gheen quaet en gheschiet.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Dit alles moet ick wel mede bekennen, maer 't gheen my meest bedroeft en hebdy noch niet eens gheroert, dat is den lust, het gheluck, de macht en tyrannye der bosen over der ellendigher jammer der vrome onschuldighe menschen.</p>
+<p><hi rend="i">Basius</hi>.</p>
+<p>Dat schijnt sonder twijffel het swaerste: want men ziet oock inde Heylighe Schrifture dat veel Gods Heylighen sich haer bekommert hebben over 't moetwilligh gheluck der boosen, maer meent ghy oock dat sulcx gheschiet by gevalle, ende buyten d'ordeninghe Godes?</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Gheensins: want sonder dien oock niet een bladeken van boven neder en valt.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Dats recht: geschiedt dan sulcx door de Goddelijcke schickinghe, so isser oock yet waerom God sulcx verhenght dat de quade den goeden verdrucken ende vernielen. Ist niet also?</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>'tIs also.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Tot wat eynde acht ghy dan sulcx te gheschieden?</p>
+<p><hi rend="i">Coornhert</hi>.</p>
+<p>Ick soudet onder ander om driederley oorsaken achten te gheschieden, te weten: Tot een straffinge over der Christenen zonde, en tot een tuyghenisse des toekomende Doemsdagh ofte laetste Oordeel, ende tot een oeffeninghe en proeve van den gheloovighen.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Dat en is niet onbehoorlijck gheantwoort want sonder twijffel die werelt in weelden Gode vergeten, en worden als een schellighe of hollende guyle volloopt, den breeden wech der zonden ter verdoemenisse, die soude den liefhebbenden God gaerne voorcomen met kruys en lijden, waer mede hy niet anders dan met doornen onse verkeerde weghen betuynt, op dat wy ons eens bedarende bedencken souden, om also ons van de boelen by den welcken wy ghebreck lijden weder te keeren <pb ed="fol." n="ccc lxxxiijr"/> tot onsen eersten Man, daer wy oly, wijn, ende wolle overvloedigh hadden: so bethoont God met alsulcke castijdinghe of straffe dat hy ons lief heeft. Ist niet also?</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Ghewisselijck het staet also oock van God gheschreven: Dien ick lief hebbe castijde ick.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>'tIs waer, mach oock yemandt niet gheheel zot sijnde, hem laten beduncken quaedt voor hem te sijn dat hy van een Coninck bemint wert.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Dit waer elck mans wenschen, wie soude hem dat quaet wanen?</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Soo moet elck oock wel voor hem selven goet houden te sijn, dat hy bemint wert van alder Coninghen Koning, de eenighe eeuwighe Godt des Hemels.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>'tIs so.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Nadien dan die straffinghe Godes sijn salighmakende liefde te onswaert ontwijffelijc wert bemeckt, so moet elck Christen dat verstant hebbende, hem immers in lijden verblijden, dat is verde van bedroeven, ende dat wast dat ick voor ghenomen hadde u te bewijsen, of condy hier yet teghen seggen?</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Ick en vermach niet teghen de waerheyt, diens eere ende niet de mijne ick in dit spreken soeck.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Dat is met allen wel ende behoorlijck, maer segt my doch voort: wat acht ghy voor den mensch in dit jammerdal wel den meesten troost.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Mijn bedunckt 'tselve soo qualijck niet beantwoort te sijn by eenighe inde gantsche batementspeelen, segghende 'tselve te wesen die verrijsenisse des vleesch.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Ghy segt recht, en wert by den Apostel 't selve oock ghenoeghsaem uyt-ghedruckt, daer hy seydt: Heb ick dan menschelijcke wijse te spreken, tot Ephesen met beesten ghestreden, wat sal 't mijn nut sijn, indien de doden niet en verrijsen, het moet ons dan al lief soet ende goet sijn, al wat ons tot verseeckeringhe van desen salighen troost dienstelijck is.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Alsoo.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Gelooft ghy dat God rechtvaerdigh is?</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Soude ick daer aen twijffelen.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Gelooft ghy dan Godt gheen boosheydt der Godloosen en sal ongestraft laten.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Vastelijck.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Sietmen hier ter werelt niet wel Godlose Tirannen geluckelijck leven ende sterven?</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Dickmael.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Haer boosheyt blijft hier inder tijt ongestraft.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Sy blijft hier onghestraft.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>So moet zy ghewisselijck namaels ghestraft werden, nadien ghy ghelooft dat de rechtvaerdighe Godt gheen boosheydt der Godloosen onghestraft en sal laten.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>'tIs waerachtigh.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Soo moeter noch namaels een ander oordeel ende straffe verwacht werden dan hier inder tijt gheschiet.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Het moet.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Maer indien de ziele met den lichame der menschen hier te samen sterven, soo moghten zy niet namaels verrijsen, ten oordeel komen ende haer straffinge ontfangen.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Gheensins.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>So volght noodtlijck dat de boosen hier na verrijsen, ende ten oordeel comen sullen, om met afwissinghe van tranen haerder ooghen die barmhertighe Rechtvaerdigheydt Gods ghenieten, te hooren dat soete laetste woort: Comt ghy ghebenedijde in dat Rijck mijns Vaders, dat u van aenbeginne bereyt is.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Het is waerachtigh.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Soo en mach oock der Godloosen lust, voorspoet ende moetwil den Christen mensch gheensins ghedyen tot droefheyt, maer wel tot blijschap, als die daer by wert aenghewesen tot de salighe verrijsenisse der ghener die inden Heere sterven, mitsgaders die onsalige wachtinghe der Godlosen, die int eeuwighe vyer sullen gaen, indien zy haer niet en bekeeren tot den Heere, wat machmen henluyden, alsmen de onchristelijcke wraeck-gierigheyt willen laten wercken, doch ellendigers grouwelijckers ende afgrijselijckers toe wenschen dan zy met haer Godlose Tirannye voor hen selfs benaerstighen.</p>
+<p>Laet ons nu comen aen de proeve des geloofs, 'twelck ghy die berde oorsake vande Godsalighe vervolging noemde, seght my doch: wat hout ghy doch voor 't meeste quaet der menschen?</p>
+<p><hi rend="i">Koornh.</hi></p>
+<p>Hem selven noch Gode te kennen.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Soo houdt ghy oock wel voor 't meeste goet, dat hy ware kennisse hebbe van Godt ende van hem selven.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Ja ick.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Het en mach oock niet quaet sijn voor den mensche, dat hem sonderling vorderlijck is tot dese salighe kennisse, macht oock?</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>In gheender wijsen, maer is die mensche boven al nut, nootlijck en goet.</p>
+<p><pb ed="fol." n="ccc lxxxiijv"/></p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Can de mensch oock yet weten die niet en versoeckt?</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Neen seyt de Wijse man, daer by vervolghende, die veel versoeckt moet veel lijden.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Dat is waer, so langhe het den mensche dan wel gaet, mach hy van lesen en hooren prediken wel ghelooven, en weten te klappen dat de mensch ydel, broos ende kranck is, en gantsch niet van selfs en vermach: soo nochtans dat hy sich daer benevens in der herten laet beduncken met Petro, dat hy met Christo wel inden doot wilde gaen, ende hem selven in sulck sijn vermetel goedt-duncken wel behaghe, of houdy't anders?</p>
+<p><hi rend="i">Coornh/</hi></p>
+<p>Neen ick seecker.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Maer als hem eenighe teghenspoedt opcomt, wert hy veroorsaeckt sijn lesse op te segghen, in de hant te spouwen, de roemclap int werck te brenghen, ende te toonen wat hy inder daet vermach, daer bevindt hy eerst te recht sijn wijsheyt, zotheydt, ende sijn kracht kranckheyt, daer verandert sijn roem in schande, ende sijn stoutheydt in vreese, ende daer bekent hy hemselven vol anghst ende noodt, troosteloos ende ellendigh van hem selven, en alle creatueren verlaten: Dese ware kennisse sijns selfs ydelheydt, snootheyt, ende ellendt, gheen toevlucht meer tot den Mensche, 'thooft op-beurt, en de ooghen opent tot het alghemeyne Licht der ghenaden Christi Jesu, dan soeckt dese verlaten bedroefde troosteloose ziele, hulpe, troost, ende raedt aen desen eenighen en waerachtighen salighmaker des wereldts, dien Harder volght hy dan na waer hy gaet, en comt, ghedraghen sijnde op sijn schouderen in de rechte Schaeps-koye, hoort, kent , ende volght deses Harders stemme, bevindt dadelijck tot ghenesinghe, ende salighmaeckinghe sijnder zielen, die getrouheyt van desen waren Herder, die sijn leven voor sijn Schapen laet, ende die liefde Godes hier in levendigh met der herten begrijpen leert, also inden Zone sijnen liefhebbenden Vader kennen, in welcke kennisse het eeuwighe leven wert ghevonden, wat dunckt u nu, macht ons oock quaedt sijn, dat ons brengt tot het alderhooghste goet?</p>
+<p><hi rend="i">Coornh.</hi></p>
+<p>Bylo neen.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Is ons de proeve onses ghelooves dienstelijck? ja noodtlijck, tot verkrijginge van ons alderbeste goet, so en mach 'tselve den mensche die sulcx verstaet, immers gheensins oorsaeck wesen van droefheyt, maer wel ter contrarie van blijdtschappe, so ick voor gheseyt hebbe.</p>
+<p><hi rend="i">Coornh.</hi></p>
+<p>Ick en machs niet wederspreken.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>De Apostel S. Jacob seyt daerom oock: Wel Broeders, willet voor de meeste blijdtschappe (dats noch wat meer dan blyschap) achten als ghy in menigherley aenvechtinghe valt, wetende dat de beproevinghe uwes gheloofs gheduldigheyt baert (alle lijden en is niet heyligh, noch alle lijden en baert geen gheduldigheyt) maer het gheloovigh lijden, dat is het lijden der gheloovighen, want dese verstaen dat zy hier op aerden ghestelt sijn, niet om in rooskens te waden, en hier altijdt in weelden te leven of te woonen, maer om door lijden en strijden ten Hemel te comen, sy weten dat haer Heer en Meester heeft willen lijden, den Cruys-wegh te treden, ende daer door in sijn glorie te gaen, zy weten dat de Discipel niet beter en is dan sijnen Meester, zy weten dat hy onschuldigh heeft gheleden (voor onse schulden) zy weten dat henluyden so veel lijden niet en mach over-komen als zy verschuldt hebben teghen de Godlijcke Majesteyt, wat swarigheyt ist ons, die weten dat Christum den zoon des alderhooghsten tot ons, om ons saligh te maken ghekomen is, ende wy die hem selfs voortijdts mede in ons ghecruyst en met voeten ghetreden hebben (Godt gheve dat wy't noch niet en doen) voor't wel verschulden, al draghen wy hier een cleyne straffe (aldus langhe heeft de ghenadighe God veel van onsluyden op den waghen van weelden ghemackelijck den wegh onses levens ghevoert, als andere te voet ginghen: Wat onghelijck gheschiet onsluyden, nu Godt ons van dien waghen te voet stelt, ende andere vermoeyde wat ghemacks doet ghenieten, waer't niet ondanckbaerheydt op den dragher verstoort te werden die eenen tot Romen ghedraghen hadde: ons dan eens onsacht neder zette) waerom vergheten wy die voorleden weldaden Gods? Waerom veronwaerdighen wy ons over sijn teghenwoordighe weldaden? waerom weygheren wy sijne salighmakende aengheboden ghenade? wy willen wel met Christo verblijden, maer niet met hem lijden. Wy souden gaerne met Lucifer in Godts plaets stijghen, selfs de Werelt, ja Godt regheeren. Wy hadden gaerne Godt na onsen kop ende sin, wy willen sijn ghebodt en bevelen niet volghen, soo verde scheelet dat wy sijn lieffelijcke roede ootmoedelijck souden kussen, maer dat wy veel meer pijnen die self de hals-starckigh te breecken en te ontvlieden, maer ist dat der Coningen handen wijt uyt-reycken, des Almoghenden strecken sich al wijder uyt, die en mach niemant ontloopen, ist niet so? Elck een van onser ondersoecke sijnen grondt, hy sal 't waerachtelijck bevinden in sich zelven, dat wy al te samen wel wilden dat Godt die roede van ons name. Wat is dit anders gheseyt dan Heere weest om mijnen wille niet meer rechtvaerdigh, of straft my hier niet in der tijt, maer namaels eeuwigh tot mijn verdoemenisse. Wie can dit lochenen? Wie mach't ontkennen? Ja wie mach dit wederspreken, of't is also, wie sou niet gruwelen en vreesen oock, verrijsen voor sulcke Godtloose ghedachten, wy sijn de straffe hatigh, en beminnen de zonde, wy haten die gherechtigheyt Godts, ende wy leven onse eyghen gherechtigheyt, boosheydt, ja Goddeloosigheyt, ende menighvuldighe overtredinghe, sijn dat niet sijne tekenen van Christenen, ist dat wy de straffe vresen, waerom laten wy de zonde niet? Waren wy de zonden so vyandt als de straffe, de roede soude haest int vyer gheleyt worden, maer wy maken noch daghelijcks verbondt metter zonde, Doodt, ende Helle, en haten den straffer, oock straf en roede. Wy slachten den Hondt, die den geworpen steen bijt, by ghebreke den werper <pb ed="fol." n="ccc lxxxivr"/> niet te konnen bekomen, wat doet onse Godloose en gantsch onchristelijcke wraeck-gierigheyt teghens de vervolghers der onnosele, wy wenschen den selfden gheen beter verstant, wille, ende harte, maer niet dan bast, vyer, en swaert, ja eeuwighe verdoemenisse: wat hoortmen anders uyt onse wraeckgierighe monden comen dan verghelden, met dobbelde mate in te meeten, schand-naem, laster-woorden, vloecken, schelden, ende verdoemen, voeght dit wel in der Christenen ghedachten, schickt sich dit inder Christenen harten, ziele, en ghemoeden, wat ghemeenschap heeft dese verwoetheydt met de sachtmoedigheyt des Lams, dat voor de scheerder sijnen mondt niet eens en opent, moghten zy den werper deser steenen, ende den ghebruycker deser roeden bekomen, wat meendy souden sulcke rasende honden ende verachters sijnder castijdinghe teghen ghebenedijt bestaen, maer hy is haer te hooghe ghezeten, doch so decktmen dese wraeckgierigheyt, onder den mantel van mededoghentheydt der arme vervolghende ghemarterde Menschen, maer ick wilde sodanighe medelijders haers even naesten wel eens vraghen of zy haren Naesten liever hebben als haer selven? Of zy so volmaeckt sijn, wat ghelt het, zy sullen moeten bekennen Neen. Wel aen, ick wil voort vraghen: of de doot der zielen niet schadelijcker en beclaeghlijcker is dan des lichaems doot? Sy sullen, ja moeten segghen, of de zonde die ziele niet en doodet, zy moeten bekennen, of zy hare zonden als moorders haerder eyghen zielen, oock half so haetelijck en vyandt sijn als de vervolghers haers even Naesten? Ick meene niet dat zy sullen, ja dorven segghen: (want waen dat) zy souden met naersticheyt meer teghen haer zonden strijden, ende min zonde doen, en dienen, nademael zyluyden die vyandtlijcke moorders haerder eyghen zielen veel min haten, dan die vervolghers van haeren Naesten goet en bloet, die al veel min schadelijck sijn dan die zonde, so volght dat zy so volmaeckt sijn, dat zy haeren Naesten al verde boven haer selven beminnen, of dat den yver over haer Naesten lijden, niet en is dan een verwe op de schandt-vlecken, van sulcke onschriftelijcke wraeckgierigheyt, daerom laet eens af (O onwijse menschen) zottelijck te ontbarmen over uwes naesten lijden, dat haer (soo voor gehoort is) in alles ten goeden dient ende ontfarmt u wijslijck met ernst over u arme zielen, die bevleckt werde met moetwillighe boosheyt, ende in perijckel vanden eeuwighe doot staen: Hoe condt ghy uwes Naesten ofte 'tghemeene welvaren doch eenighsins beminnen, die u eyghen welvaren door liefde der zonden blijft hatende, noemdy u een Christen, leeft Christelijck ende lijt gheduldigh dat de lieve Godt u ten besten op-leyt, zijdy gheen Christen, waerom wildy't schijnen, waerom toondy met u wraeckgiericheyt dat ghy niet Christelijck, dats onschuldich, maer onchristelijck, om uwe boosheyt vervolght wert. Het is waer de quade menschen hebben wel wille en voornemen om den goeden te beschuldighen, maer die macht ontbreeckt hem, ende sal haer altijt ghebreken, want de almoghende Godt is der goeder beschermer, en can haer lijden in vreugt, haer weenen in lachen, en het quade int goede verkeeren, dat sachmen claerlijck in den Joseph, wiens broeders hem moordelijck haten, ende daer na den treurighen kercker, door de Godtlijcke schickinghe, ende liefde ghebruyckt werdt tot behoudenisse van sijn leven ende kuysheyt, ende tot welvaert van Jacob sijnen Vader met al sijn familie, dese selve konste en is Godt noch niet vergheten die treckt door dese ballingschap, ons harten betrouwen van de ontrouwe rijckdommen, tot sijn goetheyt, ende ons trecken uyt den lande, maeckt ons veyligh voor die sorghlijcke aenvechtinghe der liefde vanden mammon, dat wy den Godt des Hemels niet en versaecken, lasteren ende verlaten, is dat niet een wenschelijcke ende Godtsalighe wissel, ende groote veyligheyt, desen liefhebbenden goeden God suyvert onse herten door tegenspoet, van die God vergeten, weelde door de benautheydt van herten werden wy ghesuyvert van hoerderye, door vernederingh, gevrijt van hovaerdigheydt, ende door't bevinden van ontrou, van ghelt, van gunst, van tafel-vrienden, met diergelijcke afgodekens, 't welck al gruwelijcke afgoderye is, het Cruys drijft ons tot Gode, doet uyter herten gheloovigh bidden, ende met een vrolijcke danckbaerheyt verkrijghen al dat wy begeeren. Wat machmen doch wenschelijckers bedencken, men vindt immers gheen beter noch saligher goet, dan met verlies van zonden deughden te gewinnen. Dit is het waerachtigh ghevolgh vander gheloovighen lijden, strijden, ende aenvechtinghe, want de aenvechtinghe baert ghedult, ghedult baert beproevinghe, beproevinghe baert hope, dese salighe hope en laet ons niet beschaemt worden, want zy voertet werck uyt met eeren, tot prijs vanden alderhooghsten, dien geeft, sodanighe lijders en strijders, door de instortinghe der Godlijcker liefden, tegen zonde, Doot, Duyvel, en Helle, maeckt onverwinlijcke Helden en victorie, victoriose campers, also strijden zy wettelijck eenen goeden strijt, behouden 't veldt, verkrijghen den zeghen, in den ghenen die 't alles in henluyden vermach, namelijck, Christus den strijdtbaren David, een verwinnende Helt, verwachten also met verlanghen de Croon der Eeren. Wat seghdy hier van Coornhert, nadien in desen ballinghschap dit veylighe vertreck, dit nutte betrouwen op Gode, dit saligh hebben der deughden, daer dese loffelijcke verwinninghe in is gheleghen, waendy oock noch datse so vele groote nutte en menschelijcke goeden met haer brenghen, of dit oock eenighsins oorsaeck van Droefheydt mach gheven, die sulcx in der waerheydt recht verstaet.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Neen ick seker.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Soo gheloofdy oock dat sulck een hem in dit lijden mach verblijden.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Alhoewel ick eerst onmoghelijck waende, gheloove icx nu niet alleen moghelijck, maer oock licht te wesen, voor den ghenen sulcks recht verstaen, want het berooft ons niet van 'tgoede, noch en brengt ons niet quaets toe, maer ter contrarie bevrijt den gheloovighen van 't quade, ende baert hem vele van <pb ed="fol." n="ccc lxxxivv"/> d'alderbeste waerachtighe goeden, ende vereert ons met de Heerlijcke ende Conincklijcke Livreye onses Meesters Jesu Christi, te weten: Niet alleen die onschuldigh, maer oock om weldoen lijden.</p>
+<p><hi rend="i">Basius.</hi></p>
+<p>Also antwoordende: bewijst ghy mijn meninghe te recht verstaen te hebben, daeromme op dat wy eens eynden, deur dien den avondt komt, nademael door de Ballinghschap ons niet alleen inder zielen, maer oock inden lichame niet quaedts op en comt, als ghebreck van voetsel en decksel, noch quetsing, noch zieckte, nochte doodt: Maer ter contrarie het lichaem ghedwonghen werdt tot soberheyt, daer door dickmaels ghevrijt sijnde van veel kranckheyden, ende door de vlucht den doodt der Tyrannen ontgaet, en al waert schoon dat onse lichamen daer deur moghten arm werden, ende onse Zielen in Deughden daer teghen rijck werden, soo wy dese Ballingschap recht ghebruyckende van Gods handt ontfanghen alles ten besten ons op gheleyt, soo het oock in der waerheydt is, en hebben wy gantsch gheen oorsaeck om te treuren ofte klaghen, maer wel om Gode met vreughden te dancken, ende om sijn goedertierenheyt met een vast betrouwen te bidden, dat hy onse herten met sijnen Heylighen Geest verlichte en verstaele, dat wy dit lijden (weder wy willen ofte niet) willigh, gheduldigh ende vrolijck lijden tot sijnder Eeren en onser saligheydt.</p>
+<p><hi rend="i">Coornhert.</hi></p>
+<p>Amen. Dat gunne ons de lieve Godt die sal't oock onghetwijffelt gunnen ende geven allen den ghenen die sulcks in den gheest ende waerheyt, uyter herten gheloovigh aen den Vader des Lichts, van wien alle goede gaven comen, inden Name sijns Zoons, met vast betrouwen op sijn beloften bidden ende begheeren. Amen.</p>
+</div>
+</body>
+</text>
+</TEI.2>

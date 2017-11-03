@@ -1,0 +1,1287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "http://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Schijndeugd der secten</title>
+                <title type="subordinate"></title>
+                <author>D.V. Coornhert</author>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Schijndeugd der secten</hi> van D.V. Coornhert in een uitgave uit 1630. De eerste druk dateert van 1575.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr>fol. ccc xlir: getraslateert → getranslateert: ‘onlancx inden Heere gestorven, ende uyt Overlandsche Sprake getranslateert door’.</corr>
+                        <corr>fol. ccc xliiv: Oereformeerde → Gereformeerde: ‘Gereformeerde. Daer meuchdy niet sien vrient’.</corr>
+                        <corr>fol. ccc xliiv: nat → dat: ‘een ander mede Afgodeerde? wat verschoont dat u Afgodeerde’.</corr>
+                        <corr>fol. ccc xliiv: Lntersche → Lutersche: ‘Fol. 11. 2. Lutersche sacrametschenders’.</corr>
+                        <corr>fol. ccc xliiv: Sorns → Soons: ‘Dese substantie is inden Name des Vaders, des Soons’.</corr>
+                        <corr>fol. ccc xliiir: ghx → ghy: ‘Want ghy Gereformeerde ende Lutersche te samen’.</corr>
+                        <corr>fol. ccc xliiir: wedergeboortt → wedergeboorte: ‘van alle kinderkens niemant uytgenomen, de wedergeboorte gheschiedt’.</corr>
+                        <corr>fol. ccc xliiir: Linderdoop → Kinderdoop: ‘Ende bedrijft ghy midts dien beyde ghelijcke groote Afgoderye in u Kinderdoop’.</corr>
+                        <corr>fol. ccc xliiiv: Cooruhert → Coornhert: ‘heeft van u luyder Leere geschreven eenen D. V. Coornhert’.</corr>
+                        <corr>fol. ccc xliiiv: das → dat: ‘Soudet ghy wel soo onschamel zijn, dat ghy soude derren loochenen’.</corr>
+                        <corr>fol. ccc xliiiv: gefeerde → geleerde: ‘ende is ooc so klaer bewesen by vele geleerde mannen’.</corr>
+                        <corr>fol. ccc xliiiir: Een deel van de tekst is moeilijk leesbaar. Dat is hier tussen vierkante haken aangegeven: ‘Inst. x. [...]’.</corr>
+                        <corr>fol. ccc xliiiiv: duuckt → dunckt: ‘My dunckt ghy arbeyt om de Roomsche Kercke voor te stane’.</corr>
+                        <corr>fol. ccc xlvr: eenvnldigher → eenvuldigher: ‘als ghyluyden nu schijnt, ja noch al wat eenvuldigher’.</corr>
+                        <corr>fol. ccc xlvr: plattse → plaetse: ‘een ander moeste ghekooren werden inde plaetse van Judas’.</corr>
+                        <corr>fol. ccc xlvr: Jik → Ik: ‘Ik wilt gaerne hooren’.</corr>
+                        <corr>fol. ccc xlvv: Swinghselsche → Swinghelsche: ‘Ja de ghehele Swinghelsche Kercke hout selve opentlijck’.</corr>
+                        <corr>fol. ccc xlvir: inhonden → inhouden, doendrrs → doenders: ‘Wets inhouden soo volbrenghen dat sy derhalven als doenders des Wets’.</corr>
+                        <corr>fol. ccc xlvir: Calviuum → Calvinum: ‘dien grooten ende hoochgheleerden heylighen Vader Calvinum.’.</corr>
+                        <corr>fol. ccc xlviv: eerliick → eerlijck: ‘Dat soude by rechtverstandigen my wel soo eerlijck zijn’.</corr>
+                        <corr>fol. ccc xlviir: sonden → souden: ‘Wieroecx-vat een graenken Wieroocx geleyt souden hebben’.</corr>
+                        <corr>fol. ccc xlviir: worden → woorden: ‘ende uyt eenighe woorden Pauli’.</corr>
+                        <corr>fol. ccc xlviir: meu → men: ‘ende met so eygen woorden als men wel leest’.</corr>
+                        <corr>fol. ccc xlviir: hebbrn → hebben: ‘maer eerst voorsichtelijck geproeft hebben gehadt’.</corr>
+                        <corr>fol. ccc xlviiv: Christns → Christus: ‘heb ick nergens gelesen, Christus ende zijne Apostelen’.</corr>
+                        <corr>fol. ccc xlviiir: veranderingse → veranderinghe: ‘en verstaet niet dat sulcke langhe ghepropheteerde met de veranderinghe’.</corr>
+                        <corr>fol. ccc xlviiir: naecktelejck → naecktelijck: ‘schrijft wel naecktelijck dat die mensche de Ceremonien’.</corr>
+                        <corr>fol. ccc xlviiir, ccc lviiiv: Een deel van de tekst is in het origineel twee keer afgedrukt. Dat is hier verbeterd.</corr>
+                        <corr>fol. ccc xlviiiv: hoochwichtinghe → hoochwichtighe: ‘stille stonden in dese hoochwichtighe sake’.</corr>
+                        <corr>fol. ccc xlviiiv: Kechts → Rechts: ‘Daer ist: Ick salt lesen: Rechts of die uyterlijcke’.</corr>
+                        <corr>fol. ccc lr: hose → hofe: ‘of wildy datmen het gat inde hofe vlijtelijck toe naye’.</corr>
+                        <corr>fol. ccc lr: concrarie → contrarie: ‘Ghylieden leert ende doet rechts contrarie reynigende het uytwendighe’.</corr>
+                        <corr>fol. ccc lv: Bescijilderde → Beschilderde: ‘dat deden oock Meesterlijck die Beschilderde Graven’.</corr>
+                        <corr>fol. ccc liiiir: Schiftueren → Schriftueren: ‘Hoe sal dese uyter Schriftueren Kruythof een Kruydeken mogen plucken’.</corr>
+                        <corr>fol. ccc liiiir: nn → nu: ‘Dat ick nu doe in mijne state’.</corr>
+                        <corr>fol. ccc lvr: Disputeerdemen → Disputeerde men: ‘koomt int Licht, al en Disputeerde men niet altoos’.</corr>
+                        <corr>fol. ccc lvv: onherhoudt → onderhoudt: ‘Ooc datmen sonder onderhoudt van Ceremonien ende sonder stemmelijcke Predicatien’.</corr>
+                        <corr>fol. ccc lvv: onthonden → onthouden: ‘Ghy hebbet recht onthouden, verhaeldt, ende verstaen’.</corr>
+                        <corr>fol. ccc lvv: eude → ende: ‘Gode geve u, my, ende allen goethertigen’.</corr>
+                        <corr>fol. ccc lvv: vernient → vernieut: ‘bekent te zijn een geestelijck vernieut’.</corr>
+                        <corr>fol. ccc lvv: d'nnsienlijcke → d'onsienlijcke: ‘het teycken soude mogen hebben, met d'onsienlijcke genade’.</corr>
+                        <corr>fol. ccc lvv: d'uyteclijcke → d'uyterlijcke: ‘de vrome Heydenen ende Ioden, die d'uyterlijcke Kerck-oeffening’.</corr>
+                        <corr>fol. ccc lvv: norh → noch: ‘die vrucht behout, breeckt noch veracht die teyckenen’.</corr>
+                        <corr>fol. ccc lvv: volvolmaecktelijck → volmaecktelijk: ‘niet behoeft om volmaecktelijck God te dienen’.</corr>
+                        <corr>fol. ccc lvv: behanghende → behaeghende: ‘de welcke by offerhanden (ende Godt meest behaeghende) bermhertigheyt’.</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan section="1" type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+                <scan type="fol2">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page>ccc xliv</empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">coor001schi02_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2013 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note></note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Universiteitsbibliotheek Amsterdam, signatuur: Cat. Ned. Lett. UBA 195</idno>
+                </bibl>
+                <p>D.V. Coornhert, <hi rend="i">Schijndeugd der secten</hi>. Jacob Aertsz Colom, Amsterdam 1630 (uitgave)</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Schijndeugd der secten</title>
+                <title type="subordinate"></title>
+                <author>D.V. Coornhert</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Schijndeugd der secten</title>
+                <title type="subordinate"></title>
+                <author>D.V. Coornhert</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2013-04-15</date>
+                <respStmt>
+                    <name type="person">RK</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+    <interpGrp><interp type="secundair" value="calv003"/></interpGrp>
+    <body>
+
+<cf><div type="chapter">
+    <pb ed="fol." n="ccc xlir"/>
+    <p>Schyn-Deught</p>
+    <p><hi rend="i">Der Secten met hare vervverde tvvistigheden om de Ceremonien ende anders: In acht Gespraken naectelijck ontdeckt, door een Liefhebber der Waerheyt onlancx inden Heere gestorven, ende uyt Overlandsche Sprake getranslateert door</hi></p>
+<p><hi rend="i">D.V. COORNHERT</hi></p>
+    <p>&nbsp;</p>
+    <p><hi rend="i">Ierem. 7. 21.</hi></p>
+<p><hi rend="i">En verlaet u niet op de loghenen, wanneer sy seggen: Hier is de Tempel des Heeren, hier is de Tempel des Heeren, hier is de Tempel des Heeren, maer betert u leven ende voornemen.</hi></p>
+    <p>&nbsp;</p>
+    <p><hi rend="i">Matth. 24. 13.</hi></p>
+<p><hi rend="i">Soo dan yemant tot u seyt: Siet hier is Christus of daer willet niet ghelooven.</hi></p>
+    <p><figure>
+        <p><xptr to="coor001schi02ill0001.gif"/></p>
+        <figDesc><hi rend="i">Ende de Heere tooch voor hen des daechs in een wolck Calomme. Ende des nachts in een Vurige Calomme. Exod. 14.</hi></figDesc></figure></p>
+    <p>&nbsp;</p>
+<p><hi rend="i">T'AMSTELDAM,</hi></p>
+<p>&nbsp;</p>
+<p><hi rend="i">By <hi rend="sc">Iacob Aertsz. Colom</hi>, Boeck-verkooper op't Water, in de Vyerighe Colom, 1630.</hi></p>
+</div></cf>
+<div type="chapter">
+    <interpGrp><interp type="secundair" value="simo021"/></interpGrp>   
+<pb ed="fol." n="ccc xliir"/>
+<head><hi rend="i">Verklaringe der Disputeerders in dit Boeck.</hi></head>
+    <table>
+        <row><cell/><cell><hi rend="i">Gereformeerde,</hi></cell><cell/><cell><hi rend="i">Calvinisten</hi></cell></row>
+        <row><cell/><cell><hi rend="i">Confessionisten,</hi></cell><cell/><cell><hi rend="i">Luthersche</hi></cell></row>
+        <row><cell><hi rend="i">De</hi></cell><cell><hi rend="i">Broeders,</hi></cell><cell><hi rend="i">dat syn</hi></cell><cell><hi rend="i">Wederdopers</hi></cell></row>
+        <row><cell/><cell><hi rend="i">Catholycke,</hi></cell><cell/><cell><hi rend="i">Onpartydige</hi></cell></row>
+    </table>
+<div type="section">
+<head rend="h2"><hi rend="i">Schijndeught der secten.</hi></head>
+<head rend="h3"><hi rend="i">Eerste gespreck</hi></head> 
+    <head rend="h4"><hi rend="i">Tusschen Gereformeerde, Confessionist, Broeder, ende Catholijck.</hi></head>
+
+    <p>&nbsp;</p>
+<p rend="speaker"><hi rend="i">Gereformeerde.</hi></p>
+<p>ONder alle ons disputeren ende geschillen, en heeft die Man niet een eenigh woort gesproken. Ick houde immers vrient dat de Religie u mede al ter herten gaet?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Sy doet.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Confessionist.</hi></p>
+<p>Waerom swijcht ghy dan soo stadelyck?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Om dat ghyluyden stadelijck sprekende, meer hoorders behoeft dan sprekers.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>In wat Kercke zijt ghy?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholyck:</hi></p>
+<p>Daer inne ick ende oock ghy al te samen (soo my uwer hoofden grijsheydt betuycht) zijn ghebooren.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>So zydy dan noch een Papist?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Dat ghy my daer voor acht, mach ick wel lyden, als God my acht voor een Christ.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Confessionist.</hi></p>
+<p>Dat en magh niet zijn vriendt, want een Papist ende een Christ te syne, bestaet te samen als vier ende water, waerom en scheydy u niet van die valsche ende begeeft u tot die ware Kercke? Ghy en moocht immers niet loochenen dat de Roomsche Kercke in Leere valsch ende in Ceremonien Afgodisch is?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholyck.</hi></p>
+<p>Dat en blyckt my mogelijck noch so ghewis niet als ghy meynt.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Neen? Al en waert maer inde grouwelijcke Misse, die sy een Offerhande derren noemen, tot verwervinghe vander sonden verghevinghe. Wie mach dat doch verschoonen?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholijcke.</hi></p>
+<p>De Scholasticienen, soo Calvijn selve bekent. <note place="margin"><hi rend="i">Institutie xviij. 49.</hi></note>Maer of dat schoon noch also niet en ware, soo is moghelijck mijn verstandt noch te kleyn, om daer by te mercken, dat sy dieshalven de ware Kercke niet en souden wesen. sulckx dat ick die daerom soude moeten laten, om my tot een andere te begheven. Ende of ick dan noch dat al merckte, so soude ick noch eerst moeten seker zijn of ghyluyden al te samen, of yemandt van u drien inde ware kercke zijt omme my daer toe te begeven, want ick hebbe u luyden hier soo hooren twisten, niet min om de leere, als om de Ceremonien, dat ick wel sie dat ghyluyden gheen Lidtmaten en zijt aen een Lichaem.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Of sulcx al warachtigh ware, soo soudt ghy der Papiste leere ende Ceremonien moeten houden voor oprecht, of het soude blijcken, dat ghy zijt een Franckist, een Swencfelder, of een Libertyn, ende openbare verachter vande ware Predicatien ende recht gebruyck der Sacramenten.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p><note place="margin"><hi rend="i">Die in een kercke wil gaen behoort seker te syn, of dat ooc die rechte Kercke is</hi></note>Ghy spreeckt onvriendelijck ende niet bescheydelijck, want het soude dan noch mogen zijn dat ick niet konnende ghelooven dat u Leere ende Ceremonien oprecht zijn, soo wichtighen saken niet soude willen aengaen sonder gheloove: welcke wercken ghyluyden selve sonde heetet. Moetmen in kleyne saken zijns sins seker zijn, men  moet immers seker zijn int trouwen van een Bruydegom der Sielen, dat wel een groote sake is.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>U woorden vriendt gheven te kennen dat ghy te vele weet, dan dat ghy noch die Antichristische Poel voor een ware kercke Christi soudt houden. Dus wondert my dat ghy na hare valsche Leer luystert, ende hare lasterlijcke Ceremonien hanteert.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Neemt schoon of ghy recht spraeckt inde valscheydt der Kercken: soo macht wel zijn dat ick haer Leere ende Ceremonien, daer ickse onrecht versta, niet en volghe oft hanteere.</p>
+
+<pb ed="fol." n="ccc xliiv"/>
+    <p>&nbsp;</p>
+<p rend="speaker"><hi rend="i">Confessionist.</hi></p>
+<p>So en ist niet moghelijck dat die Wolven u lijden.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Maer het is wel moghelijck dat ick henluyden, oock het onschuldigh lijden lijde.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p><note place="margin"><hi rend="i">Argernis.</hi></note>Dat is niet genoech, want dan zijdy noch tot arghernisse van anderen die daer wanen dat ghy den Broot God op slocket.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Wee den ghenen die een ander tot aenstoot leeft.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Beter waert dat elck sich argerde aen zijn eygen onchristelijcken wandel, dan dat sy my henluyden knecht niet zynde, veroordeelen, gemerckt ick my noyt hebbe gheseyt in henluyder gemeynte te sijn, ende sy my noch noyt hebben hooren quaet oordeelen dat yemandt der Romanisten Sacrament ghenietet. </p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Seghdy dan dat goet te zijn?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholyck.</hi></p>
+<p>U en bichte ick niet.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Ghy zijt schuldigh u gheloove te belyden.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholijck.</hi></p>
+<p><note place="margin"><hi rend="i">Belydinge des geloofs.</hi></note>Ia, daer ickx nootlijck versta, na'tgetuych der Schrift, ende niet na 'tgoetduncken van u luyden: maer seght ghy, duncket u sonde te zijn?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>De alder grootste sonde.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholyck.</hi></p>
+<p>Waerom dat?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Vraechdy dat? weet ghyt dan niet een grouwelijcke Afgoderye te wesen, te ghelooven dat een stuck Broots God sy?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholyck.</hi></p>
+<p>Dat ghelooft die Man, so hy anders een recht Confessionist is, als syne woorden betuyghen, ende doet hy dan, soo wel als die Papisten, oock grouwelijck Afgoderye daer aen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Confessionist.</hi></p>
+<p>Ia wy ghelooven Christum geheelyc als God ende mensche, dat soo wel is lichaemlijck als geestelijc tegenwoordigh te zijn int Broot des Nachtmaels, maer dat alleenlijc ondert communiceren. Dats wel verre van der Papisten Misse, omdraghen ende opsluyten: Oock en eeren nochte aenbidden wyt niet als God.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholyck.</hi></p>
+<p>Wie heeft u gheseydt dat icx in der Missen ofte int ommedraghen, eere ofte aenbidde?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Confessionist.</hi></p>
+<p>Hoe sout ghy diemen siet een oprecht Papist te wesen, der Papisten Leere daer inne niet volghen?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholyck.</hi></p>
+<p>Het mach wel zijn, dat een Papist aldus soude dencken. Opt onseker moetmen God niet aenbeden. Onmogelijck ist my te weten of de Priester oock geconsacreet, swijghe te recht geconsacreet heeft dan niet, waert niet gedaen, so soude ic een stuck broots voor God aenbeden: Dat wil ick niet doen. Dit mach een Papist dencken, ende die afgoderye vermyden: maer dat ghy seght dat ghy in u Nachtmael Christum niet en eert noch en aenbedet, acht ick u luyden daer aen niet min te sondighen, dan of yemandt yet aenbade ende eerde voor een Godt, dat gheen God en is.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Confessionist.</hi></p>
+<p>Waer by datte?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholyck.</hi></p>
+<p><note place="margin"><hi rend="i">Lutersche sondigen int niet ae</hi>n<hi rend="i">bede</hi>n<hi rend="i"> vant broot des Nachtmaels soo henlieder leer daer inne recht is.</hi></note>Om dat ghyluyden vast ghelovende, dat Christus als God ende mensch lichamelijck daer int broot tegenwoordigh is, hen daer niet als een God aenbede ende Godlijcke eere en doet. Want Christo niet te geven dat hem toe komt, is even so quaet, als sulcx te geven dient niet toe en komt.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Daer meuchdy niet sien vrient, wat argernisse u Lutersche grove Leere int het Nachtmael veroorsaeckt, ende dat het een Papistige leere ende rechte verstijvinge der Papisten <note place="margin"><hi rend="i">Lutersche Leere van nachtmael argerlyc.</hi></note>is in hen lieder afgrijselijcke Afgoderyen, ende gheve u nu te bedencken, oft ghyt u terstondt hier voor oock te recht belchdet dat de Auctor vande Corte wechwijser, den Luterschen noemt grote Sacramentschenders: <note place="margin"><hi rend="i">Fol. 11. 2. Lutersche sacrame</hi>n<hi rend="i">tschenders</hi></note>Item daer hy seyde dat Luter self het Avontmael Christi groflijck heeft, gheschendet ende grouwelijck gelastert.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Maer of ghy o Catholijck, al schoon geweest dat een ander mede Afgodeerde? wat verschoont dat u Afgodeerde.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Wat weet ghy dat ick dit, 't welck ghy Afgoderye noemt, hantere?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Ic weet immers wel uyt uws selfs mont, dat ghy niet en zijt in onse Ghemeente, soo weet ick dan oock wel dat ghy u noch hout aen de kintlijcke ende onverstandige Doope, die niet min Afgodisch en is dan der Papen Brootgod, overmidts henluyder besweeren, smeeren, souten, blasen, ende ander Afgodische guychelrye daer by gevoecht.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholyck.</hi></p>
+<p>Ben ick deshalven een Afgodeerder, soo zijnt oock dese twee met my.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Sy zijnt deshalven oock beyde: maer mach u dat verschoonen?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Ick sal hooren of sy dat lijden. Verantwoorden sy hen beyde teghen u, soo ben ick oock verantwoort, want ick wel geloove dat sy gheen van beyden in haer oudtheyt ghedoopt zijn, maer swijghen sy soo suldy horen wat ick sal seggen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Confessionist.</hi></p>
+<p><note place="margin"><hi rend="i">Doop der Catolycken blyft een rechte doop, niet teghenstaende de superstitie</hi>n<hi rend="i"> Inst. 8. 32.</hi></note>So weynigh als veele schuyms het Gout daert om is in schuym mach veranderen: soo weynigh mach der Papen guychelrye des Doops substantie in guychelmerckt veranderen. Dese substantie is inden Name des Vaders, des Soons, ende des Heylighen Geests metten watere Dopen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Dat is de waerheyt, des Doops kracht is noch ghebleven by den Papen, door welcker leugens Godes waerheyt niet in loghen mach veranderen.</p>
+
+<pb ed="fol." n="ccc xliiir"/>
+    <p>&nbsp;</p>
+<p rend="speaker"><hi rend="i">Broeder.</hi></p>
+<p>Op die wijse mach ooc der Papen brootgodt verdedicht werden, want die hebben mede doch die substantie, te weten het bevel Christi, die woorden: Dat is mijn lichaem het Brootbreken ende uytdeylen: Dit goudt ende dese substantie vant nachtmael en mach dan oock door der Papen schuym ende logenen in gheen schuym ofte loghen veranderdt werden. Sijn nu de Lutersche Sacramentschenders om de voorsz. sake, inden oordeele der Ghereformeerden: soo zijt ghyluyden Gereformeerde met sampt den Luterschen, oock Sacramentschenders int stuck vander Doope: Want ghy Gereformeerde ende Lutersche te samen, hier inne even soo wel den Papisten verstijven ende verargeren, als de Luterschen alleen doen inder Papisten Nachtmael, <note place="margin"><hi rend="i">Afgodise Doope.</hi></note>overmidts ghyluyden beyde der Papisten Doope noch voor een rechte doop houden. En seker hier inne doet ghy Ghereformeerde ende ooc ghy Lutersche geen minder Afgoderye, dan de Papisten.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Dats gheseyt: maer waer ist bewijs?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Ist gheen Afgoderye eenigh schepsel oft menschelijck werc toe te schrijven dingen die alleen Godes eygenschap zijn.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>'t Is.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Ist oock yemants anders eygenschap of werck den vervallen mensche te wederbaren dan Godes?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Neen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Houdt ghyluyden beyde niet so wel als de Papisten, dat de Ionghe kinderkens door den Water-doop wederboren werden?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde ende Confessionist.</hi></p>
+<p>Ia wy.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Den Doop is een menschelijck werck.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Het gheschiet door Godes bevel, ende en is daerom geen menschelijck, maer een Godlijck werck.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Dat het Kinderdoopen een bevel Godes is, mach niemant met de H. Schrift bewijsen. Maer dat noch ter zyden ghesteldt, soo blijft dat werck vant Doopen even soo wel een menschelijck werck, als het planten ende nat maken van Paulo ende Apolline, welck henluyder werck noch al vergeefs blijft, als God selve zijn eygentlijck werck daer niet toe en doet, dat is de wasdom geven, 'twelck niet en gheschiede in allen die Paulum ende Apollinem toehoorden. Maer ghy beyde hout met den Papisten, dat int Doopen van alle kinderkens niemant uytgenomen, de wedergeboorte gheschiedt. Dus blyckt dat ghy u menschelijck werck toe schrijft, 'tgene dat alleen ende eyghentlyck Godes werck is, te weten wederbaren. Ende bedrijft ghy midts dien beyde ghelijcke groote Afgoderye in u Kinderdoop, als de Papisten in haer Nachtmael. Maer dit en moocht ghy, o Catholijcke geensins van onsen Doop segghen: dewijle dan ghy siet dat sy swijghen, so wilt'nu tijdt zyn dat ghy my laet hooren wat ghy op onsen bejaerden Doop weet te segghen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p><note place="margin"><hi rend="i">Bejaerde Doope.</hi></note>Na dien het u lust, so hoort nu dat ghy ongeerne sult hooren: Ghyluyden wilt dat voor den Doope de Boete gae, ist so niet?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>'t Is soo.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Meynt ghy een valsche of ware Boete?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Een ware?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholyck.</hi></p>
+<p>Hoedanigh is die?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Niet na onse goet-duncken, maer na den klaren woorde Godes. Also beschrijft Menno de boete uyt Ezechiel: wanneer de Godloose sich bekeerde van alle zyne sonden die hy ghedaen heeft, ende hout alle myne rechten. Aldusdanighe boete leeren wy ende geen ander.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Gelooft ghyluyden oock dat eenigh Christ door Gods ghenade hier ter werelt al zyn sonden mach laten, ende alle Gods rechten houden?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Dat en segh ick niet</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Wat seghdy dan tot myn vraghe, Ia? of Neen?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Neen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Nochtans eyschet u ghemelde boete? Nu segdy dat die geeyschte boete hier in niemant en mach wesen, doedy niet?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Ick doe.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Hoort nu: Menno wil datmen niemandt mach rechtelijc Doopen, ten sy dan dat eerst die voorseyde boete in hem sy. Dese boete bout ghyluyden oock Menno ende Dierick Philipsen uwe Leeraren, dat hier ter werelt in ghenen mensche en mach wesen. Soo en is die oock niet gheweest in u Leeraren selve, noch oock in u luyden. Soo en meuchdy nu oock niet ontkennen dat uwe Leeraren Dopende u luyden daer de rechte boete niet in en is u al te samen onrechtelijck ende qualijck Dopen. <note place="margin"><hi rend="i">Doopers doopen qualyck.</hi></note>Wy ghenaken nu Sonst, ende moet daeromme nu ophouden, doch is so veele al ghebleken, niet alleen door mijn, maer oock door u luyden selfs spreken dat ghyluyden al tsamen onderlingen werrende, selve (so ghyt selve noemt) Sacramentschenders zijt, met welcke schant-name ghy selve malcanderen (niet min dan ghy altsamen den Papisten doet) opentlijcken scheldet, tot gheen kleyn argernisse uwer Leeringen.</p>
+</div>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Tweede gespreck.</hi></head>
+
+    <p>&nbsp;</p>
+<p rend="speaker"><hi rend="i">Gerefor.</hi></p>
+<p>'t Is my lief dat de Tollenaer ons so spoedelijck afveerdichde, want my luste voorder met u te spreecken vrient. U redene tegen Wederdoop en was niet onbescheyden, maer wat gaet ons dat aen? Ende oft noch al na u segghen warachtigh ware, dat wy vanden
+
+<pb ed="fol." n="ccc xliiiv"/>
+Waterdoop een Afgod maeckten, de selve misbruyckten, ja daer inne (so ghyt kalt) niet min dan Doopers int hare, oock de Lutersche inden Doop, soo wel als int Nachtmael sacramentschenders waren, wat mach u dat verschoonen om te blijven in een Kercke die onlochbaerlijck een Antichristiesche Kercke is?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p><note place="margin"><hi rend="i">Swaricheyt geleghen int kennen vande ware kercke,</hi></note>Dat wil ick u segghen: genomen u seggen vande valscheydt der Roomscher kercken al volcomentlijck waer ghebleken, so waert my seker noch gheen kleyne verschooninghe, dat ick wel verstaende van waer ick behoorde te vlieden: noch niet sekerlijck en mochte wete<hi rend="i">n</hi>, waer henen ick vlieden soude, want ghyluyden al te samen stelt selve de voornementlijcx te merckteeckenen der ware Kercke te wesen de suyvere Leere, met het rechte gebruyc der Sacramenten, doedy niet?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Ia wy.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Ist dan so als ick voor ooghen sie, dat de sacramenten by u allen so werden misbruyct, dat ghy d'een d'ander te recht Sacramentschenders scheldet, te weten de Lutersche, u Gereformeerde inden Nachtmale, ende Dopers inden Doope: <note place="margin"><hi rend="i">Lutersche Swingelsche, ende dopersche valsche Kercken.</hi></note>ghy gereformeerde wederom den Luterschen inden Nachtmale en<hi rend="i">de</hi> den Dooperen inden Doope: ende oock ghy Dooperen de Lutersche inde Nachtmale, ende die selve Lutersche metten Gereformeerden inden Doope: Wie en merckt hier niet, dat na het eene merckteecken uwer kercken, ghyluyden alle drie rechtelijck voor valsche Kercken ghehouden moet werden? Ende namaels oock de leere vande Sacramenten, ooc mede by u allen selve wert gehouden voor een Hooft-lidtmaet inder Kercken Leere, ende u luyder misbruyck inde Sacramenten nergens uyt voort en komt dan uyt de valscheyt der selver Leere. So en meuchdy oock mede gheen van drien lochenen, dat uwe Leere een valsche leer sy. Ghemerckt ick u nu heb bewesen, dat uwe Leere valsch is, ende dat ghy de Sacramenten misbruyckt, soo moet ghyluyden alle drie bekennen, dat gheen van uwe drie twistighe kercken de ware kercke Christi sy. Sy verschoont my nu niet wel te recht, dat ick niet siende waer ic beter soude mogen komen dan daer ick nu ben, mijn sake niet en wil verargeren, maer blijve<hi rend="i">n</hi> daer ick sy? Wat mach ick doch anders doen, dan dat ic het bekende quaet vermyde, der kercken ghebreken lijde, ende God daer voor bidde? </p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Ghy lastert stoutelijc onse Kercke, die alleen die ware Kercke is.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Ghy belget u t'onrecht, dat ic met bewijslijcke waerheyt spreke van u gemeente, minder quaet dan ghy sonder bewijs seght vande Roomsche Kercke. Al wat grovers heeft van u luyder Leere geschreven eenen D. V. Coornhert, ende dat ooc so vastelijc bewesen, dat uwe Leeraren niet siende wech (soo icx moet houden) omme dat te wederleggen, nu al twee jaren schandelijc daer toe verstommen, tot gheen cleyn argernisse vanden uwen selve, die wel al beginnen te mercken dat Besa met alle den synen hare argelistige conste mistrouwen teghen de eenvuldighe waerheyt, voortcomende uyt een ongeleerde Ydiot ende botte (so men seyt) Hollander.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Vermaent ghy dat Godloose Boecxken? Het is so plomp, so zot ende so ongeleert, dat het dien gheleerde Mannen een oneere soude zijn, tegen sodanigen dreck te vechten. Sy verlaten sich swijgende op haerder leringhe waerheyt.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholijcke.</hi></p>
+<p>Of sy verlaten sich op het moorderlijck <note place="margin"><hi rend="i">Apo. 13. 1</hi></note>sweert des Duyvels, die van aenbegin het Lam ghedoodet heeft in zijne Ledekens. </p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Ghy spreect lasterlijc, ende sout dat ontgelden hadde ick u binnen Geneven.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Ick gheloove wel dat ghy my dit waer spreken met ware martilie soudet doen besueren, maer ick en heb tot Geneven niet te doen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Soudet ghy wel soo onschamel zijn, dat ghy soude derren loochenen, dat de Roomsche kercke een valsche kercke sy?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Sout ghy wel soo verstandich zijn, dat ghyt soudet konnen bewyse.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Dat verstant is wel by den kinderen, ende is ooc so klaer bewesen by vele geleerde mannen, dat sulck bewijs onnodigh is: Voornemelijck by mijn Heere Calvijn. Leest maer eens zijn Institutionem.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Die heb ick ghelesen, ende hebse hier inder hant, maer seght ghy: was de Roomsche kercke al valsch als Calvijn sich daer van scheyde?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Waerom anders doch heeft sich die hoochgeleerde Man daer van ghescheyden.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Was daer na als hy zijnen Institutionem schreef de Roomsche Kercke oock beter gheworden?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Geensins beter, maer veel eer arger.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Machmen Christum oock deylen ofte halveren?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>In geenderley wijse, mijn Heer Calvijn <note place="margin"><hi rend="i">Institu. x. 57.</hi></note>schrijft oock selve, dat Christus niet en mach ghescheurt worden in stucken.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>So waer Christus dan is, daer is hy geheel.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Hy is.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Daer is oock zijn kercke.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Sy is.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Is Christus by de Roomsche Kercke?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Niet Christus maer Antichrist.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>U Meester Calvijn schrijft anders.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Dat lieghdy.</p>
+
+<pb ed="fol." n="ccc xliiiir"/>
+    <p>&nbsp;</p>
+<p rend="speaker"><hi rend="i">Catholycke.</hi></p>
+<p><note place="margin"><hi rend="i">Inst. x. [...]</hi></note>Ick en doe niet, siet selve hier in zijn Institution, ick sal't lesen: Hier by blijcket dat wy gheensins en ontkennen, dat oock onder zijn (Antichristi) tyrannye de Kercken noch blijven: maer soodanighe als hy door zijn Kerckroversche godlosigheydt ontheylicht heeft, door zijne wreede heerschappie ghequeldt heeft, door zijn boose ende verderffelijcke leeringhen, als door venijnighe drancken verdorven en by na ghedoodet heeft. In de welcke Christus half begraven zijnde schuylet. Daer siedy nu immers met uwen ooghen, dat Calvijn selve bekent, dat de Roomsche Kercke (dien hy alle die quaden toe schrijft) noch ghelijcke wel Kercken zijn ende blijven. Dat sy niet doodt, maer levendigh zijn: ende dat Christus noch is by de Roomsche Kercke, daer't al aen leydt. Want is Christus noch daer (soo Calvinus selve betuycht) soo volght na u eyghen belijdinghe, dat de Roomsche Kercke de ware Kercke sy?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Ghy vervalscht mijns Meesters woorden, die houden dat Christus daer half begraven zijnde, schuylet: Heet dat met u in de Kercke wesen?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Wat hoor ick nu? Om dat Christus erghens alleen int Scheepken lach ende sliep, was hy daeromme niet in het scheepken? Die in een huys verborghen leydt, ofte schuylet, is die niet inden huyse.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Soudet ghy wel derren segghen dat Christus daer sy na zijner waerde? daer hy half begraven zijnde, schuylet.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Soudet ghy wel derren seggen dat Christus na zijner waerde hinck aen den Cruyce? Ick houde wel neen ghy: was Christus daeromme niet aen den Cruyce? Soo moet ghy nu noodtlijck doen een van beyden: Ghy moet dit voorschreven uwe Meesters segghen houden voor valsch: of ghy moet bekennen dat de Roomsche Kercke de ware Kercke Christi sy. Siet dat volght nootlijck, ja het blijckt klaerlijck uyt de woorden Calvini selve, dien ghy terstondt seydet de contrarie van dien soo klaer bewesen te hebben, dat eenigh voorder bewijs te doene gantsch onnodigh ware. <note place="margin"><hi rend="i">Calvinus leere betuycht dat de R. kercke de warachtighe sy.</hi></note>Ende nademael daer niet en is dan een Christen Kercke, uyt de welcke (als veele Beken uyt eene Borne, ende als vele tacken uyt een Stamme ende Wortele, Stralen vlieten ende spruyten) alle de Christelijcke Kercken haren oorspronck hebben ende inne bestaen, <note place="margin"><hi rend="i">S. Cyprianus de unitate ecclesie.</hi></note>in sulcker wijsen, dat sy weynigh als de Raedien van der Sonnen, de Beecken van der  Borne, ende de Tacken vande Stamme of Wortele afghescheyden zijnde, daer na noch licht, Beken, of groejende Tacken meer moghen wesen: Soo volght noodtlijck, dat alle de Kercken die hen af scheyden vande alghemeyne Kercke daer Christus inne is, gheensins meer Kercken moghen wesen, maer niet en zijn dan Seckten. Ende ghemerckt u Meester Calvijn opentlijck belijdt, dat hy sigh afghescheyden heeft vande Roomsche kercke, die uyt Calvijns woorden selve de ware Kercke schijnt, hoe mooghdy ontkennen mede uyt Calvijns eyghen woorden te volghen, dat Calvijns Kercke gheen Kercke meer is, maer niet dan een af-ghevallen Secte.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Calvijn heeft niet henlieden, maer zy hebben mijnen Heere Calvijn afghesneden.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Was hy dies schuldigh, soo deden sy recht, was hy onschuldigh, soo dede hy onrecht: want dan behoorde hy hier niet af te wijcken, noch de ware Kercke te verlaten om eenanders onrecht doen. Want voor Gode en gheldt der menschen onrecht oordeel niet. Hy hadde het quade <note place="margin"><hi rend="i">Instit. viij. 19.</hi></note>moghen lijden, dat selve ernstelijck hadde hy last ende verstandt, bestraffen, ende daer over te lijden. Sulckx hebben alle ware Propheten ghedaen ende ghedoocht, de welcke, niet teghenstaende de Ierusalemsche Kercke soo Calvijn selve schrijft van den hoofde ten voeten toe was bedorven, daerom nochtans gheen andere ofte eyghen Kercken en stichteden. Aldus en heeft Calvijn hier inne gheen exempel der Heylighen na ghevolght, ende noch veel minder het bevelen Christi houdende, dat wy als men ons vervolght vlieden sullen van de eene stede in d'ander: maer nerghens en beveelt de Heere te swermen van d'een Kercke in d'andere.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p><note place="margin"><hi rend="i">Instit. viij. 27.</hi></note>Wy moesten (schrijfe mijn Heere Calvijn) van henluyden af scheyden omme tot Christum te komen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Wat seydt de man nu doch? Gaetmen van Christo af scheydende tot Christum? Is dan afscheyden ende toegaen een selve werck? Calvijn schrijft selve, dat Christus noch was inde Roomsche Kercke, ende midtsdien oock van Christo tot Christum soude komen? Merckt ghy noch niet wat ongheschickte dinghen ghy hier voort haelt? Soo spreeckende, maeckt ghyluyden selve vande Roomsche Kercke de ware Kercke, ende van uwe Kercke een valsche Seckte: dats wel verde van yemanden vroedt te maecken datmen de Roomsche Kercke als de valsche behoort te verlaten, om de Gheneefsche als de waerachtighe te aenkleven, Calvijn schrijft vande Monicken aldus. De saecke selve spreecket, dat alle die ghene die in een Clooster gaen, een af scheyden doen vande Kercke. Wat dinghe scheyden sy met sich selven van der Gheloovigen ghemeynschappe, als syluyden eenen bysonderen dienst ende eyghen bedieninghe der Sacramenten aen nemen?</p>
+
+<pb ed="fol." n="ccc xliiiiv"/>
+<p>Wat is doch der Ghemeynschap der Kercken te verscheuren, indien't dat niet en is? Siet dat schrijft Calvijn van't afsonderen der Monicken die doch metten anderen Catholijcken voorts in een geloove, leere, ende ghebruyck der Sacramenten blijven: Wat sal men dan seggen van u luyder af scheydinghe, ghenoegh andere Articulen des gheloofs (die nu elck na zijn fantasye begint te maken) ende andere ghebruyck der Sacramenten met brenghende? machmen hier oock niet rechtelijck segghen, wat is doch de gemeynschappe der Kercken scheuren. Indien dat niet en is, immers teghen hem Calvijn selve: die anderen hieromme bescheldet? <note place="margin"><hi rend="i">Harmo. Mat. 4. 19.</hi></note>Want Calvijn selve leert, datmen boven allen dinghen moet letten, dat om uyterlijcke Ceremonien de eenigheydt des gheloofs niet gescheurt en werde?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Confessionist.</hi></p>
+<p><note place="margin"><hi rend="i">Besa Epistola 5.</hi></note>Het qualijck verdedighen Calvijn in zijn sake en mach onse sake niet argher maecken, het is met ons gheheel een ander ding, want Luther was Doctor inder Godheydt, soo oock Beza (ons nochtans niet seer jonstigh zijnde) <note place="margin"><hi rend="i">Luthers sendinge.</hi></note>selve ghetuycht ende elcken kondt is. Daerom hy alsoo na de ordinarise sendinge macht hebbende om te leeren, heeft hy door den Gheest Godes ende desselvens bevele, de loutere waerheydt gheleert, ende een waerachtighe Kercke oft ghemeente Godes opghericht: Als hy niet willende de bekende waerheydt verlaten, deshalven zijns ondancx afghesneden werdt vande Roomsche Vledermuysen, die de glants der waerheyt geensins en mochten lijden.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Dat hem van anderen werdt ghedaen, en stont in zijnder macht niet te beletten: maer hy hadde zijn selfs werck van een eyghen Kercke op te richten, wel moghen laten, gemerckt hem niet en was bevolen door sulckx verstooringhe inder Kercken te veroorsaken maer verboden: Doch alles dit overgeslaghen, vraghe ick u: Of doe yemant anders heeft op Aerden om een mensche rechtelijck te stellen tot het Predick-ampt, dan de ware Kercke Christi?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Confessionist.</hi></p>
+<p>Neen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholyck.</hi></p>
+<p>Ghy segt dat Luther, als wesende Doctor inder Godheyt rechtelijck was gesonden.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Confessionist.</hi></p>
+<p>Wy doen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholyck.</hi></p>
+<p>De Roomsche Kercke hadde hem Doctor ghemaeckt ende tot Predicken ghesonden, ist niet so.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Confessionist.</hi></p>
+<p>'t Is so.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Merckt ghy niet dat ghy oock selve belijdt, dat de Roomsche Kercke de ware Kercke Christi is, ende daer-en-boven noch dat Luthers Kercke een valsche Kercke sy?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Confessionist.</hi></p>
+<p>Dat en sie ick bylo niet.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholyck.</hi></p>
+<p>Opent u ooghen wat beter, ende ghy sullet sien. Is Luther soo ghy seght rechtelijck ghesonden om dat hy Doctor was, mach niemandt senden dan de ware Kercke Christi, ende heeft Luther zijn rechte sendinghe vande Roomsche Kercke (soo ghy alle dit selve bekendt) soo volcht immers nootlijck uyt u eygen woorden dat de Roomsche Kercke de ware Kercke sy. Is dat oock waer, ende is Luther daer af ghescheyden, soo hy wel bethoont doorgaens met zijn schrijven, dat de Roomsche kercke een kercke Antichristi sy ende oock mede met zijn oprechten van een eyghen Kercke, soo moet ghyluyden voorwaer oock soo wel als de Ghereformeerde bekennen, dat Luther de ware Kercke verlaten, ende een valsche kercke opghericht heeft ghehadt.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Confessionist.</hi></p>
+<p>My dunckt ghy arbeyt om de Roomsche Kercke voor te stane, niet anders dan of ghy vischte na een vette Prebende.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholijck.</hi></p>
+<p>Neen, ick beveel dat hare Gheleerden, maer bethoone u luyder Kerck te wesen valsche Kercken, ende dit al uyt u eyghen bekentenisse ende woorden.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p><note place="margin"><hi rend="i">Dooden om het gheloove.</hi></note>Laet hem (nu hem dat soo lust) blijven in den Roomschen moordtkuyl (onder den Duyvel, wiens moorderye soo menigh duysendt Martelaeren daer inne heeft ghemaeckt binnen vijftigh Iaren herwaerts.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Daer zijt laten beginnet u Gheneefsche Kercke, diet oock den Beemschen fijn heeft voort gheleerdt, ende noch meer anderen haest sal leeren met die twee Boecxkens bestaende te bewijsen, datmen de Ketteren metter doot behoort te straffen. Wonder ist dat ghyluyden die voormaels den Romanisten daer af soo swaerlijck hebt beschuldight het selve nu na doende, henluyden daer inne noch derft beschuldigen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Confessionist.</hi></p>
+<p>Dat en gaet onse Kercke niet aen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Dat oock uwe Kercke over eenighe jaren sommighe Broederen heeft omghebracht, is velen menschen kont, ende oock my selve al schijnet u vergheten. Ende seecker niet aen de bloedigheydt vande felle, maer aen de goedigheyt vande barmhertighe Vrouwe wist Salomons wijsheydt het ware moederlijcke herte van't valsche soo seeckerlijck te onderscheyden: Als nu alle menschen van goede oordeele, de ware Kercke Christi aen haer goedertieren barmhertigheydt souden weten te kennen buyten de valsche, die haer fel ende bloedigh toonde teghen hare kinderen. Het blijft eewighlijck
+
+<pb ed="fol." n="ccc xlvr"/>
+waer, dat noyt Schaep een Wolf, maer dat altijdt de Wolf het Schaep heeft verbeten. Daeromme en mach ick desen Man daer inne gheen onghelijck gheven, dat hy u beyder Kercken, fel en bloedigh zijnde voor Hoeren ende valsche Moeders aen siedt. Maer ick mach my noch niet ghenoech verwonderen, dat hy wel wetende, dat onse Kercke hier inne gheheel ontschuldigh is, ende niet en is dan een Schaepskoye midden tusschen drie Speloncken soodanighe verscheurende Wolven noch een ure mach blijven woonen inde Speloncke der Roomscher Wolven, sonder sigh metter daedt tot onse oprechte Schaepskoye by den onnoselen Slagh-schapen te begeven.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholijcke.</hi></p>
+<p>Dat verwonderen en waer niet in u ghebleven, soo ghy mijne redenen recht onder Sonst ghesproken: haddet verstaen ofte onthouden: Te weten, dat ick wel sie van waer, maer niet waerhenen te vlieden: ende dit verwonderen soude noch haest ophouden soo ghy soo veele kondet mercken op u luyden machtloose wille, als ghy wel mercken kondt op de wille van d'ander drie Kercken, nu met macht verfellet zijnde. Ick meyn ditte: Soo ghyluyden het Swaerdt in der handt haddet, soudy lichtelijck (soo ickx achte) der Munsterschen spoor te volghen. De welcke voor die daedt immers soo goedertieren ende eenvuldigh schenen, als ghyluyden nu schijnt, ja noch al wat eenvuldigher. Ick hebber selver gekent, ende oock met vele, jarigher dan ick ben, ghesproken: die langhe met haerluyden verkeert hadden, sy wilden eerst soo luttel als ghyluyden nu de Swaerden ghebruycken, maer lieten sigh eer dooden, soo vele metter daedt bethoonden. Sy hielden mede als ghylieden nu doet, dat een Christen gheen Overheydt en mach zijn: ende datmen den quaden niet en mach wederstaen, etc. Doch bekenne ick wel, dat men u lieden sulckx noch niet bewesen hebbende, de quade daedt der Munsterschen met gheen redenen mach toeschrijven. Maer by dit swacke vermoeden is een krachtigh, ende in mijnen ooghen by na een ontwijfelijck vermoeden, dat ghylieden tot macht komende, niemanden beneven u en soudet willen lijden, die niet ja wilde segghen, tot alle uwe opinien, ende dit uyt dese oorsaecke: De ghemeyne tonghen van u volcxken, met oock de penne van Menno ende D. P. schieten van sich soo dootlijcken venijn, int lasteren, veroordeelen, ende verdoemen van alle menschen, buyten u Gemeynte zijnde, dat ick niet en mach twijfelen, of ghy en sout de lichamen der selver soo weynigh sparen met het uyterlijcke Swaert, waer dat eens in uwen handen, als ghy nu hare Ramen weynigh spaert, met uwe tweesnijdende ende faemrovende tonghen. Behalven alle ditte, soo soude ick uyt u wel willen hooren, waer by ghy kont doen blijcken dat uwe Kercke de waerachtighe sy, want seecker, salt de rechte Kercke zijn, soo is fyt geworden door den dienst van rechte Leeraren, ghesonden zijnde van Gode: Ende dat sonder middel van Gode met wonderdaden, als Moyses, Christus, ende zijn Iongheren. Of door't middel van der Overheydts ordeninghe, sonder wonderdaden. <note place="margin"><hi rend="i">Vande se</hi>n<hi rend="i">dinge der Doperen.</hi></note>Het eerste suldy u wel wachten te segghen: het tweede suldy nemmermeer bewijsen: Hoe mogen uwe Kercken Stichters dan doch rechtelijck ghesonden zijn gheweest? waren sy niet ghesonden, hoe mach haer gebou een rechte kercke zijn?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Daer is noch een derde wijse van sendinghe by u versweghen, te weten: dat de ghemeynte ghesamentlijck yemanden sendet, so men leest int eerste vande, Apostelen tijde gheschiedt te zijne, ende door dese sendinghe <note place="margin"><hi rend="i">Actor. 1.</hi></note>predicken onse Leeraren rechtelijck.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>De schrift hebdy qualijck verstaen, ende oock qualijck voort ghehaelt. Want dat Petrus Leeraer was, ende rechtelijck ghesonden, behoeft gheen bewijs. Dese als Overheydt inde Kercke Christi ende niet de Ghemeynte, sprack eerst dat een ander moeste ghekooren werden inde plaetse van Iudas, ende doort aengheven van Sinte Peter, die een Apostel was hebben sy twee ghekooren. Wildy dit exempel na volghen, soo moest daer voor den ghenen die onder u luyden vande gemeynte ghesonden zijn gheweest, noch eerst een ander Leeraer die van Gode was ghesonden, gheweest zijn, aen welcke sendinghe wy soo weynigh moghen twijfelen als de vorighe ghemeynte weynich mochte twijfelen aen de sendinghe van Sinte Peter die sy al tsamen over langhe met den Heere wandelende, oock den Heere selve van zijnder Doope af tot zijn Hemelvaert toe ghekent hadden. Dit is u onmogelijck, ende daerom ist oock niet in u macht te bewijsen dat de sendinghe uwer Leeraren recht sy. Boven dien soo moeste u ghemeente gheweest zijn voor de Leeraer, indien u leeraer vande ghemeenten ghesonden sal zijn. Dit en mach niet wesen. Want ghyluyden duydet selve op de montlijcke Predicatie dese woorden des Apostels: Hoe souden sy <note place="margin"><hi rend="i">Rom. 10. 14.</hi></note>ghelooven den sy niet ghehoort en hebben, maer hoe souden sy hooren sonder Predicant: Moet het woort des gheloofs dan eerst gehoort zijn van een ghesonden Predicant, soo en mach u Ghemeente immers gheensins gheweest zijn voor den ghesondene Predicant. Hoe mochte dan een Gemeente, die noch niet en was, een Predicant senden? Siedy nu wel dat u derde Lidt, dat ghy inde sendinghe versierdt, namentlijck dat de Ghemeente den Predicant sendet, in alder wijsen valsch is? Alsoo blijckt ooc valsch uwer predicanten sendinge uwer Leere, Ceremonien ende Kercke, even soo wel als dese twee andere. Of weet ghy noch wat hier teghen te segghen?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Confessionist.</hi></p>
+<p>Wy en latens daer niet by blijven.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Neen vryelijck, maer dencken u morghen wat dapper inden boesem te tasten, ende u wat meer wercx te gheven.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Ik wilt gaerne hooren.</p>
+
+
+</div>
+<div type="chapter">
+<pb ed="fol." n="ccc xlvv"/>
+<head rend="h3"><hi rend="i">Derde gespreck.</hi></head>
+
+    <p>&nbsp;</p>
+<p rend="speaker"><hi rend="i">Gereformeerde.</hi></p>
+<p>Wy hebben nu veel ghesproocken van de ware Kercke, die loochent ghy te wesen by yemanden van ons drien. Nochtans moet ghy bekennen der Papen kercke te wesen verdorven, niet weynigher in Leere, dan in Sacramenten. <note place="margin"><hi rend="i">Of de C. Kercke bestaet in de Leere en de Sacramente</hi>n<hi rend="i">.</hi></note>Soo ghy nu gheen Libertijn en zijt, moet ghy nootlijck de Roomsche Sacramenten, die Afgodisch zijn: ende hare Leeringhen, die verleydelijck zijn, vlieden en vermijden. Ende dewijle de Christen Kercke bestaet inde Leere ende niet inde Sacramenten, ende ghy gheen van beyden nerghens gheniet, soo besluyt ick vastelijcken dat ghy in geen Kercke, ende midtsdien ooc gheen Christen en zijt.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Waer inne ende hoe wijt ick de Leere ende Sacramenten der Roomscher Kercken verdorven bekenne, en hebdy niet wat Leere ende Ceremonien ick deelachtigh ben, ende en mach daerom u besluyt van mijn onchristelijckheydt gheensins vast wesen. Maer noyt en hebbe ick inde Heylighe Schrift gelesen, dat de Kercke bestaet inde Leere ende Ceremonien, dan hebbe wel konnen mercken, dat sonder dese, immers sonder Cereomonien van Gode bevolen zijnde, de Kercke noch Calvino al bestondt voor Abrahams tijden. <note place="margin"><hi rend="i">In Genes. 14. 24. Observat.</hi></note>Dat seyde oock selve Musculus Dusanus, een uwer voorneemster Leeraren: Immers (schrijft hy) van den beginne des Wereldts was de Kercke sonder Sacramenten. Daer uyt dan volcht, dat de Kercke niet en bestaet inde Sacramenten. Want anders waerder gheen Kercke gheweest inde Wereldt, totter tijdt toe vande besnijdenisse. <note place="margin"><hi rend="i">VVarafte bekentnisse der dienaren der kercke</hi>n<hi rend="i"> tot Surich, Gedruckt Anno 43.</hi></note></p>
+<p>Dit seydt een Voorstander van de Swinghelsche Kercke selve. Ia de ghehele Swinghelsche Kercke hout selve opentlijck, dat Arestides, Socrates, Numa, met meer andere vrome Heydenen saligh zijn geworden, die nochtans niet alleen de Sacramenten, maer oock de Leere niet en hadden.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Dat is waer, maer dat Luther deshalven den Swinglium selve een Heyden heeft ghescholden, is mede waer.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholyck.</hi></p>
+<p>Ick sette u luyden teghen malkanderen, doch machmen hier mede sien, hoe eens de Swinghelsche ende Calvinische Kercke (dat ghylieden al voor een acht) met malkanderen zijn. Ende voorsie gheen minder Crijch tusschen de Gheneefsche ende Swinghelsche, soo haeft sy uytwendelijcke vreede hebben, om der Heydenen saligheydt wille, noch te sullen rijsen, dan daer nu is tusschen de Lutersche ende u beyden. Doch en meucht ghy Ghereformeerde in desen niet altoos teghen my uytrichten, ten sy dan saecke dat ghy eerst de Swingelsche Kercken hier inne overwonnen sult hebben. Maer siedy licht dat ghy niet recht en oordeelt van my. Dan ick soude met veel meerder recht moghen segghen, dat ghy zijt een vande menschen vande welcke u Meester Calvijn schrijft alsoo: Die doolen seer, die metten ooghen het Rijcke Godes soecken, het welcke niet <note place="margin"><hi rend="i">Hermon. Lu. 17. 20.</hi></note>vleeschelijck noch Aertsch en is: ghemerckt dat niet anders en is, dan een inwendighe ende Gheestelijcke vernieuwinghe der zielen. Want uyt den aert deses rijcks bewijst hy (Christus) dat de luyden verkeerdelijck doen, die herwaerts ende derwaerts zien, omme te vernemen ende te mercken eenighe sienlijcke lickteeckenen. Als of hy hadde willen segghen: die wederoprechtinghe vande Kercke, die van God belooft is, behoort inwendigh ghesocht te worden. Dat schrijft u Meester dunckt u nu niet dat ghy aldus opt uyterlijcke ghebare siende, mede niet en zijt een van soodanighe lieden? Niet min eyghentlijck werdt ghy van uwe voornemende Musculo beschildert met dese zijne woorden: Men vindt huyden Christenen <note place="margin"><hi rend="i">In Genes. Capit. 18. 24. Obser. iij.</hi></note>die daer wanen dat Godt gheen sorghe en draecht voor eenighen Rechtveerdighen, ten sy dan saecke dat hy leve in henluyder Kercke. Alsoo grouwelden oock de Ioden vanden Heydenen, overmidts sylieden niet en ware vande Kercke der Besnedenen, hoe wel nochtans de Heydenen veel rechtveerdigher waren dan sylieden. Ia de Heyden Seneca heeft konnen schrijven aldus: Die eert Gode, die hem kendt. <note place="margin"><hi rend="i">Epist. 96</hi></note>Wildy Gode versoenen, weest goet, die eert God ghenoech, die hem na volcht.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Wat geldt doch der Godloosen Heydenen segghen in Christelijcke saken?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholyck.</hi></p>
+<p><note place="margin"><hi rend="i">VVat de ware godsdienst sy, in Genes. cap. 18. 19 parte 3. obser. 5.</hi></note>Het geldt niet tot bewijsinghe van mijn voornemen, maer tot schande der Naem-Christenen, die by die klare Sonneschijn niet en konnen sien, het ghene de Heydens in de nacht des ommestaents by het Sterreken van't licht der natueren hebben konnen mercken. Maer al was Seneca een Heyden, soo en houdt ghy nochtans u Meester Calvijn noch Musculum gheensins voor Heydenen, wat weet ghy teghen henluyder voorseyde redenen te segghen. De selve Musculus seydt elderwaerts noch ditte: Dit is dan die eenighe ende doorgaenschen dienste Godes voor de Wet, onder de Wet, ende na de Wet, datmen des Heeren wegh beware, doende Oordeel ende Rechtvaerdigheydt. Daerom zijnt al bedriegers, die den dienst Godes binden aen Ceremonien, Offerhanden oft uyterlijcke Insettinghen. De welcke, indien sy van Gode zijn bevolen, wel een oeffeninghe hebben om te voeden het gheloove, de hoope, ende liefde, etc. In welcke dinghen de ware Gods-dienste bestaet maer de voorgaende dinghen (als Ceremonien, etc.) en zijn selve niet te achten voor den dienste Godes.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Of Musculus dat seydt: Ist daeromme Evangelie?</p>
+
+<pb ed="fol." n="ccc xlvir"/>
+    <p>&nbsp;</p>
+<p rend="speaker"><hi rend="i">Catholycke.</hi></p>
+<p>Daer voor en alleghere ick u hem niet, maer voor een uwer treffelijckste Leeraren, die ghy schuldigh zijt oock hier inne te ghelooven, ofte in andere zijnen woorden minder te ghelooven. Doch en ontbreeckt my <note place="margin"><hi rend="i">Mat. 12. 7</hi></note>gheen Evangelische bewijs. Christus seyde selve: wist ghy wat dat sy, ick wil barmhertigheyt ende gheen offerhande, etc. Hier op gloseert Calvijn u Meester, seggende dat Christus verstondt by dat woordt barmhertigheydt, de wercken van barmhertigheyt, ende dat hy onder dat woordt offerhande, begrijpt alle de uyterlijcke dienst van de Wet daer onder den Sabbath vieren een vande meeste was, die voor den doodt ons Heeren noch in wesen was, ja nu noch is, soo u Meester leerdt. Daeromme Christus oock int Oordeel oock niemandt eenighe Ceremonien, maer elck een de wercken der barmhertigheydt sal af eysschen. <note place="margin"><hi rend="i">1. Ti. 2. 61</hi></note>Oock seydt de Apostel Paulus dat de lijflijcke oeffeninghe nut is tot weynigh dinghen, maer de Godsaligheydt tot alle dinghen. Ia dat meer is, mochten de Heydenen gheen wet, Sacramenten oft Cereomonien hebbende, dies niet te min des Wets inhouden soo volbrenghen dat sy derhalven als doenders des Wets voor Gode gerechtveerdight sullen zijn (soo de Apostel schrijft, <note place="margin"><hi rend="i">Rom. 2. 2. 14.</hi></note>met wat schijn derft ghy aen de Ceremonien de Kercke ende saligheydt binden? Daer hebdy nu Evanghelische tuychenissen een weynigh uyt veele, die ick, soo u dese niet en vernoeghen, voort wil brenghen. Wel <note place="margin"><hi rend="i">Harmo. Mat. 12. 7</hi></note>te recht schrijft Calvijn de ghewoonlijcke zeden der Hypocrijten te zijn, dat syluyden om den toom ruym te hebben ende sich selfs oorlof te gheven in groote saecken, sorghvuldelijck acht te nemen om de Ceremonien wel scherpelijck te onderhouden. Ende op een ander plaetse schrijft hy dat de Hypocrijten ghemeenlijck de vlijtighste onderhouders <note place="margin"><hi rend="i">Comme</hi>n<hi rend="i">. Gal. 5. 14.</hi></note>zijn vande Ceremonien de welcke nochtans gheen seeckere merckteeckenen en zijn vande Godvruchtigheydt. Siet <note place="margin"><hi rend="i">Of men sonder onderhoudt van Ceremonien een Christen mach syn.</hi></note>dat zijn u Meesters woorden, ende zijn soo plat teghen u segghen datmen sonder Ceremonien, oft Sacramenten te onderhouden gheen Christen en mach zijn. Dat sy oock de scherpste onderhouders van de Ceremonien, de minste Christenheydt ende de meeste Hypocrisie toe schrijven. Ick weet wel dat hy 't doen ter tijdt ghemeynt heeft teghen den gheestelijcken: maer weet oock wel dat het nu oock treft op u luyder. Navolghers der Gheestelijcken hier inne wesende.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Sout ghy wel derren segghen dat yemant een Christen mach zijn, sonder nu de Ceremonien van Christo den Christenen bevolen, Christelijck te onderhouden?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Dat en behoeve ick niet te segghen, maer het volcht van selfs uyt het ghene ick terstondt gheseydt hebbe by u eyghen Leeraren <note place="margin"><hi rend="i">Institutie. xvij. 46.</hi></note>geschreven te zijne. Siet hier noch selve, door Calvijn uwe Leeraer schrijft: Dat het niet verdoemelijck en is soo yemant niet connende den Doop bekomen, onghedoopt quamen te sterven. Oock en seyt de Heere Christus nerghens dat hy verdoemt sal zijn die niet ghedoopt en is: of  die't Avontmael niet en ontfanget.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Van by noodt te ontbeeren of vande Dope en spreke ick niet: maer van't Avondtmael seydt de Heere duydelijck: Dat soo wie zijn Vleesch niet en eet ende zijn Bloedt niet en drinckt dat hy het eeuwigh Leven in sich niet en sal hebben. Wat spreecke ick van segghen. De Heere bevesticht datte met eenen dubbelen Eede. Na dien ghy so stoutelijck derft spreken teghen onsen Heere Christum selve, soo ick nu sie, en verwonder my niet meer dat ghy derft ghevoelen teghen dien grooten ende hoochgheleerden heylighen Vader Calvinum.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>V woorden doen my verstaen, dat ghy in die schriften van uwen grooten Calvino, gheen groote ervaerlijckheydt en hebt. De Ouden hebben plompelijck ghedoolt, denckende dat de Ionghe kinderkens berooft waren vant eeuwich leven, soo henluyden die Eucharistia niet en ware uytghedeelt: want hy en spreeckt hier niet vant Avontmale, maer vande salighe ende eeuwighe ghemeynschappe, die wy moghen hebben sonder Avondtmael te ghebruycken. Siet ghy nu wel dat ghy de Heylighe Schrift niet een hayrken beter en verstaet, dan uws Meesters schriften? Hy seydt daer selve dat de Heere daer niet en spreeckt van't Avondtmale, ende datmen de salighe ghemeenschappe Christi mach hebben, sonder het Avondtmael te ghebruycken. Wat segghe ick doch anders? wat wederspreeckt ghy doch anders? ende wat is ons gheschil nu doch anders? Dat ghy spraect van't nootlijck ontbeeren komt mede al uyt opt selve. Want ghenomen of ick ter plaetsen ware, daer men het Avondtmael niet en hieldt, na de ordeninghe Christi soude my dan het niet ghenieten vant Avondtmale oock verdoemelijck zijn?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Dat en segh ick niet, want dan en werdt het niet ghelaten uyt verachtinghe.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholyck.</hi></p>
+<p>Neemt nu, of ick seecker ware, dat ick noch niet en hadde het rechte verstandt van't Avondtmael, daer af soo menigh honderdt Boecken zijn gheschreven, dat het overlesen van de selve, alle mijns levens tijdt op eten soude: moeste ick dan, door dien ick het Avondtmael niet en genoodt, dat is, om dat ick niet stoudt, vermetel ende Sodt waer in't aennemen van't onbekende voor bekendt, verdoemt wesen? Neemt oock, of ick noch onseecker waer, welcke vande vier Kercken de ware Kercke sy: ende volgens
+
+<pb ed="fol." n="ccc xlviv"/>
+dien oock niet en wiste, waer het Avontmale rechtelijck werdt uytghedeelt: soude my dan het niet willen ontfanghen sonder gheloove ('t welck sonde is) in soo wichtighen saecke noch al verdoemelijck zijn? Voorwaer even soo weynigh, als een die gaerne ghedoopt ware (na de ordeninghe Christi) ende sulckx niet connende bekomen, onghedoopt sterf: soo ick u terstondt uyt Calvijn bewesen hebbe. Ghyluyden merckt weynigh dat, soo het sichtbaerlijck teecken erghens wel mach wesen, sonder dat daer sy die (de onsichtbare heyliginghe) alsoo mede de onsichtbare heyliginghe erghens mach wesen, sonder dat daer sij het sichtbare teken. Dit <note place="margin"><hi rend="i">Inst. xlvj. 14</hi></note>schrijft uwe Meester selve uyt Sinte Augustijn. Soo sietmen dat de Heydenen Iob, de besnijdenisse des Voorhuyts ontbeerde, ende hadde des herten besnijdinghe. Ende soo hadde Iudas het oprechte Nachtmael vander hant Christi selve, maer de liefde ontbeerde hy.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Al uwe woorden betoonen opentlijck dat ghy soo wel als Franck ende Swenckfeldt, een Godtloos verachter zijdt der Sacramenten.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholijcke.</hi></p>
+<p>Alle uwe woorden betoonen opentlijck dat ghy soo wel als Calvinus ende Besa, een bitter Schelder zijt vanden ontschuldighen. Want ick mijn ontschult hier inne dencke te betoonen, als wy tot Keysers-Weerdt, dat hier voor ons leydt, verlof sullen hebben.</p>
+
+</div>
+<div type="chapter">
+    <interpGrp><interp type="secundair" value="simo021"/></interpGrp>
+<head rend="h3"><hi rend="i">Het vierde Ghespreck.</hi></head>
+
+    <p>&nbsp;</p>
+<p rend="speaker"><hi rend="i">Confessionist.</hi></p>
+<p>WEet ghy wel, dat ghy desen Man terstondt voor Keysers-weerdt aenseydet, dat hy met Franck ende Swenckfelt een verachter is der Sacramenten?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Seer wel, ende dat segh ick noch.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Ick moet nu ooc seggen dat ghy my noch al goetlijck handel na het ghemeen ghebruyck.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Wat ghebruyck?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Elck bekladdet ghemeenlijck een ander met zijn eyghen dreck: Dat ghy alle drie schuldigh zijt aen het Sacramentschenden is u rechts boven Sonst by my bewesen. Met dit leelijck vuyl van Sacrament-schenderye en bekladdet ghy my niet, maer met een minder vuyl, te weten, verachtinghe der Sacramenten, handelt ghy my dan niet goetlijck? Dit valt my des noch te lichter om dulden, dat ghy't onrechtelijck van my seght, ende sulcx gheensins uyt mijn woordt hebt moghen trecken.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Voorwaer die maer eens en heeft ghelesen de Corte wech-wijser, daer inne Franck ende Swenckfelt met haer eyghen verwen zijn beschildert, die sal, hoordt hy u maer een weynigh spreecken, terstondt moeten seggen, dat ghy met henluyden volkomentlijck eens zijt in alle stucken.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholijcke.</hi></p>
+<p>Die u hoort sal haeft mercken, dat ghy niet min stoutelijck dan onwaerachtelijck oordeelt, van den ghenen die niet u, maer zijnen Heer staet ende valt. Ick vinde in Franck, in Swenckfelt ende oock in allen <note place="margin"><hi rend="i">Of Franc ende Swe</hi>n<hi rend="i">cfelt Sacrame</hi>n<hi rend="i">t schenders zyn.</hi></note>wat goets, dat my behaecht: ben icks daeromme oock met u allen eens in alle stucken? vryelijck neen, want in u allen, oock in Franck ende Swenckfelt, vinde ick wat quaets dat my mishaecht. Maer dat ghy, oock mede de Corte wechwijser, in u bitter lasteren van die Mannen opentlijck doet teghen den vruntlijcken aert der Liefden, can elck die haer goedighe aert verstaet, lichtelijck verstaen. Het dunckt my oock tegen de waerheydt immers in Franck, welcks Boecken ick meer dan des Swencfelts hebbe gelesen. Oock en betamet niet voor u luyden, die selve den balck van Sacramentschenderye hebt steken in u ooge, henluyden den splinter te willen uyt trecken.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Wilt ghyse dan verantwoorden.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Dat soude by rechtverstandigen my wel soo eerlijck zijn, als ick het achterklappigh beschuldighen. Ende hoe wel moghelijck meer verstandts dan in my is, daer toe behoeft, soo heb ick goetwilligheydts genoech omme des gewroeghden afwesendens sake, ten besten duydende, te verschoonen. Also en sie ick oock in dat gantsche Boecxken van den Corten wechwijser, ofte ( om recht te segghen) faem-roovende achterklap, nerghens eenighe eyghen woorden van Franck <note place="margin"><hi rend="i">De Brief aen Campanum Francken opgedicht Bese onschamele en</hi>de<hi rend="i"> openbare log</hi>en.</note>uyt zyne Paradoxis ofte andere boecken aenghetoghen te zijn. Maer hy komt doorgaens alleenlijck voort met eenen brief by Francks vyanden (soo ick anders niet mach mercken) na zijn doot hem op gedicht ende versiert, welcke valscheydt de Autheur van den selven wechwijser gheleert mach hebben van Besa. Die in zijn Boecxken van des grooten Calvijns doodt, sich niet en heeft gheschaemt met een openbaer leughen Castellione op te dichten, dat hy den Autheur waer, ende niet de Tolck vant boecxken ghenaemt de Duytsche Theologie. Niet teghenstaende meest allen Iarighen Boeckdruckeren ende vercopers, oock my selven opentlijck kondt is, dat dit boecxken al langhe voor dertigh Iaren in Overlantsche tale ghedruckt is gheweest met een voorreden Martini Lutheri, inhoudende dat het selve boecxken doen ter tijdt al twee hondert Iaren gheleden, ghemaeckt was gheweest tot Franckfort by een Coster vander Duytscher Heeren Oorden.</p>
+
+<pb ed="fol." n="ccc xlviir"/>
+    <p>&nbsp;</p>
+<p rend="speaker"><hi rend="i">Confessionist.</hi></p>
+<p>Trouwen, ick moet de waerheyt bekennen, dat icx nu al veertigh jaren geleden met sulcken voorreden Doctors Luteri in druck ghesien hebbe.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Ick hebber noch een in mynen huyse.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Sulcken handel en leert ghy gereformeerde niet vande waerheyt Christi, maer van den Vader der leugenen. Deser gelijcke onschamele ende tastelijcke logen is het eenige fondament vande lasteringen die de Wechwijser fenijnichlijck uytspouwet op den overleden Franck: mach dat fondament oock betrout worden by verstandighen? yemant, diet lust mach lesen inde voorreden van Francx Keyser Cronijck (ofte daer ontrent) hy sal daer vinden dat Franck den eersten Christenen hoochlijcken prijst daer inne, dat sy so vroom zijn gheweest, dat sy liever lijf ende goedt verlooren dan dat sy op der Heydenen Wieroecx-vat een graenken Wieroocx geleyt souden hebben, ende hy laet daer oock niet te beschelden onsen tegenwoordigen naem-Christenen, diet liever alles willen doen, dan haer Huyt in ghevare stellen. Dit weet ick warachtelijck, daer by Francken geschreven te zijn, komt dat ooc over een metten versieringhen die den Wechwijser hen op leyt? Ick weet oock wel dat uwe Leeraren dickwils 't een teghen het ander schrijven, ende dat daerom dit argument onvast schijnt: Hy heeft hier aldus gheschreven, dus is het valsch dat hy ergens anders soude gheschreven hebben. Maer dit valt in desen by Franc niet. Yemandt brenghe voort een woort uyt alle de Boecken by sijnen leven onder zijnen name ghedruckt, dat met dese lasteringhen over een komt, ende ick sal hem ghelijck geven. Maer dat overgeslaghen so ist wel moghelijck dat Franck ende Swenckfelt ghesten hebben dat de Kercken (na henlieder oordeel) grouwelijck vervreemt ende vervallen waren vander Apostelen Kercke: 'twelcke te sullen gheschieden al voorseyt was by den Apostel Paulo ja oock by den Heere Christo selve, daer hy vraecht: Of de Sone des menschen in zijn toekomste oock gheloove sal vinden op der Aerden, ende dat sy daer teghens ghene beloften altoos siende vande wederoprechtinge der Kercken (te weten in haer sichtbare ghedaente soo oock Calvyn selve leert dat de wederoprechtinge inwendelijc behoort ghesocht te worden) syluyden daerom met goeder wetenschap, sich onder niemants Ceremonien hebben connen begheven. Dit segghe ick noch is moghelijck by henluyden also ghemeynt: 't welck oft so ware en sie ick gheen redene datmen hen daeromme verachters der Sacramenten soude mogen noemen. Ick mercke wel datmen uyt eenige woorden ons Heeren vanden Doope, ende uyt eenighe woorden Pauli vande<hi rend="i">n</hi> Avontmale waerschynlijck mach trecken, dat de Christenen den Doope ende Avontmale totten laetsten dage moeten onderhouden: Maer daer by weet ic wel nergens inden nieuwen Testament ghelesen te hebben, daer sulck bevel van onderhouden claerlijck uytgedruckt staet, ende met so eygen woorden als men wel leest vande besnijdenisse, die menichmael tot een eeuwigh verbont op uytroedinghe werdt gheboden. Des niet teghenstaende heeft nochtans de Besnijdenisse moeten op houden. Also macht wel zijn dat Franck ende Swenckfelt siende sulcx inde Besnijdenisse die een uytdruckelijc eeuwigh bevel hadde, ghemeynt hebben dat dese Sacramenten die sy nu waenden ofte hielden vervallen te zijn, oock souden ophouden. Sy mochten dan oock dencken alsoo: Sal de vervallen kercken met Leere ende Ceremonien weder op ghericht werden, soo behoorde Godes wille in desen wel ontwijfelijc te blijcken, als die bleeck int weder oprechten van de vervallen besnijdenisse (die nochtans een uytdruckelijck eeuwigh ghebodt hadde) met een vernieut bevel, ende inde wederoprichtinge ten tijden Elie met een soo openbaren als heerlijcke wonderdaedt des Heeren. Nu en saghen sy inde H. Schrift gheen Prophetie, noch veel min bevel van dese wederoprechtinge. Sy sagen oock (so bethoont is)  dat de Leeraers van alle drie uwe gemeente onghesonden van selfs liepen in des Heeren Wijngaert: wat wonder ist dan, dat syluyden sich niet en hebbe begeven tot u luyder gebruyck van Sacramenten? wat reden heeft dan yemandt om Vranck of Swenckfelt te lasteren, om dat sy niet lichtveerdelijck alle geesten in so wichtigen handel conden gelooven? u Meester Calvijn seyt, dat de ghene, die inden name Christi de duyvelen uyt dreef int aennemen van sulcken Ampt (recht of dat sonder gheloove mocht gheschieden) vermetelijck hadde ghedaen: niet teghenstaende de selve vanden Heere wert verantwoort: Hoe mach dan hy Calvijn, of Luther, of Menno, of yemant anders sonder eenigh betoon van miraculeuse sendinghe (soo sy de ordinarise niet en hebben gehadt) behoorlijck hebben ghedaen int bestaen van so grooten werc, namentlijck vander wederoprechtinghe der vervallen Kercke Christi? wie mach schade lijden by het uytdrijven vande Duyvel? wie lijdt nu niet schade door dit indrijven vanden Duyvelen, van logenen van secten ende van partijdige twistigheden? sal dit behoorlijckheyt zijn, ende dat vermetelheyt zijn van Franck ende Swencfelt geen prijsens weerdigh, sy zijn immers niet lasterens weerdigh om dat sy niet lichtvaerdelijck gelooft, maer eerst voorsichtelijck geproeft hebben gehadt sodanighe vermetele geesten, of sy oock uyt Gode waren.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Ghy dringet hart opt bewijs vande sendinge, dat is in desen onnodigh, want sy hier inne na volghen het ghebodt ende exempel Christi ende zijner Apostelen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Dunckt u het weder-op-rechten eens vervallen Kercx dan so kleynen sake datmer geen commissie toe en behoeft ende bewijs van dien: waer leest men datte: men leest wel het wederspel inden terstont aenghetogen exempel van Iosue ende Elia, ja ooc sietmens aen Vsa, die noch maer de vervallen Arcke uyt goeden yver, maer sonder bevel, wilde onderstutten des de Heer toornigh wert, ende hem doode: Dat ghy seght vant gebot Christi in desen, heb ick nergens gelesen, Christus ende zijne Apostelen hebben een nieuwe kercke van Heydenen ende Ioden te samen, van
+
+<pb ed="fol." n="ccc xlviiv"/>
+nieus ghesticht, stichten u luyden oock een nieuwe Kercke, so volghen sy Christi exempelen: maer dat dan noch qualijck, ten sy dan sake dat sy doen blijcken henlieden sulcx van den Heere bevonden te syne. Dese blijck moet zijn met de H. Schrift, of met wonderdaden. Met der schrift en vermeuchdijs niet, noch veel min met wonderdaden.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Wat behoeft men blijck vande sendinge: nademael ons allen is bevolen, 'tgene der Apostelsche Kercke was bevolen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Waer leest men sulck bevel?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Gods woort is eeuwigh ende wat den Apostelen is gheboden, dat is oock allen Leeraren inde Kercke Christi bevolen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p><note place="margin"><hi rend="i">Actor. 16 39. Vant navolge</hi>n<hi rend="i"> der Apostolicher Kercken. Hermo. Mat. 10. 1</hi></note>Ist u al bevolen so moet ghy oock onderhouden het eerste en Ierosolimitaensche concilium, so moeten uwe Leeraren oock wonderdaden bevolen. Hier ghedenckt my by u  M Calvijn gelesen te hebben, ditte: Overmidt Christus door een selve middel gesamentlijck den Apostelen ordineert tot Predickers vanden Evangelie ende Bedienders der wonderdaden. In sulcker wijse, dat de wonderdaden niet anders en sijn dan Segelen vande Leere: so en ist niet gheoorloft desen onverscheydelijcken bant te breken, ende zijn daerom de Papisten valschaerts, die de wercken Godes schentlijcken corrumperen, daer inne dat sy het woordt scheyden vande wonderdaden. Dat schrijft Calvijn hier af, daer mede hy hem selfs, Luther, Menno, ende alle<hi rend="i">n</hi> andere<hi rend="i">n</hi> niet minder en beschuldicht, dan de Papisten. Ende behalven de wonderdaden, die uwe Leeraren willende der Apostelen exempel na volghen, mede schuldigh zijt te doene, so moesten sy der Apostelen exempel inde ghemeenschappe der goeden oock navolghen, die daer was eer de Kercke verderf. Sy moesten het openbaer prediken daer des gheloofs vyanden de macht hebben mede navolghen. Ia sy moesten hen oock daer inne na volghen dat sy voor of na de Doope den H. Geest souden doen komen op den gheloovers haerder leeringhe: want alle sulcx hebben d'Apostelen ghedaen. Ende <note place="margin"><hi rend="i">Hermo. Luc. 1. 22</hi></note>was het wonderwercken neven het Predicken henluyder uytdruckelijck bevel sulcx dat sy even soo veele ghehouden zijn int eene, als int andere, soo Calvijn oock noch elwaerts schrijft (soo my ghedenckt) op dese meyninghe: Als God twee ordinantien tsamen koppelt so en ist niet geoorloft die van ee<hi rend="i">n</hi> te scheyden, om d'een helft te doen ende d'ander helft te laten. Hebben nu Franck ende Swenckfelt door sulcke of diergelijcke oorsaken beweecht zijnde, dese wederoprichters sonder behoorlijcken blijck haerder sendinge te sien in soo wichtighen sake niet connen gheloven, ende daeromme stille willen staen inde sake vande Sacramenten, wie sal henluyden deshalven, soo ghyluyden ende de Wech-wijser doen met eenighe redenen moghen lasteren? </p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Soo soudemen wel alle dinghen konnen gloseren, maer ten doet alles niet, Vranck ende Swenckfelt zijn daer inne onbescheyden gheweest, soo ick u mede bevinde, dat sy de wonderdaden eysschen, tot blyck vande sendinge, recht oft de verscheydenheyt van des Kercx ouderdom daer inne geen veranderinghe en brachte.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Dat en mercke ick niet, maer sie wel dat Calvijn selve de wonderdaden noemt seghelen vande Leere, so terstont geseyt is, die hy oock seyt aen de Leere ghekoppelt te zijn, sulcx dat hy den Papisten, om die daer af gesondert te hebben, valschaerts noemt, boven dien so de wonderdaden noch nodigh waren den Apostelen in henlieder tijden, na dat de Heere Christus soo menichvuldighe wonderdaden gedaen hadde. Hoe veel te meer zijn sy nodigh in dese tijden uwen Leeraren, die niemandt en weet (so men vande Apostelen wel wiste) Iongeren Christi te wesen? Calvijn seyt selve datmense niet vande Leere en mach scheyden: oft meyndy dat God verandert met des tijdts veranderinghe. </p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p><note place="margin"><hi rend="i">Institut. xj. 49.</hi></note>Gheensins, God en is niet veranderlijck, om dat hy (dit schrijft mijn Heere Calvijn daet leset wildy) tot verscheyden tijden verscheyden ghestaltenissen toe voecht na hy het weet elck nut te zijn. Al ist so dat de Landtman zijn ghesinde ander werck gheeft in den Winter dan inden Somer, soo en achten wy hem daerom niet onghestadigh te zijn. Van ghelijcken, indien de Huysvader zijnen kinderen anders inde jonckheydt ende anders inde Ionghelinghschap onderwijst, bevoocht ende handelt, soo en seytmen hem nochtans daeromme niet lichtveerdigh te wesen, ende zijn voornemen te veranderen. Ick heb oock ghelesen by den seer gheleerden Petrum Martyr dese rechte bequame gelijckenisse luydende aldus: soo my anders recht ghedenckt. Een Medicus gaf eenen krancken eenen dranck inne, daer door hy ghenas. Dese na vele jaren viel inde selve siecte, ende nam wederomme den selven dranc inne, sonder den Medico raet te vraghen. Het wordt met hem argher, hy komt totten Medicum, vertelt hem de sake, ende klaecht over zijnen drancke, dats gheen wonder seyde de Medicus, want ick en hebbe u dien Dranck niet gheordineert, ende siende den Man, verwondert te zijn, als die wel wiste dien raet sulcx vanden selven Medico ontfanghen te hebben ghehadt, seyde hy: ghy zijt nu van een ander Ouderdomme, ende van andere humeuren, dan ghy waert als ick u den dranck ordineerde. Nu verstaet ghy wel vrient dat de konst van Medecijnen veranderde, de remedie met der menschen tijden ende ghestaltenisse, deshalven niet veranderlijck en is. Also ist oock met Gode. Ende hier uyt machmen nu oock licht mercken dat Franck ende Swenckfelt oock ghy selve (als met henlieden hier inne eens zijnde) hier inne lelijcken doolt, overmidts u beestelijcke onbescheydenheyt.</p>
+
+<pb ed="fol." n="ccc xlviiir"/>
+    <p>&nbsp;</p>
+<p rend="speaker"><hi rend="i">Catholycke.</hi></p>
+<p>Dat en can ick voorwaer niet mercken, al sout ghy my oock een dierghelijcke noemen. Maer mercke veel eer u eyghen domheyt of onbescheydenheydt in desen. Want brenght ghy dese ghelijckenisse voort tot bewijsinge van u segghen: wie siet u domheyt niet, die niet en verstaet datmen met gheen ghelijckenissen yet mach bewijsen. Maer brenght ghyse voort tot verklaringhe vande ordentlijcke veranderinghe der Iootschen in Christen Ceremonien: wie en verstaet niet dat sulcke langhe ghepropheteerde met de veranderinghe onvoorseyde wederoprechtinghe van de selve Ceremonien gheen ghemeynschap met allen en heeft.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Neen so niet. Ick brenghe dese ghelijckenisse allenelijck by tot vertooninge datter nu inde laetste tijden wel veranderinghe mach vallen, inder Kercken  regiment ende Ceremonien, vander Apostelen tijden.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Dat en luyt niet qualijck, ende daer inne soude Franck ende Swenckfelt u gheerne recht hebben ghegheven. Want hier mede wordt u eyghen sake grontlijcken ghestoten ende henlieder sake ghestijft ende bevesticht: Souden Franck ende Swenckfelt sulckx hoorende met goeden bescheyde niet hebben moghen segghen tot alle dese wederoprechters, wie heeft u lieden doch bevolen ende gheleert inden Winter Somersch werck te doen, den Ionghelinghen kinderen lessen te gheven? ende den bedaechden dorren Mannen, receptien te gheven, die den Ionghen vochtighen menschen bequaem zijn? tot dit onbescheyden ghebieden, onderwijsen ende kureren en hebben sy van Christo voorwaer gheen bevel noch voorbeelt: Hoe moghen syluyden dan daer doch recht aen handelen? Ick bekenne geerne dat ick niet eyghentlijck en wete wat oorsaken Franck ende Swenckfelt ghebracht moghen hebben tot henlieder stiltstant in saken der Ceremonien belanghende: maer dat sy sulckx als ick nu gheseydt hebbe met grooter eeren souden hebben daer toe moghen voorwenden, kondt ghy nu selve wel verstaen ende mercken: souden sy dan daeromme (indien de saecke sich alsoo hadde) soo bitterlijck, hatelijck ende gantsch onchristelijck te schelden ende te lasteren zijn? Neemt noch daer by oft Franck ende Swenckfelt verkreghen hebbende het wesen daer af de Ceremonien schaduwen zijn, sich metten wesen vernoechden, sonder om de teeckenen met yemande te willen twisten: souden sylieden hierom als overtreders oft verachters der Ceremonien te beschelden zijn? u Meester (ick meyne Calvijn) schrijft wel naecktelijck dat die mensche de Ceremonien niet en overtreedt, die 'teffect oft vrucht van dien hout, ende de schaduwen laet varen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Dat schrijft hy vande oude Testamentlijcke Ceremonien, te weten van den Sabbath.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Die wil hy inden nieuwen Testamente oock onderhouden te sullen werden. Maer met u lieder Nachtmael bethoont ghyluyden wel dat ghy de Nieu-Testamentsche Ceremonien niet en hout voort wesen, maer voor de tekenen der dingen so was het ooc met den Oude Testamentschen. Wat doet dat nu ter saken, blijvet dan noch niet ghelijcke wel alleens ghelijck voormaels, al der besnedenen (na den lichame) herten niet en waren besneden: so en zijn nu al de Gedoopte de sonden niet ghestorven Dat ick dese meyninghe Francken toe betrouwe, ende gheensins der Sacramenten verachtinghe, komt door een ghelijckenisse die ick by hem hadde gelesen, te weten dese: De wijngaert-kransse dient tot aenwijsinghe, dat daersy uyt steeckt, Wijn veyl is inden keldere so nu yemant altijdt bleef staen gapen op den Wijncrans sonder inden kelder te komen die en soude des wijns niet genieten. Maer soo oock yemant door des Wijncransen aenwijsinge gecomen waer inden keldere, ende aldaer des Wijns soetigheyt selve ghesmaeckt hadde, die en soude van sich selfs nimmermeer lust moghen hebben om weder te rugghe te loopen van den Wijn tot het teecken. In dese gelijckenisse en can ick (onder verbeteringhe) geen misbruyck noch verachtinge bemercken der Sacramenten, die ghegeven zijn tot hantleyders ende aenwijsers der dinghen, den welcken sy moeten dienen, ende met die dingen der Sacramenten. Maer als men so seer gaept op het teecken, datmen het beteeckende dinc versuymt, so misbruycktmen de Ceremonien. <note place="margin"><hi rend="i">Oft minder quaet sy de Ceremonien te ontberen, dan te misbruycken.</hi></note>Dit misbruyck is soo schandelijck dat ick gheloove beter te wesen, datmen de Ceremonien ontbeert (alst immers niet anders en mach zijn) dan datmen die misbruyct. Want men canse niet sonder verderf misbruycken, maer wel sonder verderf ontberen, so gebleken is aen alle de Vaderen voor Abraham aen Israel inde Woestenye, ende oock tot Babilonien.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Daer hebbe ick wat teghen te seggen, als wy gedaen sullen hebben hier tot Orsoy daer by nu aen leggen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Ick salt geerne hooren.</p>
+
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Vijfde Gespraeck.</hi></head>
+    <p>&nbsp;</p>
+<p rend="speaker"><hi rend="i">Gereformeerde.</hi></p>
+<p>MY wondert noch al van uwe groote onschamelheydt die niet op en hout voor te staen sulcke openbare verachters der Sacramenten.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholyck.</hi></p>
+<p>My wondert van uwe groote vermetelheyt die niet op en hout met onwaerheydt uwen even-mensche te beschuldighen. Te beschuldigen segghe ick, ende dat noch in een sake daer inne ghy al schoon recht hebbende, selve meer zijt te beschuldigen dan sylieden.
+
+<pb ed="fol." n="ccc xlviiiv"/>
+Ten waer ghy wildet segghen dat het stille staen inde saken der Sacramenten betreffende arger waer dan de Sacramenten te schenden. Hebdy dan noch niet redens genoech om henlieder doen ten besten te duyden, soo hoort noch dese. Neemt dat sy met u gevoelen daer inne dat de Sacramenten inde Roomsche kercke verdorven ende besmet zijn: maer dat sy teghen u ghevoelen daer inne, dat u alder Leerders van selfs lopende, u Kercken geen recht gebruyck der Sacramenten en moghen hebbe<hi rend="i">n</hi> ende dat sy daeromme niet en sien waer sy erghens het rechte ghebruyck der Sacramenten souden moghen bekomen, wat soudet ghy dese luyden raden. Dat sy tegen henlieder gheweten u Sacramenten sondelijck souden ghenieten? Dat geloove ick niet, of soudet u beter hebben ghedocht dat Franck ende Swenckfelt elck soo sy ooc in allen niet eens ghesint en zijn een eygen Kercke hadden opgerecht om daer de Sacramenten na henlieder goetduncken te moghen genieten? Die dat wilde prijsen moeste noch prijsen het oneyndelijck vermenichvuldigen der Seckten. Want so doende soude ten laetsten elcke stede, gebuert, ja elcke huys een eygen Kercke ende een bysonder ghebruyck der Sacramenten hebben. Wat doch anders dan ditte? heeft den Swingelschen vanden Luterschen ende de Doperen van hen beyden af scheydende, eerst van een Kercke twee, ende daer na van twee drie ghemaeckt, was het dan niet beter dat sy vermijdende dese uytbroedinghe van dien Eyeren des veelhoofdigen Slangen Hydra oock mede verschoonende haren geweten soo sy gheen bevel van wederoprechtinghe en sagen stille stonden in dese hoochwichtighe sake, ende liever het gebruyck der Sacramenten ontbeerden dan dat sy die met nieuwe verwerringen ende Secten schenden ofte onteerden? Als wy tot Orsoy aen quamen, hadde ick gheseyt beter te zijn datmen de sacramente<hi rend="i">n</hi> ontbeerde alst niet anders en mochte zijn dan misbruyckte, daer komen wy nu op, ghy wildet daet tegen seggen, dat wil ick nu geeren hooren.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Wilt ghy wat segghen, soo behoort ghy u segghen te bewijsen: Ick gheloovet anders.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholijcke.</hi></p>
+<p>Ick sal dan bestaen, ende eerst wat seggen vande oorsaecke des misbruycx. Also houde ickt onmogelijck dat yemant recht soude ghebruycken eenigh dinck, sonder te weten waer toe het dienstlijck of nut zy. Houdt ghyt anders?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Neen, maer also.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Alle Ceremonien het sy Oude oft Nieuwe Testamentische, zijn den Geloovigen te onderhouden gheboden van Gode, om zijn selfs lust ende nut, oft alleen om der Gelovighen nuts wille.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p><note place="margin"><hi rend="i">Inst. xj. 41</hi></note>Mijn Heere Calvijn beantwoort dat te rechte wel in dese Institutien. Daer ist: Ick salt lesen: Rechts of die uyterlijcke ende verganckelijcke dingen Gode verlustichden ofte eenighsins affitieerden. 't Is nu al gheseyt
+
+<pb ed="fol." n="ccc xlvixr"/>
+dat Godt gheen deser dingen ghedaen heeft om sijn selfs wille, maer dat hy alle de selve om der menschen heyls wille, heeft gedispenseert ghehadt. Dat schrijft mijn Heere Calvijn. Doch niet dan van den Moysaischen Sacrificien ende Ceremonien.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Men moet dat oock verstaen van de Evangelische Ceremonien, of men moet segghen dat dese gheene uyterlijcke ende verganckelijcke dinghen sijn.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Dat en weet ick niet.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p><note place="margin"><hi rend="i">Loci contitude saera Capi. vi.</hi></note>Musculus Dusanus, een uwer geschickste Hoofden ende bescheydener (in mijn oordeel) dan Calvijnen ofte Beze, schrijft dat de ghever der geestelijcker gaven gheen uyterlijcke teeckenen en behoeft: Ende dat de geestelijcke dingen oock sodanigh sijn, dat zy wel sonder tekenen mogen gegeven worden, &amp;c. Ende dat zy ons t'onser hulpe sijn gegeven om onsen wille. <note place="margin"><hi rend="i">Mar. 2. 27</hi></note>Dat schrijft Musculus. Ende seker, gelijck de mensche niet en is om den sabbath, maer de Sabbath om de mensche: also en is de mensche niet om de Ceremonien, maer alle Ceremonien sijn om den mensche. De onwijse menschen, wanende dat Godt van selfs een groot wel behaghen, lust ende dienst geschiet aen de Ceremonien, bevlytigen sich sulckx dagh ende nacht, om God daer mede te hoveren, dat zy alle ware gerechtigheyt, <note place="margin"><hi rend="i">Iaco. 1. 27</hi></note>Godvruchtigheydt, ende barmhertigheyt aen Weduwen ende Weesen (dat de suyvere ende onbevleckte Godesdienst is) ter sijden stellende inde plaetse van Christen, Ceremonialisten worden. Maer de verstandige weten dat God volcomen is, dat Godt met gheender menschen handen wert gheeert, der menschen doen niet en behoeft, ende van niemanden yet mach ghenieten: Ende verstaen daerom oock, dat Godt de Ceremonien niet en heeft geboden om sijns selfs wille, maer alleenlijck om der menschen wille, om dat zy hen souden strecken een behulpsame voorderinghe tot harer saligheyt: Of wildy hier noch teghen seggen?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Neen, maer seght voort.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Ist niet een groote voordernisse tot des menschen heyl, datter eendracht sy inden waren geloove.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>'t Is.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Daer toe, of tot sulcken eynde sijn ons de Sacramenten van Christo ghegheven, so u <note place="margin"><hi rend="i">Insti. xvi. 19.</hi></note>Meester Calvijn selve schrijft: Te weten, om den sijnen in een ghelove ende eenderley belijdinge des geloofs te voeden.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>So ist oock.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Ter selver plaetsen schrijft Calvijn mede dat de Sacramenten bestaen in Ceremonien: Ia dat de teeckenen die daer ghegeven worden, Ceremonien sijn. Immers terstont daer aen noemt hy de Sacramenten selve Ceremonien.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Hy doet. </p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Heeft elcke verscheyden Kercke ofte Secte niet wat bysonders in haeren gheloove, daer door zy saligheyt verhoopt, die zy van den anderen kercken niet en mach verhopen?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Dat en weet ick bylo niet.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+    <p>Soo scheyden sich alle de Kercken sonder genoeghsame oorsake van malcander: als zy inde Kercke ende int geloove, daer zy eerst in was blijvende, wel hadden moghen saligh worden. Dan en hadde sich Luther niet behooren te scheyden vande Roomsche Kercke, Swinghel niet van de Luthersche Kercke, nochte de Doopers vande andere dry Kercken.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Laet ons dat so nemen, dat elcke gemeente saligheyt verhoopt in haren geloove, 'twelck zy hout dat in al d'ander ghemeenten niet en mach verhoopt werden.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholijck.</hi></p>
+<p>'t Is ooc sulcx, ende daer door scheldt elckander voor Antichristenen voor Sacramentschenders, voor ongelovige ende voor wereltschen. Nu en mach niemant lochen dat veel oneenigheyts gekomen is inden geloove, ter oorsaken van den Ceremonien, want dat ist alleen (om uyt velen een te noemen) dat den Swingelschen heeft gescheyden vanden Lutherschen: Daer ziedy nu het verderflijc misbruyck. Want 'tgene dat Calvijn selve schrijft ons van Christo gegeven te sijn, om ons in <note place="margin"><hi rend="i">Twist om Ceremonien: oorsake der Secten.</hi></note>een gheloove te voeden, te weten de Sacramenten, is nu door't misbruyck der menschen geworden een oorsake ende voetsel van twist, gedeeltheyt ende verwerringhen inden geloove, ende van menighvuldigheydt der Kercken ofte Secten. Oordeelt ghy nu selve oft niet beter en ware de Sacramenten, hoe heylsamen ende gesonden wijn die oock mach wesen, als hy matelijck werdt ghedroncken, gantschelijck te ontberen met de alder eerste Kerck voor Abraham, nadien wy die nu immer niet matelijck en connen drincken, maer de selve schendelijck tot dronckenheydt ende verderf van onser zielen misbruycken: dan oft beter is de selve te hebben, ende so gantsch ergherlijck tot een lasteringhe van Gode, tot een vyandtschap tusschen de genaemde Christenen, tot aenstoot vande swacke conscientien, ende tot een dulle dronckenheyt in't oneyndlijc disputeren, werren, ende verderven der menschen Godlooselijck te misbruycken.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Ghy gelijcket selve niet qualijck by't misbruyck vande Wijn, maer ghy doolt daer inne, datmen de goede wijn om der quaden misbruyck behoort te ontberen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholyck.</hi></p>
+<p>Ghy doolt daer inne, dat ghy my niet recht en verstaet noch antwoort. Ick spreecke niet datmens behoort te ontberen, maer segghe datse beter is te ontbeeren, alsmense immers niet recht kan gebruycken, dan te misbruycken. Nu mooghdy niet ontkennen datmense nu ter tijt (immers onder den uwen gheensins) niet recht en can ghebruycken, want ick dit nu dickmael bewesen hebbe, jae de sake roepet luyde, ende bewijset selve welc misbruyck meest is by den Leeraeren selve.</p>
+
+<pb ed="fol." n="ccc xlvixv"/>
+<p>By u meester Calvijn heb ick ghelesen dese meyninghe: maer voor al moetmen acht nemen dat om uyterlijcke Ceremonien niet gestoort en wert des Geloofs eenigheyt. Het is een zieckte by na in elcken gemeen, dat men de Ceremonien ende Elementen deser Werelt (soo Paulus die noemt) meer dan't behoort toe-schrijft, &amp;c. Daer uyt volght seyt Calvijn voorts noch een ander quaedt, van bitterheyt ende hovaerdigheyt: Dat is, dat elck gaerne alle de Werelt dringhen soude te doen, so hy doet. Behaeght ons eenigh ding, wy willen terstont daer een reghel al maken, op dat de andere na onsen kop leven souden: Dat schrijft u meester, ende dat niet qualijc, gave Godt dat hy hem selven daer inne oock gehoort ende naghevolght hadde, hy en waer niet bloetschuldigh geworden, ende minder menschen waren verlooren geweest door het misbruyck der dinghen die hen tot voorderinghe haerder behoudinghe gegeven sijn geweest. Ende dit is voorwaer het schadelijck misbruyck dat hy't oock selve minder heeft connen vermyden dan beschrijven, daer hy seyt also: Die nemen de dinghen qualijck de <note place="margin"><hi rend="i">Harmo. Mar. 2. 27</hi></note>welcke verkeeren tot schade ende verderffenisse der menschen den Sabbath die God tot der menschen nut heeft geordineert. Volght ist niet zottelijck het voornemen Godes verkeert, alsmen de onderhoudenisse des Sabbaths eysschet tot schade der menschen, den welcken hy wilde dat zy nut soude wesen. Denckt nu mede of ons het Avondtmael niet en behoort te dienen, ende oock is ghegeven tot voorderinghe vande broederlijcke liefde, ende eendrachtigheyt, so door de gelijckenissen van de vereenighde Koornkens ende Druyfkens in een Broodt ende wijn, als oock door den bevele Christi van de Goddelijcke Liefde, ons in Christo betoont, te vermanen, om daer door in Christo oock malcander te beminnen: Ende dan ziende dat de listighe Slanghe ende twistighe Duyvel ons dat Heylsame Sacrament nu doet misbruycken tot bitteren hate, dootlijcke nydigheyt, twistighe Disputations, ende moordelijcke vervolginge suldy lichtelijc bemercken so behendighen Meester-stuck in de duysent Constenaren, als partydighe plompheyt in ons, die al Christenen ghenaemt werden. Wat dunckt u nu? Verkeert daer niet de geneselijcke Medecijn in verderffelijck fenijn door ons onverstandigh misbruyck? Die dit met rijpen ende onpartydighen ernst te recht insien en sullen Franck ofte Swenckfelt, die voor beter aen saghen de Sacramenten te ontberen dan te misbruycken daer inne soo <note place="margin"><hi rend="i">4. Reg. 18 4.</hi></note>weynigh ongelijck mogen geven: alsmen den vromen Coninck Ezechiam mach lachteren daer inne dat hy het seer treffelijcke gedenckteecken, so vande strenge straffinghe, als van de barmhertighe genesinge Godes, ick meyn het Metalen Serpent, als het door't volcks misbruyc henlieden tot verderffenisse diende in stucken heeft doen breken. Want dese luyden connen oock verstaen dat de Apostel Paulus op hielt van't Doopen, dat immers wel het voorneemlijcxste Sacrament is, alleenlijc <note place="margin"><hi rend="i">1 Cor. 1, 14</hi></note>om het misbruyck der Corintheren in dien: waer uyt, ende niet uyt des Apostels oprechte bedieninge, voort quamen, Secten en oneenigheyt inde Kercke, so datmen hier ooc opentlijck siet, dat de Ceremonien moeten wijcken, als daer door des gheloofs eenigheyt gestoort soude werden. Ende dat Paulus selve beter achte het Doopen achter weghen te laten, dan dat sulcx misbruyckt soude werden tot verderf der gheenre om der welcker nut het gedaen werde, dat ick segghe van ophouden ende achterlaten van het Doopen Pauli, merckt men daer aen claerlijck dat hy selve Gode danckt dat hy so weynighe gedoopt hadde: welcke danck spotlijck waer indien hy met het doopen hadde willen voort varen. Wat jammerlijcke ende verderffelijcke schade de Ceremonien u lieder spitsvoudighe verwerringe huydensdaeghs veroorsaken, en mach niemanden verholen sijn, dan die partydelijcke haere ooghen toe sluyten. Dats verre van vordeel te doen tot behulp vande ware Godtvruchtigheyt, sonder de welcke u Calvijn selve, de Ceremonien seydt voor Gode te wesen een zotheyt der kinderen. <note place="margin"><hi rend="i">Hermo. Mat. 16. 6</hi></note>Is dan sulcke kintsche zotheydt niet beter te ontberen, dan de Ceremonien tot het eeuwige verderf van ontallijcke veel onwijse Zielen te misbruycken? Men ziet oock doorgaens by de Propheten, dat God selve een walginghe heeft vande Ceremonien die hy selve hadde bevolen: Ende dit alleen om dat zy luyden die na henlieder eygen goetduncken leelijcken misbruyckten, meynende dat Godt een groot behaghen hadde aen't onderhouden van dien, welck misbruyck de Ceremonien voor Gode een grouwel maeckte. Wy ghenaken Berck, ende wil nu ophouden. Doch moet dat oock gheseydt sijn, dat ghylieden u selven swaerlijck vergrijpt in desen lachterlijcken achterclap teghen u even Mensche, voor den welcken so wel als voor u, de Heere Iesus Chriftus sijn dierbaere bloedt oock heeft vergoten, ende dit al sonder kennisse van saken, alleenlijc uyt eenen onwijsen yver soo 't sich nu daer inne bevindet dat ghy uwe naemschending met geenen schijn van waerheyt en weet te verdedighen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Al en vermoghen wy ongeleerden dat niet onse Leeraren soudent wel Meesterlijck vermoghen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Ia soo't met schelden waer uyt te richten. Doch geloove ick dat Franck ende Swencfelt, soo zy noch leefden, sich self oock al veel Meesterlijcker souden hebben connen verantwoorden, dan ick ongeleerde heb weten te doen. Nu dat laten wy daer, den Ake is aent Landt, wildy mede Maeltydt gaen teeren? Ghylieden sijt so wel als ick nuchteren.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Ia wy gaen met u.</p>
+</div>
+
+<div type="chapter">
+<head rend="h3"><hi rend="i">Seste Gespraeck.</hi></head>
+    <p>&nbsp;</p>
+<p rend="speaker"><hi rend="i">Broeder.</hi></p>
+<p>Ghy moet u niet belghen Vriendt. Ick hebbe u nu langhe hooren spreken, ende moet my verwonderen: Dat een Man, die soo als ghy van de Schrift weet te klappen, noch moetwillens mach blijven ligghen inden onreynen grote der afgoderyen, die ghy daghelijcks in de Roomsche Kercke moet pleghen.</p>
+
+<pb ed="fol." n="ccc lr"/>
+    <p>&nbsp;</p>
+<p rend="speaker"><hi rend="i">Catholycke.</hi></p>
+<p>Niet mijn lust, maer u alder vraghen heeft my tot het spreken dat ghy klappen noemt, veroorsaeckt. Maer wat konde hebt ghy doch van mijnen hanteringhe der Afgoderyen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Men weet wel wat int Pausdom om gaet, ende dat daer niemant en mach woonen sonder des Beests teecken te dragen ende den Brootgod te aenbidden.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Dat quaet vermoeden op my, en leert u die liefde niet die niet quaets en denckt maer alles ten besten duydet.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Haddet ghy de liefde Godes, het waer onmoghelijck dat ghy die grouwelen aenschouwen, ick swijghe hanteren soudet moghen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Wat weet ghylieden (segghe ick noch) oft ic 't gene ick quaet versta, getrouwelijc vermijde, en waer weet ghy my te wijsen daer ick het aenschouwen der grouwelen soude moghen ontlopen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Gaet uyt het midden van haer seydt de Schrift.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Maer sal die uytganck geschieden metten voeten, oft metten herten.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Met beyden.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Waer staet dat geschreven? het mach wel zijn dat ickx al doe metten herten: maer dede icks metten voeten, ick mocht tot argher loopen. Doch lees ick nerghens dat de Propheten, siende de Iootsche Kercke vol grouwelijcke Afgoderyen metten voeten daer uyt tot een ander Kercke zijn ghelooven. Maer neemt dat ick uyt de Roomsche Kercke wilde gaen metten voeten: waer henen suldy mijne gangen stieren.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Tot een van onse Kercken.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p><note place="margin"><hi rend="i">Insti. 3. 5.</hi></note>Dat zijn in mijnen ooghen geen Kercken maer Seckten, soo ick nu al meer dan eens hebbe doen blijcken. Ick bevinde dat ghylieden Gode niet na en volcht? daer inne dat hy (soo Calvijn selve Schrijft? niet soo veel en acht opten uyterlijcken schijne, als op der harten suyverheyt, maer mercke daer teghen dat ghylieden al t'samen veel meer feests maeckt vanden uyterlijcken schijn, dan van de suyverheyt des herten.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Die de siele heeft geschapen, heeft die oock niet het Lichaem gheschapen, moet dat niet so wel suyver zijn als de ziele?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p><note place="margin"><hi rend="i">Lu. 11. 40</hi></note>Die het lichaem heeft gheschapen (vraecht de Heere selfs) heeft die oock de Siele niet gheschapen: moet de Siele dan niet soo wel suyver zijn als het Lichaem? of is aen't Lichaem meest gelegen? of wildy datmen het gat inde hofe vlijtelijck toe naye, ende de wonden in het Been versuymende, laet verrotten?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p><note place="margin"><hi rend="i">Datmen het inwendige eerst sal reynigen. Matth. 23 26.</hi></note>Dat en segghe ick niet, maer men sal het eene doen ende het ander niet laten, men moet beyde teffens reynighen het Lichaem ende de Siele.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Dat leert ghylieden uyt u vernuft: maer de Heere leert ons anders inde Schrift. Die seydt wel uytdruckelijcken, reynight het inwendighe des Bekers eerst, op dat het uytwendige oock reyn werde, Christus en seyt niet (so ghy doet) van beyde teffens, maer vant inwendighe eerst, ende dat noch ten eynde, het uytwendighe reyn soude werden, sonder uyterlijcke reyniginge daer door werden: soo moet sy immers daer na volgen. Ghylieden leert ende doet rechts contrarie reynigende het uytwendighe ende latende het inwendighe vol dooder beenen: moochdy dat ontkennen een Phariseeusche leere ende werc te wesen? Dit verbiede my Christus, ghylieden leert ende ghebiet sulcx met woordt ende daedt. Daer tegen ghebiet my de Heere <note place="margin"><hi rend="i">Of men hier tot ware suyveringe des herten mach komen. Instit. xvij 11.</hi></note>het inwendighe eerst te reynighen, ende dit wederspreeckt ghylieden, ja ghy gheloovet niet moghelijck te gheschieden, ende dit heet met u lieden noch al een Christelijcke Leere. Siet ghy gereformeerde nu eens wat u meester daer schrijft: Dese verkeertheydt en hout nemmermeer op in ons, maer sy baert gestadelijck nieuwe vruchten, te weten de wercken des vleeschs, die wy hier voor hebben beschreven, niet anders dan een gloeyenden Oven die onophoudelijcke vlamme ende voncken van sich blaset, ofte een Ader die sonder eynde water uyt geeft. Want de begheerlijcheyt en sterft nemmermeer gheheel, noch en wert niet uytghebluscht inden menschen, tot dat zy uyt dit Lichaem des doodts verlost zijnde, sigh selfs gheheel hebben uytgetogen. Dat zijn Kalvijns woorden. Blijft nu na dit zijn segghen hier altijdt de quade grondt ende wortel inder herten, waer uyt, na ons <note place="margin"><hi rend="i">Matth. 15 19.</hi></note>eenighen Meester segghen, voort komen de quade ghedachten met alle de andere vruchten by den Heere aldaer vermeldet, die den mensche besmetten: Hoe mocht ghy-lieden Gheloove of Hope hebben, omme hier uyterlijck (ick swijghe innerlijck) reyn te moghen worden? Gelooft ghyt dan niet mogelijck, met wat ernst moocht ghylieden daer na trachten? Want dit is ghewis, dat niemant, hy en waer dan puer geck, yet bestaen sal te doen 'tgene hy onmogelijck acht te geschieden. Ick heb by Kalvijn ghelesen dese meyninghe. <note place="margin"><hi rend="i">Comme</hi>n<hi rend="i">t. Ioa. 10. 33</hi></note>De Heere en wil niet dat wy den moet laten ligghen, maer veel meer dat wy vromelijck strijden, 't welck niet en mach gheschieden, indien wy niet seker en zijn van den uytganck. Want moetmen strijden in twijfele, ende op aventuer, al onse affectie sal terstont verdwijnen. Dat zijn, goede Man, u Meesters woorden. Verdwijnt dan de affectie of de moet (soo hy recht seyt) om te strijden, alsmen vecht op avontuer ende onsekerheyt vanden uytganck des strijdts, daer nochtans eenighe hope is om te verwinnen: Hoe salt moghelijck zijn datter eenige affectie ofte moet om te strijden kan blijven in de<hi rend="i">n</hi> ghenen die gheen hope altoos en heeft om te verwinnen maer seker is van den uytganck, geloovende vast dat hy niet en mach noch en sal verwinnen? Ghylieden alle drie (soo ick noch mercke) ghelooft niet moghelijc te zijn dat dese innerlijcke reyniginge, die Christus ghebiet, in yemanden hier ter Werelt soude
+
+<pb ed="fol." n="ccc lv"/>
+gheschieden: Hoe kont ghylieden dan doch moedelijck daerom strijden? Meuchdy dan hier niet verkrijghen de innerlijcke reyniginghe die Christus selve stelt het middel te zijn om tot de uyterlijcke reyniginge te komen. Hoe ist u moghelijck sonder dat middel die uyterlijcke reyninghe te verwerven?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Men mach wel wat verkrijghen van de innerlijcke reyniginghe, maer gheheel geensins. <note place="margin"><hi rend="i">Pro. 20. 9</hi></note>Wie mach seggen mijn herte is reyn, ick ben suyver vande sonde?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Sulck vraghen is een wijse van spreken in de Heylighe Schrift betoonende, met de onmoghelijckheyt, maer de seltsaemheyt eenich dincx. Soo vraechde de Schrijver tot Ephesien: Wie en weet niet dat de Stadt van Ephesien een dienersche vande groote Diana, waren daer gheen Menschen inde Wereldt die niet en wisten of daer een Diana was? <note place="margin"><hi rend="i">Act. 19. 35 Prov. 20. 24.</hi></note>Ia soo vraeght Salomon in dit voorgheschreven selfde Capittel. Wat mensch mach zijnen wech verstaen? Soudy om dat dit by weynighen gheschiet, willen segghen, dat oock de Christenen int licht wandelende, ende alleen haers Herders stemme hoorende ende navolghende, haren Wech niet en verstonden? <note place="margin"><hi rend="i">Inst. 10. 38 Apo. 14. 5 Psal. 23. 4 Matth. 5. 3</hi></note>Maer dat alles overgheslagen, soo noemter u Meester Calvijn selve, een die segghen mochte: mijn herte is reyn: te weten Abraham, van den welcken hy schrijft (daer moochdy't lesen) dat hy Gode langhe hadt ghedient van reynder herten. Immers na het ghetuygh van den Geest der waerheyt inde H. Schrift mocht dat gheseyt werden, niet van een Mensche, maer van hondert ende vier-en-veertigh duysent Maeghden. Item de ghene die op sullen gaen tot den H. Bergh des Heeren (ende met voor-by-lijdinghe van veelen anderen) de ghene dien toegeseyt wort dat sy Gode sullen sien: namentlijck die suyver van herten zijn. Ten waer ghylieden soudt derren segghen, dat Christus dit spreeckt als van een Platonische Idea, te weten aldus: De menschen die noyt en waren, niet zijn, ende niet worden sullen, dat is, die suyver van herte zijn sullen Gode sien. Waer dat niet een openbare spotternije? <note place="margin"><hi rend="i">Instit. 10. 65.</hi></note>Wie mach Christo dat toeschrijven, sonder Godes lasteringhe te bedrijven? Sietdaer noch een plaetse, niet uyt de Goddelijcke, maer uyt u meesters schriften, houdende aldus: Hy wil henlieden (den Geloovigen) met ware suyverheyt versieren. Die het willen Godes affirmeert, die moet ooc nootlijck het moghen. Ia het werden of sijn affirmeren, oft hy moet Godes Almoghentheyt loochenen, dat zijn u Meesters woorden, die moochdy niet loochenen) ende volghens dien, oock gheensins dat de geloovigen hier reyn mogen werden, 'twelc ghylieden altsamen niet moghelijck en gelooft, hoe schoonkens dat oock u Leeraren al te met vande ware suyveringe der herten schijnen te spreken. Want op ander plaetsen, ja in de Hooft-somme van hare gantsche leeringhe lochenen sy, so rondelijck doorgaens de mogelijckheyt van dese ware suyveringe, dat sy oock den genen die sulcx mogelijck gelooven met veele schantnamen schelden ende lasteren voor Ketters, daer teghen dringhen sy stadelijck op de uyterlijcke ende Phariseeusche reyniginghe, daer by sy betonen dat de Apostel van henlieden spreeckt, daer hy seyt, dat sy wel eenen schijn hebben vande godvruchtigheyt, maer dat sy desselfs kracht versaken. Doch en was dat ons gheschille niet, <note place="margin"><hi rend="i">1. Tim. 20 9.</hi></note>maer ditte: te weten, oft de ziele, dan of het Lichaem eerst gereynight moet werden. Nademael nu de waerheyt selve Iesus Christus God ende Mensche, so geheel uytdruckelijck gebiet het innerlijcke eerst te reynighen: waert niet een hoveerdige vermetelheyt, dat menschen, die sich Christi jongers noemen, het rechte wederspel dorsten leeren? Nochtans sie ick dat u lieder Leeraren sulcx onschamelijck derren doen, dies ick my oock van soodanighe stoutheydt ende verwaende sotheyt moet verwonderen. Wat is dit doch anders dan Christum, dats de waerheyt selve, te loghen-straffen? Liever segt my doch, mach sich niemant uytwendelijck reynkens wachten voor alle Afgodische besmettinghe, ende daer by noch behouden een onreyn herte?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Ia vrylijck, dat doen alle hypocrijten en<hi rend="i">de</hi> dat deden oock Meesterlijck die Beschilderde Graven, ick meyn de Phariseen die deshalven oock vanden Heere te recht berispt waren.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholijcke.</hi></p>
+<p>Een reyn-schijnent lichaem magh dan noch inwendelijck een onreyn herte draghen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Het mach.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Maer so het inwendige reyn ware, moste het uytwendighe oock reyn werden: ghelijck men siet dat de roven oft schubben, der pockighe menschen, van selfs beginnen te verdorren, ende daer na af vallen, als het quade bloedt in henlieder verteert ende vernielt is.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Also ist, ende dat leert de Heere oock in u aengetoghen spreucke, daer mede dat het alles uyter herten komt, dat den mensche besmet. Want isser niet onreyns in 'tghene daer alle besmettinghen uyt voort komt, te weten int herte, soo moet oock nootsakelijck alle besmettinghe op houden?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Ghy antwoordt seer wel, oock verklaert dit de Heere sijn met de gelijckenisse van't Ooghe, daer hy seyt: des Lichaems Lanteerne ist Ooghe: Is u ooghe eenvuldigh, al het Lichaem sal licht sijn: maer is u ooghe een Schalck, 't gheheele Lichaem sal duyster zijn. Na dien de lichamelijcke, ofte uyterlijcke reyniginghe niet en mach met brenghen de innerlijcke: ende daer tegen de innerlijcke nootsakelijck met haer moet brenghen de uyterlijcke: Soo ist immers een openbare sotheyt datmen versuymt de innerlijcke reyniginge daer het al aen is gelegen, ende die voor al beneersticht behoort te werden, ende datmen de uyterlijcke niet min verkeerdelijck dan vlijtelijck gantschelijc te vergheefs is doch al het uyterlijck reynighen, so innerlijcke reyniginge niet al te voren daer sy.</p>
+
+<pb ed="fol." n="ccc lir"/>
+<p>Want soo't den reynen alles reyn is, soo is <note place="margin"><hi rend="i">Pro. 21. 8. <lb/>Tit. 1, 15.</hi></note>den onreynen gheen dinck reyn, Ia ooc haer gemoet ende conscientie niet. Calvijn selve, die soo onschamentlijck loochent de moghelijckheydt van de innerlijcke reyniginghe, sonder te mercken, dat hy teghen sich selven strijdet, schrijft uytdruckelijc dat God <note place="margin"><hi rend="i">Harmo. Lu. 11, 37</hi></note>niet en acht op de uyterlijcke reynigheyt des vleeschs, maer dat hy eyscht een Geestelijcke rechtvaerdigheydt van herten. Item, dat Christus int alghemeyn verdoemt dese doolinghe, datmen Gode diene met ceremonien, ende niet Geestelijck door den Geloove, ende met een suyvere affectie.</p>
+<p><note place="margin"><hi rend="i">Comme</hi>n<hi rend="i">t. 1 Tes. 4. 3</hi></note>Noch schrijft hy elwaerts, datmen Gode niet altoos en moet op-offeren, ten zy dan suyver ende heyligh. Voorwaer als ick dese plaetse lese, ende dan bedencke de voorghemelde plaetse, daer hy totten lichamelijcken doodt toe, alder menschen herte maeckt soodanighen brandenden Oven, vol quade begheerlijckheyden. So en can ick niet bemercken hoe hy teghen dese sijnen eygen (niet Godes) Leere, Gode heeft derren op-offeren sijn herte, dat so vuyl was ende onreyn. Men mach voorwaer qualijck van Calvijn gheloven, dat hy moetwillighlijck van sulcke onreynigheyt van alder Menschen herten gheloghen soude hebben. Dit moste hy nochtans gedaen hebben gehadt, so hy sijn eygen herte so onreyn niet en hadde bevonden, ten tijden hy dat van allen menschen, oock vande Christenen al t'samen schreef, ende hy uyt sijn herte (niet anders dan oft hy nu al de Reynste waer gheweest) de herten van allen anderen Menschen Oordeelde. Was sijn herte doen ter tijt dan so onreyn, soo en moghte hy oock gheen waer Dienaer Godes wesen, na dese sijne eygen sententie: Hier uyt volght, datter geen ware Dienaers Gods en moghen wesen, dan die sich Christo hebben gheapprobeert, maer zy en moghen sich Christo niet approberen, ten zy dan sake dat zy een suyver ende geheel gemoet leveren. Dit en moghte hy selve, noch en mach gheen ander mensche hier ter Werelt doen (na Calvijns Leeringe) so en moghte oock Calvijn, noch ten mach gheen mensch hier op Aerden een waer Dienaer Godes wesen. Luydt dat al wel? Was Calvinus gheen waer Dienaer Godes, hoe <note place="margin"><hi rend="i">Inst. x. 34</hi></note>moght hy een ghezonden Predicant Godes sijn? Siet hier in dese sijne Institution oock een merckelijcke plaetse, dienstlijck tot onsen voornemen. Want hy hier bewijst dat onse wercken onreyn moeten wesen, so langhe wy noch onreyn sijn: Ende dit uyten Propheet Aggeo, <note place="margin"><hi rend="i">Aggeo 12</hi></note>daer hy seyt: Also sal oock alle 'twerc haerder handen, ende alle dinghen die sy opgheoffert sullen hebben, onreyn sijn. Ende Calvijn daer nae, voort-halende de woorden Godes in Esaia, daer hy verwerpt des onreynen <note place="margin"><hi rend="i">Inst. 10. 35 Isai. 1. 58</hi></note>Volcx offerhande, ende Feest-dagen, als een grouwel ende hatelijckheydt, maeckt verhael vande vreese Godes. Segghende, dat sonder de selve alle dinghen die Gode werden gheoffert, niet anders en sijn dan stinckende vuyligheyden. Laet (seyt Calvinus) de Hypocrijten henen gaen, ende die boosheyt die binnen haere herten inghewickelt is behouwende, naerstigh sijn, omme met haren wercken Gode te behaghen, maer zy sullen hem des te meer tergen. Seker nadien Calvijn u Meester, ende ghylieden altsamen ooc mede, latende stadelijck de boosheyt int herte met uwe uyterlijcke vermijdinge vande quade ende vlijtighe hanteringhe vande goedtschijnende Ceremonien, Gode meynt te behaghen, ende eenen dienst te doen: Wat salmen u luyden oock anders moghen noemen, dan Hypocrijten die Gode terghen: Of heeft dit segghen Calvini alleen plaetse op den Roomschen, ende niet op de Calviniaensche Hipocrijten?</p>
+<p>Terstondt daer aen schrijft Calvijn noch aldus: Daeromme behoort de suyveringhe des herten voor te gaen, op dat de wercken die wt ons voortkomen goedertierlijck van hem ontfangen mogen werden. Daer staen u Meesters eyghen woorden: Leest selve, ende merckt of hy selve daer niet en seyt 'tgene ick nu voor sta, ende dat ghylieden wederspreeckt, also en twist ghy nu niet teghen my maer teghen u eyghen Leeraer, dats teghen uwen grooten Calvinum. My gedenckt ooc gelesen te hebben inde Annotationibus Beze op't 13. veers van't 9. Capit. Matthei, houdende: Ick wil barmhertigheyt, ende gheen offerhande, dese meyninghe: Dit is gheseydt by gelijckenisse om te thoonen, dat de Ceremonien Gode mishaghen, indien het herte niet en is suyver ende claer. Sodanich suyver herte mach geensins wesen by den ghenen die daer leeren oft gheloven dat hier eens Menschen herten suyver mach sijn. Want die een suyver herte heeft, ist onmogelijc te geloven dat het geen Mensche en heeft, gemerckt niemant buyten sijn weten een suyver herte mach hebben. Nu geve ick u te bedencken, hoe behaghelijck Gode moghen sijn de Ceremonien door sulcke u luyder onreyne herten gehanteert, ende oock mede hoe rechtelijck dat ghylieden doet, als ghy daghelijcx andere onreyne herten aenlockt, omme ghesamentlijck met u lieden Gode so mishaghelijcke Ceremonialen dienst te doen. Ghy siet nu oock wel so ghy wilt, dat alle u wterlijcke reyniginghe, u vermijdinghe van valsche, ende u hanteringe van goede gewaende Ceremonien, niet anders en is dan een Apen spel, Hipocrisie, valsche, ende mishagelijcke Godsdienst, Ia een grouwel daer door't herte geensins gereynight, nochte Godt gedient, maer wel tot gramschappe gheterght mach worden. Daer teghen is de inwendige suyveringhe voor al so noodigh, ende God so aengenaem, dat onse Zielen (so Calvijn selve <note place="margin"><hi rend="i">Com. 1.  1. Pet. 1. 22.</hi></note>sijns ondancx heeft moeten segghen) der Genaden niet ontfanckelijck en sullen sijn, tot dat zy gesuyvert sullen wesen. Wat baet dan doch alle u doen ende laten in Ceremonien, so langhe u Zielen noch onreyn blijvende, der Genaden Godes niet en sijn ontfanckelijck. Ia Calvijn seyt terstont daer aen noch: Dat de Inwendighe suyveringhe de principale is, ende dat zy noodtsakelijck met haer brengt de wtwendighe<hi rend="i">n</hi>. Gaet henen nu, ende segt meer dat ick ongelijck hebbe) als ick met den Heere Iesu Christo ons alder, ende oock met Calvino u Meester selve segghe, dat de inwendighe suyveringhe, als met haer brenghende die uyterlijcke, benaerstight behoort te werden, voor de uyterlijcke, die niet met haer en brengt de Inwendighe.</p>
+
+<pb ed="fol." n="ccc liv"/>
+    <p>&nbsp;</p>
+<p rend="speaker"><hi rend="i">Broeder.</hi></p>
+<p>Wy komen hier tot Burick, ende moeten daeromme dit spreecken laten, nochtans soude ick u noch wel een saecke willen vraghen, soo't u beliefde my te antwoorden.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Wat?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Datmen met goeden geweten het gebruyck der ware Sacramenten ter noodt mach ontberen, oock datmen de valsche (doch met gevaerlijckheyt) mach vermijden, ende datmen de innerlijcke reyniginge voor al behoort te benaerstighen, so nu gheseyt is, soude ick nu haest beginnen te gelooven: Maer hoe ghy u kondt vernoeghen int ontberen van de ware Predicatie, gemerckt de mensche niet alleen en leeft by den broode, maer by allen woorde komende uyt den monde Godts, en can ick gheensins begrijpen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Daer comt de Toller gaen, wy sullen hier (soo't schijnt) buyten ghewoonte spoedelijck af-komen, ende hebben noch tijts ghenoegh tusschen hier ende Embrick, (daer ghy mede wilt, so ick mercke) omme int langhe daer af te spreecken.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Dat sal ick van herten gaerne hooren.</p>
+
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Dat sevende Gespreck.</hi></head>
+<div type="section">
+    <p>&nbsp;</p>
+<p rend="speaker"><hi rend="i">Gereformeerde.</hi></p>
+<p>Daer drijven wy van Lande. Dese Man vraeghde u terstondt, hoe ghy u kondt vernoeghen sonder te hooren ware Predicatie, ende seker my verwondert oock seer, hoe ghy by den Swijnen woonende, ende niet dan Draf etende, den hongher uwer Zielen so gantsch mooght vergheten, dat ghy niet eens voor en neemt metten Verlooren Zone te keeren na u Vaders Huys (de waere H. Kercke) daer oock sijne Dienaren broots genoegh hebben, als ghy gebreck lijdet.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>'t Is al weder het oude met u, ghylieden zijt in uwen ooghen alleen Menschen, ende alle andere (niet als ghy gesint wesende) sijn onreyne Verckenen. Meyndy dan datter niet Menschen sijn ende Christenen, onder den Catholijcken, so wel als daer Hipocrijten en<hi rend="i">de</hi> Namenschenders sijn onder u Lieden? Dat de plaetse niemandt Godtloos en maeckt, heeftmen moghen sien aen Noe inde boose Werelt, aen Ioseph in Egypten, aen Loth in Sodoma, ende aen Daniel met meer anderen in Babilonien. Maer waer by weet ghy dat ick Draf eete?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>By onse, by der Confessionanten, noch by der Dooperen Predicatien koomdy niet, soo uwe woorden klaerlijck melden. Nu sijn de Papen niet dan Swijnen, ende eten selfs niet dan Draf der Menschelijcker versieringhe: Wat mooghdy daer dan noch anders tot spijse uwer Edeler Zielen ghenieten, dan Verckens Draf, Menschen Dreck, Ia Duyvelsche Leughenen?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Wat de Papen ende hare Leeringhen sijn laet ick henlieden selve verantwoorden: maer van my oordeelt ghy sonder kennisse: Want my en gebreeckt gheen Predicatie die waerachtigher is dan u alder Predicanten Ceremonien.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Confessionist.</hi></p>
+<p>Wat Predicatie meyndy daer met? Die Predicatie van uwen Swerm-Geest? Dromen? Gesichten?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Dat moet hy meynen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Ende ick moet meynen, ja weten, datmen van steeckelijcke Doornen geen smakelijcke Druyven, noch oock wt u lieder onvriendtlijcke herten, gheen Vriendtlijcke woorden en heeft te verwachten. Neen, soo niet, ghy doolt beyde in u vrymoedigh oordeelen. Ick meyne de Predicatien der Godlijcker schriften. Daer Predickt de H. Geest selve. Is dat een Swerm-Geest? Sijn dat Dromen? Is die alleen niet waerachtigher dan alle uwe Predicanten? Moghten de Apostelen na dat zy gepredickt ende wonderen ghedaen hadden: Ia oock Petrus selve na sijne treffelijcke belijdinge van den Heere Christo, noch doolen in soodanighen Hooft-Articule des Gheloofs, dat hy met d'andere Apostelen hoorende verkondighen dat de Heere van der doodt was verresen, die alder heylsaemste <note place="margin"><hi rend="i">Luc. 24. b. 11.</hi></note>ende waerachtichtste Boodschappe noch achten voor een Gecx-maer: Iae moghte Petrus na den Pincxter-dagh noch daer inne dolen, dat hy meynde dat de Heydenen noch gesloten soude<hi rend="i">n</hi> blijven buyten de Schaepskoy Christi: Liever seght my doch, welcken van u alder Predicanten, onder welcke niemant en is, die wonderdaden heeft gewrocht ende van de welcke gheensins en blijckt dat zy den H. Geest ontfanghen hebben (so van den Apostel Peter opentlijck blijckt) sal men in allen sijnen segghen ontwijffelijck mogen ghelooven? Het zijn alt'samen Menschen, ende missen noch ooc in velen dingen. Maer so en ist niet met de Canonike Schriftuere, want die Geloove ick in allen (al waer't ooc plat teghen alle redene oft vernuft) waerachtigh te wesen, hebbe ick dan niet al waerachtigher Predicant dan ghyluyden al te samen?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>De H. Schrift is onghetwijffelt in allen waerachtigh: Maer daer by oock in velen Duyster.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Confessionist.</hi></p>
+<p>Dat is zy doch?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Hola Vrienden, en weder-vecht u eyghen Leeraren niet, want dat Luther, Calvijn, ende Beza, tot velen plaetsen den Catholijcken om sulcx als ghylieden nu seght, hart schelden, ende seer arbeyden omme te bewijsen, dat de H. Schrift niet duyster en is, maer claer, blijckt doorgaens so claerlijck, dat des gheen bewijsinge altoos noodigh is, soo valt de bejagher in sijn eyghen strick. De lust die in u lieden is omme aldat ick segghe te wederspreken, benevelt sulcx u lieder Partijdighen Oogen, dat ghy doorgaens meynende my te berispen, uwen eyghen Leeraren berispet, ende wederspreeckt.</p>
+
+<pb ed="fol." n="ccc liir"/>
+    <p>&nbsp;</p>
+<p rend="speaker"><hi rend="i">Broeder.</hi></p>
+<p>Dats voorwaer seltsaem, leeren zy dat de H. Schrift klaer is, ende maken zy des niet te min so veele glosen ende Commentarien om de H. Schrift te verclaren? Willen dan die duysterlinghen met hare duystere Lampen, de Godlijcke Zonne, ende met haere blinde vernuft de claere Schrift (so zy die segghen) verlichten ende verclaren? Maer des niet te min, goede Man, so ontbeert ghy dan noch altijt de levendighe Stemme, die al wat anders is dan de stomme Letter.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholyck.</hi></p>
+<p>Dat en weet ghy oock niet, oft ick die ontbere.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Ick dencke immers niet dat ghy der Papen Sermoonen hoort.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Neen, nu in etlijcke Iaren niet, maer of ick dat dede, soude u dat so quaet duncken?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>So heb ick noch al recht gheseyt, dat ghy de Levendighe Stemme ontbeert, maer acht ghy't niet quaedt so openbare leughens te gaen hooren?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Van de Levendighe Stemme wil ick u terstondt antwoorden: Maer vraghe u nu oft zonde is, een der Papen Sermoonen te hooren?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Is dat met u gheen zonde so sijdy een volmaeckte Libertijn, die van gheen zonden, hoe groot oock, zonde maken.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>V ongebonden Tonghe oeffent het ghedult mijnder Ooren. Maer seght ghy: waer verbiedt de Heylighe Schrift der Papen sermonen te hooren? Wat swijghdy nu? Ick zie opentlijck dat ghylieden in velen dingen der Papen versleren Schoenen begint aen te trecken, henlieden pleeght ghylieden te schelden, om dat zy door haar menschelijk goetduncken op Conscientie verboden, het ghene in de Heylighe Schrift niet en is verboden. Ende nu begint ghylieden zonde te maken van het ghene de H. Schrift vrylaet. Ia de H. Schrift gebiedt dat met dese klare woorden: <note place="margin"><hi rend="i">1. Ioan. 4.</hi></note>Proeft de Gheesten of zy wt Gode sijn dan niet. <note place="margin"><hi rend="i">4. Thes. 9.</hi></note>Item noch: Den Gheest en wilt niet blusschen, de Prophetie en wilt niet verachten, maer proevet al, ende dat goedt is, dat behoudt, ende met meer ander sodanighe Spreucken.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Maer hoe soudt ghy die lasteringhen Godes moghen aenhooren, so ghy Gode volmaecktelijck lief haddet?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Van mijne volmaeckte Liefde tot Gode en heeft mijn Mondt u niet een woordt ghemeldet: Dus en sluyt u bewijsinghe niet, die ghy wilt halen wt mijne onvolmaecktheyt. Maer ghylieden selve leest wel met een vermaeckelijcke luste den spottelijcken Byenkorf, dien ick daer in u handen zie, daer inne vele grouwelijcke Godtslasteringhe verhaelt sijn, ende waer mede de Schrijver van dien aen eenen dooden (so men seyt) te Ridder heeft willen werden. Oock lesen uwe Leeraren selve de Decreten ende der Scholasticienen Boecken. Ist dan niet vreemt, dat u Lieder treffelijcke ijver ende liefde tot Gode sulcks in u selven mooght lijden, ende dat ghy so hatelijck scheldet ende lastert in anderen? soo gunstighen Rechter is nu elck hem selven.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Lieve seght noch, waerom laet ghy het hooren der Papen Sermonen, nademael het selve u gheen zonde, ende nochtans ghevaerlijck is?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Om aen u lieder Volcxken ende anderen de argernisse te vermijden, na mijn vermogen, ende om andere redenen my daer toe porrende.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Laet dat nu varen, ende antwoordt doch op mijn segghen van de Levendighe stemme die ghy seyt niet te ontberen, niet tegenstaende ghy niet en koomt in iemandes Predicatie: Want dat is my onbegrijpelijck.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Kondy dan niet begrijpen moghelijck te sijn, dat ick lesende met begheerlijcken aendacht inde Goddelijcke Schrift, somtijdts met mijn vernuftigh bedencken stille soude konnen staen, om te hooren wat de Heere door sijnen Gheest self in my wil spreecken. <note place="margin"><hi rend="i">Psalm 24. 9.</hi></note>Dit heeft de Psalmiste ghedaen, oft dunckt u onmoghelijck dat Godt een Zondaer, nu sijn ellendigheydt ootmoedelijck kennende, wech soude leyden in de eensame Woestijne sijnder ondeughdelijckheyt, ende hem daer <note place="margin"><hi rend="i">Oseas. 2. 14</hi></note>selve in sijn herte aenspreken? Dit heeft God Israel belooft ghehadt. Oft nu dan sulcx geschiede, dat ick onder dat minnelijcke inne spreken Godes na sijne salichmakende stemme luysterde, en soude ick seecker niet gheheel sijn sonder de rechte Levende Stemme, die oock het doode levendigh maeckt.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Ick hoor meer dan ick wiste, ende begeer nu meer te hooren dan ick ghehoort hebbe. Alderbeste Man, laet mijn plomp vraghen u doch niet verdrieten, ick meynt goedt, dat weet de Heere.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Gheensins, vraeght vry, ende wat ick daer af weet, wil ick gaerne antwoorden.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Ick mercke het lesen inde Godlijcke schrift niet gheheel onvruchtbaer in u te sijn gheweest: Dus verlanghet my wt u te hooren, in wat wijse ghy de H. Schrifture leest?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Gereformeerde.</hi></p>
+<p>Daer op suldy beter ende verstandigher aenwijsinghe vinden, in een cleyn bladeken vanden Boecken mijns Heeren Calvini, Beze, ofte Lutheri, die seer treffelijck ende Geleerdelijck daer van hebben gheschreven, dan ghy sult moghen vernemen wt een Schip vol woorden van desen Swermer, die niet min stout en is dan ongeleert.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Lieve, latet my doch hooren, soo't u niet en lust, wy sullen sachtkens spreken, om u lieder redenen niet te verstooren. Zeght doch, waerde Man: Wat veroorsaeckt of dringhet u tot het lesen der H. Schrifture?</p>
+
+<pb ed="fol." n="ccc liiv"/>
+    <p>&nbsp;</p>
+<p rend="speaker"><hi rend="i">Catholijck.</hi></p>
+<p>Wat veroorsaeckt ofte port een vallende ofte doolende blinde sijn hant te bieden eenen zienden, om gheleydet te worden?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p><note place="margin"><hi rend="i">VVat den gelovigen port tot het lesen van de H. Schrift.</hi></note>Het verstaen sijns blindtheyts, door't smertigh gevoel van sijn vallen, ende door't ongenoegelijc bevinden sijns dolens, 'twelck hem belet te bekomen ter begheerder rusten.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Soo dringhet my oock het verstaen mijns onverstants, door't smertelijck wroegen van mijn zondelijck vallen, ende door mijn onvernoeghde ontberinghe vande ruste mijnder Zielen, begheerlijck het oore te bieden de onderwijsinghe vande Wijsheydt Godes inde H. Schrift vermeldet sijnde.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p><note place="margin"><hi rend="i">Tot wat eynde de H. Schrift rechtwert gelesen.</hi></note>Tot wat eynde leest ghy de Schrifture?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Om kennisse te bekomen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Waer van?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholijcke.</hi></p>
+<p>Van mijn eyghen quaedtheydt, ende van Godes goetheyt.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Waerom begheerdy u quaedtheydt te kennen?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Om die inder waerheyt te moghen haten ende verlaten?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Waerom begheerdy kennisse van de Godlijcke goetheyt?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholijcke.</hi></p>
+<p>Om die in der waerheydt te moghen beminnen, ende aencleven.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Mach de Schrift u sulcke kennisse geven?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Ia, ende Neen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Dat versta ick niet.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Ick meyn Ia int vernuft ofte begrijp des Menschen Redelijckheyts: want de mensche daer uyt vele mach begrijpen, van sijn groote quaetheydt, ende van Godes overvloeyende <note place="margin"><hi rend="i">Letterlycke ke</hi>n<hi rend="i">nisse.</hi></note>goetheyt, maer dat niet van herten. Want dit is (om so te segghen) maer een hooft-kennisse, ende gheen hert-kennisse. Het is een Letter-kennisse uyt lesen oft hooren seggen, so de blinde heeft van de Verwen, zy baert gheen haet teghen het quade, noch gheen liefde tot het goede, ende blijft sonder alle beweginghe ofte sucht des herten. Daerom eenighe die kennisse niet qualijck een doode kennisse noemen. So om dat zy in den Mensche niet en baert het goede Leven: Als oock om dat zy in een bloot ende krachteloos vermoeden bestaende, het verboden quaet niet en mach volbrenghen, ende daeromme anders inden Mensche niet en werckt dan kennisse der zonden: wroeging, gequel, ende den doot. Sodanighe kennisse mach de Schrifture den <note place="margin"><hi rend="i">Levendighe kennisse.</hi></note>Menschen gheven, ende daerom seyde ick ja, want dit is oock al kennisse. Maer dat ick Neen seyde, verstondt ick by de levende kennisse des herten, die niet de Schrifture, maer de verlichtende Kracht des Gheests baert, niet in vernuft, maer in't gemoet ende Ziele des Menschen, soo levendigh, krachtigh, ende dadigh wesende, dat zy den menschen door ware ondervintlijckheyt van des quaets verderflijcke snoodigheyt, ooc van des goets heylsame hooch-weerdigheyt het quade soo vyantlijck uyt gantscher Zielen doet haten dat het den Mensche dan niet meer en mach lusten, ende oock het goede soo hert-grondelijck doet beminnen, dat hem niet dan goedt mach lusten.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Nu en versta ick u reden wederom niet met allen, want mach het lesen der H. Schrift niet baren dan een Liefdeloose, ende gheensins een levende ende Hertelijcke Kennisse, wat voordert dan het Lesen der Schrifturen om te komen tot de begheerde levende Kennisse.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Sanct Iohan ghevraeght sijnde, of hy Christus ware, hy antwoorde, Neen, ick en bens niet. Daerom en was sijn Ghetuyghnisse van Christo niet te vergeefs. Ondersoeckt, seyt Christus, de Schrifture, ghy <note place="margin"><hi rend="i">Ioa</hi>n<hi rend="i">. 5. 39.</hi></note>meynt dat ghy het Leven daer inne hebt, maer zy ist die van my getuyght.</p>
+<p>Siet, alsoo is ons de Getuygnis der Godlijcker Schriftueren een Tucht-meester, Aenwijser, ende Leydtsman tot Christum, als wy in onsen ooghen blindt sijnde, haer de handt bieden om ons te laten leyden tot Christum.</p>
+<p>So wees ende leyde oock Sanct Iohan sijn Iongheren van sich selve op, ende tot Christum, segghende: Ziet daer het Lam <note place="margin"><hi rend="i">Ioan. 1. 37 </hi></note>Godes, 'twelck twee sijner Iongheren hoorende, ende recht verstaende, haren Meester, Sanct Iohan, terstont verlieten, ende volgden Christum na, daer op hy henlieden selve hadde ghewesen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Ick hoore wat onghewoonlijcx, doch niet onschrifuerlijcx. Maer segt my doch voorts hoe ghy't door't ghetuygh der Schriftueren ghearbeyt hebt, om te komen tot kennisse van u quaetheyt, ende van Godes goetheyt, met so levende hate ende Liefde, dat ghy in der Waerheyt soudt moghen u selven verlaten, ende Christum navolgen?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Ghy dringt my by na tot Bichte. Doch mach icx niet berghen voor u begeerlijc herte tot welcx nut mijn spreken soude mogen gedyen. Voor al geloove ick vastelijck (so ick nu al eens hebbe geseyt) dat alle 'tghene inde Canonike Schrifture begreepen staet, waerachtigh is, al scheent oock op't uyterste plat teghen mijnen Natuerlijcken begrijpe. Daer beneven wiste ick waerachtelijck, dat ick noch so diep stondt in de duystere Speloncke mijnder zonden, dat ick sonder het Licht der ghenaden (dat my van selfs voorghecomen sijnde, sulck weten hadde doen hebben) noch my selven, noch Godt inder waerheyt geensins en moghte kennen.</p>
+
+<pb ed="fol." n="ccc liiir"/>
+<p>Daer by geloove ick noch ontwijffelijck, dat Godt begeerlijcker is, om ons dese waerheyts kennisse te geven, dan wy konnen sijn om die te ontfanghen. Soo betrouwe ick daer en boven vastelijck op de milde beloften by Gode ons wt genaden ghegheven, dat hy allen den ghenen die de kennisse en wijsheyt met een gheloovigh betrouwen van hem begheeren, den selven rijckelijck sal schencken. Soo wanneer ick dan by my selven t'Huys was, dat is, als ick mijnder Zielen saecke wackerlijck gade sloegh, bevant ick in der waerheyt mijn smerte onghenoeghen, duysterheyt ende onvermoghen. Dese bevonden noodt ende ghebreck dede mijn herte opstijghen tot Gode, dien ick dan hertelijck met betrouwen van verkrijghen badt, om kennisse der waerheyt van mijne quaetheyt ende van sijne goedtheydt. Hier ghevoelt hebbende, een hertelijcke tucht mijns ghemoets, met oock een troostelijcke hope van verwerpinge, opende ick de Bijbele, niet om schriftelijck te konnen disputeren, niet om schamperlijck eens anders gebreck te berispen, niet om wijs te schijnen voor den Lieden, of om een Schat van vernuftighe wetenschap in mijn hooft te vergaderen: Maer alleenlijck om my selven ende Gode, dat is, om't quade ende goede waerachtelijck te leeren kennen ende om'tquade hatende, te leeren laten, ende 't goede beminnende, te moghen aen-cleven. Vinde ick dan yet quaets verboden, ofte wat goets gheboden, ofte by yemanden ghedaen te sijn: So houde ick stille, ende onsoecke my selven, of ick sulck quaedt oock bedrijve, of ten minsten, of icx (so my oorsaecke waer gegeven) oock bedrijven soude. Bevinde ick ja: So treure ick over mijn bekende boosheydt, suchte hertelijck, ende bidde ootmoedelijck dat my de ghenadighe Godt van dat quade, door sijnen lieven Zoone wil verlossen. So gaet het my mede, als ick bevinde, dat ick niet en doe, het goede dat ick daer lese van Gode geboden, ofte by jemanden gedaen te sijn gheweest. Want dan houde ick oock stille, suchte, treure, ende bidde Gode om door, ende in onsen Heere Iesu Christo, met sulcker deught begaeft te moghen worden. Also werdt my de Heylighe Schrift een clare Spieghel van mijn quaetheydt, ende oock van Godes goetheyt. Want daer inne werdt my ontdeckt mijne zondelijckheydt, des ick dan aenmerckende, dat die Hoogh-weerdighe Majesteyt Godes, door my snoode aerdworm, so stoutelijck veracht sijnde, my niet alleen niet en straft na waerde, 't welck de Eeuwighe doodt soude sijn, maer daer tegen my noch bewaert, ende met sijn rijcke weldaden sijne milde goedertierenheydt bewijst: So moet ic in my selven uyt rechter schaemten verdwijnen ende te gronde versincken, voor die eerwaerdige vriendelijcheyt Godes, die my, snoode Zondaer, noch sijn vyandt sijnde van sijnen lieven Zone, so genadelijck heeft willen schencken, ende voor mijnen verschulden doodt, inden onschuldighen een bitteren doodt gheven. O dit is een minnelijcke ende salighe bedenckinghe. Maer vinde ick dan oock somtijdts iets goedts door de Kracht Christi in my ghedaen te sijn: Wat mach ick daer inne dan mede doch anders aenmercken, dan de Godlijcke goetheyt, van de welcke alle goedt sijnen oorspronck heeft: wat mach ick dan oock anders doen dan Gode hert-grondelijck bedancken van de miltheyt sijnder gaven, met ootmoedigh bidden, dat hy die in my beware ende vermeerdere: Nu merckt ghy wel hoe het Letterlijcke woort, oft de Schrifture een waerachtighe ghetuygher, ende het Levendighe woordt selfs Christus Iesus, een waerachtighe ghever is van de salighmaeckende kennisse der waerheyt.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>O dat de Schriftuere van gheenen Menschen op arger-wijse en werde ghelesen, daer soude min partijdighe twisten, ende meer Christelijcke Liefde wesen by den Menschen. Maer hoe maeckt ghy't, als u int lesen gemoeten eenige duyster-schijnende sproken: Als vande Drievuldigheyt, vande Predestinatie, ende diergelijcke diepe saken?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Ick arbeyde nimmermeer om te gaen binnen eenighe Deuren die ick noch ghesloten voor my bevinde. Wat my niet onder 't lesen inden lichte Godes van selfs opengaet, daer blijve ick willigh buyten. Dan dencke ick, dat my Leerling die Lesse noch te hooghe zy, ende stelle 't selve gelijck-moedelijck aen d'een sijde, sonder eenigh na-dencken te doen om dat te weten.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Laet u mijn onwijs vraghen doch niet verdrieten: Hoe langhe leest ghy gemeenlijck aen malcanderen?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Tot dat de nootdruft mijnder Huyshoudinghen my daer af roept: Of dat ick daer iet mercklijcx bevinde, dat my dan teghenwoordelijck noodtlijcker dunckt ghedaen te werden, dan het lesen.</p>
+<p>Neemt by gelijckenisse, dat ick onder 't lesen in mijnen ghemoede bevoele eenige merckelijcke in blick ofte ghesicht van mijn inwoonende zonde, sulcx dat ick een hatelijcke Vyandtschappe daer teghen ghevoele op te stijghen. Dan laet ick het lesen staen, speure dieper na 'tquade met sijnen oorsaecken, ende verneme eenen strijdt daer teghen, daer ick dan bevinde mijn verstants zotheyt, ende mijns kracht swackheyt, om 't quade te wederstaen: Also dringht de bekende noodt een suchtende ghebedt tot Gode. Ick verneme hulpe, ende dancke uyter herten. Als ick dan van't lesen scheyde, so erkauwe ick het ghelesene, nemende daer uyte 'tgunt my alsdan meest van noode is, daer af maecke ick mijne oeffeninghe, om dat te brenghen van't verstandt, inde hant, van't woort int werck, ende van't lesen int beleven, sonder die mijne Lesse te verlaten, tot dat ickse can.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Dat behaeght my niet qualijck, maer ick hoorde u schier segghen van u betroywen op Godes Beloften, daer op ghy u verlaet, ende Troostelijck Biddet. Nu zie ick dat alle Beloften niet en strecken tot
+
+<pb ed="fol." n="ccc liiiv"/>
+allen menschen, maer dat tot sommighen eer dreygementen sijn gedaen dan beloften. Daer by versta ick een sorghlijcke saecke te wesen, so yemandt noch onder den vloecke staende, sich der beloften aenneemt, hoe mach dan yemandt sekerlijck weten dat hem beloften sijn gegeven, ende oock hoedanighe?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Dat's wel gevraegh, want ick dacht van selfs daer af te spreken. Niemandt en mach sekerlijck weten wat hem ghedreyght oft belooft is van Gode: so langhe hy inder waerheyt niet en kent sijnen teghenwoordighen state. <note place="margin"><hi rend="i">Van de verscheyden staten der Menschen.</hi></note>Men vindt Zondaren ende Heylighen. Alle Zondaer is hardtneckigh of boetvaerdigh. De hartneckige werdt in der Heylighe Schrift genoemt een Godloose, ende niet gherekent inden Huyse Godes. De boetvaerdighe laet het quade uyt vrese van straffe ende is een knecht: Oft hy doet het goede, op hope van loon, ende is een huerlinck, ende so de knecht de quade zonde niet en hatet, maer de goede straffinge: Also en bemint de Huerlinghe de goede deughden niet maer hare goetheyts belooninghe. Dit zy op't kortste geseyt, tot onderscheyt vande zondaren: Die, so verre zy sulcx blijven ende sterven, sonder Liefden ter Deughden, gheen Erfgenamen en moghen sijn metten Kinderen Gods, in sijn Rijcke. Maer hier staet te mercken, dat uyt een cleyn ontfanghen pondeken van 't beginsel des Wijsheyts getrou wert bevonden een Huerlinck wordt, ende oock mede alsoo voortgaende, uyt een Huerlinck een Kindt Godes, door de middelen inder Schrift vermeldet. Dit Kindt is een Heylighe: alhoewel hy noch alles niet en mach verstaen, ende al 'tverstandt volbrenghen, overmidts sijn Ieughdelijck onverstandt ende swackheyt. Maer hy sal 't verstaen ende moghen volbrenghen, indien hy levendigh blijvende inden Lichame, der Manheyt ende den Ouderdom bereyckt. Maer sterft het inder joncheydt, het sal saligh sijn: Want dit Kindt is nu al van Godlijcker aert. Gemerckt hem 't goede nu also hertelijcken luste, ende 'tquade oock so hatelijck een walginghe is: Als hem voor dese salighe geboorte, het quade lustigh, ende het goede verdrietigh plach te wesen. De Ionghelinck ofte Man is sterck, ende heeft (so de Apostel schrijft) het quade verwonnen. Maer de Ouderlingh, dat is, die den volcomene Ouderdom Christi verreyckt heeft, <note place="margin"><hi rend="i">1. Ioan. 2.</hi></note>kent hem so hy vanden beginne was. Daer hebdy op't kortste, dat icx hebbe konnen segghen, van de ses staten van Menschen, die gevonden werden inden Bybel: Te weten, een hartneckigh Godtloos, een strafvluchtigh Knecht, een loonsuchtigh Huerlinck: Een goetwilligh Kindt, een stercke Iongelinck, ende een verstandigh Ouderlinck. Waer af oock mede van haren voortganck, uyt den eenen staet in d'andere, veel meer gheseyt mach worden, dan nu de tijdt, plaetse, ende ooren, moghen hooren.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Wat dreygementen ende beloften, komen op elcken van dese?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Den Godloosen grouwelijcke wee, den Knechten scherpe straffinghe, den Huerlinghen milde belooninghe, den Kinderen minlijcke vertroostinghe. In de vergevinghe vande bedreven, end wech-neminghe van de inwoonende Zonden, den Iongelinghen bystandt tot verwinninghe, ende den Ouderlinghen veylighe ruste. Aen desen onderscheyt is seer veel gheleghen, soo ghy int vraghen wel bemerckte. Ghelijck of yemandt hebbende een zieckte, die hy niet en kent, quame in eender Apoteken, vol Kruyden, ende Dranck, hem mede alle te samen onbekent sijnde, ende hy daer vermetelijck eenigh Kruydt ofte Dranck inname, teghen sijn Zieckte, soude daer door sijn zieckte veel eer verargheren dan verdrijven, als die veel eer Fenijn dan Medecijn teghen sijn zieckte innemen. Het welcke alt'samen anders soude vallen, so yemandt sijne Zieckte, Kruyden, ofte Drancken aert ende werckinghe recht verstaen, yet daer tegen inname, dat hy ghewislijck goet wist te sijn, tot verdrijvinghe der zieckten. Also gaet het mede met den Apoteke der Heyligher Schrifturen, welcker Spreucken ofte Kruytkens teghen der Zielen Krancheden misbruyckt sijnde, dootlijc Fenijn, maer recht gebruyckt sijnde, heylsame Medecijn verstreckt, voor allen krancken Zielen, des neemt een Exempel: Een onboetvaerdighe Zondaer, lesende een troost-sproke, treckt dit tot sich, verlaet sich onwijslijc daer op, ende verstreckt hem also tot een verhardinghe in sijn Godloosigheyt. Wederomme leest een ghebroocken boetvaerdigh Herte, van eenigh grouwelijck wee. Des neemt hy onbescheydelijck sich aen, daer door 'tghebroken herte vervalt in de vertwijffelde wanhope, alsoo verstreckt die Medecinale Schrifture beyde hare onwijse misbruyckers een doodtlijck Fenijn tot hare quale. Maer soo de Godloose nu sijnen state ende zieckte recht kennende, de ghenaden-sproken verliet, als niet tot hem ghesproken sijnde, ende tot sich name het bitsighe corozijf van't grouwelijcke wee, het soude sijn harde Aposteunie vermorwen, het vuyl sijnder wonden suyveren, ende hem tot een heylsame ghenesinghe dedyen. Van ghelijcken wederomme, indien sulck vertsaeght ende boetvaerdigh herte de scherpe dreyghementen, den Godloosen alleen gegeven sijnde, ter zijden stelden, ende tot sich trock de ghenadespreucken, so soude hy die Olye der barmhertigheydt, tot een vrolijcke versachtinghe sijnder smerten, ende lieflijcke verkoelinghe, ende tot sijnder Zielen ghenesinghe te recht gebruycken. So gaet het mede te wercke met d'ander voorgemelde staten elck int sijne.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Die bescheydenheyt behaeght my met allen wel: Maer vinde hier inne noch een swarigheyt.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Welcke?</p>
+
+<pb ed="fol." n="ccc liiiir"/>
+    <p>&nbsp;</p>
+<p rend="speaker"><hi rend="i">Broeder.</hi></p>
+<p>Het mach ghebeuren dat de mensche noch niet grontlijck en verstaet in welck der voorschreven staten hy nu begrepen staet, ende nochtans, als geerne gheholpen wesende, de Heylighe Schrift leset. Hoe sal dese uyter Schriftueren Kruythof een Kruydeken mogen plucken, dat hem voorderlijck mach zijn ende geensins schadelijck.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholyck.</hi></p>
+<p>Ick soude voor alle werck soodanighen Mensche raden te arbeyden met Godes genade, om zijnen staet grondtlijck te leeren kennen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Maer of hy voor die ghewisse kennisse te hebben, genootsaeckt ware eenige spreucken der Schriftueren tot sich te nemen: Wat sal hy dan hier inne doen?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>De eerste drie zijn hier inne dich twijfelachtigh, maer de laetste niet. Want dese zijn int licht, kennen hem selven, soo dat een kint Godes seker is, dat het een onwijs swack Kindeken is, ende mach sich daerom soo weynigh verheffen, ende den staet der stercken Iongelinghen aen nemen, als het weynigh vermach sich te vernederen in den staet der loonsuchtiger Huerlingen, daer inne het nu al is gheweest, ende uytghescheyden: soo dat hy versekert is dat hy nu uyt liefde doet, 'tghene hy voormaels om loon dede. Alsoo, ende door ghelijcke redene en mach sich de Ionghelinck soo weynigh verheffen, inde rijpe wijsheyt der Ouderlingen, als inde onwijse swackheyt der Kinderen, daer hy nu al door is ghegaen. Soo gaet het oock met ten Ouderlinck int zijne, die mach sich nimmermeer aen nemen 'tgunt hy nu al wel verstaet den eygendom alleen te zijn van't Hooft Iesus Christus: Ende en mach sich oock niet vernederen in des Ionghelinghs state, daer hy nu al is door gheleden. Maer geheel anders vallet met de drie eerste, die noch niet en zijn Kinderen des lichts, daerom sylieden oock moghen, ja moeten twijfelen ende dolen. Daer mach sigh de Huerlinck verwanen, ende des Kindts state aen-nemen, de knecht des huerlings, de Godloose des Knechts, ja oock des Huerlinghs Kindts Iongelinghs ende ooc Ouderlings state toeschrijven. Hier inne verlopen sigh jammerlijck vele Menschen, ende houdt groote menighten in haren Sonden ende verderven, want die maect <note place="margin"><hi rend="i">Ioan. 9. 41  1. Cor. 3. 2 Esaie. 65. 20.</hi></note>vroegh Meester, ende langhe Knecht, dit doet den Blinden meynen dat sy nu al sien, ende dit doet den onwijsen wanen dat dy weten, daer sy doch niet en weten soo men soude weten. Daeromme sy in hare Blintheyt ende onverstant verouderde Kinderen blijven van honderdt jaren, die van Gode vervloeckt zijn, want niemant doet arbeyt om te wesen 'tgunt hy nu al waent te wesen: Ende watmen niet en benaerstight te werden, dat en wert men niet.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Wat raet is hier teghen?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p><note place="margin"><hi rend="i">De nederheyt is seker.</hi></note>Dat de twijfelaer sich stelle, niet int hoogste, maer int nederste, wanneer hy immers met gheen sekerheydt het rechte middel kan treffen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Hoe meyndy datte?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Twijfelt yemant of hy is een Godtloos dan een Knecht, laet hem selfs de Godtloosigheydt toe schrijven. Twijfelt hy of hy een Knecht sy oft een Huerlinck, hy schrijve sich de Knechtschap toe, soo gaet hy seker. Dit sullen sy al doen, dien goeden raet volghen, meer dan haer Eersucht: Ende oock die liever hooren met eeren: Komt hier boven sitten vriendt, dan met schanden: sit daer beneden, daer moet een weerdigher dan ghy zijt, sitten. Hier en mach sich niemant vergrijpen, want de nederheyt is veyligh ende heyligh. De ootmoedige sullen verheven, maer de hoovaerdighe vernedert worden.</p>
+</div>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Dat achtste Gespreck.</hi></head>
+    <p>&nbsp;</p>
+<p rend="speaker"><hi rend="i">Broeder.</hi></p>
+<p>DAer tot Griet zijn die twee anderen op't Lant gegaen, dat my niet leet en is overmidts ick nu wat vryer met u mach spreecken tot Embric, daer wy moeten scheyden. V redenen behaghen my, de Leer daer ick inne ben mishaeght my, tot de Roomsche, Lutersche, ofte Zwinghelsche Kercke en mach ick my niet begheven. Dus ben ick t'onvreden als die my nu grontlijck versta qualijc te wesen, maer gheensins en versta waer ick sal gaen, om wel te wesen. Lieve Man, wat soudt ghy doch doen, oft ghy waert in mijnen state.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Dat ick nu doe in mijne state.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Wat doet ghy?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Ick vermijde so ick best mach, in zeden, in Leere, ende in Ceremonien, alle het gene ick seecker weet quaet te wesen: Ick beneerstighe, soo ick vlijtelijckste can, te doen alle 'tgheen ick nu ghewis weet goedt te wesen: Ende ick doe noch slappelijck, dat is: sonder troost ofte toeverlaet op te stellen, alle het gene ick noch aen twijfele.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>D'eerste twee saecken behagen my, maer 'tlaetste mishaecht my.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Waerom dat?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Wt een twijfel wat te doen is sonde, want dat en gheschiet niet uyten Geloove.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Is het verlaten ofte verworpen van een saecke niet soo wel een werck als het aennemen?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>'t Is.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholyck.</hi></p>
+<p>Soo moeste ick immers sondighen naer u eyghen segghen, so ick yet sonder sekerheydt ofte gheloove verliet, want dat waer immers oock wat ghedaen sonder gheloove. Boven dien soude ick niet verstaende wat ic verwerp ofte verliet, so lichtelijc wat goets, als wat quaedts moghen verwerpen.</p>
+
+<pb ed="fol." n="ccc liiiiv"/>
+<p>Is dan 't verwerpen van 't goede gheen zonde?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Oft ick nu  schoon al een wijle so met u dede, so moste ick my dan noch ten laetsten tot eenighe Kercke begheven welcke sal die sijn?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholijcke.</hi></p>
+<p><note place="margin"><hi rend="i">Hoemen sekerlyck mach weten welck de ware Kerck sy.</hi></note>Doedy als ick u segghe, so en sal u van gheenen noodt sijn sulcks een mensche te vraghen, noch so grooten saecke op eens Menschen raedt te bestaen: Aldaer sal dan de Waerheyt selve u so gewis verclaren, welck de ware Kercke zy, ende wat u te doene staet, dat ghy vrymoedigh nae haer bevelen sult doen, sonder angst van dolen. Int verkiesen ende aennemen van een Kercke, sonder voorgaende seeckere kennisse der waerheydt, valt verderffelijcke ende menighvuldighe doolinghen door den Menschen Zotheydt, het onseecker toestemmen, als of het gantsch seker waer. Elck wil kennen sonder licht, oordelen sonder kennisse, en aennemen sonder oordeel.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Nemet nu dat ick noch zitte, diep in een duystere Speloncke, ende dat ick sulckx wel wetende, u ofte anderen, die boven int Licht zitten, twijffelijck vraghe, waer aen ick die ware Kercke soude moghen kennen: Wat soudy my antwoorden?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Dat ghy terstondt soudt pijnen te scheyden uyt de swarte speloncke, ende boven by ons int licht komen, op dat ghy met ons aen den dagh selve de saecke sien, kennen ende oordeelen soudet mogen, want of ick u, inde speloncke blijvende, al schoon een Boeck reyckte ende ick tot u seyde: Daer inne suldy't vinden, Leset maer, waer aen ghy de ware kercke sult kennen: Soudy niet meynen dat ick uwer spottede? Soudy niet met recht seggen: Wat baet my het hebben van dat boeck, als ick het licht ontbere, sonder het welck ick het Boeck niet en mach lesen? Niet anders doet nu meest elck met het geven van hare mercktekenen vander Kercken, daer af de gemeynste ende voorneemlijcxste sijn, de ware Leere ende het rechte gebruyck der Sacramenten, doch komt het alles aen op de Leere alleen, want waer de suyvere Leere is, daer is oock (alst gheen Overheyt en belet) het rechte gebruyck der Sacramenten.</p>
+<p>Nu is om de Leere al de twist, elck seydt dat hy de suyvere Leere heeft: Wat is dat nu anders, dan d'eene onsekerheydt met d'ander versekert?</p>
+<p>Die de suyvere Leere selve kent, is so al van Gode gheleert, dat hy gheen Leeraers onderwijs en behoeft. Diese oock niet en kent, hoe mach hy de ware Kercke kennen? Wat is dit doch anders, dan oft yemandt vraghende, waer is de ware Kercke, ter antwoorde kreegh, daer de suyvere Leere is. Maer wederom vraghende: Waer is de suyvere Leere? Voor antwoorde ontfing: Daer de ware Kercke is. Soo doet men nu, ende hier met laet sich het onwijse nieu-gierighe Volck vernoeghen. Is dat gheen spotternie der Leeraren, ende zotternie der Iongeren, so en weet ick niet wat spot ende zotheyt is. Soudemen van so hoogh-wichtighen saeck so onsekeren duysteren ende twijffelijcken merck-teken stellen? Het merck-teken dient alleen daer toe, op datmen sekerlijck het ding soude moghen kennen. Wat voordert dan een merck, dat effen so quaet om kennen is, als het ding selve? Al veel sekerder merckteken heeft ons de Heere selve ghestel, te weten, <note place="margin"><hi rend="i">Ioa</hi>n<hi rend="i">. 13. 35 VVaerachtigh merckteken des Christen Kerckx.</hi></note>de Broederlijcke Liefde: Daer aen, seydt Christus, sullen zy alle kennen, dat ghy mijn Iongheren sijt, ist dat ghy malcanderen lief hebt. Dit sekere merck-teecken Christi laten zy alt'samen achter, ende stellen anderen daer voor.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Moghelijck om dat zylieden selve wel merckende dat zy dit merck-teken niet en hebben wel verstaen, so dat niet bevonden werde by henlieden, dat zylieden terstondt voor valsche Kercken ghekent souden worden, by het ontberen van dat merck-teken selve, indien sy dat stelden tot een merck-teken.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholijck.</hi></p>
+<p>Dat mach wel sijn, doch weet icx niet gewis, hoewel men dat wel ooghenschijnlijck ziet, dat zy al te samen haer Vyanden haten, ende malcanderen niet seer en lieven. Maer dat houde ick voor waerheyt, dat dit merck-teken der Kercken, van Christo ghestelt, seker is: Want de Hipocrijt can het alles sijn na-apen: Maer sijnen broeder lief te hebben is hem onmoghelijck. Dit zietmen oock wel aen den Kercken die nu meest sijn die soo hatelijck malcanderen oordeelen, lasteren, verdoemen, Ia (die de macht hebben) vervolghen, ende moorden, datmer gheen dingh min en can gevinden dan Christelijcke liefde maer wel Duyvelsche hate. Des niet te min al en vermach de Hipocrisie niet lief te hebben, zy vermach wel die Cains hate, te vermommen met een Verwe van Goddelijcken yvere, noemende haer eyghen felheydt, een Barmhertighe strengheyt, ende der Christenen goedertierenheyt, een wreede Barmhertigheyt.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Het gaet nu leyder so al te werck. Maer wat raedt soudt ghy jemanden geven, omme te komen tot seeckere kennisse van de waere Leere?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Dit is nu al beantwoordt. Hy moste uyt de duystere Speloncke van eyghen vernuft ende goetduncken treden, na het licht der waerheyt. Gelooft my, alle de ghene die soo stadelijcken blijven staen in dese Speloncke, en sullen nimmermeer komen tot kennisse vande ware Leere, al disputeerden zy oock duysent Iaeren int donckere. Sy moghen lesen, twisten, werren, ende tuymelen soo zy willen: Maer int doncker blijvende, en comt niemant tot het licht der verstandenisse. <note place="margin"><hi rend="i">2 Tim. 3. 7</hi></note>Dit sijn de lieden die (so d'Apostel schrijft) altijt leeren, ende en comen nimmermeer tot kennisse der waerheyt. Men moet uytgaen, te weten, uyt ons selfs, uyt ons vernuft ende eygen wijsheyt, ende men moet in simpelheyt, salmen te recht comen tot Christum, die het licht des Werelts is. Desen uyt-ganck en gheschiedt niet metter praet, maer metter daedt.</p>
+
+<pb ed="fol." n="ccc lvr"/>
+<p>Dit is de eerste Lesse, die onsen eenighen Meester allen sijnen Iongheren gheeft, dat wy ons selven sullen versaecken, ende hem navolghen. <note place="margin"><hi rend="i">Ioan 7. 27</hi></note>So wie het ernst is desen wille Godes te doene, die sal (seyt de Heere Christus selve) verstaen, oft sijn Leere uyt Gode is. Die dit verstaet, die verstaet oock te recht welcken Kercken Leere uyt Gode is, ende mitsdien oock wel welck de ware Kercke is. Maer dese voorschreven ernst en blijft niet rustende inde naeckte woorden, maer breeckt krachtelijck uyt inder daet. Want die in desen uytganck sijns selfs, ons vanden waren ende eenighen Meester bevolen, niet waerachtelijck en volherdet, ende niet so te recht in Christi woorden en blijft, dat hy dadelijcken hem self verlaet, en is Christi Iongher niet, <note place="margin"><hi rend="i">Ioa. 15.</hi></note>want hy doet niet na sijns Meesters bevelen, maer nae sijns selfs goedt-duncken. Ende sodanigher valscher Iongeren Christi, is nu de Christenheyt vol af, roepende, Heere, Heere, maer niet doende den wille des Vaders ende Christi. Wederomme so wie metter gehoorsamer daedt inden uytganck sijns selfs, volhert, ende in dese woorden Christi blijft, die is Christi Iongher, ja sijn Vriendt. Desen maeckt Christus de Waerheyt kondigh, ja hy openbaert hem alles, dat hy van den Vader heeft gehoort. Tot wien anders mach hy comen, die sich selfs recht verlaet, dan tot Christum selve? Wie is anders de waerheydt, dan Christus selve? Wie mach ons anders de ware Litmaten Christi (dat de ware Kercke is) recht condigh maken, dan het hooft selve? Die doet dit in sodanighen verlaters van sich selven, door sijnen Geest der waerheyt. Dit sijnse dan, die met sekere gewisheyt weten te onderkennen, by wat Kercke de ware Leere is, die zylieden grondtlijck kennen. Maer dit is allen anderen onmoghelijck: Als die sonder licht willen sien, ende sonder waerheyt kennen ende oordeelen. Waer't nu niet sekerder voor allen Menschen, dat zy dit onseker swermen, van de eene Kercke in de andere, eenmael verlieten, ende sich hielden aen sulcken sekeren middel, daer inne niemandt en mach bedroghen worden. Ist niet een moetwillighe zotheyt in so hoogh wichtigen ende gevaerlijcken sake, het ghene te volghen daer af zy selfs moeten bekennen gheen seeckerheyt te hebben: Ende daer teghen te verlaten het gene elck moet belijden een ontwijffelijcke sekerheyt te wesen: Wat is onsekerder dan Menschen te gelooven, ende op menschen woorden te betrouwen? Wat is oock sekerder dan Christum te ghelooven, ende op sijn Woort te betrouwen? Die wil dat wy ons selven eerst sullen verlaten, om hem dan na te volghen: Wie twijffelt aen dese eenvuldighe Leere? Maer wie volgt die? Sy schijnt te slecht. Elck werpt dese noodlijcke Lesse achter der Bancke, om te speuren, na hooghe ende diepe Lessen, elck wil lesen eer hy desen A. B. C. can: Elck wil de Godheyt, de Drievuldigheyt, de Predestinatie, ende diergelijcke hooghe Lessen leeren, eer hy hem selven can verstaen quaedt te sijn, can haten, ende can verlaten, om Christum recht te volghen. Ende elck wil beter ende konstelijcker disputeren van de hooghe mysterien des menscheyts Christi: dan hem soecken in de nedere verachtinge tot Bethlehem.</p>
+<p>Nademael nu Christus, die alle voor sijne Iongeren kent, die in sijne woorden blijven ende sodanighen sijnen Iongheren alleen de kennisse der waerheyt belooft ende toe gheseyt heeft: Ist niet openbare dolheyt, dat wy noch gheen Iongheren Christi, maer onser vernuftigheyt sijnde, meynen te moghen komen totte kennisse der waerheyt Wie merckt niet dat alle sulcks een verlooren moeyte zy? Wie verstaet oock niet dat het Leeren, van de eerste Lesse, Christi een so noodsakelijcke als behouden moeyte zy, die voor al moet gaen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Ick mercke nu beter dan oyt de wichtigheyt deser saeke, ende datmen sonder waerheyts kennisse sich gheensins behoort te begeven in eenighe Kercke: Daer inne sich de Mensche doodtlijck mach vergrijpen, maer datmen niet en mach dolen, int volghen van dese meynighe, te weten: Dat elck eerst getrouwelijck doe 'tgunt hy nu al seecker ende gewis is, waer door het onseker allenskens seecker wort. Dat is, dat niemandt en mach doolen int wt-gaen van sich selfs, want men zo doende, allencxkens naerder koomt int Licht, al en Disputeerde men niet altoos. Ende van ghelijcken datmen door al het disputeren of Lesen niet en mach voorderen, alsmen blijft staende inde oude plaetse, binnen de speloncke onser verduysterder vernuftigheyt.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholijcke.</hi></p>
+<p>Wy hebben nu van verscheyden saecken ghesproocken, Godt gheve dat ick waerheyt gheseydt, ende ghy de selve recht verstaen mooght hebben.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Aen beyden twijfel ick luttel.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>En maeckt ghy dan gheen onderscheydt tusschen de H. Schrifture, ende tusschen mijn woorden, die een mensche ben, ende verderffelijck mach doolen?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Ia ick, in trouwen, maer want ick niet anders en can bemercken, dan dat de Heylighe Schrift selve alsoo houdt als u redenen luyden, so mach ick daer luttel (segghe ick noch) aen twijfelen, maer aen het wel verstaen uwer woorden en twijffel ick niet altoos.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Daer aen en sal ick oock niet twijffelen, ist dat ghy my in't kort weet te verhalen de Hooft-saken alle onse Redenen, van den beginne af, tot nu toe.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p><note place="margin"><hi rend="i">Kort verhael van al de spraken.</hi></note>Mijn ghedenckenisse en is de ghetrouste niet, doch wil ick versoecken wat zy vermach. Also dunckt my dat ghy eerst hebt bewesen, dat de Luthersche soo wel als de Papen in haerlieder Nachtmael doolen: Dat de Luthersche, Calviniaensche, ende Broederen, qualijck Doopen: Dat de Leeraren alder drie Ghemeynten van Gode niet ghesonden en sijn omme te Predicken: Dat uyt der Lutherschen ende Kalvinaensche </p>
+
+<pb ed="fol." n="ccc lvv"/>
+<p>Leere schijnt te volghen, dat de Roomsche Kercke de ware Kercke soude zijn. Ghy hebt ooc betoont dat alle de voorgheschreven Kercken valsche Kercken moeten zijn: Ooc datmen sonder onderhoudt van Ceremonien ende sonder stemmelijcke Predicatien te horen, (alsmense niet oprecht en can bekomen) wel een Christen mach zijn: Dat Franc ende Swenckfelt onrechtelijc voor verachters de Sacramenten ghescholden worden: dat het beter is Ceremonien te ontbeeren, dan die te misbruycken: Ende oock, datmen het inwendige eerst moet reynigen. Dit hebdy bewesen, ende my noch boven dien bescheyden aenwijsinge gedaen, hoe men de H. Schrifuere vruchtbaerlijck mach lesen, oock hoe men ghewisselijc mach weten, het welcke de ware Kercke sy. Is dit niet de Hooftsomme, van al datter gheseyt is?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Catholycke.</hi></p>
+<p>Ia. Ghy hebbet recht onthouden, verhaeldt, ende verstaen. Gode geve u, my, ende allen goethertigen, so levendige kennisse van alle onse quaetheydt, ende van zijne hooghweerdighe goetheydt, dat wy ons selven waerachtelijcken haten, ende laten, ende hem gebenedijdt in zijnen lieven beminden Sone onsen Heere Iesum Christum, beminnen ende aencleven mogen, met geheelder zielen.</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Broeder.</hi></p>
+<p>Amen. Ic dancke u der goeder vermaninghen, ende voor al den Almachtighen goeden God, vande Godlijcke toestieringe van soo goeden gheselschappe, als ghy my hebt verstrect, van Ceulen af tot Embric toe, daer wy nu aenleggen, ende ic opgaende u sal verlaten soo my dunckt, dat ghy metten Aack voort op Arnhem wilt, daerom ick u nu bevele de Godlijcke Genade.</p>
+<p>&nbsp;</p>
+<p>E Y N D E.</p>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Nota.</hi></head>
+<p><hi rend="i">Om dat hier ledighe plaetse was, soo heeft ons goedt ghedocht dese Beschrijvinge vande ware Kercke ofte Gemeynte Godes, oprechte Godsdienst ende uyterlycke Kerc-oeffening) daer by te voegen, als het ter materie (ons bedunckens) dienstlyck is.</hi></p>
+<p>&nbsp;</p>
+<p>DE Ware Kerck is van sienlijcke Menschen na heur Geloove God alleen bekent, ten onsienlijcke Gemeynte, den Menschen diemen in den gheloove bekent te zijn een geestelijck vernieut uyt God geboren volck, die Godes geestelijcke Tempel zijn. Welcke Kerck niet en bestaet in uyterlijcke Sacramenten ofte teyckenen, maer in gelove, Godsaligheyt, algemeen eendracht ende liefde, de Siele ende merckteken van dit geestelijcke Lichaem, ende niet inde Ceremonien die uyterlijck wel met volcken verbint, met afsonderinge van anderen, maer niet met Christo ende d'onsienlijcke ghemeent, daer mede men vereeninght wort door den Geest, het ware geloove, ende de liefde, welcx vruchten den Menschen Gode aengenaem maken, oock sonder uyterlijcke teyckenen. Daerom is heur Godsdienst geen uyterlijck gebaer of Ceremonien, maer geestelijck, als van begin in des ghemoets oprechtigheydt, Godsaligheydt, suyverheydt, oeffeninghe der liefden, ende alle goetdadige deughden, want Godt die een gheest is, in sulcx wil ghedient wesen. Daerom sy doolen die op Kerck-oeffening te veel staen, want Godes inwendich wercken is alleen tot saligheyt van node, daer door hy de consientien vrijt, ende zijn gaven deelt oock sonder datse uyterlijcke teyckenen bruycken, welcx misbruyck nutter ghelaten ware na der vromer vermaning ende exempel, alse niet tot nut der menschen voorderen, so eertijdts metten teyckenen ghedaen is, om met des ghemoets ooghen d'onsichtbare dinghen te beschouwen, Godes beloften te betrouwen, die genoeghsaem zijn om den gheloovigen die Christum, het eenige van node hebben, sonder na yet anders te hongheren en<hi rend="i">de</hi> om hem te krijgen helpen de uyterlijcke dingen weynigh, maer alleen 't geloove, waer door men Christum aen neemt ende gheestelijck eet. Dit gheloof steunt op d'onsichtbare Gode ende ghenade, ende op gheen uyterlijcke dinghen die niets zijn, sonder des geests heylichmaking ende gelove. Ia Doop en<hi rend="i">de</hi> Avondtmael dienen tot geen vertroosting ende versekeringhe, want hy sulcx al heeft die ghelooft, ende die niet geloven sondighen te meer ende verachten de Sacramenten, door welcx vlijtigh hantere<hi rend="i">n</hi> sy schijnen willen datse niet en zijn door onghewisse tekenen die weynigh voor God gelden, ende daer elc nu meer om yvert, dan om het beteyckende, dat elck ten leven ende niet tot verderven strect. Hierom achten de ware Christenen groot den beteyckenden Doop, niet die 'tlichaem schoon wascht, maer de Siel van sonden suyvert ende in Liefde ontsteeckt, door welckx vrucht men in eendracht het rechte Avondtmael in geest ende gheloove Christum ten leven, geestelijck, eet. Of anders is teyckens gebruyck eenen valschen troost, afgoderye, ende schijn-yver, waer door sulcke verachten andere, die by ende met haer de uyterlijcke teyckenen niet en oeffenen, die men so wel sonder het beteyckende als dit sonder het teycken soude mogen hebben, met d'onsienlijcke genade ende in d'onsichtbare gemeynte Godes wesen. Voortijdts ghebleken aen de vrome Heydenen ende Ioden, die d'uyterlijcke Kerck-oeffening (die door Godes bevel doen ghepleecht werde) ontbeerden. Want Gods genade aen 'tuyterlijck niet is gebonden ende die vrucht behout, breeckt noch veracht die teyckenen, niet die hy voor hem self niet behoeft om volmaecktelijck God te dienen. Die (Godt) is onveranderlijck stelt na de waerheyt altijt eenerley wijse der saligheydt voor als na, onder verscheyden teyckenen maer enerley beteyckening. Want inde Wet zijn de Ioden oock dinghen by haer selfs goet zijnde, ende andere die wat beteyckenden gheboden gheweest, de welcke by offerhanden (ende Godt meest behaeghende) bermhertigheyt, dickmael uytghesproken werden, dewelcke wel uytghebluscht werdt door 'tyveren om 'tuyterlijcke daer door d'eendracht ghescheurdt ende argernis aengerecht wert, ende daerom niet onraetsaem schijnt, met nalatinghe van sulcx te strecken tot het ghene, doch als voortijdts, elck noch mach behouden.</p>
+<p>&nbsp;</p>
+<p>LEVEN.</p>
+</div>
+
+</body>
+</text>
+</TEI.2>

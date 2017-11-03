@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "http://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Twee-spraeck, of waerheydt vry maeckt?</title>
+                <author>D.V. Coornhert</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Twee-spraeck, of waerheydt vry maeckt?</hi> van D.V. Coornhert in de eerste druk van een uitgave uit 1631, getiteld <hi rend="i">Wercken. Deel I</hi>. De eerste druk van het oorspronkelijke werk dateert uit 1580.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr></corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">coor001twee04_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2012 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="clarin-edite">yes</note>
+            </notesStmt>	
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Universiteitsbibliotheek Amsterdam, signatuur: Cat. Ned. Lett. UBA 195</idno>
+                </bibl>
+                <p>D.V. Coornhert, ‘Twee-spraeck, of waerheydt vry maeckt?’, uit: D.V. Coornhert, <hi rend="i">Wercken. Deel I</hi>, Jacob Aertsz. Colom, Amsterdam 1631</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Twee-spraeck, of waerheydt vry maeckt?</title>
+                <author>D.V. Coornhert</author>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Twee-spraeck, of waerheydt vry maeckt?</title>
+                <author>D.V. Coornhert</author>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2011-12-21</date>
+                <respStmt>
+                    <name type="person">JV</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+<div type="chapter">
+    <interpGrp><interp type="primair" value="coor001twee02"/></interpGrp>
+<pb ed="fol." n="81r"/>
+<head rend="h3">Tweespaeck, Of waerheydt Vrymaeckt?</head>
+<p><hi rend="i">Dat is:</hi></p>
+<p>&nbsp;</p>
+<p>Of ware wetenschap van’t quade, waerachtelijck bevrijdt van ‘tquade: ende of men die mach hebben sonder te gebruycken?</p>
+<p>&nbsp;</p>
+<p><hi rend="i">Ghevallen tusschen Mr. Gerardt van Montainge, ende D.V.C.</hi></p>
+<p>&nbsp;</p>
+<p><hi rend="i">Ioan.8.31.32.34.</hi></p>
+<p>Christus sprack tot den Ioden, die in hem gelooft hebben: Ist sake dat ghyluyden in myn woorden blyft, soo suldy warachtelyck myn Discipulen syn.</p>
+<p>Ende ghy sult de waerheydt kennen. Ende de waerheydt sal u verlossen, etc.</p>
+<p>Voorwaer, voorwaer ick segghe u luyden: Dat alle die zonde doet, een knecht der zonden is.</p>
+<p>&nbsp;</p>
+<figure>
+    <p><xptr to="coor001twee04ill001.gif"/></p>
+</figure>
+<p>&nbsp;</p>
+<cf><p><hi rend="i">T’Amsteldam,</hi></p>
+<p>&nbsp;</p>
+<p><hi rend="i">By Iacob Aertsz. Colom, Boeck-verkooper op’t Water, in de Vyerighe Colom, 1631.</hi></p></cf>
+<p>&nbsp;</p>
+</div>
+<div type="chapter">
+<pb ed="fol." n="81v"/>
+<head rend="h3">Of ware wetenschap van’t quade, warachtelyk bevrijt van’t quade, ende of men die mach hebben sonder te ghebruycken.</head>
+<div type="section">
+<head rend="h4"><hi rend="i">Gesprake tusschen M. Gerardt van Montainge, ende Dirck Volckertsz. Coornhert.</hi></head>
+<p>&nbsp;&nbsp;&nbsp;<hi rend="i">M. Gerart.</hi></p>
+<p>Ick hebbe by na desen gantschen namiddaghe vande ware wetenschappeg hesproken met G.S. maer vindet niet dan ydele moeyte ende tijdt verlies. <hi rend="i">Coornh.</hi> Hoe dat <hi rend="i">M.Ger.</hi> Dat ick daer door niet bitter en ben, dan ick te vooren was. <hi rend="i">Coornh.</hi> Dat mach wel komen, door dien ghy’t niet recht en verstaet: maer daer uyt volght niet dat het in anderen, ’t selve recht verstaende, ooc ydele moeyte, ende onnut soude wesen: maer ick mercke dat u duncket het spreken van sulcx niet alleen onnodigh, maer oock mede onnut.<hi rend="i">M.Ger.</hi> Alsoo houde ickt. <hi rend="i">Coornh.</hi> Ick recht anders, <hi rend="i">M.Ger.</hi> Ghy houdet dan noodigh ende nut. <hi rend="i">Coornh.</hi> Ick doe, <hi rend="i">M.Ger.</hi> bewijst u meyninghe. <hi rend="i">Coornh.</hi> Ick sal: Ende eerst int alghemeyn, seght my: acht ghy saligh nut. <hi rend="i">Coornh.</hi> Is saligh worden oock wat anders dan goet worden? <hi rend="i">M.Ger.</hi> Niet anders <hi rend="i">Coornh.</hi> Machmen quaet blijvende goet worden? <hi rend="i">M.Ger.</hi> Geensins. <hi rend="i">Coornh.</hi> Wy zijn eerst al te samen quaedt. <hi rend="i">M.Ger.</hi> Wy zijn. <hi rend="i">Coornh.</hi> Wy moeten dan het quade ontworden, ’twelck de Schriftuere heet het quade, den oude mensche, die zonde te laten, te sterven) sullen wy moghen goet worden.<hi rend="i">M.Ger.</hi>Recht. <hi rend="i">Coornh.</hi> Niemandt mach te recht het quade ontworden, so langhe hy dat bemint.</p>
+<p><hi rend="i">M.Ger.</hi> Neen. <hi rend="i">Coornh.</hi> Alle quaedt werdt bemint, onder of door eenen valschen wane, dat het goet of lustigh, of nut zy. <hi rend="i">M.Ger.</hi> Noch seghdy al recht, <hi rend="i">Coornh.</hi> Soo langhe die valsche Wane, loghen, ende sulck verkeert oordeel inden Mensche blijft, ist hem onmogelijck het quade voor ‘tgene dat het is, namentlijck: voor leelijck, lastigh, ende schadelijck te kennen.</p>
+<p><hi rend="i">M.Ger.</hi> Onmoghelijck ist. <hi rend="i">Coornh.</hi> Het is den mensche oock onmoghelijck te verlaten, of dooden, ’tghene hy goet, lustigh, ende nut voor hem acht. <hi rend="i">M.Ger.</hi> Recht, <hi rend="i">Coornh.</hi> Soo volght oock dat het onmoghelijck is, dat yemandt het quade, door zijn verkeert oordeel noch goedt wanende ende noemende, inder Waerheyt mach verlaten, sterven, ende ontworden, <hi rend="i">M.Ger.</hi> Noch zijn wy’t hier inne eens, <hi rend="i">Coornh.</hi> Maer acht ghy niet datter tweederleye kennisse is? <hi rend="i">M.Ger.</hi> Welcke meynt ghy?</p>
+<p><hi rend="i">Coornh.</hi> Een die uyt inbeeldinghe ’t zy van hooren segghen, van lesen, ofte anders van buyten inne ghecomen is, ende een die of door onbedriechlijcke ratiocinatie, of experientie in den Mensche comt, <hi rend="i">M.Ger.</hi> Dat laet ick noch al toe, <hi rend="i">Coornh.</hi> D’een willen wy een onseecker Wanen: d’ander een seker Weten noemen. <hi rend="i">M.Ger.</hi> Soo doet, <hi rend="i">Coornh.</hi> Die waen mach, maer het weten mach gheensins veranderen: so dat Waen tot weten, maer weten gheensins te rugghe tot waen mach werden.</p>
+<p><hi rend="i">M.Ger.</hi> Hola: So hebdy my niet: Dat wederspreke ick, te weten: dat weten onveranderlijck soude zijn: Ghy treedt nu te verde, wy syn nu noch maer besich hier inne, te weten, of het spreecken van dese dinghen oock noodigh ende nut zy, dan niet? <hi rend="i">Coornh.</hi> Ghy vermanet wel, tot sulck mijn bewijs was dit mijn seggen oock streckende, maer siende dat ghy daer door meynt verrast te zijn, willen wy dat uytstellen tot hier na, en̄ nu wedercomen op’t laten van’t quaedt. Ghy laet my immers dat toe, dat sonder dooden ende verwinnen van’t quade, het quade niet en sterft, noch uyt den Mensche gaet? <hi rend="i">M.Ger.</hi> Ick laets u toe.</p>
+<p><hi rend="i">Coornh.</hi> Machmen oock wettelijk strijden, ofte met rechten ernst, tegen den genen diemen lief heeft? <hi rend="i">M.Ger.</hi> Neen, <hi rend="i">Coornh.</hi> Maer men strijdt vyandtlijck teghen diemen waerachtelijck haet. <hi rend="i">M.Ger.</hi> Alsoo, <hi rend="i">Coornh.</hi> Men en mach geen dingh waerachtelijck haten, sonder waerachtelijck te weten, dat sulck ghehate dingh, quaet, leelijck, schadelijck of lastig zy. <hi rend="i">M.Ger.</hi> Men en mach, <hi rend="i">Coornh.</hi> Soo volght nu dat gheen Mensche vyandtlyck het quade haten, bevechten ende dooden, dat is, sterven ende verlaten en mach, sonder ware kennisse van’t quade: mach dit niet zijn, ende en mach niemant goet worden, sonder het quade waerlijck te ontworden (‘twelck by u nu self bekent is) soo besluyt ick recht ende vast, dat het spreken van ware Wetenschappe (als oorsake ghevende om daer toe te komen) nodigh ende nude is, om saligh te worden, <hi rend="i">M.Ger.</hi> V besluyt is onvast, <hi rend="i">Coornh.</hi> Bewijst dat, <hi rend="i">M.Ger.</hi> Gaerne: De waen mach ‘tquade so wel doen verlaten als het weten, wie heeft niet ghemerckt datter vele Sectarisen uyt eenen blinden, ja valschen wane, hem self inden doodt willighlijck hebben begeven? <hi rend="i">Coornh.</hi> Niemant die een bejaert oordeel heeft, maer al laten sulcke het dierlijcke leven, so en laten sy daerom altsamen niet (immers geen van sulcke, in een valsche wane stervende) haer quade leven der zielen, ick meyn die sonde, ’tquade, ja hen selven. Want elck moet kennen dat die valsche wane vele menschē haer lijflijck leven (dat niet quaet is) heeft doen verlaten uyt wraeck, uyt eersucht, uyt vertwijfeltheyt, ende meer ander diergelijcke dinghen, die quaet zijn, ende die sy niet en verlieten. Seker als die valsche wane, het quade mocht doen verlaten, so mocht sy ooc haer selve doen verlaten, als wel het alderquaetste quaedt wesende. Dit en vermach sy gheensins. Maer waerheyt of seker weten vermach, ja doet dat altijdt in allen saken, daer af sy komt inden mensche, ghy en wilt immer van waen ende weten, gheen een selve dingh maecken? <hi rend="i">M.Ger.</hi> Neen ick trouwen.</p>
+<p><hi rend="i">Coornh.</hi> Is waen oock wat anders dan een twijfelijck vermoeden, ofte slap toestemmen eenigh dinckx, dat het sulcx zy, als die wane voo gheeft? <hi rend="i">M.Ger.</hi> Neen, maer dat is Waen. <hi rend="i">Coornh.</hi> Is waerachtigh weten niet een on-<pb ed="fol." n="82r"/>twijfelijcke ende sekere kennisse ofte verbeeldinge inden mensche, die het bekende ding van gedaente inder waerheyt gelijck is?</p>
+<p><hi rend="i">M.Ger.</hi> Het is. <hi rend="i">Coornh.</hi> Dese twee saken en zijn bylo gheen een selve dingh. <hi rend="i">M.Ger.</hi> Neen. <hi rend="i">Coornh.</hi> Want waen mach (so ick eerst seyde) veranderen in weten, ghemerckt sy in twijfele bestaet of vermoeden, maer so en ist niet met weten, want dat, als in sekerheydt bestaende, niet en mach veranderen int onseecker ofte waen. Neemt dat ghy my toe seght, over een maent twintigh Croonen te betalen, het goedt vermoeden in my van u vroomheydt, sal my vast moghen doen wanen, dat ghy’t ghewis doen sult: maer mach ick sulcx oock seker weten, voor dat die maent omghekomen zy, ende ghy my betaelt? <hi rend="i">M.Ger.</hi> Neen. <hi rend="i">Coornh.</hi> Die maent omghecomen zijnde, ende ghy my die twintigh Croonen betaeldt hebbende, sal die waen sulcx moeten veranderen in een seker weten, dat het my dan onmoghelijck is te wanen, dat ghy u woordt inde betalinghe houden sult, of gehouden hebt, maer sal dat sekerlijck moeten weten. <hi rend="i">M.Ger.</hi> Dat is sulcx.</p>
+<p><hi rend="i">Coornh.</hi> Mach ic dan mijn sinnen behoudende nemmermeer wanen, ’tghene ick nu wete in desen? Soo ist immers onmogelijck, dat het seker weten in waen veranderen can, ende dit en wilde ghy my terstont niet toe laten. Wederspreket nu condy, wāt wy zijn nu op onse voorgenomen sake al ghekomen. <hi rend="i">M.Ger.</hi> Mach ick niet weten dat het te veele wijns inne drincken droncken maeckt? my door wangelaet te schanden maeckt, ende in mijn lichame pijnlijcke sieckte maeckt, ende des niet te min droncken drincken? <hi rend="i">Coornh.</hi> Ja ghy wel. <hi rend="i">M.Ger.</hi> Soo nu ware wetenschappe vande leelijckheydt, lastigheydt, ende schadelijckheydt van’t quade, ’tselve noodtsakelijcken vyandtlijck doet haten, bestrijden, dooden, ende midtsdien onophoudelijck verlaten: hoe macht zijn dat yemandt sulcke schadelijcke, quetselijcke, ende schandelijcke quaden vande dronckenheydt wetende, noch daer na weder droncken mach drincken? Dit sien wy daghelijcx in veelen. Dus betooght die experientie selve, dat u seggen niet waerachtigh en is. <hi rend="i">Coornh.</hi> Mach ick niet weten, dat het raken van’t vyer den lichame brant ende quetset, ende dat sulcke quetselijcke hetten altijt by alle waerachtigh vyer is onafscheydelijck? <hi rend="i">M.Ger.</hi> Waerom niet? <hi rend="i">Coornh.</hi> Dunckt u wel moghelijck, dat yemandt sulcx van des vyers cracht waerachtelijck wetende met voordacht ende lust, zijn handt te heet zijnde, soude moghen steken inden brandt des vyers, om die te verkoelen? <hi rend="i">M.Ger.</hi> Dat en weet ic niet: want waer sulcx, als ghy seght, onmoghelijck, so en mocht gheen mensche, wetende dat eenigh vier omtrent hem is, hem eenighsins branden, door het te na by comen, vanden viere. Maer men vrage nu die Cocx, Ioncwijfs, Smeden, Tinnegieters, ende anderen, die metten viere dagelijcx handelen, of sy nemmermeer den vyere te na comen, ende hem branden: wat geldet, sy sullen al te samen moeten bekennen, dat syluyden hen dickmael branden: is dit waer, hoe mach u segghen waer zijn? <hi rend="i">Coornh.</hi> Seer wel: het dunckt u onmoghelijck om dat ghy niet en onderscheyt mijn, ende u segghen: mijn seggen is, dat yemant sulcken cracht des vyers kennende onmoghelijck is daer toe te comen (behoudende zijn sinnen) dat hy met voorraet, sijn handt in des viers vlammen soude steecken, in voornemen ende uyt lusten, om de heete hand int hete vier te verkoelen. Dit blijft eeuwelijck onmoghelijck. Maer u segghen is dat yemant uyt onbedachtheyt, of roekeloosheydt den viere te na mach comē ende branden, ’welcke ick u gaerne toe laet. Wat doet dat nu tegen het voorgaende mijn seggen? mach dat ende dit u seggen niet beyde waerachtich zijn? Laet ons dit voegen op u voorghewende droncken drincken. Ick houde voor waerachtigh dat yemant dien des dronckenschaps quaedtheydt, leelijckheydt, ende schadelijckheyt waerachtelijck bekent is, so dat hy sulcx niet twijfelijck waent, maer sekerlijck weet, nemmermeer met opset uyt lust tot droncken drincken, als een bekendt quaedt, sal moghen droncken drincken, ja oock dat onmoghelijck is, (hier leyt het al aen) dat sulck bekent, hatelijck, verderflijck, ende onlustigh quaedt, macht soude hebben om sulcken weter tot dronckenheyt te becoren, sonder welck becoren niemant en zondight. Al is nu dit mijn segghen waerachtigh, so en is daerom geensins onwaerachtigh u seggen, dat sulcken weter van des dronckenheyts quaden (doch niet uyt een behaeghlijcke of begheerlijcke lust, ende opset tot die dronckenheydt, maer) onachtsaemheydt, roeckelosigheyt, ende oock onsekerheyt, dat soo veele drinckens hem niet droncken en sal maken, maer vrolijck alleenlijck, verleydt zijnde ter liefden van eenigh vriendt, ofte anders yet wat, droncken sal moghen werden, als die onder ‘tdrincken denckt, dat hy dickmaels meer wijn ghedroncken heeft.sonder droncken gheworden te zijn, sulcx dat hy bedrogen zijnde in die onghelijckheydt vande mate, of vande crachte vanden wijn die hy drinct, qualijck of ghelijck te oordeelen droncken werdt eer hy’t meynt, soo men leest van Noe, dien des wijns cracht noch onbekent was. Na dien ghy nu licht merckt dit groote onderscheydt, die daer is tusschen u ende mijn segghen, te weten: dat ick segghe, dat het quade met geen opset of luste niet en mach, ende ghy seght dat het door onachtsaemheyt, of roeckeloosheyt wel mach gehnteert werden, by een die ‘tquade waerlijck kent ende weet: so acht ick dat mijn seggen warachtigh blijvkt, niet tegenstaende ick het uwe niet en loochene, als wesende geen rechte contrarie, maer alleenlijck heel ongelijcke saecken. <hi rend="i">M.Ger.</hi> Ghy schijnt hier te spreken, als of yemant wetenschappe eenigher saken mochte hebben inder Waerheydt, ende dat de hebber van dien, de selve soude mogen so wel niet gebruycken als gebruycken, te weten, dat sulcken kenner van des dronckenschaps quaden, die selve quaden waerlijck soude moghen weten, sonder die nochtans by wijlen te vermijden. Dunckt u dat oock bescheydenheyt?</p>
+<p><hi rend="i">Coornh.</hi> Voorwaer ja: want al weet hy dat die dronckenheydt quaet is, ende dat ghewisser dan gewis: so en weet hy niet dat soo veele van sulcke dranck hem droncken sal maecken, maer waent dat sy hem maer tot vrolijckheyt toe sal brengen. Hier is hy onseker door sulckē waen. Maer wist hy sekerlijck dat hem soo veele sulcke dranc tot dronckenschap soude brengen, ende midtsdien in sulckē schande, schade, ende quaet, niemants vrientschap noch geen soetheydt van drancke en soude hem om soo cleynen lust, of jonste van anderen, in so grooten verderf, verdriet, wroeghen, schande, ende vyandtschappe teghen Gode doen vallen. Neen: Het seker weten soude hier ‘tgoede voor ‘tquade moeten verkiesen, sonderlingen als hy sulck sijn weten, als dan in desen wilde gebruycken. <pb ed="fol." n="82v"/><hi rend="i">M.Ger.</hi> Dit ist dat my niet en dunckt, dat yemant seeckere Wetenschap mach hebben van eenighe saken, sonder die te ghebruycken.</p>
+<p><hi rend="i">Coornh.</hi> Mach niemant redelijcheyt hebben, sonder die te gebruycken? Ghy swijght: de slapende Mensche gebruyckt geen redelijckheydt, heeft hy daerom die niet? So mede die toornige, gierighe, ende droncken menschen en ghebruycken in hare toorn, gierigh begeeren, ende dronckenheyt gheen redene: hebben sy daerom gheen redelijckheydt? Ia sy trouwen. Maer dits wat anders dan Wetenschappe. <hi rend="i">Coornh.</hi> Dat sy so: maer laet ons nemen een Geometer, een Medecijn, ende een Velt-overste, ende dit alles in een selve persoon, die de conste van Geometerye, die Wetenschap van genesen, ende die kennisse van Crijghs-handel waerachtelyck heeft. Dese onledigh zijnde met zijn sinnen, int ordonneren van een slagh-oorde, en sal voorwaer sich niet becommeren, met Medecijnen oft Geometerye: ofte onledigh zijnde Mette ghenesinghe van yemanden, en sal niet dencken op Crijghs-handel ofte Geometerye: soo mede hanterende die Geometerye, en sal hy op d’ander twee consten of wetenschappen niet dencken. <hi rend="i">M.Ger.</hi> Neen. <hi rend="i">Coornh.</hi> Salt nu moeten volghen, dat dese onledigh zijnde, met een der voorseyde zijne Wetenschappen, hy d’ander twee niet en heeft om dat hy daer op niet en denckt, nochte en gebruyckt? of heeft hy die ander twee gelijcke wel, so dat hy van’t hanteren van d’eene scheydende, elck van d’ander twee Wetenschappen welck hem ghelieft noch sal mogen gebruycken? <hi rend="i">M.Ger.</hi> Hy heeftse ghelijcke wel, ende mach d’ander oock namaels ghebruycken. Ende ’t schijnt dat ghy hier by wilt segghen, datmen wel eenige Wetenschap mach hebben al ist schoon datmen die onderwijlen niet en gebruyckt. <hi rend="i">Coornh.</hi> Dat is waer, ende dit wederspraeckt ghy terstondt: Dit bewijs ick hier mede. Condy so wederspreket nu. <hi rend="i">M.Ger.</hi> Of ick u dit schoon al toe liet, wat suldy daer uyt, ter saken dienende besluyten? <hi rend="i">Coornh.</hi> Wat anders dan dat die ware Wetenschap, den weter waerachtelijck bevrijt van doolinghe, int ghene hy waerlijck weet, als hy die daer toe ghebruyckt, dat is op ten saken die hy handelt, ende verstaet met aendacht, let ende merckt. Wie van ons en can niet soo sekerlijck tellen tot hondert toe, ten minsten, dat hy moghende winnen honderdt Croonen indien hy die recht telde, onder conditie nochtans, datmen hem terstondt soude dooden, indien hy onder dat tellen miste, niet gaerne ende met alder sekerheydt die conditie vant tellen en soude aengaen? Wederom wie van ons allen en heeft niet dickmael ghemist, eer wy twintigh ghetelt hadden? Waerom dat om dat wy onachtsaem onse gedachten, in andere saken latende swerven, min opt tellen acht sloeghen, ende daer door feylden: niet teghenstaende wy daer op lettende, wel duysentmael aen malcander souden willen aennemen, sonder eenigh missen tot twintigh toe te tellen. Ende want niemandt gaerne verlooren werck doet, soo en mach sulck teller nemmermeer becoort worden, met lust om qualijck te tellen, so dat hy niet met opset of luste, mer uyt onachtsaemheyt qualijck telt, als sijn sinnen elwaerts becommert zijnde, hen verleyden. Alsoo mede sal elck bejaert Burgher tot Haerlem, seeckerlyck wetende dat vande groote Houdt-poorte te gaen na de merckt, of ’t Sant toe, die u naeste ende rechtste wech is de Hout-strate, sal wel duysentmael aen malcanderen by daghe met open oogen en̄ opmercken zijns weeghs gaende, sonder eenigh missen, ten rechtsweeghs door die Hout-strate gaen, ende op’t Sandt komen. Des niet te min, ist wel mogelijck dat hy behoudende die seker kennisse vande naeste wegh vande Hout-strate ten Mercktwaerts, door andere ghedachten, door klap van eenigh gheselschap ofte anders verleyt zijnde, wel sal connen doolen, uyte groote Houtstrate, in die kleyne, ende voorts opt Sparen, ende hem also daer ten laetsten verdooldt vinden van zijnen voorgenomen wege. Maer het is soo onmogelijck als de onmogelijckheyt selve, dat sulc weter vande naeste wegh ten Merckt-waerdts willende opten merckt wesen in haeste, becoort mach worden met eenige luste om uyten houtstrate (dats uyten rechten wege) af te wijcken inde cleyne Houtstrate na ’t Sparen, ende dat alsoo dan om te komen door den Damstrate na de Merct toe. Dit is onmogelijck: so ist mede dat sulck weter vande voorseyde naesten wegh, op synen wegh met aendacht lettende, ende syne Wetenschap van dien ghebruyckende eenighsins soude dolen, by daghe met open oogen na ’t Sandt toe gaende. Siet alsoo ende niet anders achte ickx mede Mette seeckere Wetenschap (niet twijfelijcke wane) van eenighe zonden, ende der selver quaetheydt.quetse, en̄ schade, die als wesende een moeyelijcke onwegh, die nemmermeer toe, maer altijdt van die begeerde saligheyt leydet, nemmermeer sulck weter op sijn doen van’t gheweten lettende, den voorseyden onwegh soude moghen inne gaen. Alsoo nienmant met opset en doolt, noch vele min dat hem die moeyelicke ende verderflijcke bekende onwegh soude mogen behagen, goedt schijnen of macht hebben, om sulcken weter met lusten te becoren in eenigher wijsen.</p>
+<p>&nbsp;</p>
+<p>Anno 1580</p>
+    <interpGrp><interp type="end" value="coor001twee02"/></interpGrp>
+</div>
+</div>
+</body>
+</text>
+</TEI.2>

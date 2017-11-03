@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "http://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Van den bejaerden doope</title>
+              
+                <author>D.V. Coornhert</author>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Van den bejaerden doope</hi> van D.V. Coornhert in een uitgave uit 1630. De eerste druk dateert van 1575.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr>fol. Cccijv: be bejaertheyt → bejaertheyt: ‘u alle die in der bejaertheyt ghedoopt zijt’.</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan section="1" type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+                <scan section="1" type="fol2">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">coor001beja02_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2013 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note></note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Universiteitsbibliotheek Amsterdam, signatuur: Cat. Ned. Lett. UBA 195</idno>
+                </bibl>
+                <p>D.V. Coornhert, <hi rend="i">Van den bejaerden doope</hi>. Jacob Aertsz Colom, Amsterdam 1630 (uitgave)</p>
+                <p>&nbsp;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Van den bejaerden doope</title>
+                <title type="subordinate"></title>
+                <author>D.V. Coornhert</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Van den bejaerden doope</title>
+                <title type="subordinate"></title>
+                <author>D.V. Coornhert</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2013-05-13</date>
+                <respStmt>
+                    <name type="person">RK</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+<div type="chapter">
+    <pb ed="fol." n="Cccijr"/>
+    <head rend="h3">Van de bejaerden Doope. Korte en ghetrouwe Waerschouwinge aen allen Aenhangeren der selver, vrientlijck gheschreven: <hi rend="i">door Dierick Volckherts, Coornhert</hi>.</head>
+<div type="section">
+<head rend="h4"><hi rend="i">Voor-reden</hi>.</head>
+<p><hi rend="i">DAt ghyluyden van goede meynignhe zijnde uwe saligheydt beneersticht, door't middel van de gehoorsaemheyt ons Heeren Christi, in zijne wooren geloove ick ontwijffelijck. Maer dat ghy doolt int verstant van de woorden Christi, ende daeromme Christo niet recht ghehoorsaem en mooght wesen, weet ik waerachtelijck. So weet ick mede, dat niemant willens ende wetens en doolt, maer sie dies niet te min velen hertneckelijcken dolen, ende dit door een krachtighe inbeeldinge van eene wane, dat henluyder wech (welcks eynde ter doot leydet) de rechte zy. Welcke wane </hi><note place="margin"><hi rend="i">Prov. 12.15. Prov. 16:25</hi></note><hi rend="i"> voornemelijck is by u lieden, welcker monden ende Leeraeren schriften, opentlijck allen anderen menschen verdoolt schelden, ende u selven op de rechte Bane roemen te wesen. De verstijvinge van welcke uwe wane ick veel veroorsaeckt te zijn, gheloove door't qualijck aenvechten uwer leere van sommige, die dat met ghewelt, ander met partijdich schelden, ende eenighe met openbare logenen bestaen hebben ghehadt. Al ist nu so, dat alle dolinghe schadelijck is in sich selven, soo is nochtans min schadelijck een dolinge, diemen met een twijffelijck mistrouwen aenhanghet, dan diemen voor ontwijffelijcke waerheyt aenkleeft. Dese arghst bevinde ick in u luyden, die u selver in den onwech soo wel behaeght, dat ghy niet onghelijck en zijt den Pharizeeuschen danckere Godes, Ende dit al niet tegenstaende u luder gerechticheyt bestaet in den uytterlijcken ghebaere, sonder da ghy ter herten neemt, dat u gerechticheyt der Pahrizeen moet te boven gaen, so ghy inne </hi><note place="margin"><hi rend="i">Mat. 5.20</hi></note> <hi rend="i">sult gaen. Nu verstont ick wel ongeoorloft te zijn dat yemant sonder rechte sendinghe een Kercke stichte, 'twelck ick noyt ghedaen hebbe, niet en doe, oock nimmermeer verhope te doen: Doch verstont ick daer beneven mede wel ongheoorloft te zijn, dat de ghene die middel heeft van Gode, om zijns Naesten dolinge te ontdecken, swijgende aen soude sien, dat zijn even mensche, op dootlijcke onwegen swerfde. V dolinge verstae ick, het middel om die te ontdecken heeft God my verleent, soo my de ondervonden woecker met dit mijn pondeken, my oock al betoont heeft aen eenigen vanden uwen. Ende want ick vast hope datter noch al veel meer Godt-meynende ende onpartydige herten onder u zijn, en</hi>de<hi rend="i"> ick stadelijck op een plaetse blijvende, geen middel hebbe om met vele vanden uwen mondelijck te spreecken: So wilde ick u dienen met dit korte gheschrifte, waer inne ghy sult moghen sien, het misbruyck uwer Doope, ende dolinge uwer Leeringe, welcke mijne goede meyninghe licht sullen ghelooven eenighe onder den uwen, die al over veel Iaren mijn medogende vriendelijckheyt hebben genoten: Maer zy wert geweten van my, en voor al van den herten-kender Gode, die u verleene zijn genade, door onsen Heere Iesum Christum, Amen.</hi></p>
+
+</div>
+</div>
+<div type="chapter">
+    <pb ed="fol." n="Cccijv"/>
+<head rend="h3">Van de bejaerden doope.</head>
+<p>DAt buyten de gheestelijcke Arcke Noe (het welcke de waere Kercke Christi is) gheen leven mach gevonden werden, en loochent niemant. Wie dan in een valsche Kercke is, die is vreeemt van het Leven, dat is vreemt van Christo, die alleen het ware Leven is. Van de waere Kercke stellen de Zwinglianen (soo uwe Leeraren die noemen) de ghewisse Merck-tekenen te zijn, de ware Leere ende het recht gebruyck der Sacramenten. Al ist nu soo, dat uwe Leeraren daer noch by voegen andere Merck-teeckenen, als namentlijck het Voet-wasschen, de Af-sonderinge, de Straffe, &amp;c. So houden zy luyden nochtans mede de waere Leere, ende het rechte ghebruyck der Sacramenten voor sodanige Hooft-merck-teeckenen der rechter Kercken, dat, soo waer dees beyde ofte oock een van beyden ghebreeckt, aldaer niet en mach zijn de waere Kercke Christi. Ende want ghy al te saemen my gheerne sult toe laeten misbruyck der Sacramenten te zijne, soo waer die vergheefs ofte teghen't behooren gehandelt worden Oock mede dat het een valsche leeringhe is, die nootsakelijck voert tot vertwijfeltheydt van de Godtlijcke ghenade: Soo en suldy oock niet moghen ontkennen, dat uwe Kercke niet en zy de ware Kercke Christi. Indien nu onwederspreeckelijcken blijckt, dat by u luyden oft in u Kercke de Sacramenten alsoo misbruyckt werden, ende uwe Leere soodanighe valsche Leere zy.</p>
+<p>Aengaende dat de Sacramenten by u luyden te vergeefs werden ghebruyckt, blijckt aen u luyder wijse van den Doope, de welcke niet en is de minste der Sacramenten. <note place="margin">Fontdamentboeck. Fol. 236. fol. 12.</note> Want Menno schijft alsoo: Hy (Godt) en mach u niet saligh maken, noch u dijne sonden vergeven, barmherticheyt noch genade bewijsen, anders dan nae zijn afgheseyde woordt, te weten: soo ghy Boete doet, &amp;c. Wat hier Menno voor een Boete verstaet, sietmen el-waerts: Daer hy gheseydt hebbende: Aldusdanigen Boete leeren wy ende <note place="margin">fol. 10 en<hi rend="i">de</hi> 11.</note> geen andere, &amp;c. Bestaet hy ten laetsten dit zijn segghen te bewijsen met den vermaerden <note place="margin">Ezech. 28.</note>Spreuke Ezechielis 28. Wanneer sich de Godtloose bekeert van alle zijne sonden die hy ghedaen heeft, ende houdt alle mijne Rechten, &amp;c. Dat Godt daer niet en meynt een Stuck-werck, so dat dese Boete alleenlijck in't deel oft ten halven het quade laten, ende het goede doen sal, bethoonen beyde de woordekens: alle, soo wel ghestelt zijnde by het laten van de Sonden, als by het houden van den Rechten Godes. Immers dat Menno selver hier by niet anders en verstont, dan so volkomen ende geen gestuckelde boete betuyghen dese zijne eygen woorden, aen't voorseyde zijne segghen volghende, te weten: soo ghy Boete doet, so ghy in hem ghelooft, soo ghy uyt hem ghebooren wort, so ghy doet dat hy u bevolen heeft, &amp;c. Want men nergens en vindt van Gode bevolen te zijne, datmen het quade maer voor een deel laten, ende het goede maer voor een deel doen en sal. Maer al gebiedt Godt alle het quaede te laeten, ende alle het goede te doen: sonder welcks volbrenghen onmogelijck is te doene dat hy bevolen heeft. Waer uyt dan klaerlijck blijckt, dat de Boete, by Menno hier beschreven, met sich brenghet, ware ende volkomen Aflaet van sondighen.</p>
+<p>Nu en ghelooven Menno, noch Dierick Philips, oock ghyluyden hunlieder Leere voor waerachtich gheloovende, selve niet dat de voor-beschreven waere Boete in eenich <note place="margin">Fol. 168. 158. 219. 224. 229. D. Philips. Fol. 229. Fol. 9.</note> gheloovich Mensche hier op Aerden mach wesen. Dit betuygen de woordekens van Menno: nae der swackheydt tot veele plaetsen ghevoecht, by der gheoorsaemheyt der zijnen. Ymmers Dierick Philps onderwint sich int brede sulcks wel uytdruckelijck te weder-spreecken. Soo leert Menno oock, dat sonder dese Boete, dat is sonder dese wandelinghe nae zijn (Godes) bevel, raet, vermaninghe, wille, ende gheboden, ende sonder gehoorsaemheyt zijns Woorts, alles vergheefs is, dat wy Christenen ghenaemt worden, ende met water ghedoopt zijn: ghemerckt zy luyden oock al t'samen (mede na Dierick Philips leere) dese Boete ende ghehoorsaemheydt ontbeeren. Oft kondy yemanden onder u luyden voort brenghen, die (teghen de Leere uwer Leeraren) darf segghen, sulcke ware Boete ende ghehoorsaemheydt in hem te hebben? Ymmers dat Menno dese Boete ende vernieuwinghe van leven, al wil hebben in den Mensche, voor den Doope, bewijst hy oock doorgaens, met zijnen schelden vander Kinderen Doope: </p>
+    <p>Ende onder meer andere wel naecktelijck <note place="margin">fol. 40.</note> met dese zijne woorden: Maer so langhe als zy in haere Consicentien niet vernieuwt en zijn, gelijck als Christus ghesint en zijn, met het reyne wate uyt der Fonteynen Godes, aen den inwendighen Mensche niet ghewasschen en zijn, soo moghen zy wel met rechte segghen: Wat kan ons dat water helpen? Want zy en moghen met den gantschen <hi rend="i">Oceano</hi> niet ghereynicht worden, soo langhe als zy Aertsch ende vleeschelijck ghesindt zijn, &amp;c. Jae hy schrijft tot ander plaetsen: Al waren zy oock van Christo selve, oft van zijnen Apostelen gedoopt.</p>
+    <p>Hier wil ick gheen Schriftuere, gheen Menschen woort, noch yet dat buyten u luyden is, maer alleenlijck uwe selfs Consientien tot ghetuyghen nemen, ende u alle die in der bejaertheyt ghedoopt zijt, vraghen: Oft de voorseyde waere Boete, wedergheboorte, vernieuwinghe inder Conscientien, ghesintheyt Christi, ende inwendige reyniginghe in u luyden al is gheweest, voor ende al eer ghy u liet Doopen? Seecker soo ghylieden Mennos leere ghelooft, ende aen de leere Dierick Philip, (d'onmoghelijckheydt van desen Inhoudende) niet en twijffelt, en machmen gheensins twijffelen, oft ghy en moet selver in uwer Herten grondt bekennen, dat niet altoos van alle sulcx (ick swij-<pb ed="fol." n="Ccciijr"/>ghe alle sulcks) voor sulcke uwe Doope in u luyden t'samen is gheweest. Mocht u luyden dan dat water, oft sulck uwe Doope oock wat helpen: Was de Doope aen u al t'samen dan niet te vergheefs?</p>
+<p>Siet doch eenmael met wackeren Ernst in uwen Boesem, oft ghy die voorseyde stucken, In het minste van dien, oock nu te recht na uwen Doope, in u selven kont bevinden. Ick achte wel neen. Overmits sulcks niet en wert in den Ongheloovighen, dat is in den genen die sulcks onmogelijck hout: soo ghyluyden doet, die Menno ende D.P. gelooft: Het en is dan oock noch in u luyden niet. Moet dan uwe bejaerde Doope nu noch teghenwoordelijck niet gheheel te vergheefs gheschiedt zijn in u luyden al te saemen? Wat mach dan oock u luyden het water helpen?</p>
+<p>Den ghenen daer't voorschreven onstraffelijck nieuwe Boetveerdighe leven niet en <note place="margin">fol. 40.</note> ware, en soude Menno (soo hy ter voorseyder plaetsen schrijft) niet hebben willen Doopen, al waert oock Keyser of Koningh, maer hoopte liever te sterven, dan sulcken te Doopen. Het moet dan ymmers oock in Mennos oordeel, een sondelijcke ende quade Doop zijn, die daer gheschiet voor sulck boetveerdich leven. Dese quade ende sondelijcke Doope is dan ontwijffelijck in u luyden al t'samen geschiet? Daer uyt nu oock ontwijffelijcken blijckt, dat u luyder bejaerde Doope en is niet alleen te vergheefs, maer oock quaet ende sondelijck: Ende dit noch maer alleen uyt de schriften van ue Leeraren selve. Werdt dan dit Hooft Sacrament van den Doope sondelijck ende ten quaeden misbruyckt aen u allen, soo ghy al t'samen moet bekennen: Hoe moechdy ontkennen dat u luyder Kercke, als wesende een misbruyckstere van dit voorneemlijckste Sacrament, een onrechte Kerck, Jae gheen Kercke is, maer niet anders dan een verleydelijcke Secte.</p>
+<p>Wildy meer bewijsens, dat u bejaerde Doope aen u allen vergeefs geschiet. Leest <note place="margin">Fol. 24</note> u Menno noch elwaerts, schrijvende aldus: Neen, neen, daer en ghelt gheen uytwendighe Doope so lange wy niet inwendich vernieuwet, weder-gheboren ende metten Hemelschen vyere ende heylighen Gheest van Godt ghedoopt werden. Nu is voor ghenoech bewesen, dat uwer Leeraren schriften houden, dat sulcke weder-gheboorte hier in niemandt en mach wesen, Jae ghyluyden selve en ghelooft (ick swijghe, ondervindet) sulcks geensins. Wat gheldet dan doch dese uwe bejaerde Doope? Is die niet gheheel vergheefs? Leest Menno int 42. Bladt, ghy sult dit vinden: Ende die in Jesu Christo nieu gheboren ende uyt Godt ghebooren is, die en leeft niet meer (soo Paulus seydt) maer Christus Jesus leeft in hem: Hy schict alle zijne weghen nae des Heeren woordt, want dat krachtighe werckende gheloove dringht hem in alle ghehoorsaemheydt ende goede wercken, &amp;c. Lieve seght doch: machter oock ghesondicht werden, daer de mensche doot is? daer Christus alleen leeft? daer de Mensche alle zijne wegen schickt na des Heeren woordt? Daer't gheloove den mensche dringet in (niet maer een deel) alle ghehoorsaemheydt ende goede wercken? Dit loochent D. Philips met naeckte woorden. Ende dit weder-spreeckt ghyluyden selve met u Menno ende de bygevoechde swackheyt, in eenigh gheloovigh mensche op Aerden moghelijck te wesen. Soo en is dan de vernieuwinge ende weder-geboorte, sonder welcke Menno opentlijcken schrijft: Dat gheen uytterlijcke Doope yet geldet, in geenen mensche. Ende so blijckt dan nae Mennnos Leere de Water-doope oock in allen bejaerden onder den uwen gheschiedende, ontwijffelijck, ydel, onnut, ende gantsch vergheefs te wesen.</p>
+<p>Maer wat segghe ick vergheefs, Is zy hier voor niet oock sondelijck ghebleecken? Dit gheeft u luyden vreemt, maer vreemder sal't u schijnen, so ick de bejaerde Doope onder den uwen doe blijcken, te wesen een werck dat den Heere niet aengenaem en is, dat gheen beloften en heeft, een menschelijck goetduncken, een verstooringhe van de ordeninge Christi, en<hi rend="i">de</hi> een openbaer grouwel inde heylighe stede. Let wel op mijn bewijsinge, inde welcke u eyghen Leeraer Menno mijn getuyge sal zijn. Die verwerpt voor alsulcx den Kinder-doope, alleenlijck om dat die geschiedt (soo hy seydt) sonder uytdruckelijck bevel: zijne woorden zijn dese: Naedemael dan de Kinder-doop geen uytdruckelijck bevel <note place="margin">Fol. 26.27.</note> is, ghelijck hy (Martinus Bucerus) bekent, soo en kan ymmers oock dat selvighe werck, den Heere niet aenghenaem zijn, <hi rend="i">Et per consequens</hi>, gheen beloften volghen, etc. volcht: segghen ende bekennen wy met een goet bescheyt, verstant, dat de Kinder-doope niet en is dan een menschen goetduncken, een eyghen meyninghe, een verstooringe der ordinancien Christi, Jae eenen grouwel die daer staedt in de heylighe stede, daer zy met rechte niet staen en soude.</p>
+    <p>Ist nu (soo Menno disputeert) het doen van eenich werck sulcken grouwel, alleenlijck om dat het gheschiet sonder uytdrucklijcken beveele, niet tegenstaende 'tselve niet en is verboden: soo sal een werck des geens die sulck werck selve verstaedt verboden te zijn, voorwaer gheen minder maer meerder grouwel moeten wesen. Menno selve: verstaet ende leert doorgaens, dat God verbiet te doopen voor dat de mensche aen den inwendighen Mensche weder-ghebooren zy. Wat nu dese Weder-gheboorte by Menno is, hebdy hier voor mogen lesen. Daer hebdy mede ghelesen, dat Menno ende Dirrick Philips, oock ghyluyden selve al te samen niet mogelijck te zijn en geloovet, dat sulcke weder-geboorte hier in eenich mensche mach zijn, soo volcht dan dat Menno, Dirrick Philips ende alle uwen Leeraren allen den haren ghedoopt hebben voor de wedergheboorte, ende dat niet alleen sonder uytdruckelijcken beveele, ('t welck sulcke Doope (na Mannos segghen selve) maeckt tot sodanigen grouwele, maer oock (nae Mennos eyghen leere) gheheel teghen Godts beveele. Moet ghyluyden dan niet belijden dat sulcke uwen Doope, mede is een werck dat den Heere niet aenghenaem en is, &amp;c. ende een grouwel staende in de heylighe Stede? Is, nae het openbare seggen: Menno selve alle <note place="margin">Fol. 41.36</note> der werelts doope, om dat zy inder Jonckheyt ende (soo Menno wil segghen) sonder beveel Godts geschiet, verbannen ende vervloeckt, Afgodisch ende verderffelijck, een Ceremonie Antichristi, een openbaer laster,<pb ed="fol." n="Ccciijv"/> een Tooversche sonde, een ghegoten Kalf, Jae grouwel ende Afgoderije: want salmen metter waerheyt doch schentlijck ghenoech moghen segghen van u alder Doope openbaerlijck teghen Godes bevel gheschieden? soude die een Gods-dienst zijn? Ja soude die wat minders mogen zijn dan een openbaer laster, een Tooversche sonde, een ghegoten Kalf, een grouwel ende een openbaere Afgoderije? Ist Afgoderije, 'tis oock misbruyck, ende die niet slecht oft kleyn, ende dat oock inden voornaemsten Sacramenten kentmen dan aen't rechte ghebruyck der Sacramenten de waere Kercke, men moet oock aen't misbruyck de valsche Kercke ende Secten kennen, mach yemant u Kercke dan noch eenigsins een Kercke Godes noemen?</p>
+<p>Soo dit blijckt uyt het misbruyck van der Doope in u Ghemeynte te wesen, so blijckt oock 't selve niet te min uyt u luyder Leere in veelen stucken, van den welcken ick my hier met een eenich stuck voor al gheroert, sal vernoegen om langhs vermijdinge, Ick houde voor ghewis, dat ghy luyden al te samen gheerne sult bekennen, een valsche verdoemelijcke Jae vertwijffelde Leere te wesen, die soodanighe doolingen inne heeft, dat zy allen haren Geloovers, die de sake recht bedencken, alle hope van salicheyt beneemt, ende noodtsaeckelijck voert tot een verdoemelijcke vertwijffeltheydt, maer ongaerne sult ghy bekennen, dat u luyder Leere soodaenighen Doolinghe inne heeft. Dit en moechdy nochtans niet ontkennen, sonder de waerheydt te loochenen. Dat suldy wetens niet doen: ende op dat ghy onwetens niet en doet, soo merckt op mijne bewijsreden.</p>
+<p>Uwe Leere hout innne, dat Godt niemant en mach salich maecken, sonder die voorgemelde boete. Jae oock wel uytdruckelijck, <note place="margin">Fol. 236. ende 11</note> dat sonder dese boete (by Ezechiel 28.) niemandt int Rijck der Hemelen en mach komen, gheen ghenaede en is, noch verhoopt mach worden eeuwichlijck. Die selve uwe Leere hout mede (so bethoont is) ende uwe selfs Conscientien moetens ghetuygen/ dat dese Boete by Menno daer beschreven ende geheyscht, namentlijck Aflatinghe van alle sonden, ende hanteringhe van alle Rechten Godes, in gheen gheloovigh Mensche op Aerden en mach wesen. Mach dan oock eenigh mensche genade verhopen? Voorwaer immers niemandt onder alle den uwen, die der voorseyder Leere gelooven.</p>
+<p>Bevindt ghylieden in u selven, dat ghy alle uwe voorleden sonden laet, (daer werdt niet uyt ghenomen) ende alle den Rechten Godes doet, waeromme gheloofdy teghen sulck u waerachtich ondervinden, het valsch wederspreecken uwer Leeraren? Bevindt ghy't dan oock niet in u selven, maer houdt ghy't met uwen Leeraren, (soo ghy doet) voor onmogelijck: Hoe ist u mogelijck sonder dese Boete in u te bevinden, so opentlick teghen uwe Meesters Leeringe ghenade te verhopen? Seyt dees niet rondelijck uytte: Dat sonder dese Boete gheen ghenade en mach verhoopt worden? Soo en mooght ghyluyden dan al t'samen (inden welcken u Kercke bestaet) inder waerheyt geen genade verhopen. Ende noch sout ghyluyden alleen, ende niemant anders, die rechte Kercke zijn? Hoe kondy u dat laten vroet maecken? Mach oock de Kercke Christi zijn, daer gheen hope van ghenade en is? Of mach de rechte Kercke Christi zijn (nae u eyghen Merck-teecken) daer soo onsalighen ende wanhopelijcke leere is? Waerlijck u lieden droomt nu dat ghy Etet, maer ghy sult uwe Mage ydel ende hongerich vinden, soo haest ghyluyden eenmael te recht wacker wort, Godt geve dat het gheschiede, inden tijt der ghenaden.</p>
+<p>Hoe lange sult ghyluyden soo schadelijcke <note place="margin">Prov. 12.</note>dinghen ick meyne verderfelijcke dinghen) begeeren? Ende hoe lange sult ghy dus blindelijck, de hant omme gheleydet te worden: aenbieden, soodanighe blinde Leyts-luyden, van welcker ghesicht ofte blintheyt uwe ooghen met een partijdigen Nevel geblinthockt zijnde, niet recht moghen oordeelen? Dit laedt doch eenmael een eynde nemen. Hout oock eens op tegen't strenghe verbodt Christi, allen anderen te oordelen voor vleeschlijcke menschen, ende met sulck verdoemelijck wieden van eens anders Tuynken het uwe te versuymen, 'twelck ghyluyden (neemdyer acht op) vol sult bevinden, van fenijnige onkruyden. Dese wiedet eerst uyt, ende oordeelt eerst u selven, soo en suldy niet gheoordeelt worden.</p>
+<p>Wildy dit salighe Oordeel eenmael inder vreese Gods met ernst bestaen, so suldy beneven het bevinden van dooden beenen, in u beschilderde graven, oock licht konnen bevinden, dat uwe Leere is een Onsalige doolinghe, uwe Leyts-luyden verleyders, uwen Gods-dienst een menschelijck goetduncken, uwen Doops-gebruyck, een misbruyck des Sacraments: ende uwe Kercke geen Kercke, maer niet dan een wanhoopelijcke ende ghenaedeloose Secte, soo hier voor uyt den naeckten woorden uwer Leeraren selve is ghebleecken.</p>
+<p>Doch soo yemant onder u luyden hier met noch niet vernoecht zijnde, breeder bewijs ende bericht van dese ende meer ander, uwe doolinghen begheerde te hooren, die mach (gelievet hem) my aenspreecken, ende sal my daer toe willich ende (soo ick hope) niet heel onbereyt vinden. Hoe wel ick onlanghs u luyden door den Druck deelachtich denckt te maecken, een Gheschrift van de sendinge uwer Leeraren, u al geschreven zijnde, doch <note place="margin">Philip. 1.13</note> breeder dan dit is ghehandelt. Alsoo doe ick 'tgene in my is, tot uwen besten: Doet ghy oock selve u beste tot uwen besten, 'tsal haest beter met u worden. Want de goede Godt en versuymt den goetwillighen Menschen niet, gemerckt: hy den goeden wille in niemanden vergheefs en scheppet, maer oock mede het volbrengen van dien, In allen den ghenen die ghetrou gevonden zijn, over het kleyn Pondeken, ende steldt den selven dan oock over't groote. Dit gonne de Mensch liefhebbende God ons allen, Amen.</p>
+</div>
+</body>
+</text>
+</TEI.2>
