@@ -1,11 +1,6 @@
 from __future__ import print_function
-
 import os
-import time
-import json
-import pickle
 import glob
-from itertools import product, combinations
 
 import matplotlib
 import matplotlib.pyplot as plt
@@ -15,14 +10,12 @@ import numpy as np
 
 from sklearn.preprocessing import LabelEncoder
 
-from ruzicka.utilities import binarize
+from ruzicka.utilities import load_pan_dataset
 from ruzicka.vectorization import Vectorizer
-from ruzicka.utilities import load_pan_dataset, train_dev_split, get_vocab_size
-from sklearn.cross_validation import train_test_split
-from ruzicka.score_shifting import ScoreShifter
-from ruzicka.evaluation import pan_metrics
 from ruzicka.verification import Verifier
-import ruzicka.art as art
+
+from utils import prepare_verification_data
+prepare_verification_data(include_authors=['datheen', 'marnix', 'heere', 'haecht', 'fruytiers', 'coornhert'])
 
 ngram_type = 'word'
 ngram_size = 1
@@ -36,11 +29,11 @@ mfi = 10000
 min_df = 2
 
 # get imposter data:
-train_data, _ = load_pan_dataset('../data/wilhelmus/wilh_background') # ignore unknown documents
+train_data, _ = load_pan_dataset('../data/verification/wilh_background')
 train_labels, train_documents = zip(*train_data)
 
 # get test data:
-test_data, _ = load_pan_dataset('../data/wilhelmus/wilh_test') # ignore unknown documents
+test_data, _ = load_pan_dataset('../data/verification/wilh_test')
 test_labels, test_documents = zip(*test_data)
 
 # fit encoder for author labels:
@@ -65,16 +58,18 @@ for test_author in sorted(set(test_ints)):
 
 proba_df = pd.DataFrame(columns=cols)
 
-
-# for ha: get labels
-ha_directory = '../data/wilhelmus/wilh_test'
+# get labels
+ha_directory = '../data/verification/wilh_test'
 labels = []
 for author in sorted(os.listdir(ha_directory)):
     path = os.sep.join((ha_directory, author))
     if os.path.isdir(path):
         for filepath in sorted(glob.glob(path+'/*.txt')):
             name = os.path.splitext(os.path.basename(filepath))[0]
-            labels.append((author+'-'+name))
+            if 'wilhelmus' in name:
+                labels.append((name[:20]))
+            else:
+                labels.append((author+'-'+name[:20]))
 
 for idx in range(len(test_documents)):
     target_auth = test_ints[idx]
@@ -105,18 +100,16 @@ for idx in range(len(test_documents)):
     proba_df.loc[len(proba_df)] = row
 
 proba_df = proba_df.set_index('label')
+proba_df.to_csv('../figures/wilh_test_proba.csv')
 
-# write away score tables:
-table_dir = '../output/tables/'
-if not os.path.isdir(table_dir):
-    os.mkdir(table_dir)
-proba_df.to_csv(table_dir+'wilh_test_proba.csv')
-
-cm = sns.clustermap(proba_df)
+cm = sns.clustermap(proba_df, figsize=(10, 17))
 ax = cm.ax_heatmap
-# ylabels:
+
 for idx, label in enumerate(ax.get_yticklabels()):
     label.set_rotation('horizontal')
     label.set_fontname('Arial')
-    label.set_fontsize(5)
-cm.savefig('../output/wilh_heatmap.pdf')
+    label.set_fontsize(7)
+    if 'wilhelmus' in label.get_text():
+        label.set_color('red')
+
+cm.savefig('../figures/wilh_clustermap.pdf')
